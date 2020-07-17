@@ -1,0 +1,7827 @@
+[
+  {
+    "year": -900,
+    "place": "Sinai/Canaan",
+    "title": "Genesis"
+  },
+  {
+    "year": -900,
+    "place": "Sinai/Canaan",
+    "title": "Exodus"
+  },
+  {
+    "year": -900,
+    "place": "Sinai/Canaan",
+    "title": "Leviticus"
+  },
+  {
+    "year": -900,
+    "place": "Sinai/Canaan",
+    "title": "Numbers"
+  },
+  {
+    "year": -900,
+    "place": "Sinai/Canaan",
+    "title": "Deuteronomy"
+  },
+  {
+    "year": -900,
+    "place": "Canaan",
+    "title": "Joshua"
+  },
+  {
+    "year": -900,
+    "place": "Canaan",
+    "title": "Judges"
+  },
+  {
+    "year": -800,
+    "place": "Judea/Israel",
+    "title": "Hosea"
+  },
+  {
+    "year": -800,
+    "place": "Judea/Israel",
+    "title": "Amos"
+  },
+  {
+    "year": -800,
+    "place": "Judea/Israel",
+    "title": "Job"
+  },
+  {
+    "year": -750,
+    "place": "Judea/Israel",
+    "title": "I Samuel"
+  },
+  {
+    "year": -750,
+    "place": "Judea/Israel",
+    "title": "II Samuel"
+  },
+  {
+    "year": -650,
+    "place": "Judea/Israel",
+    "title": "Nahum"
+  },
+  {
+    "year": -650,
+    "place": "Judea/Israel",
+    "title": "Ruth"
+  },
+  {
+    "year": -600,
+    "place": "Judea/Israel",
+    "title": "Isaiah"
+  },
+  {
+    "year": -600,
+    "place": "Judea/Israel",
+    "title": "Obadiah"
+  },
+  {
+    "year": -600,
+    "place": "Judea/Israel",
+    "title": "Micah"
+  },
+  {
+    "year": -600,
+    "place": "Judea/Israel",
+    "title": "Proverbs"
+  },
+  {
+    "year": -550,
+    "place": "Judea/Israel",
+    "title": "Jeremiah"
+  },
+  {
+    "year": -550,
+    "place": "Judea/Israel",
+    "title": "Zephaniah"
+  },
+  {
+    "year": -550,
+    "place": "Judea/Israel",
+    "title": "Lamentations"
+  },
+  {
+    "year": -500,
+    "place": "Judea/Israel",
+    "title": "I Kings"
+  },
+  {
+    "year": -500,
+    "place": "Judea/Israel",
+    "title": "II Kings"
+  },
+  {
+    "year": -500,
+    "place": "Ancient Babylonian Empire",
+    "title": "Ezekiel"
+  },
+  {
+    "year": -500,
+    "place": "Judea/Israel",
+    "title": "Psalms"
+  },
+  {
+    "year": -500,
+    "place": "Judea/Israel",
+    "title": "Song of Songs"
+  },
+  {
+    "year": -500,
+    "place": "Judea/Israel",
+    "title": "Ecclesiastes"
+  },
+  {
+    "year": -450,
+    "place": "Judea/Israel",
+    "title": "Habakkuk"
+  },
+  {
+    "year": -450,
+    "place": "Second Temple Judea",
+    "title": "Haggai"
+  },
+  {
+    "year": -450,
+    "place": "Second Temple Judea",
+    "title": "Zechariah"
+  },
+  {
+    "year": -450,
+    "place": "Second Temple Judea",
+    "title": "Malachi"
+  },
+  {
+    "year": -400,
+    "place": "Judea/Israel",
+    "title": "Jonah"
+  },
+  {
+    "year": -400,
+    "place": "Second Temple Judea",
+    "title": "Ezra"
+  },
+  {
+    "year": -400,
+    "place": "Second Temple Judea",
+    "title": "Nehemiah"
+  },
+  {
+    "year": -400,
+    "place": "Second Temple Judea",
+    "title": "I Chronicles"
+  },
+  {
+    "year": -400,
+    "place": "Second Temple Judea",
+    "title": "II Chronicles"
+  },
+  {
+    "year": -300,
+    "place": "Judea/Israel",
+    "title": "Joel"
+  },
+  {
+    "year": -300,
+    "place": "Shushan",
+    "title": "Esther"
+  },
+  {
+    "year": -300,
+    "place": "Babylon (City)",
+    "title": "Daniel"
+  },
+  {
+    "year": -143,
+    "place": "Hellenistic Egypt",
+    "title": "The Book of Maccabees II"
+  },
+  {
+    "year": -135,
+    "place": "Second Temple Judea",
+    "title": "The Book of Maccabees I"
+  },
+  {
+    "year": 50,
+    "place": "Talmudic Israel",
+    "title": "Targum Jonathan on Exodus"
+  },
+  {
+    "year": 50,
+    "place": "Talmudic Israel",
+    "title": "Targum Jonathan on Leviticus"
+  },
+  {
+    "year": 50,
+    "place": "Talmudic Israel",
+    "title": "Targum Jonathan on Numbers"
+  },
+  {
+    "year": 50,
+    "place": "Talmudic Israel",
+    "title": "Targum Jonathan on Deuteronomy"
+  },
+  {
+    "year": 50,
+    "place": "Talmudic Israel",
+    "title": "Targum Neofiti"
+  },
+  {
+    "year": 55,
+    "place": "Talmudic Israel/Babylon",
+    "title": "Megillat Taanit"
+  },
+  {
+    "year": 100,
+    "place": "Talmudic Israel/Babylon",
+    "title": "Onkelos Deuteronomy"
+  },
+  {
+    "year": 100,
+    "place": "Talmudic Israel/Babylon",
+    "title": "Onkelos Leviticus"
+  },
+  {
+    "year": 100,
+    "place": "Talmudic Israel/Babylon",
+    "title": "Onkelos Exodus"
+  },
+  {
+    "year": 100,
+    "place": "Talmudic Israel/Babylon",
+    "title": "Onkelos Genesis"
+  },
+  {
+    "year": 100,
+    "place": "Talmudic Israel/Babylon",
+    "title": "Onkelos Numbers"
+  },
+  {
+    "year": 135,
+    "place": "Talmudic Israel/Babylon",
+    "title": "Mekhilta d'Rabbi Yishmael"
+  },
+  {
+    "year": 200,
+    "place": "Talmudic Israel",
+    "title": "Targum Jonathan on Genesis"
+  },
+  {
+    "year": 200,
+    "place": "Talmudic Israel/Babylon",
+    "title": "Sifrei Bamidbar"
+  },
+  {
+    "year": 210,
+    "place": "Talmudic Israel",
+    "title": "Mishnah Berakhot"
+  },
+  {
+    "year": 210,
+    "place": "Talmudic Israel",
+    "title": "Mishnah Peah"
+  },
+  {
+    "year": 210,
+    "place": "Talmudic Israel",
+    "title": "Mishnah Demai"
+  },
+  {
+    "year": 210,
+    "place": "Talmudic Israel",
+    "title": "Mishnah Kilayim"
+  },
+  {
+    "year": 210,
+    "place": "Talmudic Israel",
+    "title": "Mishnah Sheviit"
+  },
+  {
+    "year": 210,
+    "place": "Talmudic Israel",
+    "title": "Mishnah Terumot"
+  },
+  {
+    "year": 210,
+    "place": "Talmudic Israel",
+    "title": "Mishnah Maasrot"
+  },
+  {
+    "year": 210,
+    "place": "Talmudic Israel",
+    "title": "Mishnah Maaser Sheni"
+  },
+  {
+    "year": 210,
+    "place": "Talmudic Israel",
+    "title": "Mishnah Challah"
+  },
+  {
+    "year": 210,
+    "place": "Talmudic Israel",
+    "title": "Mishnah Orlah"
+  },
+  {
+    "year": 210,
+    "place": "Talmudic Israel",
+    "title": "Mishnah Bikkurim"
+  },
+  {
+    "year": 210,
+    "place": "Talmudic Israel",
+    "title": "Mishnah Shabbat"
+  },
+  {
+    "year": 210,
+    "place": "Talmudic Israel",
+    "title": "Mishnah Eruvin"
+  },
+  {
+    "year": 210,
+    "place": "Talmudic Israel",
+    "title": "Mishnah Pesachim"
+  },
+  {
+    "year": 210,
+    "place": "Talmudic Israel",
+    "title": "Mishnah Shekalim"
+  },
+  {
+    "year": 210,
+    "place": "Talmudic Israel",
+    "title": "Mishnah Yoma"
+  },
+  {
+    "year": 210,
+    "place": "Talmudic Israel",
+    "title": "Mishnah Sukkah"
+  },
+  {
+    "year": 210,
+    "place": "Talmudic Israel",
+    "title": "Mishnah Beitzah"
+  },
+  {
+    "year": 210,
+    "place": "Talmudic Israel",
+    "title": "Mishnah Rosh Hashanah"
+  },
+  {
+    "year": 210,
+    "place": "Talmudic Israel",
+    "title": "Mishnah Taanit"
+  },
+  {
+    "year": 210,
+    "place": "Talmudic Israel",
+    "title": "Mishnah Megillah"
+  },
+  {
+    "year": 210,
+    "place": "Talmudic Israel",
+    "title": "Mishnah Moed Katan"
+  },
+  {
+    "year": 210,
+    "place": "Talmudic Israel",
+    "title": "Mishnah Chagigah"
+  },
+  {
+    "year": 210,
+    "place": "Talmudic Israel",
+    "title": "Mishnah Yevamot"
+  },
+  {
+    "year": 210,
+    "place": "Talmudic Israel",
+    "title": "Mishnah Ketubot"
+  },
+  {
+    "year": 210,
+    "place": "Talmudic Israel",
+    "title": "Mishnah Nedarim"
+  },
+  {
+    "year": 210,
+    "place": "Talmudic Israel",
+    "title": "Mishnah Nazir"
+  },
+  {
+    "year": 210,
+    "place": "Talmudic Israel",
+    "title": "Mishnah Sotah"
+  },
+  {
+    "year": 210,
+    "place": "Talmudic Israel",
+    "title": "Mishnah Gittin"
+  },
+  {
+    "year": 210,
+    "place": "Talmudic Israel",
+    "title": "Mishnah Kiddushin"
+  },
+  {
+    "year": 210,
+    "place": "Talmudic Israel",
+    "title": "Mishnah Bava Kamma"
+  },
+  {
+    "year": 210,
+    "place": "Talmudic Israel",
+    "title": "Mishnah Bava Metzia"
+  },
+  {
+    "year": 210,
+    "place": "Talmudic Israel",
+    "title": "Mishnah Bava Batra"
+  },
+  {
+    "year": 210,
+    "place": "Talmudic Israel",
+    "title": "Mishnah Sanhedrin"
+  },
+  {
+    "year": 210,
+    "place": "Talmudic Israel",
+    "title": "Mishnah Makkot"
+  },
+  {
+    "year": 210,
+    "place": "Talmudic Israel",
+    "title": "Mishnah Shevuot"
+  },
+  {
+    "year": 210,
+    "place": "Talmudic Israel",
+    "title": "Mishnah Eduyot"
+  },
+  {
+    "year": 210,
+    "place": "Talmudic Israel",
+    "title": "Mishnah Avodah Zarah"
+  },
+  {
+    "year": 210,
+    "place": "Talmudic Israel",
+    "title": "Pirkei Avot"
+  },
+  {
+    "year": 210,
+    "place": "Talmudic Israel",
+    "title": "Mishnah Horayot"
+  },
+  {
+    "year": 210,
+    "place": "Talmudic Israel",
+    "title": "Mishnah Zevachim"
+  },
+  {
+    "year": 210,
+    "place": "Talmudic Israel",
+    "title": "Mishnah Menachot"
+  },
+  {
+    "year": 210,
+    "place": "Talmudic Israel",
+    "title": "Mishnah Chullin"
+  },
+  {
+    "year": 210,
+    "place": "Talmudic Israel",
+    "title": "Mishnah Bekhorot"
+  },
+  {
+    "year": 210,
+    "place": "Talmudic Israel",
+    "title": "Mishnah Arakhin"
+  },
+  {
+    "year": 210,
+    "place": "Talmudic Israel",
+    "title": "Mishnah Temurah"
+  },
+  {
+    "year": 210,
+    "place": "Talmudic Israel",
+    "title": "Mishnah Keritot"
+  },
+  {
+    "year": 210,
+    "place": "Talmudic Israel",
+    "title": "Mishnah Meilah"
+  },
+  {
+    "year": 210,
+    "place": "Talmudic Israel",
+    "title": "Mishnah Tamid"
+  },
+  {
+    "year": 210,
+    "place": "Talmudic Israel",
+    "title": "Mishnah Middot"
+  },
+  {
+    "year": 210,
+    "place": "Talmudic Israel",
+    "title": "Mishnah Kinnim"
+  },
+  {
+    "year": 210,
+    "place": "Talmudic Israel",
+    "title": "Mishnah Kelim"
+  },
+  {
+    "year": 210,
+    "place": "Talmudic Israel",
+    "title": "Mishnah Oholot"
+  },
+  {
+    "year": 210,
+    "place": "Talmudic Israel",
+    "title": "Mishnah Negaim"
+  },
+  {
+    "year": 210,
+    "place": "Talmudic Israel",
+    "title": "Mishnah Parah"
+  },
+  {
+    "year": 210,
+    "place": "Talmudic Israel",
+    "title": "Mishnah Tahorot"
+  },
+  {
+    "year": 210,
+    "place": "Talmudic Israel",
+    "title": "Mishnah Mikvaot"
+  },
+  {
+    "year": 210,
+    "place": "Talmudic Israel",
+    "title": "Mishnah Niddah"
+  },
+  {
+    "year": 210,
+    "place": "Talmudic Israel",
+    "title": "Mishnah Makhshirin"
+  },
+  {
+    "year": 210,
+    "place": "Talmudic Israel",
+    "title": "Mishnah Zavim"
+  },
+  {
+    "year": 210,
+    "place": "Talmudic Israel",
+    "title": "Mishnah Tevul Yom"
+  },
+  {
+    "year": 210,
+    "place": "Talmudic Israel",
+    "title": "Mishnah Yadayim"
+  },
+  {
+    "year": 210,
+    "place": "Talmudic Israel",
+    "title": "Mishnah Oktzin"
+  },
+  {
+    "year": 210,
+    "place": "Talmudic Israel",
+    "title": "Tosefta Berakhot"
+  },
+  {
+    "year": 210,
+    "place": "Talmudic Israel",
+    "title": "Tosefta Peah"
+  },
+  {
+    "year": 210,
+    "place": "Talmudic Israel",
+    "title": "Tosefta Demai"
+  },
+  {
+    "year": 210,
+    "place": "Talmudic Israel",
+    "title": "Tosefta Shevi'it"
+  },
+  {
+    "year": 210,
+    "place": "Talmudic Israel",
+    "title": "Tosefta Terumot"
+  },
+  {
+    "year": 210,
+    "place": "Talmudic Israel",
+    "title": "Tosefta Ma'asrot"
+  },
+  {
+    "year": 210,
+    "place": "Talmudic Israel",
+    "title": "Tosefta Ma'aser Sheni"
+  },
+  {
+    "year": 210,
+    "place": "Talmudic Israel",
+    "title": "Tosefta Challah"
+  },
+  {
+    "year": 210,
+    "place": "Talmudic Israel",
+    "title": "Tosefta Orlah"
+  },
+  {
+    "year": 210,
+    "place": "Talmudic Israel",
+    "title": "Tosefta Kilaim"
+  },
+  {
+    "year": 210,
+    "place": "Talmudic Israel",
+    "title": "Tosefta Bikkurim"
+  },
+  {
+    "year": 210,
+    "place": "Talmudic Israel",
+    "title": "Tosefta Shabbat"
+  },
+  {
+    "year": 210,
+    "place": "Talmudic Israel",
+    "title": "Tosefta Eiruvin"
+  },
+  {
+    "year": 210,
+    "place": "Talmudic Israel",
+    "title": "Tosefta Pesachim"
+  },
+  {
+    "year": 210,
+    "place": "Talmudic Israel",
+    "title": "Tosefta Shekalim"
+  },
+  {
+    "year": 210,
+    "place": "Talmudic Israel",
+    "title": "Tosefta Yoma"
+  },
+  {
+    "year": 210,
+    "place": "Talmudic Israel",
+    "title": "Tosefta Sukkah"
+  },
+  {
+    "year": 210,
+    "place": "Talmudic Israel",
+    "title": "Tosefta Bava Metzia"
+  },
+  {
+    "year": 210,
+    "place": "Talmudic Israel",
+    "title": "Tosefta Avodah Zarah"
+  },
+  {
+    "year": 210,
+    "place": "Talmudic Israel",
+    "title": "Tosefta Megillah"
+  },
+  {
+    "year": 210,
+    "place": "Talmudic Israel",
+    "title": "Tosefta Beitsah"
+  },
+  {
+    "year": 210,
+    "place": "Talmudic Israel",
+    "title": "Tosefta Rosh HaShanah"
+  },
+  {
+    "year": 210,
+    "place": "Talmudic Israel",
+    "title": "Tosefta Ta'anit"
+  },
+  {
+    "year": 210,
+    "place": "Talmudic Israel",
+    "title": "Tosefta Moed Kattan"
+  },
+  {
+    "year": 210,
+    "place": "Talmudic Israel",
+    "title": "Tosefta Chagigah"
+  },
+  {
+    "year": 210,
+    "place": "Talmudic Israel",
+    "title": "Tosefta Yevamot"
+  },
+  {
+    "year": 210,
+    "place": "Talmudic Israel",
+    "title": "Tosefta Ketubot"
+  },
+  {
+    "year": 210,
+    "place": "Talmudic Israel",
+    "title": "Tosefta Nedarim"
+  },
+  {
+    "year": 210,
+    "place": "Talmudic Israel",
+    "title": "Tosefta Nazir"
+  },
+  {
+    "year": 210,
+    "place": "Talmudic Israel",
+    "title": "Tosefta Sotah"
+  },
+  {
+    "year": 210,
+    "place": "Talmudic Israel",
+    "title": "Tosefta Gittin"
+  },
+  {
+    "year": 210,
+    "place": "Talmudic Israel",
+    "title": "Tosefta Kiddushin"
+  },
+  {
+    "year": 210,
+    "place": "Talmudic Israel",
+    "title": "Tosefta Bava Kamma"
+  },
+  {
+    "year": 210,
+    "place": "Talmudic Israel",
+    "title": "Tosefta Bava Batra"
+  },
+  {
+    "year": 210,
+    "place": "Talmudic Israel",
+    "title": "Tosefta Sanhedrin"
+  },
+  {
+    "year": 210,
+    "place": "Talmudic Israel",
+    "title": "Tosefta Makkot"
+  },
+  {
+    "year": 210,
+    "place": "Talmudic Israel",
+    "title": "Tosefta Shevuot"
+  },
+  {
+    "year": 210,
+    "place": "Talmudic Israel",
+    "title": "Tosefta Eduyot"
+  },
+  {
+    "year": 210,
+    "place": "Talmudic Israel",
+    "title": "Tosefta Horayot"
+  },
+  {
+    "year": 210,
+    "place": "Talmudic Israel",
+    "title": "Tosefta Zevahim"
+  },
+  {
+    "year": 210,
+    "place": "Talmudic Israel",
+    "title": "Tosefta Menahot"
+  },
+  {
+    "year": 210,
+    "place": "Talmudic Israel",
+    "title": "Tosefta Chullin"
+  },
+  {
+    "year": 210,
+    "place": "Talmudic Israel",
+    "title": "Tosefta Bekhorot"
+  },
+  {
+    "year": 210,
+    "place": "Talmudic Israel",
+    "title": "Tosefta Arakhin"
+  },
+  {
+    "year": 210,
+    "place": "Talmudic Israel",
+    "title": "Tosefta Temurah"
+  },
+  {
+    "year": 210,
+    "place": "Talmudic Israel",
+    "title": "Tosefta Keritot"
+  },
+  {
+    "year": 210,
+    "place": "Talmudic Israel",
+    "title": "Tosefta Meilah"
+  },
+  {
+    "year": 210,
+    "place": "Talmudic Israel",
+    "title": "Tosefta Keilim Metsia"
+  },
+  {
+    "year": 210,
+    "place": "Talmudic Israel",
+    "title": "Tosefta Keilim Batra"
+  },
+  {
+    "year": 210,
+    "place": "Talmudic Israel",
+    "title": "Tosefta Ohalot"
+  },
+  {
+    "year": 210,
+    "place": "Talmudic Israel",
+    "title": "Tosefta Negaim"
+  },
+  {
+    "year": 210,
+    "place": "Talmudic Israel",
+    "title": "Tosefta Parah"
+  },
+  {
+    "year": 210,
+    "place": "Talmudic Israel",
+    "title": "Tosefta Mikvaot"
+  },
+  {
+    "year": 210,
+    "place": "Talmudic Israel",
+    "title": "Tosefta Niddah"
+  },
+  {
+    "year": 210,
+    "place": "Talmudic Israel",
+    "title": "Tosefta Makhshirin"
+  },
+  {
+    "year": 210,
+    "place": "Talmudic Israel",
+    "title": "Tosefta Zavim"
+  },
+  {
+    "year": 210,
+    "place": "Talmudic Israel",
+    "title": "Tosefta Tevul Yom"
+  },
+  {
+    "year": 210,
+    "place": "Talmudic Israel",
+    "title": "Tosefta Yadayim"
+  },
+  {
+    "year": 210,
+    "place": "Talmudic Israel",
+    "title": "Tosefta Uktsin"
+  },
+  {
+    "year": 300,
+    "place": "Talmudic Israel/Babylon",
+    "title": "Sifra"
+  },
+  {
+    "year": 350,
+    "place": "Talmudic Israel/Babylon",
+    "title": "Seder Olam Rabbah"
+  },
+  {
+    "year": 400,
+    "place": "Talmudic Israel",
+    "title": "Jerusalem Talmud Ma'aser Sheni"
+  },
+  {
+    "year": 400,
+    "place": "Talmudic Israel",
+    "title": "Jerusalem Talmud Shevi'it"
+  },
+  {
+    "year": 400,
+    "place": "Talmudic Israel",
+    "title": "Jerusalem Talmud Berakhot"
+  },
+  {
+    "year": 400,
+    "place": "Talmudic Israel",
+    "title": "Jerusalem Talmud Bikkurim"
+  },
+  {
+    "year": 400,
+    "place": "Talmudic Israel",
+    "title": "Jerusalem Talmud Demai"
+  },
+  {
+    "year": 400,
+    "place": "Talmudic Israel",
+    "title": "Jerusalem Talmud Hallah"
+  },
+  {
+    "year": 400,
+    "place": "Talmudic Israel",
+    "title": "Jerusalem Talmud Kilayim"
+  },
+  {
+    "year": 400,
+    "place": "Talmudic Israel",
+    "title": "Jerusalem Talmud Ma'asrot"
+  },
+  {
+    "year": 400,
+    "place": "Talmudic Israel",
+    "title": "Jerusalem Talmud Orlah"
+  },
+  {
+    "year": 400,
+    "place": "Talmudic Israel",
+    "title": "Jerusalem Talmud Peah"
+  },
+  {
+    "year": 400,
+    "place": "Talmudic Israel",
+    "title": "Jerusalem Talmud Terumot"
+  },
+  {
+    "year": 400,
+    "place": "Talmudic Israel",
+    "title": "Jerusalem Talmud Beitzah"
+  },
+  {
+    "year": 400,
+    "place": "Talmudic Israel",
+    "title": "Jerusalem Talmud Chagigah"
+  },
+  {
+    "year": 400,
+    "place": "Talmudic Israel",
+    "title": "Jerusalem Talmud Megillah"
+  },
+  {
+    "year": 400,
+    "place": "Talmudic Israel",
+    "title": "Jerusalem Talmud Moed Kattan"
+  },
+  {
+    "year": 400,
+    "place": "Talmudic Israel",
+    "title": "Jerusalem Talmud Pesachim"
+  },
+  {
+    "year": 400,
+    "place": "Talmudic Israel",
+    "title": "Jerusalem Talmud Rosh Hashanah"
+  },
+  {
+    "year": 400,
+    "place": "Talmudic Israel",
+    "title": "Jerusalem Talmud Shabbat"
+  },
+  {
+    "year": 400,
+    "place": "Talmudic Israel",
+    "title": "Jerusalem Talmud Shekalim"
+  },
+  {
+    "year": 400,
+    "place": "Talmudic Israel",
+    "title": "Jerusalem Talmud Sukkah"
+  },
+  {
+    "year": 400,
+    "place": "Talmudic Israel",
+    "title": "Jerusalem Talmud Ta'anit"
+  },
+  {
+    "year": 400,
+    "place": "Talmudic Israel",
+    "title": "Jerusalem Talmud Yoma"
+  },
+  {
+    "year": 400,
+    "place": "Talmudic Israel",
+    "title": "Jerusalem Talmud Gittin"
+  },
+  {
+    "year": 400,
+    "place": "Talmudic Israel",
+    "title": "Jerusalem Talmud Ketubot"
+  },
+  {
+    "year": 400,
+    "place": "Talmudic Israel",
+    "title": "Jerusalem Talmud Kiddushin"
+  },
+  {
+    "year": 400,
+    "place": "Talmudic Israel",
+    "title": "Jerusalem Talmud Nazir"
+  },
+  {
+    "year": 400,
+    "place": "Talmudic Israel",
+    "title": "Jerusalem Talmud Nedarim"
+  },
+  {
+    "year": 400,
+    "place": "Talmudic Israel",
+    "title": "Jerusalem Talmud Sotah"
+  },
+  {
+    "year": 400,
+    "place": "Talmudic Israel",
+    "title": "Jerusalem Talmud Yevamot"
+  },
+  {
+    "year": 400,
+    "place": "Talmudic Israel",
+    "title": "Jerusalem Talmud Bava Batra"
+  },
+  {
+    "year": 400,
+    "place": "Talmudic Israel",
+    "title": "Jerusalem Talmud Sanhedrin"
+  },
+  {
+    "year": 400,
+    "place": "Talmudic Israel",
+    "title": "Jerusalem Talmud Avodah Zarah"
+  },
+  {
+    "year": 400,
+    "place": "Talmudic Israel",
+    "title": "Jerusalem Talmud Bava Kamma"
+  },
+  {
+    "year": 400,
+    "place": "Talmudic Israel",
+    "title": "Jerusalem Talmud Bava Metsia"
+  },
+  {
+    "year": 400,
+    "place": "Talmudic Israel",
+    "title": "Jerusalem Talmud Horayot"
+  },
+  {
+    "year": 400,
+    "place": "Talmudic Israel",
+    "title": "Jerusalem Talmud Makkot"
+  },
+  {
+    "year": 400,
+    "place": "Talmudic Israel",
+    "title": "Jerusalem Talmud Shevuot"
+  },
+  {
+    "year": 400,
+    "place": "Talmudic Israel",
+    "title": "Jerusalem Talmud Niddah"
+  },
+  {
+    "year": 500,
+    "place": "Talmudic Babylon",
+    "title": "Berakhot"
+  },
+  {
+    "year": 500,
+    "place": "Talmudic Babylon",
+    "title": "Shabbat"
+  },
+  {
+    "year": 500,
+    "place": "Talmudic Babylon",
+    "title": "Eruvin"
+  },
+  {
+    "year": 500,
+    "place": "Talmudic Babylon",
+    "title": "Pesachim"
+  },
+  {
+    "year": 500,
+    "place": "Talmudic Babylon",
+    "title": "Rosh Hashanah"
+  },
+  {
+    "year": 500,
+    "place": "Talmudic Babylon",
+    "title": "Yoma"
+  },
+  {
+    "year": 500,
+    "place": "Talmudic Babylon",
+    "title": "Sukkah"
+  },
+  {
+    "year": 500,
+    "place": "Talmudic Babylon",
+    "title": "Beitzah"
+  },
+  {
+    "year": 500,
+    "place": "Talmudic Babylon",
+    "title": "Taanit"
+  },
+  {
+    "year": 500,
+    "place": "Talmudic Babylon",
+    "title": "Megillah"
+  },
+  {
+    "year": 500,
+    "place": "Talmudic Babylon",
+    "title": "Moed Katan"
+  },
+  {
+    "year": 500,
+    "place": "Talmudic Babylon",
+    "title": "Chagigah"
+  },
+  {
+    "year": 500,
+    "place": "Talmudic Babylon",
+    "title": "Yevamot"
+  },
+  {
+    "year": 500,
+    "place": "Talmudic Babylon",
+    "title": "Ketubot"
+  },
+  {
+    "year": 500,
+    "place": "Talmudic Babylon",
+    "title": "Nedarim"
+  },
+  {
+    "year": 500,
+    "place": "Talmudic Babylon",
+    "title": "Nazir"
+  },
+  {
+    "year": 500,
+    "place": "Talmudic Babylon",
+    "title": "Sotah"
+  },
+  {
+    "year": 500,
+    "place": "Talmudic Babylon",
+    "title": "Gittin"
+  },
+  {
+    "year": 500,
+    "place": "Talmudic Babylon",
+    "title": "Kiddushin"
+  },
+  {
+    "year": 500,
+    "place": "Talmudic Babylon",
+    "title": "Bava Kamma"
+  },
+  {
+    "year": 500,
+    "place": "Talmudic Babylon",
+    "title": "Bava Metzia"
+  },
+  {
+    "year": 500,
+    "place": "Talmudic Babylon",
+    "title": "Bava Batra"
+  },
+  {
+    "year": 500,
+    "place": "Talmudic Babylon",
+    "title": "Sanhedrin"
+  },
+  {
+    "year": 500,
+    "place": "Talmudic Babylon",
+    "title": "Makkot"
+  },
+  {
+    "year": 500,
+    "place": "Talmudic Babylon",
+    "title": "Shevuot"
+  },
+  {
+    "year": 500,
+    "place": "Talmudic Babylon",
+    "title": "Avodah Zarah"
+  },
+  {
+    "year": 500,
+    "place": "Talmudic Babylon",
+    "title": "Horayot"
+  },
+  {
+    "year": 500,
+    "place": "Talmudic Babylon",
+    "title": "Zevachim"
+  },
+  {
+    "year": 500,
+    "place": "Talmudic Babylon",
+    "title": "Menachot"
+  },
+  {
+    "year": 500,
+    "place": "Talmudic Babylon",
+    "title": "Chullin"
+  },
+  {
+    "year": 500,
+    "place": "Talmudic Babylon",
+    "title": "Bekhorot"
+  },
+  {
+    "year": 500,
+    "place": "Talmudic Babylon",
+    "title": "Arakhin"
+  },
+  {
+    "year": 500,
+    "place": "Talmudic Babylon",
+    "title": "Temurah"
+  },
+  {
+    "year": 500,
+    "place": "Talmudic Babylon",
+    "title": "Keritot"
+  },
+  {
+    "year": 500,
+    "place": "Talmudic Babylon",
+    "title": "Meilah"
+  },
+  {
+    "year": 500,
+    "place": "Talmudic Babylon",
+    "title": "Tamid"
+  },
+  {
+    "year": 500,
+    "place": "Talmudic Babylon",
+    "title": "Niddah"
+  },
+  {
+    "year": 500,
+    "place": "Talmudic Israel/Babylon",
+    "title": "Bereishit Rabbah"
+  },
+  {
+    "year": 500,
+    "place": "Talmudic Israel/Babylon",
+    "title": "Vayikra Rabbah"
+  },
+  {
+    "year": 550,
+    "place": "Talmudic Israel",
+    "title": "Pesikta D'Rav Kahanna"
+  },
+  {
+    "year": 600,
+    "place": "Talmudic Israel/Babylon",
+    "title": "Aramaic Targum to Song of Songs"
+  },
+  {
+    "year": 650,
+    "place": "Talmudic Babylon/Italy/Israel",
+    "title": "Midrash Tanchuma"
+  },
+  {
+    "year": 725,
+    "place": "Talmudic Israel",
+    "title": "Sheiltot d'Rav Achai Gaon"
+  },
+  {
+    "year": 750,
+    "place": "Talmudic Israel",
+    "title": "Pesikta Rabbati"
+  },
+  {
+    "year": 750,
+    "place": "Talmudic Israel/Babylon",
+    "title": "Tractate Soferim"
+  },
+  {
+    "year": 750,
+    "place": "Talmudic Israel/Babylon",
+    "title": "Tractate Semachot"
+  },
+  {
+    "year": 750,
+    "place": "Talmudic Israel/Babylon",
+    "title": "Tractate Kutim"
+  },
+  {
+    "year": 800,
+    "place": "Talmudic Israel/Babylon",
+    "title": "Midrash Mishlei"
+  },
+  {
+    "year": 800,
+    "place": "Talmudic Israel/Babylon",
+    "title": "Avot D'Rabbi Natan"
+  },
+  {
+    "year": 825,
+    "place": "Talmudic Israel/Babylon",
+    "title": "Kohelet Rabbah"
+  },
+  {
+    "year": 830,
+    "place": "Talmudic Israel/Babylon",
+    "title": "Pirkei DeRabbi Eliezer"
+  },
+  {
+    "year": 890,
+    "place": "Talmudic Israel/Babylon",
+    "title": "Shir HaShirim Rabbah"
+  },
+  {
+    "year": 900,
+    "place": "Talmudic Israel/Babylon",
+    "title": "Devarim Rabbah"
+  },
+  {
+    "year": 932,
+    "place": "Baghdad; Iraq",
+    "title": "HaEmunot veHaDeot"
+  },
+  {
+    "year": 955,
+    "place": "Cordoba; Spain",
+    "title": "Mahberet Menachem"
+  },
+  {
+    "year": 976,
+    "place": "Talmudic Babylon/Italy/Israel",
+    "title": "Tanna Debei Eliyahu Rabbah"
+  },
+  {
+    "year": 976,
+    "place": "Talmudic Babylon/Italy/Israel",
+    "title": "Tanna debei Eliyahu Zuta"
+  },
+  {
+    "year": 1000,
+    "place": "Talmudic Israel/Babylon",
+    "title": "Mekhilta DeRabbi Shimon Bar Yochai"
+  },
+  {
+    "year": 1030,
+    "place": "Middle-Age Spain",
+    "title": "Rabbeinu Chananel on Deuteronomy"
+  },
+  {
+    "year": 1030,
+    "place": "Middle-Age Spain",
+    "title": "Rabbeinu Chananel on Exodus"
+  },
+  {
+    "year": 1030,
+    "place": "Middle-Age Spain",
+    "title": "Rabbeinu Chananel on Genesis"
+  },
+  {
+    "year": 1030,
+    "place": "Middle-Age Spain",
+    "title": "Rabbeinu Chananel on Leviticus"
+  },
+  {
+    "year": 1030,
+    "place": "Middle-Age Spain",
+    "title": "Rabbeinu Chananel on Numbers"
+  },
+  {
+    "year": 1040,
+    "place": "Middle-Age Spain",
+    "title": "Duties of the Heart"
+  },
+  {
+    "year": 1045,
+    "place": "Saragossa",
+    "title": "The Improvement of the Moral Qualities"
+  },
+  {
+    "year": 1050,
+    "place": "Worms",
+    "title": "Akdamut Milin"
+  },
+  {
+    "year": 1075,
+    "place": "Fes; Morocco",
+    "title": "Rif Yoma"
+  },
+  {
+    "year": 1080,
+    "place": "Vitry-sur-Seine",
+    "title": "Machzor Vitry"
+  },
+  {
+    "year": 1090,
+    "place": "Middle-Age France",
+    "title": "Rashi on Amos"
+  },
+  {
+    "year": 1090,
+    "place": "Middle-Age France",
+    "title": "Rashi on Arakhin"
+  },
+  {
+    "year": 1090,
+    "place": "Middle-Age France",
+    "title": "Rashi on Avodah Zarah"
+  },
+  {
+    "year": 1090,
+    "place": "Middle-Age France",
+    "title": "Rashi on Bava Batra"
+  },
+  {
+    "year": 1090,
+    "place": "Middle-Age France",
+    "title": "Rashi on Bava Kamma"
+  },
+  {
+    "year": 1090,
+    "place": "Middle-Age France",
+    "title": "Rashi on Bava Metzia"
+  },
+  {
+    "year": 1090,
+    "place": "Middle-Age France",
+    "title": "Rashi on Beitzah"
+  },
+  {
+    "year": 1090,
+    "place": "Middle-Age France",
+    "title": "Rashi on Bekhorot"
+  },
+  {
+    "year": 1090,
+    "place": "Middle-Age France",
+    "title": "Rashi on Berakhot"
+  },
+  {
+    "year": 1090,
+    "place": "Middle-Age France",
+    "title": "Rashi on Chagigah"
+  },
+  {
+    "year": 1090,
+    "place": "Middle-Age France",
+    "title": "Rashi on Chullin"
+  },
+  {
+    "year": 1090,
+    "place": "Middle-Age France",
+    "title": "Rashi on Daniel"
+  },
+  {
+    "year": 1090,
+    "place": "Middle-Age France",
+    "title": "Rashi on Deuteronomy"
+  },
+  {
+    "year": 1090,
+    "place": "Middle-Age France",
+    "title": "Rashi on Ecclesiastes"
+  },
+  {
+    "year": 1090,
+    "place": "Middle-Age France",
+    "title": "Rashi on Eruvin"
+  },
+  {
+    "year": 1090,
+    "place": "Middle-Age France",
+    "title": "Rashi on Esther"
+  },
+  {
+    "year": 1090,
+    "place": "Middle-Age France",
+    "title": "Rashi on Exodus"
+  },
+  {
+    "year": 1090,
+    "place": "Middle-Age France",
+    "title": "Rashi on Ezekiel"
+  },
+  {
+    "year": 1090,
+    "place": "Middle-Age France",
+    "title": "Rashi on Ezra"
+  },
+  {
+    "year": 1090,
+    "place": "Middle-Age France",
+    "title": "Rashi on Genesis"
+  },
+  {
+    "year": 1090,
+    "place": "Middle-Age France",
+    "title": "Rashi on Gittin"
+  },
+  {
+    "year": 1090,
+    "place": "Middle-Age France",
+    "title": "Rashi on Habakkuk"
+  },
+  {
+    "year": 1090,
+    "place": "Middle-Age France",
+    "title": "Rashi on Haggai"
+  },
+  {
+    "year": 1090,
+    "place": "Middle-Age France",
+    "title": "Rashi on Horayot"
+  },
+  {
+    "year": 1090,
+    "place": "Middle-Age France",
+    "title": "Rashi on Hosea"
+  },
+  {
+    "year": 1090,
+    "place": "Middle-Age France",
+    "title": "Rashi on I Chronicles"
+  },
+  {
+    "year": 1090,
+    "place": "Middle-Age France",
+    "title": "Rashi on I Kings"
+  },
+  {
+    "year": 1090,
+    "place": "Middle-Age France",
+    "title": "Rashi on I Samuel"
+  },
+  {
+    "year": 1090,
+    "place": "Middle-Age France",
+    "title": "Rashi on II Chronicles"
+  },
+  {
+    "year": 1090,
+    "place": "Middle-Age France",
+    "title": "Rashi on II Kings"
+  },
+  {
+    "year": 1090,
+    "place": "Middle-Age France",
+    "title": "Rashi on II Samuel"
+  },
+  {
+    "year": 1090,
+    "place": "Middle-Age France",
+    "title": "Rashi on Isaiah"
+  },
+  {
+    "year": 1090,
+    "place": "Middle-Age France",
+    "title": "Rashi on Jeremiah"
+  },
+  {
+    "year": 1090,
+    "place": "Middle-Age France",
+    "title": "Rashi on Job"
+  },
+  {
+    "year": 1090,
+    "place": "Middle-Age France",
+    "title": "Rashi on Joel"
+  },
+  {
+    "year": 1090,
+    "place": "Middle-Age France",
+    "title": "Rashi on Jonah"
+  },
+  {
+    "year": 1090,
+    "place": "Middle-Age France",
+    "title": "Rashi on Joshua"
+  },
+  {
+    "year": 1090,
+    "place": "Middle-Age France",
+    "title": "Rashi on Judges"
+  },
+  {
+    "year": 1090,
+    "place": "Middle-Age France",
+    "title": "Rashi on Keritot"
+  },
+  {
+    "year": 1090,
+    "place": "Middle-Age France",
+    "title": "Rashi on Ketubot"
+  },
+  {
+    "year": 1090,
+    "place": "Middle-Age France",
+    "title": "Rashi on Kiddushin"
+  },
+  {
+    "year": 1090,
+    "place": "Middle-Age France",
+    "title": "Rashi on Lamentations"
+  },
+  {
+    "year": 1090,
+    "place": "Middle-Age France",
+    "title": "Rashi on Leviticus"
+  },
+  {
+    "year": 1090,
+    "place": "Middle-Age France",
+    "title": "Rashi on Makkot"
+  },
+  {
+    "year": 1090,
+    "place": "Middle-Age France",
+    "title": "Rashi on Malachi"
+  },
+  {
+    "year": 1090,
+    "place": "Middle-Age France",
+    "title": "Rashi on Megillah"
+  },
+  {
+    "year": 1090,
+    "place": "Middle-Age France",
+    "title": "Rashi on Meilah"
+  },
+  {
+    "year": 1090,
+    "place": "Middle-Age France",
+    "title": "Rashi on Menachot"
+  },
+  {
+    "year": 1090,
+    "place": "Middle-Age France",
+    "title": "Rashi on Micah"
+  },
+  {
+    "year": 1090,
+    "place": "Middle-Age France",
+    "title": "Rashi on Moed Katan"
+  },
+  {
+    "year": 1090,
+    "place": "Middle-Age France",
+    "title": "Rashi on Nahum"
+  },
+  {
+    "year": 1090,
+    "place": "Middle-Age France",
+    "title": "Rashi on Nazir"
+  },
+  {
+    "year": 1090,
+    "place": "Middle-Age France",
+    "title": "Rashi on Nedarim"
+  },
+  {
+    "year": 1090,
+    "place": "Middle-Age France",
+    "title": "Rashi on Nehemiah"
+  },
+  {
+    "year": 1090,
+    "place": "Middle-Age France",
+    "title": "Rashi on Niddah"
+  },
+  {
+    "year": 1090,
+    "place": "Middle-Age France",
+    "title": "Rashi on Numbers"
+  },
+  {
+    "year": 1090,
+    "place": "Middle-Age France",
+    "title": "Rashi on Obadiah"
+  },
+  {
+    "year": 1090,
+    "place": "Middle-Age France",
+    "title": "Rashi on Pesachim"
+  },
+  {
+    "year": 1090,
+    "place": "Middle-Age France",
+    "title": "Rashi on Proverbs"
+  },
+  {
+    "year": 1090,
+    "place": "Middle-Age France",
+    "title": "Rashi on Psalms"
+  },
+  {
+    "year": 1090,
+    "place": "Middle-Age France",
+    "title": "Rashi on Rosh Hashanah"
+  },
+  {
+    "year": 1090,
+    "place": "Middle-Age France",
+    "title": "Rashi on Ruth"
+  },
+  {
+    "year": 1090,
+    "place": "Middle-Age France",
+    "title": "Rashi on Sanhedrin"
+  },
+  {
+    "year": 1090,
+    "place": "Middle-Age France",
+    "title": "Rashi on Shabbat"
+  },
+  {
+    "year": 1090,
+    "place": "Middle-Age France",
+    "title": "Rashi on Shevuot"
+  },
+  {
+    "year": 1090,
+    "place": "Middle-Age France",
+    "title": "Rashi on Song of Songs"
+  },
+  {
+    "year": 1090,
+    "place": "Middle-Age France",
+    "title": "Rashi on Sotah"
+  },
+  {
+    "year": 1090,
+    "place": "Middle-Age France",
+    "title": "Rashi on Sukkah"
+  },
+  {
+    "year": 1090,
+    "place": "Middle-Age France",
+    "title": "Rashi on Taanit"
+  },
+  {
+    "year": 1090,
+    "place": "Middle-Age France",
+    "title": "Rashi on Temurah"
+  },
+  {
+    "year": 1090,
+    "place": "Middle-Age France",
+    "title": "Rashi on Yevamot"
+  },
+  {
+    "year": 1090,
+    "place": "Middle-Age France",
+    "title": "Rashi on Yoma"
+  },
+  {
+    "year": 1090,
+    "place": "Middle-Age France",
+    "title": "Rashi on Zechariah"
+  },
+  {
+    "year": 1090,
+    "place": "Middle-Age France",
+    "title": "Rashi on Zephaniah"
+  },
+  {
+    "year": 1090,
+    "place": "Middle-Age France",
+    "title": "Rashi on Zevachim"
+  },
+  {
+    "year": 1095,
+    "place": "Fes; Morocco",
+    "title": "Rif Shabbat"
+  },
+  {
+    "year": 1095,
+    "place": "Fes; Morocco",
+    "title": "Rif Berakhot"
+  },
+  {
+    "year": 1095,
+    "place": "Fes; Morocco",
+    "title": "Rif Taanit"
+  },
+  {
+    "year": 1095,
+    "place": "Fes; Morocco",
+    "title": "Rif Makkot"
+  },
+  {
+    "year": 1095,
+    "place": "Fes; Morocco",
+    "title": "Rif Beitzah"
+  },
+  {
+    "year": 1095,
+    "place": "Fes; Morocco",
+    "title": "Rif Moed Katan"
+  },
+  {
+    "year": 1095,
+    "place": "Fes; Morocco",
+    "title": "Rif Pesachim"
+  },
+  {
+    "year": 1100,
+    "place": "Rhineland",
+    "title": "Yizkor"
+  },
+  {
+    "year": 1140,
+    "place": "Middle-Age France",
+    "title": "Rashbam on Menachot"
+  },
+  {
+    "year": 1140,
+    "place": "Middle-Age France",
+    "title": "Rashbam on Bava Batra"
+  },
+  {
+    "year": 1140,
+    "place": "Middle-Age France",
+    "title": "Rashbam on Deuteronomy"
+  },
+  {
+    "year": 1140,
+    "place": "Middle-Age France",
+    "title": "Rashbam on Exodus"
+  },
+  {
+    "year": 1140,
+    "place": "Middle-Age France",
+    "title": "Rashbam on Genesis"
+  },
+  {
+    "year": 1140,
+    "place": "Middle-Age France",
+    "title": "Rashbam on Leviticus"
+  },
+  {
+    "year": 1140,
+    "place": "Middle-Age France",
+    "title": "Rashbam on Numbers"
+  },
+  {
+    "year": 1140,
+    "place": "Middle-Age France",
+    "title": "Rashbam on Pesachim"
+  },
+  {
+    "year": 1141,
+    "place": "Lucca; Italy",
+    "title": "Sefat Yeter"
+  },
+  {
+    "year": 1153,
+    "place": "Fayyum",
+    "title": "Rambam Introduction to Seder Kodashim"
+  },
+  {
+    "year": 1153,
+    "place": "Fayyum",
+    "title": "Rambam Introduction to the Mishnah"
+  },
+  {
+    "year": 1155,
+    "place": "Middle-Age France/Italy/England",
+    "title": "Ibn Ezra on Daniel"
+  },
+  {
+    "year": 1156,
+    "place": "Middle-Age France/Italy/England",
+    "title": "Ibn Ezra on Joel"
+  },
+  {
+    "year": 1156,
+    "place": "Middle-Age France/Italy/England",
+    "title": "Ibn Ezra on Jonah"
+  },
+  {
+    "year": 1156,
+    "place": "Middle-Age France/Italy/England",
+    "title": "Ibn Ezra on Malachi"
+  },
+  {
+    "year": 1156,
+    "place": "Middle-Age France/Italy/England",
+    "title": "Ibn Ezra on Micah"
+  },
+  {
+    "year": 1156,
+    "place": "Middle-Age France/Italy/England",
+    "title": "Ibn Ezra on Nahum"
+  },
+  {
+    "year": 1156,
+    "place": "Middle-Age France/Italy/England",
+    "title": "Ibn Ezra on Nehemiah"
+  },
+  {
+    "year": 1156,
+    "place": "Middle-Age France/Italy/England",
+    "title": "Ibn Ezra on Obadiah"
+  },
+  {
+    "year": 1156,
+    "place": "Middle-Age France/Italy/England",
+    "title": "Ibn Ezra on Psalms"
+  },
+  {
+    "year": 1158,
+    "place": "Middle-Age France/Italy/England",
+    "title": "Ibn Ezra on Amos"
+  },
+  {
+    "year": 1159,
+    "place": "London",
+    "title": "The Sabbath Epistle"
+  },
+  {
+    "year": 1160,
+    "place": "Middle-Age France/Italy/England",
+    "title": "Ibn Ezra on Deuteronomy"
+  },
+  {
+    "year": 1160,
+    "place": "Middle-Age France/Italy/England",
+    "title": "Ibn Ezra on Exodus"
+  },
+  {
+    "year": 1160,
+    "place": "Middle-Age France/Italy/England",
+    "title": "Ibn Ezra on Ezra"
+  },
+  {
+    "year": 1160,
+    "place": "Middle-Age France/Italy/England",
+    "title": "Ibn Ezra on Genesis"
+  },
+  {
+    "year": 1160,
+    "place": "Middle-Age France/Italy/England",
+    "title": "Ibn Ezra on Habakkuk"
+  },
+  {
+    "year": 1160,
+    "place": "Middle-Age France/Italy/England",
+    "title": "Ibn Ezra on Haggai"
+  },
+  {
+    "year": 1160,
+    "place": "Middle-Age France/Italy/England",
+    "title": "Ibn Ezra on Hosea"
+  },
+  {
+    "year": 1160,
+    "place": "Middle-Age France/Italy/England",
+    "title": "Ibn Ezra on Job"
+  },
+  {
+    "year": 1160,
+    "place": "Middle-Age France/Italy/England",
+    "title": "Ibn Ezra on Leviticus"
+  },
+  {
+    "year": 1160,
+    "place": "Middle-Age France/Italy/England",
+    "title": "Ibn Ezra on Numbers"
+  },
+  {
+    "year": 1160,
+    "place": "Middle-Age France/Italy/England",
+    "title": "Ibn Ezra on Proverbs"
+  },
+  {
+    "year": 1160,
+    "place": "Middle-Age France/Italy/England",
+    "title": "Ibn Ezra on Ruth"
+  },
+  {
+    "year": 1160,
+    "place": "Middle-Age France/Italy/England",
+    "title": "Ibn Ezra on Zechariah"
+  },
+  {
+    "year": 1160,
+    "place": "Middle-Age France/Italy/England",
+    "title": "Ibn Ezra on Zephaniah"
+  },
+  {
+    "year": 1160,
+    "place": "Middle-Age France/Italy/England",
+    "title": "Ibn Ezra on Isaiah"
+  },
+  {
+    "year": 1161,
+    "place": "Middle-Age Egypt",
+    "title": "Eight Chapters"
+  },
+  {
+    "year": 1163,
+    "place": "Spain / Egypt",
+    "title": "Rambam on Mishnah Zevachim"
+  },
+  {
+    "year": 1177,
+    "place": "Middle-Age Egypt",
+    "title": "Mishneh Torah; Transmission of the Oral Law"
+  },
+  {
+    "year": 1177,
+    "place": "Middle-Age Egypt",
+    "title": "Mishneh Torah; Positive Mitzvot"
+  },
+  {
+    "year": 1177,
+    "place": "Middle-Age Egypt",
+    "title": "Mishneh Torah; Negative Mitzvot"
+  },
+  {
+    "year": 1177,
+    "place": "Middle-Age Egypt",
+    "title": "Mishneh Torah; Overview of Mishneh Torah Contents"
+  },
+  {
+    "year": 1177,
+    "place": "Middle-Age Egypt",
+    "title": "Mishneh Torah; Foundations of the Torah"
+  },
+  {
+    "year": 1177,
+    "place": "Middle-Age Egypt",
+    "title": "Mishneh Torah; Human Dispositions"
+  },
+  {
+    "year": 1177,
+    "place": "Middle-Age Egypt",
+    "title": "Mishneh Torah; Torah Study"
+  },
+  {
+    "year": 1177,
+    "place": "Middle-Age Egypt",
+    "title": "Mishneh Torah; Foreign Worship and Customs of the Nations"
+  },
+  {
+    "year": 1177,
+    "place": "Middle-Age Egypt",
+    "title": "Mishneh Torah; Repentance"
+  },
+  {
+    "year": 1177,
+    "place": "Middle-Age Egypt",
+    "title": "Mishneh Torah; Reading the Shema"
+  },
+  {
+    "year": 1177,
+    "place": "Middle-Age Egypt",
+    "title": "Mishneh Torah; Prayer and the Priestly Blessing"
+  },
+  {
+    "year": 1177,
+    "place": "Middle-Age Egypt",
+    "title": "Mishneh Torah; Tefillin; Mezuzah and the Torah Scroll"
+  },
+  {
+    "year": 1177,
+    "place": "Middle-Age Egypt",
+    "title": "Mishneh Torah; Fringes"
+  },
+  {
+    "year": 1177,
+    "place": "Middle-Age Egypt",
+    "title": "Mishneh Torah; Blessings"
+  },
+  {
+    "year": 1177,
+    "place": "Middle-Age Egypt",
+    "title": "Mishneh Torah; Circumcision"
+  },
+  {
+    "year": 1177,
+    "place": "Middle-Age Egypt",
+    "title": "Mishneh Torah; The Order of Prayer"
+  },
+  {
+    "year": 1177,
+    "place": "Middle-Age Egypt",
+    "title": "Mishneh Torah; Sabbath"
+  },
+  {
+    "year": 1177,
+    "place": "Middle-Age Egypt",
+    "title": "Mishneh Torah; Eruvin"
+  },
+  {
+    "year": 1177,
+    "place": "Middle-Age Egypt",
+    "title": "Mishneh Torah; Rest on the Tenth of Tishrei"
+  },
+  {
+    "year": 1177,
+    "place": "Middle-Age Egypt",
+    "title": "Mishneh Torah; Rest on a Holiday"
+  },
+  {
+    "year": 1177,
+    "place": "Middle-Age Egypt",
+    "title": "Mishneh Torah; Leavened and Unleavened Bread"
+  },
+  {
+    "year": 1177,
+    "place": "Middle-Age Egypt",
+    "title": "Mishneh Torah; Shofar; Sukkah and Lulav"
+  },
+  {
+    "year": 1177,
+    "place": "Middle-Age Egypt",
+    "title": "Mishneh Torah; Sheqel Dues"
+  },
+  {
+    "year": 1177,
+    "place": "Middle-Age Egypt",
+    "title": "Mishneh Torah; Sanctification of the New Month"
+  },
+  {
+    "year": 1177,
+    "place": "Middle-Age Egypt",
+    "title": "Mishneh Torah; Fasts"
+  },
+  {
+    "year": 1177,
+    "place": "Middle-Age Egypt",
+    "title": "Mishneh Torah; Scroll of Esther and Hanukkah"
+  },
+  {
+    "year": 1177,
+    "place": "Middle-Age Egypt",
+    "title": "Mishneh Torah; Marriage"
+  },
+  {
+    "year": 1177,
+    "place": "Middle-Age Egypt",
+    "title": "Mishneh Torah; Divorce"
+  },
+  {
+    "year": 1177,
+    "place": "Middle-Age Egypt",
+    "title": "Mishneh Torah; Levirate Marriage and Release"
+  },
+  {
+    "year": 1177,
+    "place": "Middle-Age Egypt",
+    "title": "Mishneh Torah; Virgin Maiden"
+  },
+  {
+    "year": 1177,
+    "place": "Middle-Age Egypt",
+    "title": "Mishneh Torah; Woman Suspected of Infidelity"
+  },
+  {
+    "year": 1177,
+    "place": "Middle-Age Egypt",
+    "title": "Mishneh Torah; Forbidden Intercourse"
+  },
+  {
+    "year": 1177,
+    "place": "Middle-Age Egypt",
+    "title": "Mishneh Torah; Forbidden Foods"
+  },
+  {
+    "year": 1177,
+    "place": "Middle-Age Egypt",
+    "title": "Mishneh Torah; Ritual Slaughter"
+  },
+  {
+    "year": 1177,
+    "place": "Middle-Age Egypt",
+    "title": "Mishneh Torah; Oaths"
+  },
+  {
+    "year": 1177,
+    "place": "Middle-Age Egypt",
+    "title": "Mishneh Torah; Vows"
+  },
+  {
+    "year": 1177,
+    "place": "Middle-Age Egypt",
+    "title": "Mishneh Torah; Nazariteship"
+  },
+  {
+    "year": 1177,
+    "place": "Middle-Age Egypt",
+    "title": "Mishneh Torah; Appraisals and Devoted Property"
+  },
+  {
+    "year": 1177,
+    "place": "Middle-Age Egypt",
+    "title": "Mishneh Torah; Diverse Species"
+  },
+  {
+    "year": 1177,
+    "place": "Middle-Age Egypt",
+    "title": "Mishneh Torah; Gifts to the Poor"
+  },
+  {
+    "year": 1177,
+    "place": "Middle-Age Egypt",
+    "title": "Mishneh Torah; Heave Offerings"
+  },
+  {
+    "year": 1177,
+    "place": "Middle-Age Egypt",
+    "title": "Mishneh Torah; Tithes"
+  },
+  {
+    "year": 1177,
+    "place": "Middle-Age Egypt",
+    "title": "Mishneh Torah; Second Tithes and Fourth Year's Fruit"
+  },
+  {
+    "year": 1177,
+    "place": "Middle-Age Egypt",
+    "title": "Mishneh Torah; First Fruits and other Gifts to Priests Outside the Sanctuary"
+  },
+  {
+    "year": 1177,
+    "place": "Middle-Age Egypt",
+    "title": "Mishneh Torah; Sabbatical Year and the Jubilee"
+  },
+  {
+    "year": 1177,
+    "place": "Middle-Age Egypt",
+    "title": "Mishneh Torah; The Chosen Temple"
+  },
+  {
+    "year": 1177,
+    "place": "Middle-Age Egypt",
+    "title": "Mishneh Torah; Vessels of the Sanctuary and Those who Serve Therein"
+  },
+  {
+    "year": 1177,
+    "place": "Middle-Age Egypt",
+    "title": "Mishneh Torah; Admission into the Sanctuary"
+  },
+  {
+    "year": 1177,
+    "place": "Middle-Age Egypt",
+    "title": "Mishneh Torah; Sacrificial Procedure"
+  },
+  {
+    "year": 1177,
+    "place": "Middle-Age Egypt",
+    "title": "Mishneh Torah; Daily Offerings and Additional Offerings"
+  },
+  {
+    "year": 1177,
+    "place": "Middle-Age Egypt",
+    "title": "Mishneh Torah; Sacrifices Rendered Unfit"
+  },
+  {
+    "year": 1177,
+    "place": "Middle-Age Egypt",
+    "title": "Mishneh Torah; Service on the Day of Atonement"
+  },
+  {
+    "year": 1177,
+    "place": "Middle-Age Egypt",
+    "title": "Mishneh Torah; Trespass"
+  },
+  {
+    "year": 1177,
+    "place": "Middle-Age Egypt",
+    "title": "Mishneh Torah; Paschal Offering"
+  },
+  {
+    "year": 1177,
+    "place": "Middle-Age Egypt",
+    "title": "Mishneh Torah; Festival Offering"
+  },
+  {
+    "year": 1177,
+    "place": "Middle-Age Egypt",
+    "title": "Mishneh Torah; Firstlings"
+  },
+  {
+    "year": 1177,
+    "place": "Middle-Age Egypt",
+    "title": "Mishneh Torah; Offerings for Unintentional Transgressions"
+  },
+  {
+    "year": 1177,
+    "place": "Middle-Age Egypt",
+    "title": "Mishneh Torah; Offerings for Those with Incomplete Atonement"
+  },
+  {
+    "year": 1177,
+    "place": "Middle-Age Egypt",
+    "title": "Mishneh Torah; Substitution"
+  },
+  {
+    "year": 1177,
+    "place": "Middle-Age Egypt",
+    "title": "Mishneh Torah; Defilement by a Corpse"
+  },
+  {
+    "year": 1177,
+    "place": "Middle-Age Egypt",
+    "title": "Mishneh Torah; Red Heifer"
+  },
+  {
+    "year": 1177,
+    "place": "Middle-Age Egypt",
+    "title": "Mishneh Torah; Defilement by Leprosy"
+  },
+  {
+    "year": 1177,
+    "place": "Middle-Age Egypt",
+    "title": "Mishneh Torah; Those Who Defile Bed or Seat"
+  },
+  {
+    "year": 1177,
+    "place": "Middle-Age Egypt",
+    "title": "Mishneh Torah; Other Sources of Defilement"
+  },
+  {
+    "year": 1177,
+    "place": "Middle-Age Egypt",
+    "title": "Mishneh Torah; Defilement of Foods"
+  },
+  {
+    "year": 1177,
+    "place": "Middle-Age Egypt",
+    "title": "Mishneh Torah; Vessels"
+  },
+  {
+    "year": 1177,
+    "place": "Middle-Age Egypt",
+    "title": "Mishneh Torah; Immersion Pools"
+  },
+  {
+    "year": 1177,
+    "place": "Middle-Age Egypt",
+    "title": "Mishneh Torah; Damages to Property"
+  },
+  {
+    "year": 1177,
+    "place": "Middle-Age Egypt",
+    "title": "Mishneh Torah; Theft"
+  },
+  {
+    "year": 1177,
+    "place": "Middle-Age Egypt",
+    "title": "Mishneh Torah; Robbery and Lost Property"
+  },
+  {
+    "year": 1177,
+    "place": "Middle-Age Egypt",
+    "title": "Mishneh Torah; One Who Injures a Person or Property"
+  },
+  {
+    "year": 1177,
+    "place": "Middle-Age Egypt",
+    "title": "Mishneh Torah; Murderer and the Preservation of Life"
+  },
+  {
+    "year": 1177,
+    "place": "Middle-Age Egypt",
+    "title": "Mishneh Torah; Sales"
+  },
+  {
+    "year": 1177,
+    "place": "Middle-Age Egypt",
+    "title": "Mishneh Torah; Ownerless Property and Gifts"
+  },
+  {
+    "year": 1177,
+    "place": "Middle-Age Egypt",
+    "title": "Mishneh Torah; Neighbors"
+  },
+  {
+    "year": 1177,
+    "place": "Middle-Age Egypt",
+    "title": "Mishneh Torah; Agents and Partners"
+  },
+  {
+    "year": 1177,
+    "place": "Middle-Age Egypt",
+    "title": "Mishneh Torah; Slaves"
+  },
+  {
+    "year": 1177,
+    "place": "Middle-Age Egypt",
+    "title": "Mishneh Torah; Hiring"
+  },
+  {
+    "year": 1177,
+    "place": "Middle-Age Egypt",
+    "title": "Mishneh Torah; Borrowing and Deposit"
+  },
+  {
+    "year": 1177,
+    "place": "Middle-Age Egypt",
+    "title": "Mishneh Torah; Creditor and Debtor"
+  },
+  {
+    "year": 1177,
+    "place": "Middle-Age Egypt",
+    "title": "Mishneh Torah; Plaintiff and Defendant"
+  },
+  {
+    "year": 1177,
+    "place": "Middle-Age Egypt",
+    "title": "Mishneh Torah; Inheritances"
+  },
+  {
+    "year": 1177,
+    "place": "Middle-Age Egypt",
+    "title": "Mishneh Torah; The Sanhedrin and the Penalties within their Jurisdiction"
+  },
+  {
+    "year": 1177,
+    "place": "Middle-Age Egypt",
+    "title": "Mishneh Torah; Testimony"
+  },
+  {
+    "year": 1177,
+    "place": "Middle-Age Egypt",
+    "title": "Mishneh Torah; Rebels"
+  },
+  {
+    "year": 1177,
+    "place": "Middle-Age Egypt",
+    "title": "Mishneh Torah; Mourning"
+  },
+  {
+    "year": 1177,
+    "place": "Middle-Age Egypt",
+    "title": "Mishneh Torah; Kings and Wars"
+  },
+  {
+    "year": 1185,
+    "place": "Provence; France",
+    "title": "Hasagot HaRaavad on Mishneh Torah; Circumcision"
+  },
+  {
+    "year": 1185,
+    "place": "Provence; France",
+    "title": "Hasagot HaRaavad on Mishneh Torah; Fringes"
+  },
+  {
+    "year": 1185,
+    "place": "Provence; France",
+    "title": "Hasagot HaRaavad on Mishneh Torah; Reading the Shema"
+  },
+  {
+    "year": 1185,
+    "place": "Provence; France",
+    "title": "Hasagot HaRaavad on Mishneh Torah; Blessings"
+  },
+  {
+    "year": 1185,
+    "place": "Provence; France",
+    "title": "Hasagot HaRaavad on Mishneh Torah; Prayer and the Priestly Blessing"
+  },
+  {
+    "year": 1185,
+    "place": "Provence; France",
+    "title": "Hasagot HaRaavad on Mishneh Torah; Tefillin; Mezuzah and the Torah Scroll"
+  },
+  {
+    "year": 1185,
+    "place": "Provence; France",
+    "title": "Hasagot HaRaavad on Mishneh Torah; The Chosen Temple"
+  },
+  {
+    "year": 1185,
+    "place": "Provence; France",
+    "title": "Hasagot HaRaavad on Mishneh Torah; Sacrificial Procedure"
+  },
+  {
+    "year": 1185,
+    "place": "Provence; France",
+    "title": "Hasagot HaRaavad on Mishneh Torah; Things Forbidden on the Altar"
+  },
+  {
+    "year": 1185,
+    "place": "Provence; France",
+    "title": "Hasagot HaRaavad on Mishneh Torah; Daily Offerings and Additional Offerings"
+  },
+  {
+    "year": 1185,
+    "place": "Provence; France",
+    "title": "Hasagot HaRaavad on Mishneh Torah; Vessels of the Sanctuary and Those who Serve Therein"
+  },
+  {
+    "year": 1185,
+    "place": "Provence; France",
+    "title": "Hasagot HaRaavad on Mishneh Torah; Sacrifices Rendered Unfit"
+  },
+  {
+    "year": 1185,
+    "place": "Provence; France",
+    "title": "Hasagot HaRaavad on Mishneh Torah; Admission into the Sanctuary"
+  },
+  {
+    "year": 1185,
+    "place": "Provence; France",
+    "title": "Hasagot HaRaavad on Mishneh Torah; Trespass"
+  },
+  {
+    "year": 1185,
+    "place": "Provence; France",
+    "title": "Hasagot HaRaavad on Mishneh Torah; Service on the Day of Atonement"
+  },
+  {
+    "year": 1185,
+    "place": "Provence; France",
+    "title": "Hasagot HaRaavad on Mishneh Torah; Oaths"
+  },
+  {
+    "year": 1185,
+    "place": "Provence; France",
+    "title": "Hasagot HaRaavad on Mishneh Torah; Nazariteship"
+  },
+  {
+    "year": 1185,
+    "place": "Provence; France",
+    "title": "Hasagot HaRaavad on Mishneh Torah; Vows"
+  },
+  {
+    "year": 1185,
+    "place": "Provence; France",
+    "title": "Hasagot HaRaavad on Mishneh Torah; Appraisals and Devoted Property"
+  },
+  {
+    "year": 1185,
+    "place": "Provence; France",
+    "title": "Hasagot HaRaavad on Mishneh Torah; Ritual Slaughter"
+  },
+  {
+    "year": 1185,
+    "place": "Provence; France",
+    "title": "Hasagot HaRaavad on Mishneh Torah; Forbidden Intercourse"
+  },
+  {
+    "year": 1185,
+    "place": "Provence; France",
+    "title": "Hasagot HaRaavad on Mishneh Torah; Forbidden Foods"
+  },
+  {
+    "year": 1185,
+    "place": "Provence; France",
+    "title": "Hasagot HaRaavad on Mishneh Torah; Offerings for Those with Incomplete Atonement"
+  },
+  {
+    "year": 1185,
+    "place": "Provence; France",
+    "title": "Hasagot HaRaavad on Mishneh Torah; Substitution"
+  },
+  {
+    "year": 1185,
+    "place": "Provence; France",
+    "title": "Hasagot HaRaavad on Mishneh Torah; Paschal Offering"
+  },
+  {
+    "year": 1185,
+    "place": "Provence; France",
+    "title": "Hasagot HaRaavad on Mishneh Torah; Firstlings"
+  },
+  {
+    "year": 1185,
+    "place": "Provence; France",
+    "title": "Hasagot HaRaavad on Mishneh Torah; Offerings for Unintentional Transgressions"
+  },
+  {
+    "year": 1185,
+    "place": "Provence; France",
+    "title": "Hasagot HaRaavad on Mishneh Torah; Festival Offering"
+  },
+  {
+    "year": 1185,
+    "place": "Provence; France",
+    "title": "Hasagot HaRaavad on Mishneh Torah; Repentance"
+  },
+  {
+    "year": 1185,
+    "place": "Provence; France",
+    "title": "Hasagot HaRaavad on Mishneh Torah; Foreign Worship and Customs of the Nations"
+  },
+  {
+    "year": 1185,
+    "place": "Provence; France",
+    "title": "Hasagot HaRaavad on Mishneh Torah; Torah Study"
+  },
+  {
+    "year": 1185,
+    "place": "Provence; France",
+    "title": "Hasagot HaRaavad on Mishneh Torah; Human Dispositions"
+  },
+  {
+    "year": 1185,
+    "place": "Provence; France",
+    "title": "Hasagot HaRaavad on Mishneh Torah; Foundations of the Torah"
+  },
+  {
+    "year": 1185,
+    "place": "Provence; France",
+    "title": "Hasagot HaRaavad on Mishneh Torah; Inheritances"
+  },
+  {
+    "year": 1185,
+    "place": "Provence; France",
+    "title": "Hasagot HaRaavad on Mishneh Torah; Creditor and Debtor"
+  },
+  {
+    "year": 1185,
+    "place": "Provence; France",
+    "title": "Hasagot HaRaavad on Mishneh Torah; Hiring"
+  },
+  {
+    "year": 1185,
+    "place": "Provence; France",
+    "title": "Hasagot HaRaavad on Mishneh Torah; Plaintiff and Defendant"
+  },
+  {
+    "year": 1185,
+    "place": "Provence; France",
+    "title": "Hasagot HaRaavad on Mishneh Torah; Borrowing and Deposit"
+  },
+  {
+    "year": 1185,
+    "place": "Provence; France",
+    "title": "Hasagot HaRaavad on Mishneh Torah; Divorce"
+  },
+  {
+    "year": 1185,
+    "place": "Provence; France",
+    "title": "Hasagot HaRaavad on Mishneh Torah; Marriage"
+  },
+  {
+    "year": 1185,
+    "place": "Provence; France",
+    "title": "Hasagot HaRaavad on Mishneh Torah; One Who Injures a Person or Property"
+  },
+  {
+    "year": 1185,
+    "place": "Provence; France",
+    "title": "Hasagot HaRaavad on Mishneh Torah; Theft"
+  },
+  {
+    "year": 1185,
+    "place": "Provence; France",
+    "title": "Hasagot HaRaavad on Mishneh Torah; Murderer and the Preservation of Life"
+  },
+  {
+    "year": 1185,
+    "place": "Provence; France",
+    "title": "Hasagot HaRaavad on Mishneh Torah; Damages to Property"
+  },
+  {
+    "year": 1185,
+    "place": "Provence; France",
+    "title": "Hasagot HaRaavad on Mishneh Torah; Robbery and Lost Property"
+  },
+  {
+    "year": 1185,
+    "place": "Provence; France",
+    "title": "Hasagot HaRaavad on Mishneh Torah; Testimony"
+  },
+  {
+    "year": 1185,
+    "place": "Provence; France",
+    "title": "Hasagot HaRaavad on Mishneh Torah; The Sanhedrin and the Penalties within their Jurisdiction"
+  },
+  {
+    "year": 1185,
+    "place": "Provence; France",
+    "title": "Hasagot HaRaavad on Mishneh Torah; Rebels"
+  },
+  {
+    "year": 1185,
+    "place": "Provence; France",
+    "title": "Hasagot HaRaavad on Mishneh Torah; Mourning"
+  },
+  {
+    "year": 1185,
+    "place": "Provence; France",
+    "title": "Hasagot HaRaavad on Mishneh Torah; Kings and Wars"
+  },
+  {
+    "year": 1185,
+    "place": "Provence; France",
+    "title": "Hasagot HaRaavad on Mishneh Torah; Defilement by a Corpse"
+  },
+  {
+    "year": 1185,
+    "place": "Provence; France",
+    "title": "Hasagot HaRaavad on Mishneh Torah; Those Who Defile Bed or Seat"
+  },
+  {
+    "year": 1185,
+    "place": "Provence; France",
+    "title": "Hasagot HaRaavad on Mishneh Torah; Other Sources of Defilement"
+  },
+  {
+    "year": 1185,
+    "place": "Provence; France",
+    "title": "Hasagot HaRaavad on Mishneh Torah; Defilement of Foods"
+  },
+  {
+    "year": 1185,
+    "place": "Provence; France",
+    "title": "Hasagot HaRaavad on Mishneh Torah; Vessels"
+  },
+  {
+    "year": 1185,
+    "place": "Provence; France",
+    "title": "Hasagot HaRaavad on Mishneh Torah; Immersion Pools"
+  },
+  {
+    "year": 1185,
+    "place": "Provence; France",
+    "title": "Hasagot HaRaavad on Mishneh Torah; Red Heifer"
+  },
+  {
+    "year": 1185,
+    "place": "Provence; France",
+    "title": "Hasagot HaRaavad on Mishneh Torah; Defilement by Leprosy"
+  },
+  {
+    "year": 1185,
+    "place": "Provence; France",
+    "title": "Hasagot HaRaavad on Mishneh Torah; Sanctification of the New Month"
+  },
+  {
+    "year": 1185,
+    "place": "Provence; France",
+    "title": "Hasagot HaRaavad on Mishneh Torah; Sheqel Dues"
+  },
+  {
+    "year": 1185,
+    "place": "Provence; France",
+    "title": "Hasagot HaRaavad on Mishneh Torah; Rest on a Holiday"
+  },
+  {
+    "year": 1185,
+    "place": "Provence; France",
+    "title": "Hasagot HaRaavad on Mishneh Torah; Scroll of Esther and Hanukkah"
+  },
+  {
+    "year": 1185,
+    "place": "Provence; France",
+    "title": "Hasagot HaRaavad on Mishneh Torah; Sabbath"
+  },
+  {
+    "year": 1185,
+    "place": "Provence; France",
+    "title": "Hasagot HaRaavad on Mishneh Torah; Eruvin"
+  },
+  {
+    "year": 1185,
+    "place": "Provence; France",
+    "title": "Hasagot HaRaavad on Mishneh Torah; Shofar; Sukkah and Lulav"
+  },
+  {
+    "year": 1185,
+    "place": "Provence; France",
+    "title": "Hasagot HaRaavad on Mishneh Torah; Rest on the Tenth of Tishrei"
+  },
+  {
+    "year": 1185,
+    "place": "Provence; France",
+    "title": "Hasagot HaRaavad on Mishneh Torah; Fasts"
+  },
+  {
+    "year": 1185,
+    "place": "Provence; France",
+    "title": "Hasagot HaRaavad on Mishneh Torah; Leavened and Unleavened Bread"
+  },
+  {
+    "year": 1185,
+    "place": "Provence; France",
+    "title": "Hasagot HaRaavad on Mishneh Torah; Heave Offerings"
+  },
+  {
+    "year": 1185,
+    "place": "Provence; France",
+    "title": "Hasagot HaRaavad on Mishneh Torah; Gifts to the Poor"
+  },
+  {
+    "year": 1185,
+    "place": "Provence; France",
+    "title": "Hasagot HaRaavad on Mishneh Torah; Sabbatical Year and the Jubilee"
+  },
+  {
+    "year": 1185,
+    "place": "Provence; France",
+    "title": "Hasagot HaRaavad on Mishneh Torah; Second Tithes and Fourth Year's Fruit"
+  },
+  {
+    "year": 1185,
+    "place": "Provence; France",
+    "title": "Hasagot HaRaavad on Mishneh Torah; First Fruits and other Gifts to Priests Outside the Sanctuary"
+  },
+  {
+    "year": 1185,
+    "place": "Provence; France",
+    "title": "Hasagot HaRaavad on Mishneh Torah; Tithes"
+  },
+  {
+    "year": 1185,
+    "place": "Provence; France",
+    "title": "Hasagot HaRaavad on Mishneh Torah; Diverse Species"
+  },
+  {
+    "year": 1190,
+    "place": "Fustat",
+    "title": "Guide for the Perplexed"
+  },
+  {
+    "year": 1200,
+    "place": "Talmudic Israel/Babylon",
+    "title": "Shemot Rabbah"
+  },
+  {
+    "year": 1200,
+    "place": "Talmudic Israel/Babylon",
+    "title": "Esther Rabbah"
+  },
+  {
+    "year": 1200,
+    "place": "Speyer",
+    "title": "Sefer Chasidim"
+  },
+  {
+    "year": 1200,
+    "place": "Middle-Age France / Germany / Italy / England",
+    "title": "Daat Zkenim on Deuteronomy"
+  },
+  {
+    "year": 1200,
+    "place": "Middle-Age France / Germany / Italy / England",
+    "title": "Daat Zkenim on Exodus"
+  },
+  {
+    "year": 1200,
+    "place": "Middle-Age France / Germany / Italy / England",
+    "title": "Daat Zkenim on Genesis"
+  },
+  {
+    "year": 1200,
+    "place": "Middle-Age France / Germany / Italy / England",
+    "title": "Daat Zkenim on Leviticus"
+  },
+  {
+    "year": 1200,
+    "place": "Middle-Age France / Germany / Italy / England",
+    "title": "Daat Zkenim on Numbers"
+  },
+  {
+    "year": 1200,
+    "place": "Middle-Age France / Germany / Italy / England",
+    "title": "Tosafot on Arakhin"
+  },
+  {
+    "year": 1200,
+    "place": "Middle-Age France / Germany / Italy / England",
+    "title": "Tosafot on Avodah Zarah"
+  },
+  {
+    "year": 1200,
+    "place": "Middle-Age France / Germany / Italy / England",
+    "title": "Tosafot on Bava Batra"
+  },
+  {
+    "year": 1200,
+    "place": "Middle-Age France / Germany / Italy / England",
+    "title": "Tosafot on Bava Kamma"
+  },
+  {
+    "year": 1200,
+    "place": "Middle-Age France / Germany / Italy / England",
+    "title": "Tosafot on Bava Metzia"
+  },
+  {
+    "year": 1200,
+    "place": "Middle-Age France / Germany / Italy / England",
+    "title": "Tosafot on Beitzah"
+  },
+  {
+    "year": 1200,
+    "place": "Middle-Age France / Germany / Italy / England",
+    "title": "Tosafot on Bekhorot"
+  },
+  {
+    "year": 1200,
+    "place": "Middle-Age France / Germany / Italy / England",
+    "title": "Tosafot on Berakhot"
+  },
+  {
+    "year": 1200,
+    "place": "Middle-Age France / Germany / Italy / England",
+    "title": "Tosafot on Chagigah"
+  },
+  {
+    "year": 1200,
+    "place": "Middle-Age France / Germany / Italy / England",
+    "title": "Tosafot on Chullin"
+  },
+  {
+    "year": 1200,
+    "place": "Middle-Age France / Germany / Italy / England",
+    "title": "Tosafot on Eruvin"
+  },
+  {
+    "year": 1200,
+    "place": "Middle-Age France / Germany / Italy / England",
+    "title": "Tosafot on Gittin"
+  },
+  {
+    "year": 1200,
+    "place": "Middle-Age France / Germany / Italy / England",
+    "title": "Tosafot on Horayot"
+  },
+  {
+    "year": 1200,
+    "place": "Middle-Age France / Germany / Italy / England",
+    "title": "Tosafot on Keritot"
+  },
+  {
+    "year": 1200,
+    "place": "Middle-Age France / Germany",
+    "title": "Tosafot on Ketubot"
+  },
+  {
+    "year": 1200,
+    "place": "Middle-Age France / Germany / Italy / England",
+    "title": "Tosafot on Kiddushin"
+  },
+  {
+    "year": 1200,
+    "place": "Middle-Age France / Germany / Italy / England",
+    "title": "Tosafot on Makkot"
+  },
+  {
+    "year": 1200,
+    "place": "Middle-Age France / Germany / Italy / England",
+    "title": "Tosafot on Megillah"
+  },
+  {
+    "year": 1200,
+    "place": "Middle-Age France / Germany / Italy / England",
+    "title": "Tosafot on Meilah"
+  },
+  {
+    "year": 1200,
+    "place": "Middle-Age France / Germany / Italy / England",
+    "title": "Tosafot on Menachot"
+  },
+  {
+    "year": 1200,
+    "place": "Middle-Age France / Germany / Italy / England",
+    "title": "Tosafot on Moed Katan"
+  },
+  {
+    "year": 1200,
+    "place": "Middle-Age France / Germany / Italy / England",
+    "title": "Tosafot on Nazir"
+  },
+  {
+    "year": 1200,
+    "place": "Middle-Age France / Germany / Italy / England",
+    "title": "Tosafot on Nedarim"
+  },
+  {
+    "year": 1200,
+    "place": "Middle-Age France / Germany / Italy / England",
+    "title": "Tosafot on Niddah"
+  },
+  {
+    "year": 1200,
+    "place": "Middle-Age France / Germany / Italy / England",
+    "title": "Tosafot on Pesachim"
+  },
+  {
+    "year": 1200,
+    "place": "Middle-Age France / Germany / Italy / England",
+    "title": "Tosafot on Rosh Hashanah"
+  },
+  {
+    "year": 1200,
+    "place": "Middle-Age France / Germany / Italy / England",
+    "title": "Tosafot on Sanhedrin"
+  },
+  {
+    "year": 1200,
+    "place": "Middle-Age France / Germany / Italy / England",
+    "title": "Tosafot on Shabbat"
+  },
+  {
+    "year": 1200,
+    "place": "Middle-Age France / Germany / Italy / England",
+    "title": "Tosafot on Shevuot"
+  },
+  {
+    "year": 1200,
+    "place": "Middle-Age France / Germany / Italy / England",
+    "title": "Tosafot on Sotah"
+  },
+  {
+    "year": 1200,
+    "place": "Middle-Age France / Germany / Italy / England",
+    "title": "Tosafot on Sukkah"
+  },
+  {
+    "year": 1200,
+    "place": "Middle-Age France / Germany / Italy / England",
+    "title": "Tosafot on Taanit"
+  },
+  {
+    "year": 1200,
+    "place": "Middle-Age France / Germany / Italy / England",
+    "title": "Tosafot on Temurah"
+  },
+  {
+    "year": 1200,
+    "place": "Middle-Age France / Germany / Italy / England",
+    "title": "Tosafot on Yevamot"
+  },
+  {
+    "year": 1200,
+    "place": "Middle-Age France / Germany / Italy / England",
+    "title": "Tosafot on Yoma"
+  },
+  {
+    "year": 1200,
+    "place": "Middle-Age France / Germany / Italy / England",
+    "title": "Tosafot on Zevachim"
+  },
+  {
+    "year": 1210,
+    "place": "Provence; France",
+    "title": "Radak on Genesis"
+  },
+  {
+    "year": 1210,
+    "place": "Provence; France",
+    "title": "Radak on Psalms"
+  },
+  {
+    "year": 1210,
+    "place": "Provence; France",
+    "title": "Radak on II Kings"
+  },
+  {
+    "year": 1210,
+    "place": "Provence; France",
+    "title": "Radak on II Samuel"
+  },
+  {
+    "year": 1210,
+    "place": "Provence; France",
+    "title": "Radak on Nahum"
+  },
+  {
+    "year": 1210,
+    "place": "Provence; France",
+    "title": "Radak on Zechariah"
+  },
+  {
+    "year": 1210,
+    "place": "Provence; France",
+    "title": "Radak on Amos"
+  },
+  {
+    "year": 1210,
+    "place": "Provence; France",
+    "title": "Radak on Ezekiel"
+  },
+  {
+    "year": 1210,
+    "place": "Provence; France",
+    "title": "Radak on Habakkuk"
+  },
+  {
+    "year": 1210,
+    "place": "Provence; France",
+    "title": "Radak on Haggai"
+  },
+  {
+    "year": 1210,
+    "place": "Provence; France",
+    "title": "Radak on Hosea"
+  },
+  {
+    "year": 1210,
+    "place": "Provence; France",
+    "title": "Radak on I Chronicles"
+  },
+  {
+    "year": 1210,
+    "place": "Provence; France",
+    "title": "Radak on I Kings"
+  },
+  {
+    "year": 1210,
+    "place": "Provence; France",
+    "title": "Radak on I Samuel"
+  },
+  {
+    "year": 1210,
+    "place": "Provence; France",
+    "title": "Radak on II Chronicles"
+  },
+  {
+    "year": 1210,
+    "place": "Provence; France",
+    "title": "Radak on Isaiah"
+  },
+  {
+    "year": 1210,
+    "place": "Provence; France",
+    "title": "Radak on Jeremiah"
+  },
+  {
+    "year": 1210,
+    "place": "Provence; France",
+    "title": "Radak on Joel"
+  },
+  {
+    "year": 1210,
+    "place": "Provence; France",
+    "title": "Radak on Jonah"
+  },
+  {
+    "year": 1210,
+    "place": "Provence; France",
+    "title": "Radak on Joshua"
+  },
+  {
+    "year": 1210,
+    "place": "Provence; France",
+    "title": "Radak on Judges"
+  },
+  {
+    "year": 1210,
+    "place": "Provence; France",
+    "title": "Radak on Malachi"
+  },
+  {
+    "year": 1210,
+    "place": "Provence; France",
+    "title": "Radak on Micah"
+  },
+  {
+    "year": 1210,
+    "place": "Provence; France",
+    "title": "Radak on Obadiah"
+  },
+  {
+    "year": 1210,
+    "place": "Provence; France",
+    "title": "Radak on Zephaniah"
+  },
+  {
+    "year": 1225,
+    "place": "Trani; Italy",
+    "title": "Tosafot Rid on Bava Kamma"
+  },
+  {
+    "year": 1225,
+    "place": "Trani; Italy",
+    "title": "Tosafot Rid on Bava Metzia"
+  },
+  {
+    "year": 1225,
+    "place": "Trani; Italy",
+    "title": "Tosafot Rid on Beitzah"
+  },
+  {
+    "year": 1225,
+    "place": "Trani; Italy",
+    "title": "Tosafot Rid on Chagigah"
+  },
+  {
+    "year": 1225,
+    "place": "Trani; Italy",
+    "title": "Tosafot Rid on Eruvin Second Recension"
+  },
+  {
+    "year": 1225,
+    "place": "Trani; Italy",
+    "title": "Tosafot Rid on Kiddushin"
+  },
+  {
+    "year": 1225,
+    "place": "Trani; Italy",
+    "title": "Tosafot Rid on Megillah First Recension"
+  },
+  {
+    "year": 1225,
+    "place": "Trani; Italy",
+    "title": "Tosafot Rid on Megillah Second Recension"
+  },
+  {
+    "year": 1225,
+    "place": "Trani; Italy",
+    "title": "Tosafot Rid on Moed Katan"
+  },
+  {
+    "year": 1225,
+    "place": "Trani; Italy",
+    "title": "Tosafot Rid on Nedarim"
+  },
+  {
+    "year": 1225,
+    "place": "Trani; Italy",
+    "title": "Tosafot Rid on Niddah"
+  },
+  {
+    "year": 1225,
+    "place": "Trani; Italy",
+    "title": "Tosafot Rid on Pesachim"
+  },
+  {
+    "year": 1225,
+    "place": "Trani; Italy",
+    "title": "Tosafot Rid on Rosh Hashanah"
+  },
+  {
+    "year": 1225,
+    "place": "Trani; Italy",
+    "title": "Tosafot Rid on Shabbat"
+  },
+  {
+    "year": 1225,
+    "place": "Trani; Italy",
+    "title": "Tosafot Rid on Sukkah"
+  },
+  {
+    "year": 1225,
+    "place": "Trani; Italy",
+    "title": "Tosafot Rid on Taanit"
+  },
+  {
+    "year": 1225,
+    "place": "Trani; Italy",
+    "title": "Tosafot Rid on Yoma"
+  },
+  {
+    "year": 1225,
+    "place": "Trani; Italy",
+    "title": "Tosafot Rid on Gittin"
+  },
+  {
+    "year": 1225,
+    "place": "Trani; Italy",
+    "title": "Tosafot Rid on Ketubot"
+  },
+  {
+    "year": 1225,
+    "place": "Trani; Italy",
+    "title": "Tosafot Rid on Yevamot"
+  },
+  {
+    "year": 1225,
+    "place": "Trani; Italy",
+    "title": "Tosafot Rid on Nazir"
+  },
+  {
+    "year": 1225,
+    "place": "Trani; Italy",
+    "title": "Tosafot Rid on Avodah Zarah First Recension"
+  },
+  {
+    "year": 1225,
+    "place": "Trani; Italy",
+    "title": "Tosafot Rid on Avodah Zarah Second Recension"
+  },
+  {
+    "year": 1225,
+    "place": "Trani; Italy",
+    "title": "Tosafot Rid on Avodah Zarah Third Recension"
+  },
+  {
+    "year": 1240,
+    "place": "Middle-Age France",
+    "title": "Chizkuni"
+  },
+  {
+    "year": 1250,
+    "place": "Middle-Age Spain",
+    "title": "Zohar"
+  },
+  {
+    "year": 1250,
+    "place": "Middle-Age Spain",
+    "title": "Zohar Chadash"
+  },
+  {
+    "year": 1250,
+    "place": "Middle-Age Spain",
+    "title": "Tikkunei Zohar"
+  },
+  {
+    "year": 1250,
+    "place": "Narbonne",
+    "title": "Midrash Tehillim"
+  },
+  {
+    "year": 1253,
+    "place": "Middle-Age Spain",
+    "title": "Shaarei Teshuvah"
+  },
+  {
+    "year": 1266,
+    "place": "Middle-Age Spain",
+    "title": "Ramban on Deuteronomy"
+  },
+  {
+    "year": 1266,
+    "place": "Middle-Age Spain",
+    "title": "Ramban on Exodus"
+  },
+  {
+    "year": 1266,
+    "place": "Middle-Age Spain",
+    "title": "Ramban on Genesis"
+  },
+  {
+    "year": 1266,
+    "place": "Middle-Age Spain",
+    "title": "Ramban on Leviticus"
+  },
+  {
+    "year": 1266,
+    "place": "Middle-Age Spain",
+    "title": "Ramban on Numbers"
+  },
+  {
+    "year": 1267,
+    "place": "Acre; Israel",
+    "title": "Iggeret HaRamban"
+  },
+  {
+    "year": 1270,
+    "place": "Middle-Age Spain",
+    "title": "Sefer HaChinukh"
+  },
+  {
+    "year": 1290,
+    "place": "Barcelona; Spain",
+    "title": "Teshuvot haRashba part IV"
+  },
+  {
+    "year": 1290,
+    "place": "Barcelona; Spain",
+    "title": "Teshuvot haRashba part V"
+  },
+  {
+    "year": 1290,
+    "place": "Barcelona; Spain",
+    "title": "Teshuvot haRashba part VI"
+  },
+  {
+    "year": 1290,
+    "place": "Barcelona; Spain",
+    "title": "Teshuvot haRashba Meyuchas LehaRamban"
+  },
+  {
+    "year": 1290,
+    "place": "Barcelona; Spain",
+    "title": "Sha'ar HaMayim HaKatzar"
+  },
+  {
+    "year": 1290,
+    "place": "Barcelona; Spain",
+    "title": "Piskei Challah"
+  },
+  {
+    "year": 1290,
+    "place": "Barcelona; Spain",
+    "title": "Avodat HaKodesh"
+  },
+  {
+    "year": 1290,
+    "place": "Barcelona; Spain",
+    "title": "Torat HaBayit HaKatzar"
+  },
+  {
+    "year": 1290,
+    "place": "Barcelona; Spain",
+    "title": "Torat HaBayit HaAroch"
+  },
+  {
+    "year": 1290,
+    "place": "Barcelona; Spain",
+    "title": "Sha'ar HaMayim HaAroch"
+  },
+  {
+    "year": 1290,
+    "place": "Barcelona; Spain",
+    "title": "Rashba on Avodah Zarah"
+  },
+  {
+    "year": 1290,
+    "place": "Barcelona; Spain",
+    "title": "Rashba on Bava Batra"
+  },
+  {
+    "year": 1290,
+    "place": "Barcelona; Spain",
+    "title": "Rashba on Berakhot"
+  },
+  {
+    "year": 1290,
+    "place": "Barcelona; Spain",
+    "title": "Rashba on Chullin"
+  },
+  {
+    "year": 1290,
+    "place": "Barcelona; Spain",
+    "title": "Rashba on Gittin"
+  },
+  {
+    "year": 1290,
+    "place": "Barcelona; Spain",
+    "title": "Rashba on Ketubot"
+  },
+  {
+    "year": 1290,
+    "place": "Barcelona; Spain",
+    "title": "Rashba on Kiddushin"
+  },
+  {
+    "year": 1290,
+    "place": "Barcelona; Spain",
+    "title": "Rashba on Niddah"
+  },
+  {
+    "year": 1290,
+    "place": "Barcelona; Spain",
+    "title": "Rashba on Yevamot"
+  },
+  {
+    "year": 1290,
+    "place": "Barcelona; Spain",
+    "title": "Rashba on Bava Metzia"
+  },
+  {
+    "year": 1290,
+    "place": "Barcelona; Spain",
+    "title": "Rashba on Beitzah"
+  },
+  {
+    "year": 1290,
+    "place": "Barcelona; Spain",
+    "title": "Rashba on Rosh Hashanah"
+  },
+  {
+    "year": 1290,
+    "place": "Barcelona; Spain",
+    "title": "Rashba on Nedarim"
+  },
+  {
+    "year": 1290,
+    "place": "Barcelona; Spain",
+    "title": "Rashba on Shabbat"
+  },
+  {
+    "year": 1290,
+    "place": "Barcelona; Spain",
+    "title": "Rashba on Megillah"
+  },
+  {
+    "year": 1293,
+    "place": "Barcelona; Spain",
+    "title": "Bedek HaBayit on Torat HaBayit HaAroch"
+  },
+  {
+    "year": 1293,
+    "place": "Barcelona; Spain",
+    "title": "Mishmeret HaBayit on Torat HaBayit HaAroch"
+  },
+  {
+    "year": 1300,
+    "place": "Middle-Age Spain",
+    "title": "Teshuvot HaRitva"
+  },
+  {
+    "year": 1300,
+    "place": "Middle-Age Spain",
+    "title": "Rosh on Shevuot"
+  },
+  {
+    "year": 1300,
+    "place": "Middle-Age Spain",
+    "title": "Rosh on Megillah"
+  },
+  {
+    "year": 1300,
+    "place": "Middle-Age Spain",
+    "title": "Rosh on Avodah Zarah"
+  },
+  {
+    "year": 1300,
+    "place": "Middle-Age Spain",
+    "title": "Rosh on Ketubot"
+  },
+  {
+    "year": 1300,
+    "place": "Middle-Age Spain",
+    "title": "Rosh on Beitzah"
+  },
+  {
+    "year": 1300,
+    "place": "Middle-Age Spain",
+    "title": "Rosh on Berakhot"
+  },
+  {
+    "year": 1300,
+    "place": "Middle-Age Spain",
+    "title": "Rosh on Gittin"
+  },
+  {
+    "year": 1300,
+    "place": "Middle-Age Spain",
+    "title": "Rosh on Bava Kamma"
+  },
+  {
+    "year": 1300,
+    "place": "Middle-Age Spain",
+    "title": "Rosh on Shabbat"
+  },
+  {
+    "year": 1300,
+    "place": "Middle-Age Spain",
+    "title": "Rosh on Eruvin"
+  },
+  {
+    "year": 1300,
+    "place": "Middle-Age Spain",
+    "title": "Rosh on Moed Katan"
+  },
+  {
+    "year": 1300,
+    "place": "Middle-Age Spain",
+    "title": "Rosh on Bava Metzia"
+  },
+  {
+    "year": 1300,
+    "place": "Middle-Age Spain",
+    "title": "Rosh on Bava Batra"
+  },
+  {
+    "year": 1300,
+    "place": "Middle-Age Spain",
+    "title": "Rosh on Chullin"
+  },
+  {
+    "year": 1300,
+    "place": "Middle-Age Spain",
+    "title": "Rosh on Bekhorot"
+  },
+  {
+    "year": 1300,
+    "place": "Middle-Age Spain",
+    "title": "Rosh on Pesachim"
+  },
+  {
+    "year": 1300,
+    "place": "Middle-Age Spain",
+    "title": "Rosh on Rosh Hashanah"
+  },
+  {
+    "year": 1300,
+    "place": "Middle-Age Spain",
+    "title": "Rosh on Kiddushin"
+  },
+  {
+    "year": 1300,
+    "place": "Middle-Age Spain",
+    "title": "Rosh on Makkot"
+  },
+  {
+    "year": 1300,
+    "place": "Middle-Age Spain",
+    "title": "Rosh on Yevamot"
+  },
+  {
+    "year": 1300,
+    "place": "Middle-Age Spain",
+    "title": "Shita Mekubetzet on Berakhot"
+  },
+  {
+    "year": 1300,
+    "place": "Middle-Age Spain",
+    "title": "Rabbeinu Bahya"
+  },
+  {
+    "year": 1300,
+    "place": "Middle-Age Spain",
+    "title": "Ritva on Berakhot"
+  },
+  {
+    "year": 1300,
+    "place": "Middle-Age Spain",
+    "title": "Ritva on Makkot"
+  },
+  {
+    "year": 1300,
+    "place": "Middle-Age Spain",
+    "title": "Ritva on Avodah Zarah"
+  },
+  {
+    "year": 1300,
+    "place": "Middle-Age Spain",
+    "title": "Ritva on Rosh Hashanah"
+  },
+  {
+    "year": 1300,
+    "place": "Middle-Age Spain",
+    "title": "Ritva on Niddah"
+  },
+  {
+    "year": 1300,
+    "place": "Middle-Age Spain",
+    "title": "Ritva on Yoma"
+  },
+  {
+    "year": 1300,
+    "place": "Middle-Age Spain",
+    "title": "Ritva on Eruvin"
+  },
+  {
+    "year": 1300,
+    "place": "Middle-Age Spain",
+    "title": "Ritva on Sukkah"
+  },
+  {
+    "year": 1300,
+    "place": "Middle-Age Spain",
+    "title": "Ritva on Taanit"
+  },
+  {
+    "year": 1300,
+    "place": "Toledo; Spain",
+    "title": "Kitzur Baal Haturim on Deuteronomy"
+  },
+  {
+    "year": 1300,
+    "place": "Toledo; Spain",
+    "title": "Kitzur Baal Haturim on Exodus"
+  },
+  {
+    "year": 1300,
+    "place": "Toledo; Spain",
+    "title": "Kitzur Baal Haturim on Genesis"
+  },
+  {
+    "year": 1300,
+    "place": "Toledo; Spain",
+    "title": "Kitzur Baal Haturim on Leviticus"
+  },
+  {
+    "year": 1300,
+    "place": "Toledo; Spain",
+    "title": "Kitzur Baal Haturim on Numbers"
+  },
+  {
+    "year": 1300,
+    "place": "Middle-Age Spain",
+    "title": "Sefer HaYashar"
+  },
+  {
+    "year": 1300,
+    "place": "Middle-Age Spain",
+    "title": "Ritva on Moed Katan"
+  },
+  {
+    "year": 1300,
+    "place": "Middle-Age Spain",
+    "title": "Ritva on Megillah"
+  },
+  {
+    "year": 1300,
+    "place": "Middle-Age Spain",
+    "title": "Ritva on Kiddushin"
+  },
+  {
+    "year": 1300,
+    "place": "Middle-Age Spain",
+    "title": "Ritva on Pesachim"
+  },
+  {
+    "year": 1300,
+    "place": "Middle-Age Spain",
+    "title": "Ritva on Chullin"
+  },
+  {
+    "year": 1300,
+    "place": "Middle-Age Spain",
+    "title": "Ritva on Ketubot"
+  },
+  {
+    "year": 1300,
+    "place": "Middle-Age Spain",
+    "title": "Commentary of Ritva on Pesach Haggadah"
+  },
+  {
+    "year": 1300,
+    "place": "Middle-Age Spain",
+    "title": "Ritva on Yevamot"
+  },
+  {
+    "year": 1304,
+    "place": "Montpellier",
+    "title": "Minhat Kenaot"
+  },
+  {
+    "year": 1310,
+    "place": "Rhineland",
+    "title": "Orchot Chaim L'HaRosh"
+  },
+  {
+    "year": 1315,
+    "place": "Saragossa",
+    "title": "Shulchan Shel Arba"
+  },
+  {
+    "year": 1315,
+    "place": "Saragossa",
+    "title": "Kad HaKemach"
+  },
+  {
+    "year": 1335,
+    "place": "Provence; France",
+    "title": "Ralbag on Ezra"
+  },
+  {
+    "year": 1335,
+    "place": "Provence; France",
+    "title": "Ralbag on I Chronicles"
+  },
+  {
+    "year": 1335,
+    "place": "Provence; France",
+    "title": "Ralbag on I Kings"
+  },
+  {
+    "year": 1335,
+    "place": "Provence; France",
+    "title": "Ralbag on I Samuel"
+  },
+  {
+    "year": 1335,
+    "place": "Provence; France",
+    "title": "Ralbag on II Chronicles"
+  },
+  {
+    "year": 1335,
+    "place": "Provence; France",
+    "title": "Ralbag on II Kings"
+  },
+  {
+    "year": 1335,
+    "place": "Provence; France",
+    "title": "Ralbag on II Samuel"
+  },
+  {
+    "year": 1335,
+    "place": "Provence; France",
+    "title": "Ralbag on Job"
+  },
+  {
+    "year": 1335,
+    "place": "Provence; France",
+    "title": "Ralbag on Joshua"
+  },
+  {
+    "year": 1335,
+    "place": "Provence; France",
+    "title": "Ralbag on Judges"
+  },
+  {
+    "year": 1335,
+    "place": "Provence; France",
+    "title": "Ralbag on Nehemiah"
+  },
+  {
+    "year": 1335,
+    "place": "Provence; France",
+    "title": "Ralbag on Proverbs"
+  },
+  {
+    "year": 1335,
+    "place": "Seville; Spain",
+    "title": "Abudarham"
+  },
+  {
+    "year": 1335,
+    "place": "Girona; Catalonia; Spain",
+    "title": "Maggid Mishneh on Mishneh Torah; Ritual Slaughter"
+  },
+  {
+    "year": 1335,
+    "place": "Girona; Catalonia; Spain",
+    "title": "Maggid Mishneh on Mishneh Torah; Forbidden Intercourse"
+  },
+  {
+    "year": 1335,
+    "place": "Girona; Catalonia; Spain",
+    "title": "Maggid Mishneh on Mishneh Torah; Forbidden Foods"
+  },
+  {
+    "year": 1335,
+    "place": "Girona; Catalonia; Spain",
+    "title": "Maggid Mishneh on Mishneh Torah; Inheritances"
+  },
+  {
+    "year": 1335,
+    "place": "Girona; Catalonia; Spain",
+    "title": "Maggid Mishneh on Mishneh Torah; Creditor and Debtor"
+  },
+  {
+    "year": 1335,
+    "place": "Girona; Catalonia; Spain",
+    "title": "Maggid Mishneh on Mishneh Torah; Hiring"
+  },
+  {
+    "year": 1335,
+    "place": "Girona; Catalonia; Spain",
+    "title": "Maggid Mishneh on Mishneh Torah; Plaintiff and Defendant"
+  },
+  {
+    "year": 1335,
+    "place": "Girona; Catalonia; Spain",
+    "title": "Maggid Mishneh on Mishneh Torah; Borrowing and Deposit"
+  },
+  {
+    "year": 1335,
+    "place": "Girona; Catalonia; Spain",
+    "title": "Maggid Mishneh on Mishneh Torah; Levirate Marriage and Release"
+  },
+  {
+    "year": 1335,
+    "place": "Girona; Catalonia; Spain",
+    "title": "Maggid Mishneh on Mishneh Torah; Divorce"
+  },
+  {
+    "year": 1335,
+    "place": "Girona; Catalonia; Spain",
+    "title": "Maggid Mishneh on Mishneh Torah; Marriage"
+  },
+  {
+    "year": 1335,
+    "place": "Girona; Catalonia; Spain",
+    "title": "Maggid Mishneh on Mishneh Torah; One Who Injures a Person or Property"
+  },
+  {
+    "year": 1335,
+    "place": "Girona; Catalonia; Spain",
+    "title": "Maggid Mishneh on Mishneh Torah; Theft"
+  },
+  {
+    "year": 1335,
+    "place": "Girona; Catalonia; Spain",
+    "title": "Maggid Mishneh on Mishneh Torah; Damages to Property"
+  },
+  {
+    "year": 1335,
+    "place": "Girona; Catalonia; Spain",
+    "title": "Maggid Mishneh on Mishneh Torah; Robbery and Lost Property"
+  },
+  {
+    "year": 1335,
+    "place": "Girona; Catalonia; Spain",
+    "title": "Maggid Mishneh on Mishneh Torah; Scroll of Esther and Hanukkah"
+  },
+  {
+    "year": 1335,
+    "place": "Girona; Catalonia; Spain",
+    "title": "Maggid Mishneh on Mishneh Torah; Rest on a Holiday"
+  },
+  {
+    "year": 1335,
+    "place": "Girona; Catalonia; Spain",
+    "title": "Maggid Mishneh on Mishneh Torah; Sabbath"
+  },
+  {
+    "year": 1335,
+    "place": "Girona; Catalonia; Spain",
+    "title": "Maggid Mishneh on Mishneh Torah; Eruvin"
+  },
+  {
+    "year": 1335,
+    "place": "Girona; Catalonia; Spain",
+    "title": "Maggid Mishneh on Mishneh Torah; Shofar; Sukkah and Lulav"
+  },
+  {
+    "year": 1335,
+    "place": "Girona; Catalonia; Spain",
+    "title": "Maggid Mishneh on Mishneh Torah; Rest on the Tenth of Tishrei"
+  },
+  {
+    "year": 1335,
+    "place": "Girona; Catalonia; Spain",
+    "title": "Maggid Mishneh on Mishneh Torah; Fasts"
+  },
+  {
+    "year": 1335,
+    "place": "Girona; Catalonia; Spain",
+    "title": "Maggid Mishneh on Mishneh Torah; Leavened and Unleavened Bread"
+  },
+  {
+    "year": 1335,
+    "place": "Girona; Catalonia; Spain",
+    "title": "Maggid Mishneh on Mishneh Torah; Neighbors"
+  },
+  {
+    "year": 1335,
+    "place": "Girona; Catalonia; Spain",
+    "title": "Maggid Mishneh on Mishneh Torah; Sales"
+  },
+  {
+    "year": 1335,
+    "place": "Girona; Catalonia; Spain",
+    "title": "Maggid Mishneh on Mishneh Torah; Ownerless Property and Gifts"
+  },
+  {
+    "year": 1335,
+    "place": "Provence; France",
+    "title": "Ralbag on Torah"
+  },
+  {
+    "year": 1350,
+    "place": "Middle-Age Spain",
+    "title": "Ran on Nedarim"
+  },
+  {
+    "year": 1404,
+    "place": "Barcelona; Spain",
+    "title": "Ohr Hashem"
+  },
+  {
+    "year": 1414,
+    "place": "Algiers",
+    "title": "Sefer HaTashbetz"
+  },
+  {
+    "year": 1425,
+    "place": "Castille",
+    "title": "Sefer HaIkkarim"
+  },
+  {
+    "year": 1450,
+    "place": "Wiener Neustadt",
+    "title": "Terumat HaDeshen"
+  },
+  {
+    "year": 1450,
+    "place": "Middle-Age Germany",
+    "title": "Orchot Tzadikim"
+  },
+  {
+    "year": 1500,
+    "place": "Constantinople",
+    "title": "Mizrachi"
+  },
+  {
+    "year": 1520,
+    "place": "Salonica / Thessaloniki",
+    "title": "Ein Yaakov"
+  },
+  {
+    "year": 1525,
+    "place": "Bologna",
+    "title": "Sforno on Deuteronomy"
+  },
+  {
+    "year": 1525,
+    "place": "Bologna",
+    "title": "Sforno on Exodus"
+  },
+  {
+    "year": 1525,
+    "place": "Bologna",
+    "title": "Sforno on Genesis"
+  },
+  {
+    "year": 1525,
+    "place": "Bologna",
+    "title": "Sforno on Leviticus"
+  },
+  {
+    "year": 1525,
+    "place": "Bologna",
+    "title": "Sforno on Numbers"
+  },
+  {
+    "year": 1548,
+    "place": "Safed",
+    "title": "Pardes Rimonim"
+  },
+  {
+    "year": 1555,
+    "place": "Szydłów; Poland",
+    "title": "Mechir Yayin on Esther"
+  },
+  {
+    "year": 1558,
+    "place": "Safed",
+    "title": "Sefer Tomer Devorah"
+  },
+  {
+    "year": 1560,
+    "place": "Safed",
+    "title": "Maggid Meisharim"
+  },
+  {
+    "year": 1560,
+    "place": "Nikopol",
+    "title": "Kessef Mishneh on Mishneh Torah; Foundations of the Torah"
+  },
+  {
+    "year": 1560,
+    "place": "Nikopol",
+    "title": "Kessef Mishneh on Mishneh Torah; Human Dispositions"
+  },
+  {
+    "year": 1560,
+    "place": "Nikopol",
+    "title": "Kessef Mishneh on Mishneh Torah; Torah Study"
+  },
+  {
+    "year": 1560,
+    "place": "Nikopol",
+    "title": "Kessef Mishneh on Mishneh Torah; Foreign Worship and Customs of the Nations"
+  },
+  {
+    "year": 1560,
+    "place": "Nikopol",
+    "title": "Kessef Mishneh on Mishneh Torah; Repentance"
+  },
+  {
+    "year": 1560,
+    "place": "Nikopol",
+    "title": "Kessef Mishneh on Mishneh Torah; Reading the Shema"
+  },
+  {
+    "year": 1560,
+    "place": "Nikopol",
+    "title": "Kessef Mishneh on Mishneh Torah; Prayer and the Priestly Blessing"
+  },
+  {
+    "year": 1560,
+    "place": "Nikopol",
+    "title": "Kessef Mishneh on Mishneh Torah; Tefillin; Mezuzah and the Torah Scroll"
+  },
+  {
+    "year": 1560,
+    "place": "Nikopol",
+    "title": "Kessef Mishneh on Mishneh Torah; Fringes"
+  },
+  {
+    "year": 1560,
+    "place": "Nikopol",
+    "title": "Kessef Mishneh on Mishneh Torah; Blessings"
+  },
+  {
+    "year": 1560,
+    "place": "Nikopol",
+    "title": "Kessef Mishneh on Mishneh Torah; Circumcision"
+  },
+  {
+    "year": 1560,
+    "place": "Nikopol",
+    "title": "Kessef Mishneh on Mishneh Torah; Sabbath"
+  },
+  {
+    "year": 1560,
+    "place": "Nikopol",
+    "title": "Kessef Mishneh on Mishneh Torah; Eruvin"
+  },
+  {
+    "year": 1560,
+    "place": "Nikopol",
+    "title": "Kessef Mishneh on Mishneh Torah; Rest on the Tenth of Tishrei"
+  },
+  {
+    "year": 1560,
+    "place": "Nikopol",
+    "title": "Kessef Mishneh on Mishneh Torah; Rest on a Holiday"
+  },
+  {
+    "year": 1560,
+    "place": "Nikopol",
+    "title": "Kessef Mishneh on Mishneh Torah; Leavened and Unleavened Bread"
+  },
+  {
+    "year": 1560,
+    "place": "Nikopol",
+    "title": "Kessef Mishneh on Mishneh Torah; Shofar; Sukkah and Lulav"
+  },
+  {
+    "year": 1560,
+    "place": "Nikopol",
+    "title": "Kessef Mishneh on Mishneh Torah; Sheqel Dues"
+  },
+  {
+    "year": 1560,
+    "place": "Nikopol",
+    "title": "Kessef Mishneh on Mishneh Torah; Sanctification of the New Month"
+  },
+  {
+    "year": 1560,
+    "place": "Nikopol",
+    "title": "Kessef Mishneh on Mishneh Torah; Fasts"
+  },
+  {
+    "year": 1560,
+    "place": "Nikopol",
+    "title": "Kessef Mishneh on Mishneh Torah; Scroll of Esther and Hanukkah"
+  },
+  {
+    "year": 1560,
+    "place": "Nikopol",
+    "title": "Kessef Mishneh on Mishneh Torah; Marriage"
+  },
+  {
+    "year": 1560,
+    "place": "Nikopol",
+    "title": "Kessef Mishneh on Mishneh Torah; Divorce"
+  },
+  {
+    "year": 1560,
+    "place": "Nikopol",
+    "title": "Kessef Mishneh on Mishneh Torah; Levirate Marriage and Release"
+  },
+  {
+    "year": 1560,
+    "place": "Nikopol",
+    "title": "Kessef Mishneh on Mishneh Torah; Virgin Maiden"
+  },
+  {
+    "year": 1560,
+    "place": "Nikopol",
+    "title": "Kessef Mishneh on Mishneh Torah; Woman Suspected of Infidelity"
+  },
+  {
+    "year": 1560,
+    "place": "Nikopol",
+    "title": "Kessef Mishneh on Mishneh Torah; Forbidden Intercourse"
+  },
+  {
+    "year": 1560,
+    "place": "Nikopol",
+    "title": "Kessef Mishneh on Mishneh Torah; Forbidden Foods"
+  },
+  {
+    "year": 1560,
+    "place": "Nikopol",
+    "title": "Kessef Mishneh on Mishneh Torah; Ritual Slaughter"
+  },
+  {
+    "year": 1560,
+    "place": "Nikopol",
+    "title": "Kessef Mishneh on Mishneh Torah; Oaths"
+  },
+  {
+    "year": 1560,
+    "place": "Nikopol",
+    "title": "Kessef Mishneh on Mishneh Torah; Vows"
+  },
+  {
+    "year": 1560,
+    "place": "Nikopol",
+    "title": "Kessef Mishneh on Mishneh Torah; Nazariteship"
+  },
+  {
+    "year": 1560,
+    "place": "Nikopol",
+    "title": "Kessef Mishneh on Mishneh Torah; Appraisals and Devoted Property"
+  },
+  {
+    "year": 1560,
+    "place": "Nikopol",
+    "title": "Kessef Mishneh on Mishneh Torah; Diverse Species"
+  },
+  {
+    "year": 1560,
+    "place": "Nikopol",
+    "title": "Kessef Mishneh on Mishneh Torah; Gifts to the Poor"
+  },
+  {
+    "year": 1560,
+    "place": "Nikopol",
+    "title": "Kessef Mishneh on Mishneh Torah; Heave Offerings"
+  },
+  {
+    "year": 1560,
+    "place": "Nikopol",
+    "title": "Kessef Mishneh on Mishneh Torah; Tithes"
+  },
+  {
+    "year": 1560,
+    "place": "Nikopol",
+    "title": "Kessef Mishneh on Mishneh Torah; Second Tithes and Fourth Year's Fruit"
+  },
+  {
+    "year": 1560,
+    "place": "Nikopol",
+    "title": "Kessef Mishneh on Mishneh Torah; First Fruits and other Gifts to Priests Outside the Sanctuary"
+  },
+  {
+    "year": 1560,
+    "place": "Nikopol",
+    "title": "Kessef Mishneh on Mishneh Torah; Sabbatical Year and the Jubilee"
+  },
+  {
+    "year": 1560,
+    "place": "Nikopol",
+    "title": "Kessef Mishneh on Mishneh Torah; The Chosen Temple"
+  },
+  {
+    "year": 1560,
+    "place": "Nikopol",
+    "title": "Kessef Mishneh on Mishneh Torah; Vessels of the Sanctuary and Those who Serve Therein"
+  },
+  {
+    "year": 1560,
+    "place": "Nikopol",
+    "title": "Kessef Mishneh on Mishneh Torah; Admission into the Sanctuary"
+  },
+  {
+    "year": 1560,
+    "place": "Nikopol",
+    "title": "Kessef Mishneh on Mishneh Torah; Sacrificial Procedure"
+  },
+  {
+    "year": 1560,
+    "place": "Nikopol",
+    "title": "Kessef Mishneh on Mishneh Torah; Daily Offerings and Additional Offerings"
+  },
+  {
+    "year": 1560,
+    "place": "Nikopol",
+    "title": "Kessef Mishneh on Mishneh Torah; Sacrifices Rendered Unfit"
+  },
+  {
+    "year": 1560,
+    "place": "Nikopol",
+    "title": "Kessef Mishneh on Mishneh Torah; Service on the Day of Atonement"
+  },
+  {
+    "year": 1560,
+    "place": "Nikopol",
+    "title": "Kessef Mishneh on Mishneh Torah; Trespass"
+  },
+  {
+    "year": 1560,
+    "place": "Nikopol",
+    "title": "Kessef Mishneh on Mishneh Torah; Paschal Offering"
+  },
+  {
+    "year": 1560,
+    "place": "Nikopol",
+    "title": "Kessef Mishneh on Mishneh Torah; Festival Offering"
+  },
+  {
+    "year": 1560,
+    "place": "Nikopol",
+    "title": "Kessef Mishneh on Mishneh Torah; Firstlings"
+  },
+  {
+    "year": 1560,
+    "place": "Nikopol",
+    "title": "Kessef Mishneh on Mishneh Torah; Offerings for Unintentional Transgressions"
+  },
+  {
+    "year": 1560,
+    "place": "Nikopol",
+    "title": "Kessef Mishneh on Mishneh Torah; Offerings for Those with Incomplete Atonement"
+  },
+  {
+    "year": 1560,
+    "place": "Nikopol",
+    "title": "Kessef Mishneh on Mishneh Torah; Substitution"
+  },
+  {
+    "year": 1560,
+    "place": "Nikopol",
+    "title": "Kessef Mishneh on Mishneh Torah; Defilement by a Corpse"
+  },
+  {
+    "year": 1560,
+    "place": "Nikopol",
+    "title": "Kessef Mishneh on Mishneh Torah; Red Heifer"
+  },
+  {
+    "year": 1560,
+    "place": "Nikopol",
+    "title": "Kessef Mishneh on Mishneh Torah; Defilement by Leprosy"
+  },
+  {
+    "year": 1560,
+    "place": "Nikopol",
+    "title": "Kessef Mishneh on Mishneh Torah; Those Who Defile Bed or Seat"
+  },
+  {
+    "year": 1560,
+    "place": "Nikopol",
+    "title": "Kessef Mishneh on Mishneh Torah; Other Sources of Defilement"
+  },
+  {
+    "year": 1560,
+    "place": "Nikopol",
+    "title": "Kessef Mishneh on Mishneh Torah; Defilement of Foods"
+  },
+  {
+    "year": 1560,
+    "place": "Nikopol",
+    "title": "Kessef Mishneh on Mishneh Torah; Vessels"
+  },
+  {
+    "year": 1560,
+    "place": "Nikopol",
+    "title": "Kessef Mishneh on Mishneh Torah; Immersion Pools"
+  },
+  {
+    "year": 1560,
+    "place": "Nikopol",
+    "title": "Kessef Mishneh on Mishneh Torah; Damages to Property"
+  },
+  {
+    "year": 1560,
+    "place": "Nikopol",
+    "title": "Kessef Mishneh on Mishneh Torah; Theft"
+  },
+  {
+    "year": 1560,
+    "place": "Nikopol",
+    "title": "Kessef Mishneh on Mishneh Torah; Robbery and Lost Property"
+  },
+  {
+    "year": 1560,
+    "place": "Nikopol",
+    "title": "Kessef Mishneh on Mishneh Torah; One Who Injures a Person or Property"
+  },
+  {
+    "year": 1560,
+    "place": "Nikopol",
+    "title": "Kessef Mishneh on Mishneh Torah; Murderer and the Preservation of Life"
+  },
+  {
+    "year": 1560,
+    "place": "Nikopol",
+    "title": "Kessef Mishneh on Mishneh Torah; Sales"
+  },
+  {
+    "year": 1560,
+    "place": "Nikopol",
+    "title": "Kessef Mishneh on Mishneh Torah; Ownerless Property and Gifts"
+  },
+  {
+    "year": 1560,
+    "place": "Nikopol",
+    "title": "Kessef Mishneh on Mishneh Torah; Neighbors"
+  },
+  {
+    "year": 1560,
+    "place": "Nikopol",
+    "title": "Kessef Mishneh on Mishneh Torah; Agents and Partners"
+  },
+  {
+    "year": 1560,
+    "place": "Nikopol",
+    "title": "Kessef Mishneh on Mishneh Torah; Slaves"
+  },
+  {
+    "year": 1560,
+    "place": "Nikopol",
+    "title": "Kessef Mishneh on Mishneh Torah; Hiring"
+  },
+  {
+    "year": 1560,
+    "place": "Nikopol",
+    "title": "Kessef Mishneh on Mishneh Torah; Borrowing and Deposit"
+  },
+  {
+    "year": 1560,
+    "place": "Nikopol",
+    "title": "Kessef Mishneh on Mishneh Torah; Creditor and Debtor"
+  },
+  {
+    "year": 1560,
+    "place": "Nikopol",
+    "title": "Kessef Mishneh on Mishneh Torah; Plaintiff and Defendant"
+  },
+  {
+    "year": 1560,
+    "place": "Nikopol",
+    "title": "Kessef Mishneh on Mishneh Torah; Inheritances"
+  },
+  {
+    "year": 1560,
+    "place": "Nikopol",
+    "title": "Kessef Mishneh on Mishneh Torah; The Sanhedrin and the Penalties within their Jurisdiction"
+  },
+  {
+    "year": 1560,
+    "place": "Nikopol",
+    "title": "Kessef Mishneh on Mishneh Torah; Testimony"
+  },
+  {
+    "year": 1560,
+    "place": "Nikopol",
+    "title": "Kessef Mishneh on Mishneh Torah; Rebels"
+  },
+  {
+    "year": 1560,
+    "place": "Nikopol",
+    "title": "Kessef Mishneh on Mishneh Torah; Mourning"
+  },
+  {
+    "year": 1560,
+    "place": "Nikopol",
+    "title": "Kessef Mishneh on Mishneh Torah; Kings and Wars"
+  },
+  {
+    "year": 1560,
+    "place": "Safed",
+    "title": "Or Neerav"
+  },
+  {
+    "year": 1563,
+    "place": "Safed",
+    "title": "Shulchan Arukh; Choshen Mishpat"
+  },
+  {
+    "year": 1563,
+    "place": "Safed",
+    "title": "Shulchan Arukh; Even HaEzer"
+  },
+  {
+    "year": 1563,
+    "place": "Safed",
+    "title": "Shulchan Arukh; Yoreh De'ah"
+  },
+  {
+    "year": 1563,
+    "place": "Prague",
+    "title": "Gur Aryeh on Bereishit"
+  },
+  {
+    "year": 1563,
+    "place": "Prague",
+    "title": "Gur Aryeh on Shemot"
+  },
+  {
+    "year": 1563,
+    "place": "Prague",
+    "title": "Gur Aryeh on Vayikra"
+  },
+  {
+    "year": 1563,
+    "place": "Prague",
+    "title": "Gur Aryeh on Bamidbar"
+  },
+  {
+    "year": 1563,
+    "place": "Prague",
+    "title": "Gur Aryeh on Devarim"
+  },
+  {
+    "year": 1572,
+    "place": "Prague",
+    "title": "Gevurot Hashem"
+  },
+  {
+    "year": 1578,
+    "place": "Salonica / Thessaloniki",
+    "title": "Lehem Mishneh on Mishneh Torah; Reading the Shema"
+  },
+  {
+    "year": 1578,
+    "place": "Salonica / Thessaloniki",
+    "title": "Lehem Mishneh on Mishneh Torah; Blessings"
+  },
+  {
+    "year": 1578,
+    "place": "Salonica / Thessaloniki",
+    "title": "Lehem Mishneh on Mishneh Torah; Prayer and the Priestly Blessing"
+  },
+  {
+    "year": 1578,
+    "place": "Salonica / Thessaloniki",
+    "title": "Lehem Mishneh on Mishneh Torah; Oaths"
+  },
+  {
+    "year": 1578,
+    "place": "Salonica / Thessaloniki",
+    "title": "Lehem Mishneh on Mishneh Torah; Nazariteship"
+  },
+  {
+    "year": 1578,
+    "place": "Salonica / Thessaloniki",
+    "title": "Lehem Mishneh on Mishneh Torah; Vows"
+  },
+  {
+    "year": 1578,
+    "place": "Salonica / Thessaloniki",
+    "title": "Lehem Mishneh on Mishneh Torah; Appraisals and Devoted Property"
+  },
+  {
+    "year": 1578,
+    "place": "Salonica / Thessaloniki",
+    "title": "Lehem Mishneh on Mishneh Torah; Ritual Slaughter"
+  },
+  {
+    "year": 1578,
+    "place": "Salonica / Thessaloniki",
+    "title": "Lehem Mishneh on Mishneh Torah; Forbidden Intercourse"
+  },
+  {
+    "year": 1578,
+    "place": "Salonica / Thessaloniki",
+    "title": "Lehem Mishneh on Mishneh Torah; Forbidden Foods"
+  },
+  {
+    "year": 1578,
+    "place": "Salonica / Thessaloniki",
+    "title": "Lehem Mishneh on Mishneh Torah; Repentance"
+  },
+  {
+    "year": 1578,
+    "place": "Salonica / Thessaloniki",
+    "title": "Lehem Mishneh on Mishneh Torah; Foreign Worship and Customs of the Nations"
+  },
+  {
+    "year": 1578,
+    "place": "Salonica / Thessaloniki",
+    "title": "Lehem Mishneh on Mishneh Torah; Torah Study"
+  },
+  {
+    "year": 1578,
+    "place": "Salonica / Thessaloniki",
+    "title": "Lehem Mishneh on Mishneh Torah; Human Dispositions"
+  },
+  {
+    "year": 1578,
+    "place": "Salonica / Thessaloniki",
+    "title": "Lehem Mishneh on Mishneh Torah; Foundations of the Torah"
+  },
+  {
+    "year": 1578,
+    "place": "Salonica / Thessaloniki",
+    "title": "Lehem Mishneh on Mishneh Torah; Levirate Marriage and Release"
+  },
+  {
+    "year": 1578,
+    "place": "Salonica / Thessaloniki",
+    "title": "Lehem Mishneh on Mishneh Torah; Divorce"
+  },
+  {
+    "year": 1578,
+    "place": "Salonica / Thessaloniki",
+    "title": "Lehem Mishneh on Mishneh Torah; Marriage"
+  },
+  {
+    "year": 1578,
+    "place": "Salonica / Thessaloniki",
+    "title": "Lehem Mishneh on Mishneh Torah; Sanctification of the New Month"
+  },
+  {
+    "year": 1578,
+    "place": "Salonica / Thessaloniki",
+    "title": "Lehem Mishneh on Mishneh Torah; Scroll of Esther and Hanukkah"
+  },
+  {
+    "year": 1578,
+    "place": "Salonica / Thessaloniki",
+    "title": "Lehem Mishneh on Mishneh Torah; Rest on a Holiday"
+  },
+  {
+    "year": 1578,
+    "place": "Salonica / Thessaloniki",
+    "title": "Lehem Mishneh on Mishneh Torah; Sabbath"
+  },
+  {
+    "year": 1578,
+    "place": "Salonica / Thessaloniki",
+    "title": "Lehem Mishneh on Mishneh Torah; Eruvin"
+  },
+  {
+    "year": 1578,
+    "place": "Salonica / Thessaloniki",
+    "title": "Lehem Mishneh on Mishneh Torah; Shofar; Sukkah and Lulav"
+  },
+  {
+    "year": 1578,
+    "place": "Salonica / Thessaloniki",
+    "title": "Lehem Mishneh on Mishneh Torah; Rest on the Tenth of Tishrei"
+  },
+  {
+    "year": 1578,
+    "place": "Salonica / Thessaloniki",
+    "title": "Lehem Mishneh on Mishneh Torah; Fasts"
+  },
+  {
+    "year": 1578,
+    "place": "Salonica / Thessaloniki",
+    "title": "Lehem Mishneh on Mishneh Torah; Leavened and Unleavened Bread"
+  },
+  {
+    "year": 1583,
+    "place": "Prague",
+    "title": "Footnotes and Annotations on Derech Chaim"
+  },
+  {
+    "year": 1585,
+    "place": "Prague",
+    "title": "Be'er HaGolah"
+  },
+  {
+    "year": 1585,
+    "place": "Prague",
+    "title": "Netivot Olam"
+  },
+  {
+    "year": 1594,
+    "place": "Prague",
+    "title": "Tiferet Yisrael"
+  },
+  {
+    "year": 1594,
+    "place": "Prague",
+    "title": "Netzach Yisrael"
+  },
+  {
+    "year": 1595,
+    "place": "Prague",
+    "title": "Ohr Chadash"
+  },
+  {
+    "year": 1595,
+    "place": "Prague",
+    "title": "Ner Mitzvah"
+  },
+  {
+    "year": 1600,
+    "place": "Safed",
+    "title": "Shalom Alechem"
+  },
+  {
+    "year": 1600,
+    "place": "Safed",
+    "title": "Kabbolos Shabbos"
+  },
+  {
+    "year": 1600,
+    "place": "Prague",
+    "title": "Drashot Maharal"
+  },
+  {
+    "year": 1600,
+    "place": "Poland",
+    "title": "Maharam on Bava Batra"
+  },
+  {
+    "year": 1600,
+    "place": "Poland",
+    "title": "Maharam on Bava Kamma"
+  },
+  {
+    "year": 1600,
+    "place": "Poland",
+    "title": "Maharam on Bava Metzia"
+  },
+  {
+    "year": 1600,
+    "place": "Poland",
+    "title": "Maharam on Beitzah"
+  },
+  {
+    "year": 1600,
+    "place": "Poland",
+    "title": "Maharam on Chullin"
+  },
+  {
+    "year": 1600,
+    "place": "Poland",
+    "title": "Maharam on Eruvin"
+  },
+  {
+    "year": 1600,
+    "place": "Poland",
+    "title": "Maharam on Gittin"
+  },
+  {
+    "year": 1600,
+    "place": "Poland",
+    "title": "Maharam on Ketubot"
+  },
+  {
+    "year": 1600,
+    "place": "Poland",
+    "title": "Maharam on Kiddushin"
+  },
+  {
+    "year": 1600,
+    "place": "Poland",
+    "title": "Maharam on Makkot"
+  },
+  {
+    "year": 1600,
+    "place": "Poland",
+    "title": "Maharam on Niddah"
+  },
+  {
+    "year": 1600,
+    "place": "Poland",
+    "title": "Maharam on Sanhedrin"
+  },
+  {
+    "year": 1600,
+    "place": "Poland",
+    "title": "Maharam on Shabbat"
+  },
+  {
+    "year": 1600,
+    "place": "Poland",
+    "title": "Maharam on Sukkah"
+  },
+  {
+    "year": 1600,
+    "place": "Poland",
+    "title": "Maharam on Yevamot"
+  },
+  {
+    "year": 1605,
+    "place": "Posen",
+    "title": "Chidushei Halachot on Taanit"
+  },
+  {
+    "year": 1605,
+    "place": "Posen",
+    "title": "Chidushei Halachot on Megillah"
+  },
+  {
+    "year": 1605,
+    "place": "Posen",
+    "title": "Chidushei Agadot on Megillah"
+  },
+  {
+    "year": 1605,
+    "place": "Posen",
+    "title": "Chidushei Agadot on Ketubot"
+  },
+  {
+    "year": 1605,
+    "place": "Posen",
+    "title": "Chidushei Agadot on Taanit"
+  },
+  {
+    "year": 1605,
+    "place": "Posen",
+    "title": "Chidushei Agadot on Pesachim"
+  },
+  {
+    "year": 1605,
+    "place": "Posen",
+    "title": "Chidushei Agadot on Yoma"
+  },
+  {
+    "year": 1605,
+    "place": "Posen",
+    "title": "Chidushei Agadot on Sukkah"
+  },
+  {
+    "year": 1605,
+    "place": "Posen",
+    "title": "Chidushei Agadot on Beitzah"
+  },
+  {
+    "year": 1605,
+    "place": "Posen",
+    "title": "Chidushei Agadot on Moed Katan"
+  },
+  {
+    "year": 1605,
+    "place": "Posen",
+    "title": "Chidushei Agadot on Yevamot"
+  },
+  {
+    "year": 1605,
+    "place": "Posen",
+    "title": "Chidushei Agadot on Sotah"
+  },
+  {
+    "year": 1605,
+    "place": "Posen",
+    "title": "Chidushei Agadot on Kiddushin"
+  },
+  {
+    "year": 1605,
+    "place": "Posen",
+    "title": "Chidushei Agadot on Bava Kamma"
+  },
+  {
+    "year": 1605,
+    "place": "Posen",
+    "title": "Chidushei Agadot on Bava Metzia"
+  },
+  {
+    "year": 1605,
+    "place": "Posen",
+    "title": "Chidushei Agadot on Avodah Zarah"
+  },
+  {
+    "year": 1605,
+    "place": "Posen",
+    "title": "Chidushei Agadot on Horayot"
+  },
+  {
+    "year": 1605,
+    "place": "Posen",
+    "title": "Chidushei Agadot on Bava Batra"
+  },
+  {
+    "year": 1605,
+    "place": "Posen",
+    "title": "Chidushei Agadot on Bekhorot"
+  },
+  {
+    "year": 1605,
+    "place": "Posen",
+    "title": "Chidushei Agadot on Eruvin"
+  },
+  {
+    "year": 1605,
+    "place": "Posen",
+    "title": "Chidushei Agadot on Gittin"
+  },
+  {
+    "year": 1605,
+    "place": "Posen",
+    "title": "Chidushei Agadot on Sanhedrin"
+  },
+  {
+    "year": 1605,
+    "place": "Posen",
+    "title": "Chidushei Agadot on Shevuot"
+  },
+  {
+    "year": 1605,
+    "place": "Posen",
+    "title": "Chidushei Agadot on Makkot"
+  },
+  {
+    "year": 1605,
+    "place": "Posen",
+    "title": "Chidushei Agadot on Chullin"
+  },
+  {
+    "year": 1605,
+    "place": "Posen",
+    "title": "Chidushei Agadot on Niddah"
+  },
+  {
+    "year": 1605,
+    "place": "Posen",
+    "title": "Chidushei Halachot on Niddah"
+  },
+  {
+    "year": 1605,
+    "place": "Posen",
+    "title": "Chidushei Halachot on Moed Katan"
+  },
+  {
+    "year": 1605,
+    "place": "Posen",
+    "title": "Chidushei Halachot on Yoma"
+  },
+  {
+    "year": 1605,
+    "place": "Posen",
+    "title": "Chidushei Halachot on Eruvin"
+  },
+  {
+    "year": 1605,
+    "place": "Posen",
+    "title": "Chidushei Halachot on Shabbat"
+  },
+  {
+    "year": 1605,
+    "place": "Posen",
+    "title": "Chidushei Halachot on Chagigah"
+  },
+  {
+    "year": 1605,
+    "place": "Posen",
+    "title": "Chidushei Halachot on Ketubot"
+  },
+  {
+    "year": 1605,
+    "place": "Posen",
+    "title": "Chidushei Halachot on Berakhot"
+  },
+  {
+    "year": 1605,
+    "place": "Posen",
+    "title": "Chidushei Agadot on Berakhot"
+  },
+  {
+    "year": 1605,
+    "place": "Posen",
+    "title": "Chidushei Agadot on Chagigah"
+  },
+  {
+    "year": 1605,
+    "place": "Posen",
+    "title": "Chidushei Agadot on Nazir"
+  },
+  {
+    "year": 1605,
+    "place": "Posen",
+    "title": "Chidushei Agadot on Menachot"
+  },
+  {
+    "year": 1605,
+    "place": "Posen",
+    "title": "Chidushei Agadot on Zevachim"
+  },
+  {
+    "year": 1605,
+    "place": "Posen",
+    "title": "Chidushei Halachot on Menachot"
+  },
+  {
+    "year": 1605,
+    "place": "Posen",
+    "title": "Chidushei Agadot on Nedarim"
+  },
+  {
+    "year": 1605,
+    "place": "Posen",
+    "title": "Chidushei Halachot on Nedarim"
+  },
+  {
+    "year": 1605,
+    "place": "Posen",
+    "title": "Chidushei Agadot on Shabbat"
+  },
+  {
+    "year": 1605,
+    "place": "Hebron; Israel",
+    "title": "Melechet Shlomo on Mishnah Berakhot"
+  },
+  {
+    "year": 1605,
+    "place": "Hebron; Israel",
+    "title": "Melechet Shlomo on Mishnah Demai"
+  },
+  {
+    "year": 1605,
+    "place": "Hebron; Israel",
+    "title": "Melechet Shlomo on Mishnah Kilayim"
+  },
+  {
+    "year": 1605,
+    "place": "Hebron; Israel",
+    "title": "Melechet Shlomo on Mishnah Peah"
+  },
+  {
+    "year": 1605,
+    "place": "Hebron; Israel",
+    "title": "Melechet Shlomo on Mishnah Sheviit"
+  },
+  {
+    "year": 1605,
+    "place": "Hebron; Israel",
+    "title": "Melechet Shlomo on Mishnah Bikkurim"
+  },
+  {
+    "year": 1605,
+    "place": "Hebron; Israel",
+    "title": "Melechet Shlomo on Mishnah Challah"
+  },
+  {
+    "year": 1605,
+    "place": "Hebron; Israel",
+    "title": "Melechet Shlomo on Mishnah Maaser Sheni"
+  },
+  {
+    "year": 1605,
+    "place": "Hebron; Israel",
+    "title": "Melechet Shlomo on Mishnah Maasrot"
+  },
+  {
+    "year": 1605,
+    "place": "Hebron; Israel",
+    "title": "Melechet Shlomo on Mishnah Orlah"
+  },
+  {
+    "year": 1605,
+    "place": "Hebron; Israel",
+    "title": "Melechet Shlomo on Mishnah Oholot"
+  },
+  {
+    "year": 1605,
+    "place": "Hebron; Israel",
+    "title": "Melechet Shlomo on Mishnah Kelim"
+  },
+  {
+    "year": 1605,
+    "place": "Hebron; Israel",
+    "title": "Melechet Shlomo on Mishnah Tahorot"
+  },
+  {
+    "year": 1605,
+    "place": "Hebron; Israel",
+    "title": "Melechet Shlomo on Mishnah Negaim"
+  },
+  {
+    "year": 1605,
+    "place": "Hebron; Israel",
+    "title": "Melechet Shlomo on Mishnah Parah"
+  },
+  {
+    "year": 1605,
+    "place": "Hebron; Israel",
+    "title": "Melechet Shlomo on Mishnah Zavim"
+  },
+  {
+    "year": 1605,
+    "place": "Hebron; Israel",
+    "title": "Melechet Shlomo on Mishnah Tevul Yom"
+  },
+  {
+    "year": 1605,
+    "place": "Hebron; Israel",
+    "title": "Melechet Shlomo on Mishnah Yadayim"
+  },
+  {
+    "year": 1605,
+    "place": "Hebron; Israel",
+    "title": "Melechet Shlomo on Mishnah Makhshirin"
+  },
+  {
+    "year": 1605,
+    "place": "Hebron; Israel",
+    "title": "Melechet Shlomo on Mishnah Mikvaot"
+  },
+  {
+    "year": 1605,
+    "place": "Hebron; Israel",
+    "title": "Melechet Shlomo on Mishnah Niddah"
+  },
+  {
+    "year": 1605,
+    "place": "Hebron; Israel",
+    "title": "Melechet Shlomo on Mishnah Oktzin"
+  },
+  {
+    "year": 1605,
+    "place": "Hebron; Israel",
+    "title": "Melechet Shlomo on Mishnah Eruvin"
+  },
+  {
+    "year": 1605,
+    "place": "Hebron; Israel",
+    "title": "Melechet Shlomo on Mishnah Pesachim"
+  },
+  {
+    "year": 1605,
+    "place": "Hebron; Israel",
+    "title": "Melechet Shlomo on Mishnah Shabbat"
+  },
+  {
+    "year": 1605,
+    "place": "Hebron; Israel",
+    "title": "Melechet Shlomo on Mishnah Shekalim"
+  },
+  {
+    "year": 1605,
+    "place": "Hebron; Israel",
+    "title": "Melechet Shlomo on Mishnah Beitzah"
+  },
+  {
+    "year": 1605,
+    "place": "Hebron; Israel",
+    "title": "Melechet Shlomo on Mishnah Chagigah"
+  },
+  {
+    "year": 1605,
+    "place": "Hebron; Israel",
+    "title": "Melechet Shlomo on Mishnah Yoma"
+  },
+  {
+    "year": 1605,
+    "place": "Hebron; Israel",
+    "title": "Melechet Shlomo on Mishnah Megillah"
+  },
+  {
+    "year": 1605,
+    "place": "Hebron; Israel",
+    "title": "Melechet Shlomo on Mishnah Moed Katan"
+  },
+  {
+    "year": 1605,
+    "place": "Hebron; Israel",
+    "title": "Melechet Shlomo on Mishnah Sukkah"
+  },
+  {
+    "year": 1605,
+    "place": "Hebron; Israel",
+    "title": "Melechet Shlomo on Mishnah Rosh Hashanah"
+  },
+  {
+    "year": 1605,
+    "place": "Hebron; Israel",
+    "title": "Melechet Shlomo on Mishnah Taanit"
+  },
+  {
+    "year": 1605,
+    "place": "Hebron; Israel",
+    "title": "Melechet Shlomo on Mishnah Bava Batra"
+  },
+  {
+    "year": 1605,
+    "place": "Hebron; Israel",
+    "title": "Melechet Shlomo on Mishnah Bava Metzia"
+  },
+  {
+    "year": 1605,
+    "place": "Hebron; Israel",
+    "title": "Melechet Shlomo on Mishnah Bava Kamma"
+  },
+  {
+    "year": 1605,
+    "place": "Hebron; Israel",
+    "title": "Melechet Shlomo on Mishnah Sanhedrin"
+  },
+  {
+    "year": 1605,
+    "place": "Hebron; Israel",
+    "title": "Melechet Shlomo on Pirkei Avot"
+  },
+  {
+    "year": 1605,
+    "place": "Hebron; Israel",
+    "title": "Melechet Shlomo on Mishnah Horayot"
+  },
+  {
+    "year": 1605,
+    "place": "Hebron; Israel",
+    "title": "Melechet Shlomo on Mishnah Makkot"
+  },
+  {
+    "year": 1605,
+    "place": "Hebron; Israel",
+    "title": "Melechet Shlomo on Mishnah Avodah Zarah"
+  },
+  {
+    "year": 1605,
+    "place": "Hebron; Israel",
+    "title": "Melechet Shlomo on Mishnah Eduyot"
+  },
+  {
+    "year": 1605,
+    "place": "Hebron; Israel",
+    "title": "Melechet Shlomo on Mishnah Shevuot"
+  },
+  {
+    "year": 1605,
+    "place": "Hebron; Israel",
+    "title": "Melechet Shlomo on Mishnah Yevamot"
+  },
+  {
+    "year": 1605,
+    "place": "Hebron; Israel",
+    "title": "Melechet Shlomo on Mishnah Ketubot"
+  },
+  {
+    "year": 1605,
+    "place": "Hebron; Israel",
+    "title": "Melechet Shlomo on Mishnah Nedarim"
+  },
+  {
+    "year": 1605,
+    "place": "Hebron; Israel",
+    "title": "Melechet Shlomo on Mishnah Gittin"
+  },
+  {
+    "year": 1605,
+    "place": "Hebron; Israel",
+    "title": "Melechet Shlomo on Mishnah Nazir"
+  },
+  {
+    "year": 1605,
+    "place": "Hebron; Israel",
+    "title": "Melechet Shlomo on Mishnah Sotah"
+  },
+  {
+    "year": 1605,
+    "place": "Hebron; Israel",
+    "title": "Melechet Shlomo on Mishnah Kiddushin"
+  },
+  {
+    "year": 1605,
+    "place": "Hebron; Israel",
+    "title": "Melechet Shlomo on Mishnah Bekhorot"
+  },
+  {
+    "year": 1605,
+    "place": "Hebron; Israel",
+    "title": "Melechet Shlomo on Mishnah Zevachim"
+  },
+  {
+    "year": 1605,
+    "place": "Hebron; Israel",
+    "title": "Melechet Shlomo on Mishnah Chullin"
+  },
+  {
+    "year": 1605,
+    "place": "Hebron; Israel",
+    "title": "Melechet Shlomo on Mishnah Menachot"
+  },
+  {
+    "year": 1605,
+    "place": "Hebron; Israel",
+    "title": "Melechet Shlomo on Mishnah Keritot"
+  },
+  {
+    "year": 1605,
+    "place": "Hebron; Israel",
+    "title": "Melechet Shlomo on Mishnah Middot"
+  },
+  {
+    "year": 1605,
+    "place": "Hebron; Israel",
+    "title": "Melechet Shlomo on Mishnah Meilah"
+  },
+  {
+    "year": 1605,
+    "place": "Hebron; Israel",
+    "title": "Melechet Shlomo on Mishnah Arakhin"
+  },
+  {
+    "year": 1605,
+    "place": "Hebron; Israel",
+    "title": "Melechet Shlomo on Mishnah Kinnim"
+  },
+  {
+    "year": 1605,
+    "place": "Hebron; Israel",
+    "title": "Melechet Shlomo on Mishnah Temurah"
+  },
+  {
+    "year": 1605,
+    "place": "Hebron; Israel",
+    "title": "Melechet Shlomo on Mishnah Tamid"
+  },
+  {
+    "year": 1605,
+    "place": "Hebron; Israel",
+    "title": "Melechet Shlomo on Mishnah Terumot"
+  },
+  {
+    "year": 1605,
+    "place": "Posen",
+    "title": "Chidushei Halachot on Avodah Zarah"
+  },
+  {
+    "year": 1605,
+    "place": "Posen",
+    "title": "Chidushei Halachot on Beitzah"
+  },
+  {
+    "year": 1605,
+    "place": "Posen",
+    "title": "Chidushei Halachot on Chullin"
+  },
+  {
+    "year": 1605,
+    "place": "Posen",
+    "title": "Chidushei Halachot on Gittin"
+  },
+  {
+    "year": 1605,
+    "place": "Posen",
+    "title": "Chidushei Halachot on Rosh Hashanah"
+  },
+  {
+    "year": 1605,
+    "place": "Posen",
+    "title": "Chidushei Halachot on Sukkah"
+  },
+  {
+    "year": 1605,
+    "place": "Posen",
+    "title": "Chidushei Halachot on Yevamot; Alternate Version"
+  },
+  {
+    "year": 1605,
+    "place": "Posen",
+    "title": "Chidushei Halachot on Bava Kamma"
+  },
+  {
+    "year": 1605,
+    "place": "Posen",
+    "title": "Chidushei Halachot on Horayot"
+  },
+  {
+    "year": 1605,
+    "place": "Posen",
+    "title": "Chidushei Halachot on Sotah"
+  },
+  {
+    "year": 1605,
+    "place": "Posen",
+    "title": "Chidushei Halachot on Kiddushin"
+  },
+  {
+    "year": 1605,
+    "place": "Posen",
+    "title": "Chidushei Halachot on Bava Metzia"
+  },
+  {
+    "year": 1605,
+    "place": "Posen",
+    "title": "Chidushei Halachot on Bekhorot"
+  },
+  {
+    "year": 1605,
+    "place": "Posen",
+    "title": "Chidushei Halachot on Yevamot"
+  },
+  {
+    "year": 1605,
+    "place": "Posen",
+    "title": "Chidushei Halachot on Bava Batra"
+  },
+  {
+    "year": 1605,
+    "place": "Posen",
+    "title": "Chidushei Halachot on Sanhedrin"
+  },
+  {
+    "year": 1605,
+    "place": "Posen",
+    "title": "Chidushei Halachot on Pesachim"
+  },
+  {
+    "year": 1605,
+    "place": "Posen",
+    "title": "Chidushei Halachot on Shevuot"
+  },
+  {
+    "year": 1605,
+    "place": "Posen",
+    "title": "Chidushei Halachot on Makkot"
+  },
+  {
+    "year": 1605,
+    "place": "Posen",
+    "title": "Chidushei Agadot on Rosh Hashanah"
+  },
+  {
+    "year": 1605,
+    "place": "Posen",
+    "title": "Chidushei Agadot on Arakhin"
+  },
+  {
+    "year": 1605,
+    "place": "Posen",
+    "title": "Chidushei Agadot on Tamid"
+  },
+  {
+    "year": 1605,
+    "place": "Posen",
+    "title": "Chidushei Agadot on Meilah"
+  },
+  {
+    "year": 1613,
+    "place": "Prague",
+    "title": "Pilpula Charifta on Shevuot"
+  },
+  {
+    "year": 1613,
+    "place": "Prague",
+    "title": "Pilpula Charifta on Avodah Zarah"
+  },
+  {
+    "year": 1613,
+    "place": "Prague",
+    "title": "Pilpula Charifta on Bava Metzia"
+  },
+  {
+    "year": 1613,
+    "place": "Prague",
+    "title": "Pilpula Charifta on Bava Batra"
+  },
+  {
+    "year": 1613,
+    "place": "Prague",
+    "title": "Pilpula Charifta on Makkot"
+  },
+  {
+    "year": 1615,
+    "place": "Prague",
+    "title": "Maadaney Yom Tov on Berakhot"
+  },
+  {
+    "year": 1615,
+    "place": "Prague",
+    "title": "Divrey Chamudot on Berakhot"
+  },
+  {
+    "year": 1615,
+    "place": "Leopoldstadt; Austria",
+    "title": "Divrey Chamudot on Niddah"
+  },
+  {
+    "year": 1615,
+    "place": "Prague",
+    "title": "Tosafot Yom Tov on Pirkei Avot"
+  },
+  {
+    "year": 1615,
+    "place": "Prague",
+    "title": "Tosafot Yom Tov on Mishnah Bava Kamma"
+  },
+  {
+    "year": 1615,
+    "place": "Prague",
+    "title": "Tosafot Yom Tov on Mishnah Arakhin"
+  },
+  {
+    "year": 1615,
+    "place": "Prague",
+    "title": "Tosafot Yom Tov on Mishnah Avodah Zarah"
+  },
+  {
+    "year": 1615,
+    "place": "Prague",
+    "title": "Tosafot Yom Tov on Mishnah Bava Metzia"
+  },
+  {
+    "year": 1615,
+    "place": "Prague",
+    "title": "Tosafot Yom Tov on Mishnah Beitzah"
+  },
+  {
+    "year": 1615,
+    "place": "Prague",
+    "title": "Tosafot Yom Tov on Mishnah Bekhorot"
+  },
+  {
+    "year": 1615,
+    "place": "Prague",
+    "title": "Tosafot Yom Tov on Mishnah Berakhot"
+  },
+  {
+    "year": 1615,
+    "place": "Prague",
+    "title": "Tosafot Yom Tov on Mishnah Bikkurim"
+  },
+  {
+    "year": 1615,
+    "place": "Prague",
+    "title": "Tosafot Yom Tov on Mishnah Chagigah"
+  },
+  {
+    "year": 1615,
+    "place": "Prague",
+    "title": "Tosafot Yom Tov on Mishnah Challah"
+  },
+  {
+    "year": 1615,
+    "place": "Prague",
+    "title": "Tosafot Yom Tov on Mishnah Chullin"
+  },
+  {
+    "year": 1615,
+    "place": "Prague",
+    "title": "Tosafot Yom Tov on Mishnah Demai"
+  },
+  {
+    "year": 1615,
+    "place": "Prague",
+    "title": "Tosafot Yom Tov on Mishnah Eduyot"
+  },
+  {
+    "year": 1615,
+    "place": "Prague",
+    "title": "Tosafot Yom Tov on Mishnah Eruvin"
+  },
+  {
+    "year": 1615,
+    "place": "Prague",
+    "title": "Tosafot Yom Tov on Mishnah Gittin"
+  },
+  {
+    "year": 1615,
+    "place": "Prague",
+    "title": "Tosafot Yom Tov on Mishnah Horayot"
+  },
+  {
+    "year": 1615,
+    "place": "Prague",
+    "title": "Tosafot Yom Tov on Mishnah Kelim"
+  },
+  {
+    "year": 1615,
+    "place": "Prague",
+    "title": "Tosafot Yom Tov on Mishnah Ketubot"
+  },
+  {
+    "year": 1615,
+    "place": "Prague",
+    "title": "Tosafot Yom Tov on Mishnah Kiddushin"
+  },
+  {
+    "year": 1615,
+    "place": "Prague",
+    "title": "Tosafot Yom Tov on Mishnah Kilayim"
+  },
+  {
+    "year": 1615,
+    "place": "Prague",
+    "title": "Tosafot Yom Tov on Mishnah Kinnim"
+  },
+  {
+    "year": 1615,
+    "place": "Prague",
+    "title": "Tosafot Yom Tov on Mishnah Maaser Sheni"
+  },
+  {
+    "year": 1615,
+    "place": "Prague",
+    "title": "Tosafot Yom Tov on Mishnah Maasrot"
+  },
+  {
+    "year": 1615,
+    "place": "Prague",
+    "title": "Tosafot Yom Tov on Mishnah Makhshirin"
+  },
+  {
+    "year": 1615,
+    "place": "Prague",
+    "title": "Tosafot Yom Tov on Mishnah Makkot"
+  },
+  {
+    "year": 1615,
+    "place": "Prague",
+    "title": "Tosafot Yom Tov on Mishnah Megillah"
+  },
+  {
+    "year": 1615,
+    "place": "Prague",
+    "title": "Tosafot Yom Tov on Mishnah Meilah"
+  },
+  {
+    "year": 1615,
+    "place": "Prague",
+    "title": "Tosafot Yom Tov on Mishnah Menachot"
+  },
+  {
+    "year": 1615,
+    "place": "Prague",
+    "title": "Tosafot Yom Tov on Mishnah Middot"
+  },
+  {
+    "year": 1615,
+    "place": "Prague",
+    "title": "Tosafot Yom Tov on Mishnah Mikvaot"
+  },
+  {
+    "year": 1615,
+    "place": "Prague",
+    "title": "Tosafot Yom Tov on Mishnah Nazir"
+  },
+  {
+    "year": 1615,
+    "place": "Prague",
+    "title": "Tosafot Yom Tov on Mishnah Nedarim"
+  },
+  {
+    "year": 1615,
+    "place": "Prague",
+    "title": "Tosafot Yom Tov on Mishnah Negaim"
+  },
+  {
+    "year": 1615,
+    "place": "Prague",
+    "title": "Tosafot Yom Tov on Mishnah Oholot"
+  },
+  {
+    "year": 1615,
+    "place": "Prague",
+    "title": "Tosafot Yom Tov on Mishnah Oktzin"
+  },
+  {
+    "year": 1615,
+    "place": "Prague",
+    "title": "Tosafot Yom Tov on Mishnah Orlah"
+  },
+  {
+    "year": 1615,
+    "place": "Prague",
+    "title": "Tosafot Yom Tov on Mishnah Parah"
+  },
+  {
+    "year": 1615,
+    "place": "Prague",
+    "title": "Tosafot Yom Tov on Mishnah Peah"
+  },
+  {
+    "year": 1615,
+    "place": "Prague",
+    "title": "Tosafot Yom Tov on Mishnah Pesachim"
+  },
+  {
+    "year": 1615,
+    "place": "Prague",
+    "title": "Tosafot Yom Tov on Mishnah Rosh Hashanah"
+  },
+  {
+    "year": 1615,
+    "place": "Prague",
+    "title": "Tosafot Yom Tov on Mishnah Sanhedrin"
+  },
+  {
+    "year": 1615,
+    "place": "Prague",
+    "title": "Tosafot Yom Tov on Mishnah Shabbat"
+  },
+  {
+    "year": 1615,
+    "place": "Prague",
+    "title": "Tosafot Yom Tov on Mishnah Shekalim"
+  },
+  {
+    "year": 1615,
+    "place": "Prague",
+    "title": "Tosafot Yom Tov on Mishnah Sotah"
+  },
+  {
+    "year": 1615,
+    "place": "Prague",
+    "title": "Tosafot Yom Tov on Mishnah Taanit"
+  },
+  {
+    "year": 1615,
+    "place": "Prague",
+    "title": "Tosafot Yom Tov on Mishnah Tahorot"
+  },
+  {
+    "year": 1615,
+    "place": "Prague",
+    "title": "Tosafot Yom Tov on Mishnah Tamid"
+  },
+  {
+    "year": 1615,
+    "place": "Prague",
+    "title": "Tosafot Yom Tov on Mishnah Temurah"
+  },
+  {
+    "year": 1615,
+    "place": "Prague",
+    "title": "Tosafot Yom Tov on Mishnah Terumot"
+  },
+  {
+    "year": 1615,
+    "place": "Prague",
+    "title": "Tosafot Yom Tov on Mishnah Tevul Yom"
+  },
+  {
+    "year": 1615,
+    "place": "Prague",
+    "title": "Tosafot Yom Tov on Mishnah Yadayim"
+  },
+  {
+    "year": 1615,
+    "place": "Prague",
+    "title": "Tosafot Yom Tov on Mishnah Yoma"
+  },
+  {
+    "year": 1615,
+    "place": "Prague",
+    "title": "Tosafot Yom Tov on Mishnah Zavim"
+  },
+  {
+    "year": 1615,
+    "place": "Prague",
+    "title": "Tosafot Yom Tov on Mishnah Zevachim"
+  },
+  {
+    "year": 1615,
+    "place": "Prague",
+    "title": "Tosafot Yom Tov on Mishnah Bava Batra"
+  },
+  {
+    "year": 1615,
+    "place": "Prague",
+    "title": "Tosafot Yom Tov on Mishnah Niddah"
+  },
+  {
+    "year": 1615,
+    "place": "Prague",
+    "title": "Tosafot Yom Tov on Mishnah Sheviit"
+  },
+  {
+    "year": 1615,
+    "place": "Prague",
+    "title": "Tosafot Yom Tov on Mishnah Yevamot"
+  },
+  {
+    "year": 1615,
+    "place": "Prague",
+    "title": "Tosafot Yom Tov on Mishnah Moed Katan"
+  },
+  {
+    "year": 1615,
+    "place": "Prague",
+    "title": "Tosafot Yom Tov on Mishnah Sukkah"
+  },
+  {
+    "year": 1615,
+    "place": "Prague",
+    "title": "Tosafot Yom Tov on Mishnah Keritot"
+  },
+  {
+    "year": 1615,
+    "place": "Prague",
+    "title": "Tosafot Yom Tov on Mishnah Shevuot"
+  },
+  {
+    "year": 1620,
+    "place": "Krakow; Poland",
+    "title": "Megaleh Amukot"
+  },
+  {
+    "year": 1635,
+    "place": "Frankfurt am Main; Germany",
+    "title": "Maharam Shif on Bava Batra"
+  },
+  {
+    "year": 1635,
+    "place": "Frankfurt am Main; Germany",
+    "title": "Maharam Shif on Bava Metzia"
+  },
+  {
+    "year": 1635,
+    "place": "Frankfurt am Main; Germany",
+    "title": "Maharam Shif on Shabbat"
+  },
+  {
+    "year": 1635,
+    "place": "Frankfurt am Main; Germany",
+    "title": "Maharam Shif on Gittin"
+  },
+  {
+    "year": 1635,
+    "place": "Frankfurt am Main; Germany",
+    "title": "Maharam Shif on Beitzah"
+  },
+  {
+    "year": 1635,
+    "place": "Frankfurt am Main; Germany",
+    "title": "Maharam Shif on Ketubot"
+  },
+  {
+    "year": 1635,
+    "place": "Frankfurt am Main; Germany",
+    "title": "Maharam Shif on Sanhedrin"
+  },
+  {
+    "year": 1635,
+    "place": "Frankfurt am Main; Germany",
+    "title": "Maharam Shif on Bava Kamma"
+  },
+  {
+    "year": 1635,
+    "place": "Frankfurt am Main; Germany",
+    "title": "Maharam Shif on Zevachim"
+  },
+  {
+    "year": 1635,
+    "place": "Frankfurt am Main; Germany",
+    "title": "Maharam Shif on Chullin"
+  },
+  {
+    "year": 1640,
+    "place": "Ostroh",
+    "title": "Turei Zahav on Shulchan Arukh; Orach Chayim"
+  },
+  {
+    "year": 1640,
+    "place": "Ostroh",
+    "title": "Turei Zahav on Shulchan Arukh; Yoreh De'ah"
+  },
+  {
+    "year": 1643,
+    "place": "Vilna",
+    "title": "Chelkat Mechokek"
+  },
+  {
+    "year": 1650,
+    "place": "Safed",
+    "title": "Pri Etz Hadar"
+  },
+  {
+    "year": 1660,
+    "place": "Kraków",
+    "title": "Tiferet Shmuel on Shevuot"
+  },
+  {
+    "year": 1660,
+    "place": "Kraków",
+    "title": "Tiferet Shmuel on Gittin"
+  },
+  {
+    "year": 1660,
+    "place": "Kraków",
+    "title": "Tiferet Shmuel on Pesachim"
+  },
+  {
+    "year": 1660,
+    "place": "Kraków",
+    "title": "Tiferet Shmuel on Kiddushin"
+  },
+  {
+    "year": 1660,
+    "place": "Kraków",
+    "title": "Tiferet Shmuel on Yevamot"
+  },
+  {
+    "year": 1660,
+    "place": "Krakow; Poland",
+    "title": "Tiferet Shmuel on Sukkah"
+  },
+  {
+    "year": 1664,
+    "place": "Amsterdam",
+    "title": "Be'er HaGolah on Shulchan Arukh; Choshen Mishpat"
+  },
+  {
+    "year": 1664,
+    "place": "Amsterdam",
+    "title": "Be'er HaGolah on Shulchan Arukh; Orach Chayim"
+  },
+  {
+    "year": 1664,
+    "place": "Amsterdam",
+    "title": "Be'er HaGolah on Shulchan Arukh; Even HaEzer"
+  },
+  {
+    "year": 1664,
+    "place": "Amsterdam",
+    "title": "Be'er HaGolah on Shulchan Arukh; Yoreh De'ah"
+  },
+  {
+    "year": 1668,
+    "place": "Leszno; Poland",
+    "title": "Magen Avraham"
+  },
+  {
+    "year": 1686,
+    "place": "Jerusalem; Israel",
+    "title": "Chidushei Mayim Chayim on Mishneh Torah; Foundations of the Torah"
+  },
+  {
+    "year": 1686,
+    "place": "Jerusalem; Israel",
+    "title": "Chidushei Mayim Chayim on Mishneh Torah; Foreign Worship and Customs of the Nations"
+  },
+  {
+    "year": 1686,
+    "place": "Jerusalem; Israel",
+    "title": "Chidushei Mayim Chayim on Mishneh Torah; Torah Study"
+  },
+  {
+    "year": 1686,
+    "place": "Jerusalem; Israel",
+    "title": "Chidushei Mayim Chayim on Mishneh Torah; Human Dispositions"
+  },
+  {
+    "year": 1689,
+    "place": "Szydłów; Poland",
+    "title": "Beit Shmuel"
+  },
+  {
+    "year": 1738,
+    "place": "Amsterdam",
+    "title": "Messilat Yesharim"
+  },
+  {
+    "year": 1739,
+    "place": "Amsterdam",
+    "title": "Da'at Tevunoth"
+  },
+  {
+    "year": 1740,
+    "place": "Amsterdam",
+    "title": "Derech Hashem"
+  },
+  {
+    "year": 1750,
+    "place": "Mühringen",
+    "title": "Korban Netanel on Megillah"
+  },
+  {
+    "year": 1750,
+    "place": "Mühringen",
+    "title": "Korban Netanel on Ketubot"
+  },
+  {
+    "year": 1750,
+    "place": "Mühringen",
+    "title": "Korban Netanel on Beitzah"
+  },
+  {
+    "year": 1750,
+    "place": "Mühringen",
+    "title": "Korban Netanel on Gittin"
+  },
+  {
+    "year": 1750,
+    "place": "Mühringen",
+    "title": "Korban Netanel on Eruvin"
+  },
+  {
+    "year": 1750,
+    "place": "Mühringen",
+    "title": "Korban Netanel on Pesachim"
+  },
+  {
+    "year": 1750,
+    "place": "Mühringen",
+    "title": "Korban Netanel on Rosh Hashanah"
+  },
+  {
+    "year": 1750,
+    "place": "Mühringen",
+    "title": "Korban Netanel on Kiddushin"
+  },
+  {
+    "year": 1750,
+    "place": "Mühringen",
+    "title": "Korban Netanel on Yevamot"
+  },
+  {
+    "year": 1750,
+    "place": "Mühringen",
+    "title": "Korban Netanel on Taanit"
+  },
+  {
+    "year": 1750,
+    "place": "Mühringen",
+    "title": "Korban Netanel on Sukkah"
+  },
+  {
+    "year": 1750,
+    "place": "Mühringen",
+    "title": "Korban Netanel on Nedarim"
+  },
+  {
+    "year": 1750,
+    "place": "Vilna",
+    "title": "Gra on Pirkei Avot"
+  },
+  {
+    "year": 1750,
+    "place": "Vilna",
+    "title": "HaGra on Sefer Yetzirah Gra Version"
+  },
+  {
+    "year": 1750,
+    "place": "Vilna",
+    "title": "Vilna Gaon on Seder Olam Rabbah"
+  },
+  {
+    "year": 1750,
+    "place": "Vilna",
+    "title": "Gra's Nuschah on Avot D'Rabbi Natan"
+  },
+  {
+    "year": 1750,
+    "place": "Vilna",
+    "title": "Gra's Nuschah on Tractate Derekh Eretz Rabbah"
+  },
+  {
+    "year": 1750,
+    "place": "Vilna",
+    "title": "Gra's Nuschah on Tractate Kallah"
+  },
+  {
+    "year": 1750,
+    "place": "Vilna",
+    "title": "Gra's Nuschah on Tractate Derekh Eretz Zuta"
+  },
+  {
+    "year": 1750,
+    "place": "Vilna",
+    "title": "Gra's Nuschah on Tractate Soferim"
+  },
+  {
+    "year": 1755,
+    "place": "Tripoli; Libya",
+    "title": "Maaseh Rokeach on Daily Offerings and Additional Offerings"
+  },
+  {
+    "year": 1755,
+    "place": "Tripoli; Libya",
+    "title": "Maaseh Rokeach on Second Tithes and Fourth Year's Fruit"
+  },
+  {
+    "year": 1755,
+    "place": "Tripoli; Libya",
+    "title": "Maaseh Rokeach on Vessels of the Sanctuary and Those who Serve Therein"
+  },
+  {
+    "year": 1755,
+    "place": "Tripoli; Libya",
+    "title": "Maaseh Rokeach on Offerings for Those with Incomplete Atonement"
+  },
+  {
+    "year": 1755,
+    "place": "Tripoli; Libya",
+    "title": "Maaseh Rokeach on Sacrificial Procedure"
+  },
+  {
+    "year": 1755,
+    "place": "Tripoli; Libya",
+    "title": "Maaseh Rokeach on Other Sources of Defilement"
+  },
+  {
+    "year": 1755,
+    "place": "Tripoli; Libya",
+    "title": "Maaseh Rokeach on Nazariteship"
+  },
+  {
+    "year": 1755,
+    "place": "Tripoli; Libya",
+    "title": "Maaseh Rokeach on Sacrifices Rendered Unfit"
+  },
+  {
+    "year": 1755,
+    "place": "Tripoli; Libya",
+    "title": "Maaseh Rokeach on Firstlings"
+  },
+  {
+    "year": 1755,
+    "place": "Tripoli; Libya",
+    "title": "Maaseh Rokeach on Blessings"
+  },
+  {
+    "year": 1755,
+    "place": "Tripoli; Libya",
+    "title": "Maaseh Rokeach on Damages to Property"
+  },
+  {
+    "year": 1755,
+    "place": "Tripoli; Libya",
+    "title": "Maaseh Rokeach on Oaths"
+  },
+  {
+    "year": 1755,
+    "place": "Tripoli; Libya",
+    "title": "Maaseh Rokeach on Human Dispositions"
+  },
+  {
+    "year": 1755,
+    "place": "Tripoli; Libya",
+    "title": "Maaseh Rokeach on Red Heifer"
+  },
+  {
+    "year": 1755,
+    "place": "Tripoli; Libya",
+    "title": "Maaseh Rokeach on Ritual Slaughter"
+  },
+  {
+    "year": 1755,
+    "place": "Tripoli; Libya",
+    "title": "Maaseh Rokeach on Those Who Defile Bed or Seat"
+  },
+  {
+    "year": 1755,
+    "place": "Tripoli; Libya",
+    "title": "Maaseh Rokeach on Festival Offering"
+  },
+  {
+    "year": 1755,
+    "place": "Tripoli; Libya",
+    "title": "Maaseh Rokeach on Heave Offerings"
+  },
+  {
+    "year": 1755,
+    "place": "Tripoli; Libya",
+    "title": "Maaseh Rokeach on Immersion Pools"
+  },
+  {
+    "year": 1755,
+    "place": "Tripoli; Libya",
+    "title": "Maaseh Rokeach on First Fruits and other Gifts to Priests Outside the Sanctuary"
+  },
+  {
+    "year": 1755,
+    "place": "Tripoli; Libya",
+    "title": "Maaseh Rokeach on Divorce"
+  },
+  {
+    "year": 1755,
+    "place": "Tripoli; Libya",
+    "title": "Maaseh Rokeach on Marriage"
+  },
+  {
+    "year": 1755,
+    "place": "Tripoli; Libya",
+    "title": "Maaseh Rokeach on Things Forbidden on the Altar"
+  },
+  {
+    "year": 1755,
+    "place": "Tripoli; Libya",
+    "title": "Maaseh Rokeach on Foreign Worship and Customs of the Nations"
+  },
+  {
+    "year": 1755,
+    "place": "Tripoli; Libya",
+    "title": "Maaseh Rokeach on Vows"
+  },
+  {
+    "year": 1755,
+    "place": "Tripoli; Libya",
+    "title": "Maaseh Rokeach on Reading the Shema"
+  },
+  {
+    "year": 1755,
+    "place": "Tripoli; Libya",
+    "title": "Maaseh Rokeach on Paschal Offering"
+  },
+  {
+    "year": 1755,
+    "place": "Tripoli; Libya",
+    "title": "Maaseh Rokeach on Levirate Marriage and Release"
+  },
+  {
+    "year": 1755,
+    "place": "Tripoli; Libya",
+    "title": "Maaseh Rokeach on Murderer and the Preservation of Life"
+  },
+  {
+    "year": 1755,
+    "place": "Tripoli; Libya",
+    "title": "Maaseh Rokeach on Admission into the Sanctuary"
+  },
+  {
+    "year": 1755,
+    "place": "Tripoli; Libya",
+    "title": "Maaseh Rokeach on Robbery and Lost Property"
+  },
+  {
+    "year": 1755,
+    "place": "Tripoli; Libya",
+    "title": "Maaseh Rokeach on Defilement by a Corpse"
+  },
+  {
+    "year": 1755,
+    "place": "Tripoli; Libya",
+    "title": "Maaseh Rokeach on Circumcision"
+  },
+  {
+    "year": 1755,
+    "place": "Tripoli; Libya",
+    "title": "Maaseh Rokeach on Torah Study"
+  },
+  {
+    "year": 1755,
+    "place": "Tripoli; Libya",
+    "title": "Maaseh Rokeach on Woman Suspected of Infidelity"
+  },
+  {
+    "year": 1755,
+    "place": "Tripoli; Libya",
+    "title": "Maaseh Rokeach on Foundations of the Torah"
+  },
+  {
+    "year": 1755,
+    "place": "Tripoli; Libya",
+    "title": "Maaseh Rokeach on Virgin Maiden"
+  },
+  {
+    "year": 1755,
+    "place": "Tripoli; Libya",
+    "title": "Maaseh Rokeach on Theft"
+  },
+  {
+    "year": 1755,
+    "place": "Tripoli; Libya",
+    "title": "Maaseh Rokeach on One Who Injures a Person or Property"
+  },
+  {
+    "year": 1755,
+    "place": "Tripoli; Libya",
+    "title": "Maaseh Rokeach on The Chosen Temple"
+  },
+  {
+    "year": 1755,
+    "place": "Tripoli; Libya",
+    "title": "Maaseh Rokeach on Forbidden Foods"
+  },
+  {
+    "year": 1755,
+    "place": "Tripoli; Libya",
+    "title": "Maaseh Rokeach on Sales"
+  },
+  {
+    "year": 1755,
+    "place": "Tripoli; Libya",
+    "title": "Maaseh Rokeach on Ownerless Property and Gifts"
+  },
+  {
+    "year": 1755,
+    "place": "Tripoli; Libya",
+    "title": "Maaseh Rokeach on Repentance"
+  },
+  {
+    "year": 1755,
+    "place": "Tripoli; Libya",
+    "title": "Maaseh Rokeach on Tefillin; Mezuzah and the Torah Scroll"
+  },
+  {
+    "year": 1755,
+    "place": "Tripoli; Libya",
+    "title": "Maaseh Rokeach on Sabbatical Year and the Jubilee"
+  },
+  {
+    "year": 1755,
+    "place": "Tripoli; Libya",
+    "title": "Maaseh Rokeach on Defilement of Foods"
+  },
+  {
+    "year": 1755,
+    "place": "Tripoli; Libya",
+    "title": "Maaseh Rokeach on Gifts to the Poor"
+  },
+  {
+    "year": 1755,
+    "place": "Tripoli; Libya",
+    "title": "Maaseh Rokeach on Substitution"
+  },
+  {
+    "year": 1755,
+    "place": "Tripoli; Libya",
+    "title": "Maaseh Rokeach on Appraisals and Devoted Property"
+  },
+  {
+    "year": 1755,
+    "place": "Tripoli; Libya",
+    "title": "Maaseh Rokeach on Vessels"
+  },
+  {
+    "year": 1755,
+    "place": "Tripoli; Libya",
+    "title": "Maaseh Rokeach on Fringes"
+  },
+  {
+    "year": 1755,
+    "place": "Tripoli; Libya",
+    "title": "Maaseh Rokeach on Defilement by Leprosy"
+  },
+  {
+    "year": 1755,
+    "place": "Tripoli; Libya",
+    "title": "Maaseh Rokeach on Trespass"
+  },
+  {
+    "year": 1755,
+    "place": "Tripoli; Libya",
+    "title": "Maaseh Rokeach on Prayer and the Priestly Blessing"
+  },
+  {
+    "year": 1755,
+    "place": "Tripoli; Libya",
+    "title": "Maaseh Rokeach on Tithes"
+  },
+  {
+    "year": 1755,
+    "place": "Tripoli; Libya",
+    "title": "Maaseh Rokeach on Diverse Species"
+  },
+  {
+    "year": 1755,
+    "place": "Tripoli; Libya",
+    "title": "Maaseh Rokeach on Offerings for Unintentional Transgressions"
+  },
+  {
+    "year": 1755,
+    "place": "Tripoli; Libya",
+    "title": "Maaseh Rokeach on Forbidden Intercourse"
+  },
+  {
+    "year": 1755,
+    "place": "Tripoli; Libya",
+    "title": "Maaseh Rokeach on Service on the Day of Atonement"
+  },
+  {
+    "year": 1755,
+    "place": "Tripoli; Libya",
+    "title": "Maaseh Rokeach on Rest on the Tenth of Tishrei"
+  },
+  {
+    "year": 1755,
+    "place": "Tripoli; Libya",
+    "title": "Maaseh Rokeach on Sabbath"
+  },
+  {
+    "year": 1755,
+    "place": "Tripoli; Libya",
+    "title": "Maaseh Rokeach on Scroll of Esther and Hanukkah"
+  },
+  {
+    "year": 1755,
+    "place": "Tripoli; Libya",
+    "title": "Maaseh Rokeach on Eruvin"
+  },
+  {
+    "year": 1755,
+    "place": "Tripoli; Libya",
+    "title": "Maaseh Rokeach on Rest on a Holiday"
+  },
+  {
+    "year": 1755,
+    "place": "Tripoli; Libya",
+    "title": "Maaseh Rokeach on Sheqel Dues"
+  },
+  {
+    "year": 1755,
+    "place": "Tripoli; Libya",
+    "title": "Maaseh Rokeach on Shofar; Sukkah and Lulav"
+  },
+  {
+    "year": 1755,
+    "place": "Tripoli; Libya",
+    "title": "Maaseh Rokeach on Fasts"
+  },
+  {
+    "year": 1755,
+    "place": "Tripoli; Libya",
+    "title": "Maaseh Rokeach on Leavened and Unleavened Bread"
+  },
+  {
+    "year": 1760,
+    "place": "Jaworów; Poland",
+    "title": "Metzudat David on Job"
+  },
+  {
+    "year": 1760,
+    "place": "Jaworów; Poland",
+    "title": "Metzudat David on Proverbs"
+  },
+  {
+    "year": 1760,
+    "place": "Jaworów; Poland",
+    "title": "Metzudat David on Psalms"
+  },
+  {
+    "year": 1763,
+    "place": "Prague",
+    "title": "Noda BiYhudah I"
+  },
+  {
+    "year": 1763,
+    "place": "prague",
+    "title": "Noda BiYhudah II"
+  },
+  {
+    "year": 1765,
+    "place": "Amsterdam",
+    "title": "Lev Shalem on Mishneh Torah; Sabbath"
+  },
+  {
+    "year": 1765,
+    "place": "Amsterdam",
+    "title": "Lev Shalem on Mishneh Torah; Foreign Worship and Customs of the Nations"
+  },
+  {
+    "year": 1765,
+    "place": "Amsterdam",
+    "title": "Lev Shalem on Mishneh Torah; Woman Suspected of Infidelity"
+  },
+  {
+    "year": 1765,
+    "place": "Amsterdam",
+    "title": "Lev Shalem on Mishneh Torah; Scroll of Esther and Hanukkah"
+  },
+  {
+    "year": 1765,
+    "place": "Amsterdam",
+    "title": "Lev Shalem on Mishneh Torah; Virgin Maiden"
+  },
+  {
+    "year": 1765,
+    "place": "Amsterdam",
+    "title": "Lev Shalem on Mishneh Torah; Forbidden Foods"
+  },
+  {
+    "year": 1765,
+    "place": "Amsterdam",
+    "title": "Lev Shalem on Mishneh Torah; Levirate Marriage and Release"
+  },
+  {
+    "year": 1765,
+    "place": "Amsterdam",
+    "title": "Lev Shalem on Mishneh Torah; Sheqel Dues"
+  },
+  {
+    "year": 1765,
+    "place": "Amsterdam",
+    "title": "Lev Shalem on Mishneh Torah; Leavened and Unleavened Bread"
+  },
+  {
+    "year": 1765,
+    "place": "Amsterdam",
+    "title": "Lev Shalem on Mishneh Torah; Fringes"
+  },
+  {
+    "year": 1765,
+    "place": "Amsterdam",
+    "title": "Lev Shalem on Mishneh Torah; Divorce"
+  },
+  {
+    "year": 1765,
+    "place": "Amsterdam",
+    "title": "Lev Shalem on Mishneh Torah; Repentance"
+  },
+  {
+    "year": 1765,
+    "place": "Amsterdam",
+    "title": "Lev Shalem on Mishneh Torah; Fasts"
+  },
+  {
+    "year": 1765,
+    "place": "Amsterdam",
+    "title": "Lev Shalem on Mishneh Torah; Rest on a Holiday"
+  },
+  {
+    "year": 1765,
+    "place": "Amsterdam",
+    "title": "Lev Shalem on Mishneh Torah; Ritual Slaughter"
+  },
+  {
+    "year": 1765,
+    "place": "Amsterdam",
+    "title": "Lev Shalem on Mishneh Torah; Forbidden Intercourse"
+  },
+  {
+    "year": 1765,
+    "place": "Amsterdam",
+    "title": "Lev Shalem on Mishneh Torah; Marriage"
+  },
+  {
+    "year": 1765,
+    "place": "Amsterdam",
+    "title": "Lev Shalem on Mishneh Torah; Sanctification of the New Month"
+  },
+  {
+    "year": 1765,
+    "place": "Amsterdam",
+    "title": "Lev Shalem on Mishneh Torah; Torah Study"
+  },
+  {
+    "year": 1765,
+    "place": "Amsterdam",
+    "title": "Lev Shalem on Mishneh Torah; Blessings"
+  },
+  {
+    "year": 1765,
+    "place": "Amsterdam",
+    "title": "Lev Shalem on Mishneh Torah; Foundations of the Torah"
+  },
+  {
+    "year": 1765,
+    "place": "Amsterdam",
+    "title": "Lev Shalem on Mishneh Torah; Prayer and the Priestly Blessing"
+  },
+  {
+    "year": 1770,
+    "place": "Vilna",
+    "title": "Aderet Eliyahu"
+  },
+  {
+    "year": 1770,
+    "place": "Frankfurt am Main; Germany",
+    "title": "Haflaah on Ketubot"
+  },
+  {
+    "year": 1780,
+    "place": "Posen",
+    "title": "Avi Ezer"
+  },
+  {
+    "year": 1780,
+    "place": "Polonne; Ukraine",
+    "title": "Toldot Yaakov Yosef"
+  },
+  {
+    "year": 1780,
+    "place": "Chernobyl",
+    "title": "Me'or Einayim"
+  },
+  {
+    "year": 1780,
+    "place": "Offenbach",
+    "title": "Nahalat Yaakov on Tractate Semachot"
+  },
+  {
+    "year": 1780,
+    "place": "Boskovice",
+    "title": "Machatzit HaShekel on Orach Chayim"
+  },
+  {
+    "year": 1782,
+    "place": "Frankfurt an der Oder",
+    "title": "Tevat Gome"
+  },
+  {
+    "year": 1791,
+    "place": "Liozna",
+    "title": "Tanya"
+  },
+  {
+    "year": 1800,
+    "place": "Belarus",
+    "title": "Shulchan Aruch HaRav"
+  },
+  {
+    "year": 1800,
+    "place": "Valozhyn",
+    "title": "Nefesh HaChaim"
+  },
+  {
+    "year": 1800,
+    "place": "Vilna",
+    "title": "Kitzur Sefer Haredim of Rabbi Elazar Azcari"
+  },
+  {
+    "year": 1800,
+    "place": "Gorizia",
+    "title": "Sepher Torat Elohim on Genesis"
+  },
+  {
+    "year": 1800,
+    "place": "Vilna",
+    "title": "Chayei Adam"
+  },
+  {
+    "year": 1805,
+    "place": "Bratslav; Ukraine",
+    "title": "Likutei Moharan"
+  },
+  {
+    "year": 1805,
+    "place": "Vilna",
+    "title": "Nishmat Adam"
+  },
+  {
+    "year": 1805,
+    "place": "Vilna",
+    "title": "Chokhmat Adam"
+  },
+  {
+    "year": 1805,
+    "place": "Vilna",
+    "title": "Binat Adam"
+  },
+  {
+    "year": 1805,
+    "place": "Izmir / Smyrna",
+    "title": "Melechet Shlomo on Mishneh Torah; Divorce"
+  },
+  {
+    "year": 1805,
+    "place": "Izmir / Smyrna",
+    "title": "Melechet Shlomo on Mishneh Torah; Tefillin; Mezuzah and the Torah Scroll"
+  },
+  {
+    "year": 1805,
+    "place": "Izmir / Smyrna",
+    "title": "Melechet Shlomo on Mishneh Torah; Daily Offerings and Additional Offerings"
+  },
+  {
+    "year": 1805,
+    "place": "Izmir / Smyrna",
+    "title": "Melechet Shlomo on Mishneh Torah; Heave Offerings"
+  },
+  {
+    "year": 1805,
+    "place": "Izmir / Smyrna",
+    "title": "Melechet Shlomo on Mishneh Torah; Leavened and Unleavened Bread"
+  },
+  {
+    "year": 1805,
+    "place": "Izmir / Smyrna",
+    "title": "Melechet Shlomo on Mishneh Torah; Rebels"
+  },
+  {
+    "year": 1805,
+    "place": "Izmir / Smyrna",
+    "title": "Melechet Shlomo on Mishneh Torah; Sales"
+  },
+  {
+    "year": 1805,
+    "place": "Izmir / Smyrna",
+    "title": "Melechet Shlomo on Mishneh Torah; Plaintiff and Defendant"
+  },
+  {
+    "year": 1805,
+    "place": "Izmir / Smyrna",
+    "title": "Melechet Shlomo on Mishneh Torah; Neighbors"
+  },
+  {
+    "year": 1805,
+    "place": "Izmir / Smyrna",
+    "title": "Melechet Shlomo on Mishneh Torah; Kings and Wars"
+  },
+  {
+    "year": 1805,
+    "place": "Izmir / Smyrna",
+    "title": "Melechet Shlomo on Mishneh Torah; Borrowing and Deposit"
+  },
+  {
+    "year": 1805,
+    "place": "Izmir / Smyrna",
+    "title": "Melechet Shlomo on Mishneh Torah; Rest on a Holiday"
+  },
+  {
+    "year": 1805,
+    "place": "Izmir / Smyrna",
+    "title": "Melechet Shlomo on Mishneh Torah; Levirate Marriage and Release"
+  },
+  {
+    "year": 1805,
+    "place": "Izmir / Smyrna",
+    "title": "Melechet Shlomo on Mishneh Torah; Ownerless Property and Gifts"
+  },
+  {
+    "year": 1805,
+    "place": "Izmir / Smyrna",
+    "title": "Melechet Shlomo on Mishneh Torah; Red Heifer"
+  },
+  {
+    "year": 1805,
+    "place": "Izmir / Smyrna",
+    "title": "Melechet Shlomo on Mishneh Torah; Foundations of the Torah"
+  },
+  {
+    "year": 1805,
+    "place": "Izmir / Smyrna",
+    "title": "Melechet Shlomo on Mishneh Torah; Murderer and the Preservation of Life"
+  },
+  {
+    "year": 1805,
+    "place": "Izmir / Smyrna",
+    "title": "Melechet Shlomo on Mishneh Torah; Robbery and Lost Property"
+  },
+  {
+    "year": 1805,
+    "place": "Izmir / Smyrna",
+    "title": "Melechet Shlomo on Mishneh Torah; Foreign Worship and Customs of the Nations"
+  },
+  {
+    "year": 1805,
+    "place": "Izmir / Smyrna",
+    "title": "Melechet Shlomo on Mishneh Torah; Forbidden Foods"
+  },
+  {
+    "year": 1805,
+    "place": "Izmir / Smyrna",
+    "title": "Melechet Shlomo on Mishneh Torah; One Who Injures a Person or Property"
+  },
+  {
+    "year": 1805,
+    "place": "Izmir / Smyrna",
+    "title": "Melechet Shlomo on Mishneh Torah; Oaths"
+  },
+  {
+    "year": 1805,
+    "place": "Izmir / Smyrna",
+    "title": "Melechet Shlomo on Mishneh Torah; Prayer and the Priestly Blessing"
+  },
+  {
+    "year": 1805,
+    "place": "Izmir / Smyrna",
+    "title": "Melechet Shlomo on Mishneh Torah; Torah Study"
+  },
+  {
+    "year": 1805,
+    "place": "Izmir / Smyrna",
+    "title": "Melechet Shlomo on Mishneh Torah; Blessings"
+  },
+  {
+    "year": 1805,
+    "place": "Izmir / Smyrna",
+    "title": "Melechet Shlomo on Mishneh Torah; Mourning"
+  },
+  {
+    "year": 1805,
+    "place": "Izmir / Smyrna",
+    "title": "Melechet Shlomo on Mishneh Torah; Inheritances"
+  },
+  {
+    "year": 1805,
+    "place": "Izmir / Smyrna",
+    "title": "Melechet Shlomo on Mishneh Torah; Vows"
+  },
+  {
+    "year": 1805,
+    "place": "Izmir / Smyrna",
+    "title": "Melechet Shlomo on Mishneh Torah; Paschal Offering"
+  },
+  {
+    "year": 1805,
+    "place": "Izmir / Smyrna",
+    "title": "Melechet Shlomo on Mishneh Torah; Slaves"
+  },
+  {
+    "year": 1805,
+    "place": "Izmir / Smyrna",
+    "title": "Melechet Shlomo on Mishneh Torah; Shofar; Sukkah and Lulav"
+  },
+  {
+    "year": 1805,
+    "place": "Izmir / Smyrna",
+    "title": "Melechet Shlomo on Mishneh Torah; Defilement by a Corpse"
+  },
+  {
+    "year": 1805,
+    "place": "Izmir / Smyrna",
+    "title": "Melechet Shlomo on Mishneh Torah; Sabbath"
+  },
+  {
+    "year": 1805,
+    "place": "Izmir / Smyrna",
+    "title": "Melechet Shlomo on Mishneh Torah; Ritual Slaughter"
+  },
+  {
+    "year": 1805,
+    "place": "Izmir / Smyrna",
+    "title": "Melechet Shlomo on Mishneh Torah; Trespass"
+  },
+  {
+    "year": 1805,
+    "place": "Izmir / Smyrna",
+    "title": "Melechet Shlomo on Mishneh Torah; Eruvin"
+  },
+  {
+    "year": 1805,
+    "place": "Izmir / Smyrna",
+    "title": "Melechet Shlomo on Mishneh Torah; Hiring"
+  },
+  {
+    "year": 1805,
+    "place": "Izmir / Smyrna",
+    "title": "Melechet Shlomo on Mishneh Torah; Creditor and Debtor"
+  },
+  {
+    "year": 1805,
+    "place": "Izmir / Smyrna",
+    "title": "Melechet Shlomo on Mishneh Torah; Admission into the Sanctuary"
+  },
+  {
+    "year": 1805,
+    "place": "Izmir / Smyrna",
+    "title": "Melechet Shlomo on Mishneh Torah; Agents and Partners"
+  },
+  {
+    "year": 1805,
+    "place": "Izmir / Smyrna",
+    "title": "Melechet Shlomo on Mishneh Torah; The Sanhedrin and the Penalties within their Jurisdiction"
+  },
+  {
+    "year": 1805,
+    "place": "Izmir / Smyrna",
+    "title": "Melechet Shlomo on Mishneh Torah; Theft"
+  },
+  {
+    "year": 1805,
+    "place": "Izmir / Smyrna",
+    "title": "Melechet Shlomo on Mishneh Torah; Sacrificial Procedure"
+  },
+  {
+    "year": 1805,
+    "place": "Izmir / Smyrna",
+    "title": "Melechet Shlomo on Mishneh Torah; Sacrifices Rendered Unfit"
+  },
+  {
+    "year": 1805,
+    "place": "Izmir / Smyrna",
+    "title": "Melechet Shlomo on Mishneh Torah; Defilement of Foods"
+  },
+  {
+    "year": 1805,
+    "place": "Izmir / Smyrna",
+    "title": "Melechet Shlomo on Mishneh Torah; Sheqel Dues"
+  },
+  {
+    "year": 1805,
+    "place": "Izmir / Smyrna",
+    "title": "Melechet Shlomo on Mishneh Torah; Nazariteship"
+  },
+  {
+    "year": 1805,
+    "place": "Izmir / Smyrna",
+    "title": "Melechet Shlomo on Mishneh Torah; Woman Suspected of Infidelity"
+  },
+  {
+    "year": 1805,
+    "place": "Izmir / Smyrna",
+    "title": "Melechet Shlomo on Mishneh Torah; Gifts to the Poor"
+  },
+  {
+    "year": 1805,
+    "place": "Izmir / Smyrna",
+    "title": "Melechet Shlomo on Mishneh Torah; Testimony"
+  },
+  {
+    "year": 1805,
+    "place": "Izmir / Smyrna",
+    "title": "Melechet Shlomo on Mishneh Torah; Marriage"
+  },
+  {
+    "year": 1805,
+    "place": "Izmir / Smyrna",
+    "title": "Melechet Shlomo on Mishneh Torah; Forbidden Intercourse"
+  },
+  {
+    "year": 1805,
+    "place": "Izmir / Smyrna",
+    "title": "Melechet Shlomo on Mishneh Torah; First Fruits and other Gifts to Priests Outside the Sanctuary"
+  },
+  {
+    "year": 1805,
+    "place": "Izmir / Smyrna",
+    "title": "Melechet Shlomo on Mishneh Torah; Fasts"
+  },
+  {
+    "year": 1805,
+    "place": "Brody",
+    "title": "Yad Ephraim on Shulchan Arukh; Orach Chayim"
+  },
+  {
+    "year": 1810,
+    "place": "Brody",
+    "title": "Mateh Efrayim"
+  },
+  {
+    "year": 1811,
+    "place": "Safed",
+    "title": "Maaseh Rav"
+  },
+  {
+    "year": 1819,
+    "place": "Silistra; Bulgaria",
+    "title": "Pele Yoetz"
+  },
+  {
+    "year": 1820,
+    "place": "Dessau; Germany",
+    "title": "Yachin on Mishnah Berakhot"
+  },
+  {
+    "year": 1820,
+    "place": "Dessau; Germany",
+    "title": "Yachin on Mishnah Bikkurim"
+  },
+  {
+    "year": 1820,
+    "place": "Dessau; Germany",
+    "title": "Yachin on Mishnah Challah"
+  },
+  {
+    "year": 1820,
+    "place": "Dessau; Germany",
+    "title": "Yachin on Mishnah Demai"
+  },
+  {
+    "year": 1820,
+    "place": "Dessau; Germany",
+    "title": "Yachin on Mishnah Kelim"
+  },
+  {
+    "year": 1820,
+    "place": "Dessau; Germany",
+    "title": "Yachin on Mishnah Kilayim"
+  },
+  {
+    "year": 1820,
+    "place": "Dessau; Germany",
+    "title": "Yachin on Mishnah Maaser Sheni"
+  },
+  {
+    "year": 1820,
+    "place": "Dessau; Germany",
+    "title": "Yachin on Mishnah Maasrot"
+  },
+  {
+    "year": 1820,
+    "place": "Dessau; Germany",
+    "title": "Yachin on Mishnah Makhshirin"
+  },
+  {
+    "year": 1820,
+    "place": "Dessau; Germany",
+    "title": "Yachin on Mishnah Meilah"
+  },
+  {
+    "year": 1820,
+    "place": "Dessau; Germany",
+    "title": "Yachin on Mishnah Menachot"
+  },
+  {
+    "year": 1820,
+    "place": "Dessau; Germany",
+    "title": "Yachin on Mishnah Mikvaot"
+  },
+  {
+    "year": 1820,
+    "place": "Dessau; Germany",
+    "title": "Yachin on Mishnah Negaim"
+  },
+  {
+    "year": 1820,
+    "place": "Dessau; Germany",
+    "title": "Yachin on Mishnah Niddah"
+  },
+  {
+    "year": 1820,
+    "place": "Dessau; Germany",
+    "title": "Yachin on Mishnah Oholot"
+  },
+  {
+    "year": 1820,
+    "place": "Dessau; Germany",
+    "title": "Yachin on Mishnah Oktzin"
+  },
+  {
+    "year": 1820,
+    "place": "Dessau; Germany",
+    "title": "Yachin on Mishnah Orlah"
+  },
+  {
+    "year": 1820,
+    "place": "Dessau; Germany",
+    "title": "Yachin on Mishnah Parah"
+  },
+  {
+    "year": 1820,
+    "place": "Dessau; Germany",
+    "title": "Yachin on Mishnah Peah"
+  },
+  {
+    "year": 1820,
+    "place": "Dessau; Germany",
+    "title": "Yachin on Mishnah Sheviit"
+  },
+  {
+    "year": 1820,
+    "place": "Dessau; Germany",
+    "title": "Yachin on Mishnah Tahorot"
+  },
+  {
+    "year": 1820,
+    "place": "Dessau; Germany",
+    "title": "Yachin on Mishnah Terumot"
+  },
+  {
+    "year": 1820,
+    "place": "Dessau; Germany",
+    "title": "Yachin on Mishnah Tevul Yom"
+  },
+  {
+    "year": 1820,
+    "place": "Dessau; Germany",
+    "title": "Yachin on Mishnah Yadayim"
+  },
+  {
+    "year": 1820,
+    "place": "Dessau; Germany",
+    "title": "Yachin on Mishnah Zavim"
+  },
+  {
+    "year": 1820,
+    "place": "Dessau; Germany",
+    "title": "Boaz on Mishnah Berakhot"
+  },
+  {
+    "year": 1820,
+    "place": "Dessau; Germany",
+    "title": "Boaz on Mishnah Peah"
+  },
+  {
+    "year": 1820,
+    "place": "Dessau; Germany",
+    "title": "Boaz on Mishnah Demai"
+  },
+  {
+    "year": 1820,
+    "place": "Dessau; Germany",
+    "title": "Boaz on Mishnah Kilayim"
+  },
+  {
+    "year": 1820,
+    "place": "Dessau; Germany",
+    "title": "Boaz on Mishnah Maasrot"
+  },
+  {
+    "year": 1820,
+    "place": "Dessau; Germany",
+    "title": "Boaz on Mishnah Maaser Sheni"
+  },
+  {
+    "year": 1820,
+    "place": "Dessau; Germany",
+    "title": "Boaz on Mishnah Challah"
+  },
+  {
+    "year": 1820,
+    "place": "Dessau; Germany",
+    "title": "Boaz on Mishnah Orlah"
+  },
+  {
+    "year": 1820,
+    "place": "Dessau; Germany",
+    "title": "Boaz on Mishnah Bikkurim"
+  },
+  {
+    "year": 1820,
+    "place": "Dessau; Germany",
+    "title": "Boaz on Mishnah Kelim"
+  },
+  {
+    "year": 1820,
+    "place": "Dessau; Germany",
+    "title": "Boaz on Mishnah Oholot"
+  },
+  {
+    "year": 1820,
+    "place": "Dessau; Germany",
+    "title": "Boaz on Mishnah Negaim"
+  },
+  {
+    "year": 1820,
+    "place": "Dessau; Germany",
+    "title": "Boaz on Mishnah Parah"
+  },
+  {
+    "year": 1820,
+    "place": "Dessau; Germany",
+    "title": "Boaz on Mishnah Tahorot"
+  },
+  {
+    "year": 1820,
+    "place": "Dessau; Germany",
+    "title": "Boaz on Mishnah Mikvaot"
+  },
+  {
+    "year": 1820,
+    "place": "Dessau; Germany",
+    "title": "Boaz on Mishnah Niddah"
+  },
+  {
+    "year": 1820,
+    "place": "Białystok",
+    "title": "Etz Yosef on Bereishit Rabbah"
+  },
+  {
+    "year": 1820,
+    "place": "Białystok",
+    "title": "Etz Yosef on Shemot Rabbah"
+  },
+  {
+    "year": 1820,
+    "place": "Białystok",
+    "title": "Etz Yosef on Vayikra Rabbah"
+  },
+  {
+    "year": 1820,
+    "place": "Białystok",
+    "title": "Etz Yosef on Bamidbar Rabbah"
+  },
+  {
+    "year": 1820,
+    "place": "Białystok",
+    "title": "Etz Yosef on Devarim Rabbah"
+  },
+  {
+    "year": 1828,
+    "place": "Minsk",
+    "title": "Nachal Eitan on Mishneh Torah; Divorce"
+  },
+  {
+    "year": 1828,
+    "place": "Minsk",
+    "title": "Nachal Eitan on Mishneh Torah; Levirate Marriage and Release"
+  },
+  {
+    "year": 1828,
+    "place": "Minsk",
+    "title": "Nachal Eitan on Mishneh Torah; Eruvin"
+  },
+  {
+    "year": 1828,
+    "place": "Minsk",
+    "title": "Nachal Eitan on Mishneh Torah; Ritual Slaughter"
+  },
+  {
+    "year": 1828,
+    "place": "Minsk",
+    "title": "Nachal Eitan on Mishneh Torah; Fasts"
+  },
+  {
+    "year": 1828,
+    "place": "Minsk",
+    "title": "Nachal Eitan on Mishneh Torah; Virgin Maiden"
+  },
+  {
+    "year": 1828,
+    "place": "Minsk",
+    "title": "Nachal Eitan on Mishneh Torah; Forbidden Intercourse"
+  },
+  {
+    "year": 1828,
+    "place": "Minsk",
+    "title": "Nachal Eitan on Mishneh Torah; Marriage"
+  },
+  {
+    "year": 1828,
+    "place": "Minsk",
+    "title": "Nachal Eitan on Mishneh Torah; Forbidden Foods"
+  },
+  {
+    "year": 1828,
+    "place": "Minsk",
+    "title": "Nachal Eitan on Mishneh Torah; Prayer and the Priestly Blessing"
+  },
+  {
+    "year": 1828,
+    "place": "Minsk",
+    "title": "Nachal Eitan on Mishneh Torah; Sabbath"
+  },
+  {
+    "year": 1828,
+    "place": "Minsk",
+    "title": "Nachal Eitan on Mishneh Torah; Tefillin; Mezuzah and the Torah Scroll"
+  },
+  {
+    "year": 1828,
+    "place": "Minsk",
+    "title": "Nachal Eitan on Mishneh Torah; Woman Suspected of Infidelity"
+  },
+  {
+    "year": 1828,
+    "place": "Minsk",
+    "title": "Nachal Eitan on Mishneh Torah; Fringes"
+  },
+  {
+    "year": 1828,
+    "place": "Minsk",
+    "title": "Nachal Eitan on Mishneh Torah; Human Dispositions"
+  },
+  {
+    "year": 1828,
+    "place": "Minsk",
+    "title": "Nachal Eitan on Mishneh Torah; Repentance"
+  },
+  {
+    "year": 1828,
+    "place": "Minsk",
+    "title": "Nachal Eitan on Mishneh Torah; Foundations of the Torah"
+  },
+  {
+    "year": 1828,
+    "place": "Minsk",
+    "title": "Nachal Eitan on Mishneh Torah; Foreign Worship and Customs of the Nations"
+  },
+  {
+    "year": 1828,
+    "place": "Minsk",
+    "title": "Nachal Eitan on Mishneh Torah; Shofar; Sukkah and Lulav"
+  },
+  {
+    "year": 1828,
+    "place": "Minsk",
+    "title": "Nachal Eitan on Mishneh Torah; Reading the Shema"
+  },
+  {
+    "year": 1828,
+    "place": "Minsk",
+    "title": "Nachal Eitan on Mishneh Torah; Torah Study"
+  },
+  {
+    "year": 1828,
+    "place": "Minsk",
+    "title": "Nachal Eitan on Mishneh Torah; Scroll of Esther and Hanukkah"
+  },
+  {
+    "year": 1828,
+    "place": "Minsk",
+    "title": "Nachal Eitan on Mishneh Torah; Sanctification of the New Month"
+  },
+  {
+    "year": 1828,
+    "place": "Minsk",
+    "title": "Nachal Eitan on Mishneh Torah; Rest on the Tenth of Tishrei"
+  },
+  {
+    "year": 1828,
+    "place": "Minsk",
+    "title": "Nachal Eitan on Mishneh Torah; Rest on a Holiday"
+  },
+  {
+    "year": 1828,
+    "place": "Minsk",
+    "title": "Nachal Eitan on Mishneh Torah; Leavened and Unleavened Bread"
+  },
+  {
+    "year": 1828,
+    "place": "Minsk",
+    "title": "Nachal Eitan on Mishneh Torah; Blessings"
+  },
+  {
+    "year": 1828,
+    "place": "Minsk",
+    "title": "Nachal Eitan on Mishneh Torah; Circumcision"
+  },
+  {
+    "year": 1833,
+    "place": "Danzig / Gdańsk",
+    "title": "Yachin on Mishnah Beitzah"
+  },
+  {
+    "year": 1833,
+    "place": "Danzig / Gdańsk",
+    "title": "Yachin on Mishnah Chagigah"
+  },
+  {
+    "year": 1833,
+    "place": "Danzig / Gdańsk",
+    "title": "Yachin on Mishnah Horayot"
+  },
+  {
+    "year": 1833,
+    "place": "Danzig / Gdańsk",
+    "title": "Yachin on Mishnah Ketubot"
+  },
+  {
+    "year": 1833,
+    "place": "Danzig / Gdańsk",
+    "title": "Yachin on Mishnah Kiddushin"
+  },
+  {
+    "year": 1833,
+    "place": "Danzig / Gdańsk",
+    "title": "Yachin on Mishnah Nazir"
+  },
+  {
+    "year": 1833,
+    "place": "Danzig / Gdańsk",
+    "title": "Yachin on Mishnah Nedarim"
+  },
+  {
+    "year": 1833,
+    "place": "Danzig / Gdańsk",
+    "title": "Yachin on Mishnah Shabbat"
+  },
+  {
+    "year": 1833,
+    "place": "Danzig / Gdańsk",
+    "title": "Yachin on Mishnah Sotah"
+  },
+  {
+    "year": 1833,
+    "place": "Danzig / Gdańsk",
+    "title": "Yachin on Mishnah Yevamot"
+  },
+  {
+    "year": 1833,
+    "place": "Danzig / Gdańsk",
+    "title": "Boaz on Mishnah Shabbat"
+  },
+  {
+    "year": 1833,
+    "place": "Danzig / Gdańsk",
+    "title": "Boaz on Mishnah Pesachim"
+  },
+  {
+    "year": 1833,
+    "place": "Danzig / Gdańsk",
+    "title": "Boaz on Mishnah Shekalim"
+  },
+  {
+    "year": 1833,
+    "place": "Danzig / Gdańsk",
+    "title": "Boaz on Mishnah Yoma"
+  },
+  {
+    "year": 1833,
+    "place": "Danzig / Gdańsk",
+    "title": "Boaz on Mishnah Sukkah"
+  },
+  {
+    "year": 1833,
+    "place": "Danzig / Gdańsk",
+    "title": "Boaz on Mishnah Rosh Hashanah"
+  },
+  {
+    "year": 1833,
+    "place": "Danzig / Gdańsk",
+    "title": "Boaz on Mishnah Taanit"
+  },
+  {
+    "year": 1833,
+    "place": "Danzig / Gdańsk",
+    "title": "Boaz on Mishnah Megillah"
+  },
+  {
+    "year": 1833,
+    "place": "Danzig / Gdańsk",
+    "title": "Boaz on Mishnah Yevamot"
+  },
+  {
+    "year": 1833,
+    "place": "Danzig / Gdańsk",
+    "title": "Boaz on Mishnah Ketubot"
+  },
+  {
+    "year": 1833,
+    "place": "Danzig / Gdańsk",
+    "title": "Boaz on Mishnah Nedarim"
+  },
+  {
+    "year": 1833,
+    "place": "Danzig / Gdańsk",
+    "title": "Boaz on Mishnah Nazir"
+  },
+  {
+    "year": 1833,
+    "place": "Danzig / Gdańsk",
+    "title": "Boaz on Mishnah Sotah"
+  },
+  {
+    "year": 1833,
+    "place": "Danzig / Gdańsk",
+    "title": "Boaz on Mishnah Gittin"
+  },
+  {
+    "year": 1833,
+    "place": "Danzig / Gdańsk",
+    "title": "Boaz on Mishnah Kiddushin"
+  },
+  {
+    "year": 1834,
+    "place": "Danzig / Gdańsk",
+    "title": "Yachin on Mishnah Eruvin"
+  },
+  {
+    "year": 1834,
+    "place": "Danzig / Gdańsk",
+    "title": "Yachin on Mishnah Gittin"
+  },
+  {
+    "year": 1834,
+    "place": "Danzig / Gdańsk",
+    "title": "Yachin on Mishnah Megillah"
+  },
+  {
+    "year": 1834,
+    "place": "Danzig / Gdańsk",
+    "title": "Yachin on Mishnah Moed Katan"
+  },
+  {
+    "year": 1834,
+    "place": "Danzig / Gdańsk",
+    "title": "Yachin on Mishnah Pesachim"
+  },
+  {
+    "year": 1834,
+    "place": "Danzig / Gdańsk",
+    "title": "Yachin on Mishnah Rosh Hashanah"
+  },
+  {
+    "year": 1834,
+    "place": "Danzig / Gdańsk",
+    "title": "Yachin on Mishnah Shekalim"
+  },
+  {
+    "year": 1834,
+    "place": "Danzig / Gdańsk",
+    "title": "Yachin on Mishnah Sukkah"
+  },
+  {
+    "year": 1834,
+    "place": "Danzig / Gdańsk",
+    "title": "Yachin on Mishnah Taanit"
+  },
+  {
+    "year": 1834,
+    "place": "Danzig / Gdańsk",
+    "title": "Yachin on Mishnah Yoma"
+  },
+  {
+    "year": 1834,
+    "place": "Danzig / Gdańsk",
+    "title": "Boaz on Mishnah Eruvin"
+  },
+  {
+    "year": 1834,
+    "place": "Danzig / Gdańsk",
+    "title": "Boaz on Mishnah Beitzah"
+  },
+  {
+    "year": 1834,
+    "place": "Danzig / Gdańsk",
+    "title": "Boaz on Mishnah Moed Katan"
+  },
+  {
+    "year": 1834,
+    "place": "Danzig / Gdańsk",
+    "title": "Boaz on Mishnah Chagigah"
+  },
+  {
+    "year": 1835,
+    "place": "Brezovica; Slovenia",
+    "title": "Keset HaSofer"
+  },
+  {
+    "year": 1835,
+    "place": "Danzig / Gdańsk",
+    "title": "Yachin on Mishnah Avodah Zarah"
+  },
+  {
+    "year": 1835,
+    "place": "Danzig / Gdańsk",
+    "title": "Yachin on Mishnah Bava Batra"
+  },
+  {
+    "year": 1835,
+    "place": "Danzig / Gdańsk",
+    "title": "Yachin on Mishnah Bava Kamma"
+  },
+  {
+    "year": 1835,
+    "place": "Danzig / Gdańsk",
+    "title": "Yachin on Mishnah Bava Metzia"
+  },
+  {
+    "year": 1835,
+    "place": "Danzig / Gdańsk",
+    "title": "Yachin on Mishnah Eduyot"
+  },
+  {
+    "year": 1835,
+    "place": "Danzig / Gdańsk",
+    "title": "Yachin on Mishnah Makkot"
+  },
+  {
+    "year": 1835,
+    "place": "Danzig / Gdańsk",
+    "title": "Yachin on Mishnah Sanhedrin"
+  },
+  {
+    "year": 1835,
+    "place": "Danzig / Gdańsk",
+    "title": "Yachin on Mishnah Shevuot"
+  },
+  {
+    "year": 1835,
+    "place": "Danzig / Gdańsk",
+    "title": "Yachin on Pirkei Avot"
+  },
+  {
+    "year": 1835,
+    "place": "Danzig / Gdańsk",
+    "title": "Boaz on Mishnah Bava Kamma"
+  },
+  {
+    "year": 1835,
+    "place": "Danzig / Gdańsk",
+    "title": "Boaz on Mishnah Bava Metzia"
+  },
+  {
+    "year": 1835,
+    "place": "Danzig / Gdańsk",
+    "title": "Boaz on Mishnah Bava Batra"
+  },
+  {
+    "year": 1835,
+    "place": "Danzig / Gdańsk",
+    "title": "Boaz on Mishnah Sanhedrin"
+  },
+  {
+    "year": 1835,
+    "place": "Danzig / Gdańsk",
+    "title": "Boaz on Mishnah Makkot"
+  },
+  {
+    "year": 1835,
+    "place": "Danzig / Gdańsk",
+    "title": "Boaz on Mishnah Shevuot"
+  },
+  {
+    "year": 1835,
+    "place": "Danzig / Gdańsk",
+    "title": "Boaz on Mishnah Eduyot"
+  },
+  {
+    "year": 1835,
+    "place": "Danzig / Gdańsk",
+    "title": "Boaz on Mishnah Avodah Zarah"
+  },
+  {
+    "year": 1835,
+    "place": "Danzig / Gdańsk",
+    "title": "Boaz on Pirkei Avot"
+  },
+  {
+    "year": 1835,
+    "place": "Danzig / Gdańsk",
+    "title": "Boaz on Mishnah Horayot"
+  },
+  {
+    "year": 1836,
+    "place": "Oldenburg; Germany",
+    "title": "Nineteen Letters"
+  },
+  {
+    "year": 1840,
+    "place": "Zhovkva",
+    "title": "Mevo HaTalmud (Chajes)"
+  },
+  {
+    "year": 1850,
+    "place": "Altona",
+    "title": "Binyan Tziyon"
+  },
+  {
+    "year": 1850,
+    "place": "Padua",
+    "title": "Shadal on Exodus"
+  },
+  {
+    "year": 1850,
+    "place": "Padua",
+    "title": "Shadal on Genesis"
+  },
+  {
+    "year": 1850,
+    "place": "Padua",
+    "title": "Shadal on Leviticus"
+  },
+  {
+    "year": 1850,
+    "place": "Padua",
+    "title": "Shadal on Numbers"
+  },
+  {
+    "year": 1850,
+    "place": "Komarno; Ukraine",
+    "title": "Motar Kinnim"
+  },
+  {
+    "year": 1854,
+    "place": "Uzhgorod",
+    "title": "Kitzur Shulchan Aruch"
+  },
+  {
+    "year": 1860,
+    "place": "Valozhyn",
+    "title": "Haamek Davar on Exodus"
+  },
+  {
+    "year": 1860,
+    "place": "Valozhyn",
+    "title": "Haamek Davar on Genesis"
+  },
+  {
+    "year": 1860,
+    "place": "Valozhyn",
+    "title": "Haamek Davar on Leviticus"
+  },
+  {
+    "year": 1860,
+    "place": "Valozhyn",
+    "title": "Haamek Davar on Numbers"
+  },
+  {
+    "year": 1870,
+    "place": "Radun",
+    "title": "Shemirat HaLashon"
+  },
+  {
+    "year": 1873,
+    "place": "Raduń",
+    "title": "Chofetz Chaim"
+  },
+  {
+    "year": 1880,
+    "place": "Baghdad; Iraq",
+    "title": "Responsa Rav Pealim"
+  },
+  {
+    "year": 1885,
+    "place": "Navahrudak (Novogrudok )",
+    "title": "Arukh HaShulchan"
+  },
+  {
+    "year": 1888,
+    "place": "Radzyń Podlaski",
+    "title": "Ptil Tekhelet"
+  },
+  {
+    "year": 1890,
+    "place": "Raduń",
+    "title": "Mishnah Berurah"
+  },
+  {
+    "year": 1891,
+    "place": "Minsk",
+    "title": "Toafot Re'em"
+  },
+  {
+    "year": 1893,
+    "place": "Philadelphia",
+    "title": "Jastrow"
+  },
+  {
+    "year": 1896,
+    "place": "Baghdad; Iraq",
+    "title": "Ben Ish Hai"
+  },
+  {
+    "year": 1899,
+    "place": "Žeimelis; Lithuania",
+    "title": "Midbar Shur"
+  },
+  {
+    "year": 1900,
+    "place": "Latvia",
+    "title": "For the Perplexed of the Generation"
+  },
+  {
+    "year": 1900,
+    "place": "Daugavpils / Dvinsk",
+    "title": "Meshech Hochma"
+  },
+  {
+    "year": 1900,
+    "place": "Pinsk; Belarus",
+    "title": "Torah Temimah on Torah"
+  },
+  {
+    "year": 1900,
+    "place": "Pinsk; Belarus",
+    "title": "Torah Temimah on Ruth"
+  },
+  {
+    "year": 1900,
+    "place": "Pinsk; Belarus",
+    "title": "Torah Temimah on Song of Songs"
+  },
+  {
+    "year": 1900,
+    "place": "Pinsk; Belarus",
+    "title": "Torah Temimah on Esther"
+  },
+  {
+    "year": 1900,
+    "place": "Pinsk; Belarus",
+    "title": "Torah Temimah on Ecclesiastes"
+  },
+  {
+    "year": 1900,
+    "place": "Pinsk; Belarus",
+    "title": "Torah Temimah on Lamentations"
+  },
+  {
+    "year": 1905,
+    "place": "Kisvárda",
+    "title": "Brit Moshe"
+  },
+  {
+    "year": 1906,
+    "place": "Jerusalem; Israel",
+    "title": "Maamar Hador"
+  },
+  {
+    "year": 1908,
+    "place": "Alexandria",
+    "title": "Nehar Misrayim"
+  },
+  {
+    "year": 1911,
+    "place": "Chicago",
+    "title": "Ein Yaakov (Glick Edition)"
+  },
+  {
+    "year": 1915,
+    "place": "Warsaw",
+    "title": "Commentary on Sefer Hamitzvot of Rasag"
+  },
+  {
+    "year": 1920,
+    "place": "Jerusalem; Israel",
+    "title": "Kaf HaChayim on Shulchan Arukh; Orach Chayim"
+  },
+  {
+    "year": 1920,
+    "place": "Jerusalem; Israel",
+    "title": "Kaf HaChayim on Shulchan Arukh; Yoreh De'ah"
+  },
+  {
+    "year": 1925,
+    "place": "Radun",
+    "title": "Sefer HaMitzvot HaKatzar"
+  },
+  {
+    "year": 1930,
+    "place": "State of Israel",
+    "title": "Orot HaKodesh"
+  },
+  {
+    "year": 1930,
+    "place": "Warsaw",
+    "title": "Chovat HaTalmidim"
+  },
+  {
+    "year": 1974,
+    "place": "New York",
+    "title": "Contemporary Halakhic Problems; Vol I"
+  },
+  {
+    "year": 1978,
+    "place": "Toronto; Canada",
+    "title": "Klein Dictionary"
+  },
+  {
+    "year": 1980,
+    "place": "New York",
+    "title": "Contemporary Halakhic Problems; Vol II"
+  },
+  {
+    "year": 1986,
+    "place": "New York",
+    "title": "Contemporary Halakhic Problems; Vol III"
+  },
+  {
+    "year": 1990,
+    "place": "Jerusalem; Israel",
+    "title": "B'Mareh HaBazak Volume I"
+  },
+  {
+    "year": 1992,
+    "place": "New York",
+    "title": "Contemporary Halakhic Problems; Vol IV"
+  },
+  {
+    "year": 1993,
+    "place": "Jerusalem; Israel",
+    "title": "Shuvah Yisrael"
+  },
+  {
+    "year": 1995,
+    "place": "Jerusalem; Israel",
+    "title": "B'Mareh HaBazak Volume III"
+  },
+  {
+    "year": 2000,
+    "place": "New York",
+    "title": "Contemporary Halakhic Problems; Vol V"
+  },
+  {
+    "year": 2009,
+    "place": "New York",
+    "title": "Contemporary Halakhic Problems; Vol VI"
+  },
+  {
+    "year": 2011,
+    "place": "Jerusalem",
+    "title": "Torah Temimah on Psalms"
+  }
+]

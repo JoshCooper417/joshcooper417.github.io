@@ -1,0 +1,108 @@
+Sinai/Canaan - FAIL
+Canaan - 36.7006429,-95.6379767
+Judea/Israel - 31.94735095,35.22716305
+Ancient Babylonian Empire - FAIL
+Second Temple Judea - FAIL
+Shushan - 43.121204,-73.31862795
+Babylon (City) - 38.5972664,-121.3833904
+Hellenistic Egypt - FAIL
+Talmudic Israel - FAIL
+Talmudic Israel/Babylon - FAIL
+Talmudic Babylon - FAIL
+Talmudic Babylon/Italy/Israel - FAIL
+Baghdad; Iraq - 33.31168605,44.355905
+Cordoba; Spain - 37.8915444,-4.7844853
+Middle-Age Spain - FAIL
+Saragossa - 41.65169125,-0.8949809
+Worms - 41.0972347,-98.2689506
+Fes; Morocco - 34.02396285,-5.0017404
+Vitry-sur-Seine - 48.7892579,2.39506745
+Middle-Age France - 48.8504833,2.3440808
+Rhineland - 33.5298164,-99.6550866
+Lucca; Italy - 43.8497093,10.47233955
+Fayyum - 29.3108966,30.8422865
+Middle-Age France/Italy/England - 52.83820045,-2.32781495
+London - 51.52864165,-0.10159865
+Middle-Age Egypt - FAIL
+Spain / Egypt - 40.4308314,-3.6839206
+Provence; France - 44.05442455,5.9746
+Fustat - 30,31.233333
+Speyer - 49.3293825,8.43434855
+Middle-Age France / Germany / Italy / England - 52.83820045,-2.32781495
+Middle-Age France / Germany - FAIL
+Trani; Italy - 41.2747197,16.4088982
+Narbonne - 43.1494229,3.0335295
+Acre; Israel - 32.916975,35.0880969
+Barcelona; Spain - 41.39479005,2.14876785
+Toledo; Spain - 39.8622093,-3.99942995
+Montpellier - 43.61002195,3.8741615
+Seville; Spain - 37.37537075,-5.95505825
+Girona; Catalonia; Spain - 41.98025275,2.8186672
+Algiers - 36.75382595,3.057841
+Castille - 33.6145561,-117.6580274
+Wiener Neustadt - 47.80781,16.215875
+Middle-Age Germany - FAIL
+Constantinople - 45.5221629,-73.5775793
+Salonica / Thessaloniki - 40.6211925,22.94602725
+Bologna - 44.4991182,11.3316855
+Safed - 32.958094,35.496487
+Szydłów; Poland - 50.58969175,20.99963545
+Nikopol - 47.592712,34.35824055
+Prague - 50.05966965,14.4656239
+Poland - 51.95375055,19.1343786
+Posen - 41.63004305,-87.68654755
+Hebron; Israel - 31.532569,35.099826
+Leopoldstadt; Austria - 48.2038077,16.42727795
+Krakow; Poland - 50.04676565,20.00487305
+Frankfurt am Main; Germany - 50.121212,8.6365638
+Ostroh - 50.3288726,26.5141621
+Vilna - 54.70068445,25.2530337
+Kraków - 50.04676565,20.00487305
+Amsterdam - 52.35466565,4.9039604
+Leszno; Poland - 51.84405805,16.575598
+Jerusalem; Israel - 31.7963186,35.175359
+Mühringen - 48.417203,8.752587
+Tripoli; Libya - 32.8829369,13.18833585
+Jaworów; Poland - 51.52850565,22.03419865
+prague - 50.05966965,14.4656239
+Polonne; Ukraine - 50.1256224,27.51092355
+Chernobyl - 51.27529845,30.2218855
+Offenbach - 50.0921373,8.7825595
+Boskovice - 49.5054502,16.67343005
+Frankfurt an der Oder - 52.32553455,14.49820445
+Liozna - 55.02082245,30.7989256
+Belarus - 53.71694145,27.97757895
+Valozhyn - 54.0828549,26.5263546
+Gorizia - 45.9470227,13.60961475
+Bratslav; Ukraine - 48.814602,28.9447975
+Izmir / Smyrna - 38.41767505,27.07971705
+Brody - 51.7909097,14.7741085
+Silistra; Bulgaria - 44.1112116,27.25475655
+Dessau; Germany - 51.82778125,12.23834265
+Białystok - 53.12762525,23.15606585
+Minsk - 53.88464,27.59336845
+Danzig / Gdańsk - 54.36108735,18.69002715
+Brezovica; Slovenia - 45.9480064,14.42720605
+Oldenburg; Germany - 53.14401895,8.22073465
+Zhovkva - 50.05491845,23.9766
+Altona - 53.58438945,9.85451445
+Padua - 45.40650375,11.89124545
+Komarno; Ukraine - 49.63062505,23.70311505
+Uzhgorod - 48.61938175,22.2796376
+Radun - 54.0476245,24.9992524
+Raduń - 54.0476245,24.9992524
+Navahrudak (Novogrudok ) - 53.59564485,25.8177813
+Radzyń Podlaski - 51.7768036,22.626515
+Philadelphia - 40.002498,-75.1180283
+Žeimelis; Lithuania - 56.27059745,23.9919309
+Latvia - 56.88017285,24.5440014
+Daugavpils / Dvinsk - 55.8958425,26.5372155
+Pinsk; Belarus - 52.1300905,26.0678913
+Kisvárda - 48.22184255,22.0752485
+Alexandria - 38.8151135,-77.09082345
+Chicago - 41.83373295,-87.73196395
+Warsaw - 52.23293795,21.0611941
+State of Israel - 31.4062525,35.08181555
+New York - 40.6974881,-73.979681
+Toronto; Canada - 43.7182412,-79.37805805
+Jerusalem - 31.7963186,35.175359
