@@ -12,7 +12,7 @@ let itemsProcessed = 0;
 let totalNumberOfItems;
 let interval;
 let locationData;
-const bounds = new google.maps.LatLngBounds();
+let bounds = null;
 
 
 $.getJSON("data.json", function(json) {
@@ -63,6 +63,7 @@ function showData(item) {
   itemsProcessed++;
   const place = locationData[item['place']] || {lat: 0, lng: 0};
   const googleLatLng =  new google.maps.LatLng(place.lat, place.lng);
+  bounds = bounds || new google.maps.LatLngBounds();
   bounds.extend(googleLatLng);
   map.fitBounds(bounds);
 
