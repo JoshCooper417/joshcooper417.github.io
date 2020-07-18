@@ -12,6 +12,7 @@ let itemsProcessed = 0;
 let totalNumberOfItems;
 let interval;
 let locationData;
+const bounds = new google.maps.LatLngBounds();
 
 
 $.getJSON("data.json", function(json) {
@@ -43,15 +44,7 @@ function maybeStartRunning() {
   if (!(jsonLoaded && mapLoaded && locationJsonLoaded)) {
     return;
   }
-  const bounds = new google.maps.LatLngBounds();
-  for (var key in locationData) {
-    if (locationData.hasOwnProperty(key)) {
-      const latLng =  locationData[key];
-      const googleLatLng =  new google.maps.LatLng(latLng.lat, latLng.lng);
-      bounds.extend(googleLatLng);
-    }
-  }
-  map.fitBounds(bounds);
+  interval = window.setInterval(incrementYear, yearInterval);
   incrementYear();
 }
 
@@ -69,6 +62,10 @@ function incrementYear() {
 function showData(item) {
   itemsProcessed++;
   const place = locationData[item['place']] || {lat: 0, lng: 0};
+  const googleLatLng =  new google.maps.LatLng(place.lat, place.lng);
+  bounds.extend(googleLatLng);
+  map.fitBounds(bounds);
+
   const image = {
     url: 'book.png',
     scaledSize: new google.maps.Size(10, 10)
@@ -87,10 +84,6 @@ function setYear(year) {
 
 // Initialize and add the map
 function initMap() {
-  var mapOptions = {
-    center: new google.maps.LatLng(0, 0),
-    zoom: 3,
-  };
   map = new google.maps.Map(document.getElementById('map'),mapOptions );
   mapLoaded = true;
   maybeStartRunning();
