@@ -84,7 +84,10 @@ function setYear(year) {
 
 // Initialize and add the map
 function initMap() {
-  map = new google.maps.Map(document.getElementById('map'),mapOptions );
+  var mapOptions = {
+    zoom: 1,
+  };
+  map = new google.maps.Map(document.getElementById('map'), mapOptions);
   mapLoaded = true;
   maybeStartRunning();
 }
