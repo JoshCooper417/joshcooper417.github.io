@@ -43,7 +43,15 @@ function maybeStartRunning() {
   if (!(jsonLoaded && mapLoaded && locationJsonLoaded)) {
     return;
   }
-  interval = window.setInterval(incrementYear, yearInterval);
+  const bounds = new google.maps.LatLngBounds();
+  for (var key in locationData) {
+    if (locationData.hasOwnProperty(key)) {
+      const latLng =  locationData[key];
+      const googleLatLng =  new google.maps.LatLng(latLng.lat, latLng.lng);
+      bounds.extend(googleLatLng);
+    }
+  }
+  map.fitBounds(bounds);
   incrementYear();
 }
 
