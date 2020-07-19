@@ -1,17 +1,14 @@
 // python -m SimpleHTTPServer
-let year = -1000;
+let year = -1200;
 let data = new Map();
-let data2 = new Map();
 let map;
 setYear(year);
 let jsonLoaded = false;
-let locationJsonLoaded = false;
 let mapLoaded = false;
 const yearInterval = 1;
 let itemsProcessed = 0;
 let totalNumberOfItems;
 let interval;
-let locationData;
 let bounds = null;
 
 
@@ -22,26 +19,14 @@ $.getJSON("data.json", function(json) {
       data.set(item.year, []);
     }
     data.get(item.year).push(item);
-    
-    if (!data2.has(item.place)) {
-      data2.set(item.place, []);
-    }
-    data2.get(item.place).push(item);
   };
   json.forEach(addItem);
   jsonLoaded = true;
   maybeStartRunning();
 });
 
-
-$.getJSON("locations.json", function(json) {
-  locationData = json;
-  locationJsonLoaded = true;
-  maybeStartRunning();
-});
-
 function maybeStartRunning() {
-  if (!(jsonLoaded && mapLoaded && locationJsonLoaded)) {
+  if (!(jsonLoaded && mapLoaded)) {
     return;
   }
   interval = window.setInterval(incrementYear, yearInterval);
@@ -65,12 +50,11 @@ function randomize(latOrLng) {
 
 function addRandomFactor(latLng) {
   return {lat: randomize(latLng.lat), lng: randomize(latLng.lng)};
-
 }
 
 function showData(item) {
   itemsProcessed++;
-  const place = addRandomFactor(locationData[item['place']] || {lat: 0, lng: 0});
+  const place = addRandomFactor(item['lat_lng']);
   const googleLatLng =  new google.maps.LatLng(place.lat, place.lng);
   bounds = bounds || new google.maps.LatLngBounds();
   bounds.extend(googleLatLng);
