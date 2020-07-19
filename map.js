@@ -59,9 +59,18 @@ function incrementYear() {
   data.get(year).forEach(showData);
 };
 
+function randomize(latOrLng) {
+  return latOrLng + (.02 - (Math.random() * .04));
+}
+
+function addRandomFactor(latLng) {
+  return {lat: randomize(latLng.lat), lng: randomize(latLng.lng)};
+
+}
+
 function showData(item) {
   itemsProcessed++;
-  const place = locationData[item['place']] || {lat: 0, lng: 0};
+  const place = addRandomFactor(locationData[item['place']] || {lat: 0, lng: 0});
   const googleLatLng =  new google.maps.LatLng(place.lat, place.lng);
   bounds = bounds || new google.maps.LatLngBounds();
   bounds.extend(googleLatLng);
@@ -76,6 +85,21 @@ function showData(item) {
     position: place,
     map: map,
     animation: google.maps.Animation.DROP,
+  });
+  var infowindow = new google.maps.InfoWindow({
+    content: [item['title'], item['place'], item['year']].join(', ')
+  });
+
+  marker.addListener('click', function() {
+    infowindow.open(map, marker);
+  });
+
+  marker.addListener('mouseover', function() {
+    infowindow.open(map, this);
+  });
+
+  marker.addListener('mouseout', function() {
+    infowindow.close();
   });
 }
 
