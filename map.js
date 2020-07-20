@@ -5,7 +5,7 @@ let map;
 setYear(year);
 let jsonLoaded = false;
 let mapLoaded = false;
-const yearInterval = 1;
+const yearInterval = 20;
 let itemsProcessed = 0;
 let totalNumberOfItems;
 let interval;
@@ -70,8 +70,10 @@ function showData(item) {
     map: map,
     animation: google.maps.Animation.DROP,
   });
+  const year = item['year'];
+  const yearToDisplay = year >= 0 ? year : (-1 * year) + 'BCE';
   var infowindow = new google.maps.InfoWindow({
-    content: [item['title'], item['place'], item['year']].join(', ')
+    content: [item['title'], item['place'], yearToDisplay].join(', ')
   });
 
   marker.addListener('click', function() {
@@ -94,9 +96,16 @@ function setYear(year) {
 // Initialize and add the map
 function initMap() {
   var mapOptions = {
-    zoom: 1,
+    zoom: 7,
+    // Weird hard-coding, can do better.
+    center: {lat: 30.51961046277556, lng: 34.75605005407532}
   };
   map = new google.maps.Map(document.getElementById('map'), mapOptions);
-  mapLoaded = true;
-  maybeStartRunning();
+  map.addListener('tilesloaded', function() {
+    if (mapLoaded) {
+      return;
+    }
+    mapLoaded = true;
+    maybeStartRunning();
+  });
 }

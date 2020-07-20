@@ -75,7 +75,7 @@
             "lng": 35.22716305
         }, 
         "place": "Judea/Israel", 
-        "semantic_place": "Judea/Israel", 
+        "semantic_place": "Nablus", 
         "title": "Hosea", 
         "year": -800
     }, 
@@ -101,28 +101,28 @@
     }, 
     {
         "lat_lng": {
-            "lat": 32.05181155, 
-            "lng": 35.30434545
+            "lat": 31.94735095, 
+            "lng": 35.22716305
         }, 
         "place": "Judea/Israel", 
         "semantic_place": "Shiloh Israel", 
         "title": "Samuel", 
         "year": -750
-    }, 
+    },
     {
         "lat_lng": {
             "lat": 31.94735095, 
             "lng": 35.22716305
         }, 
         "place": "Judea/Israel", 
-        "semantic_place": "Judea/Israel", 
+        "semantic_place": "Alqosh, Iraq", 
         "title": "Nahum", 
         "year": -650
     }, 
     {
         "lat_lng": {
-            "lat": 32.05181155, 
-            "lng": 35.30434545
+            "lat": 31.94735095, 
+            "lng": 35.22716305
         }, 
         "place": "Judea/Israel", 
         "semantic_place": "Shiloh Israel", 
@@ -145,7 +145,7 @@
             "lng": 35.22716305
         }, 
         "place": "Judea/Israel", 
-        "semantic_place": "Judea/Israel", 
+        "semantic_place": "Nablus", 
         "title": "Obadiah", 
         "year": -600
     }, 
@@ -191,8 +191,8 @@
     }, 
     {
         "lat_lng": {
-            "lat": 31.7963186, 
-            "lng": 35.175359
+            "lat": 31.94735095, 
+            "lng": 35.22716305
         }, 
         "place": "Judea/Israel", 
         "semantic_place": "Jerusalem", 
@@ -208,7 +208,7 @@
         "semantic_place": "Jerusalem", 
         "title": "Kings", 
         "year": -500
-    }, 
+    },
     {
         "lat_lng": {
             "lat": 28.5392576, 
@@ -228,7 +228,7 @@
         "semantic_place": "Jerusalem", 
         "title": "Psalms", 
         "year": -500
-    }, 
+    },
     {
         "lat_lng": {
             "lat": 31.7963186, 
@@ -4041,8 +4041,8 @@
     }, 
     {
         "lat_lng": {
-            "lat": 40.4308314, 
-            "lng": -3.6839206
+            "lat": 30.0539374, 
+            "lng": 31.1987498
         }, 
         "place": "Spain / Egypt", 
         "semantic_place": "Spain / Egypt", 
