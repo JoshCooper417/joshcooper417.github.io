@@ -1,7 +1,7 @@
 [
     {
         "lat_lng": {
-            "lat": 28.5392577, 
+            "lat": 28.5392576, 
             "lng": 33.9749193
         }, 
         "place": "Sinai/Canaan", 
@@ -101,22 +101,12 @@
     }, 
     {
         "lat_lng": {
-            "lat": 31.94735095, 
-            "lng": 35.22716305
+            "lat": 32.05181155, 
+            "lng": 35.30434545
         }, 
         "place": "Judea/Israel", 
-        "semantic_place": "Judea/Israel", 
-        "title": "I Samuel", 
-        "year": -750
-    }, 
-    {
-        "lat_lng": {
-            "lat": 31.94735095, 
-            "lng": 35.22716305
-        }, 
-        "place": "Judea/Israel", 
-        "semantic_place": "Judea/Israel", 
-        "title": "II Samuel", 
+        "semantic_place": "Shiloh Israel", 
+        "title": "Samuel", 
         "year": -750
     }, 
     {
@@ -131,11 +121,11 @@
     }, 
     {
         "lat_lng": {
-            "lat": 31.94735095, 
-            "lng": 35.22716305
+            "lat": 32.05181155, 
+            "lng": 35.30434545
         }, 
         "place": "Judea/Israel", 
-        "semantic_place": "Judea/Israel", 
+        "semantic_place": "Shiloh Israel", 
         "title": "Ruth", 
         "year": -650
     }, 
@@ -201,11 +191,11 @@
     }, 
     {
         "lat_lng": {
-            "lat": 31.94735095, 
-            "lng": 35.22716305
+            "lat": 31.7963186, 
+            "lng": 35.175359
         }, 
         "place": "Judea/Israel", 
-        "semantic_place": "Judea/Israel", 
+        "semantic_place": "Jerusalem", 
         "title": "Lamentations", 
         "year": -550
     }, 
@@ -216,17 +206,7 @@
         }, 
         "place": "Judea/Israel", 
         "semantic_place": "Jerusalem", 
-        "title": "I Kings", 
-        "year": -500
-    }, 
-    {
-        "lat_lng": {
-            "lat": 31.7963186, 
-            "lng": 35.175359
-        }, 
-        "place": "Judea/Israel", 
-        "semantic_place": "Jerusalem", 
-        "title": "II Kings", 
+        "title": "Kings", 
         "year": -500
     }, 
     {
@@ -4061,8 +4041,8 @@
     }, 
     {
         "lat_lng": {
-            "lat": 30.0539374, 
-            "lng": 31.1987498
+            "lat": 40.4308314, 
+            "lng": -3.6839206
         }, 
         "place": "Spain / Egypt", 
         "semantic_place": "Spain / Egypt", 
