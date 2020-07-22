@@ -15501,11 +15501,11 @@
     }, 
     {
         "lat_lng": {
-            "lat": 31.4062525, 
-            "lng": 35.08181555
+            "lat": 32.0879315, 
+            "lng": 34.81687185
         }, 
         "place": "State of Israel", 
-        "semantic_place": "State of Israel", 
+        "semantic_place": "Tel Aviv", 
         "title": "Orot HaKodesh", 
         "year": 1930
     }, 
