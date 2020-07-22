@@ -71,8 +71,8 @@
     }, 
     {
         "lat_lng": {
-            "lat": 31.94735095, 
-            "lng": 35.22716305
+            "lat": 32.22430955, 
+            "lng": 35.2476793
         }, 
         "place": "Judea/Israel", 
         "semantic_place": "Nablus", 
@@ -101,8 +101,8 @@
     }, 
     {
         "lat_lng": {
-            "lat": 31.94735095, 
-            "lng": 35.22716305
+            "lat": 32.05181155, 
+            "lng": 35.30434545
         }, 
         "place": "Judea/Israel", 
         "semantic_place": "Shiloh Israel", 
@@ -111,8 +111,8 @@
     }, 
     {
         "lat_lng": {
-            "lat": 31.94735095, 
-            "lng": 35.22716305
+            "lat": 36.73241805, 
+            "lng": 43.0968547
         }, 
         "place": "Judea/Israel", 
         "semantic_place": "Alqosh, Iraq", 
@@ -121,8 +121,8 @@
     }, 
     {
         "lat_lng": {
-            "lat": 31.94735095, 
-            "lng": 35.22716305
+            "lat": 32.05181155, 
+            "lng": 35.30434545
         }, 
         "place": "Judea/Israel", 
         "semantic_place": "Shiloh Israel", 
@@ -141,8 +141,8 @@
     }, 
     {
         "lat_lng": {
-            "lat": 31.94735095, 
-            "lng": 35.22716305
+            "lat": 32.22430955, 
+            "lng": 35.2476793
         }, 
         "place": "Judea/Israel", 
         "semantic_place": "Nablus", 
@@ -191,8 +191,8 @@
     }, 
     {
         "lat_lng": {
-            "lat": 31.94735095, 
-            "lng": 35.22716305
+            "lat": 31.7963186, 
+            "lng": 35.175359
         }, 
         "place": "Judea/Israel", 
         "semantic_place": "Jerusalem", 
@@ -211,8 +211,8 @@
     }, 
     {
         "lat_lng": {
-            "lat": 28.5392576, 
-            "lng": 33.9749193
+            "lat": 35.4114601, 
+            "lng": 40.58363845
         }, 
         "place": "Ancient Babylonian Empire", 
         "semantic_place": "Al Khabour River", 
@@ -261,8 +261,8 @@
     }, 
     {
         "lat_lng": {
-            "lat": 28.5392576, 
-            "lng": 33.9749193
+            "lat": 31.7963186, 
+            "lng": 35.175359
         }, 
         "place": "Second Temple Judea", 
         "semantic_place": "Jerusalem", 
@@ -271,8 +271,8 @@
     }, 
     {
         "lat_lng": {
-            "lat": 28.5392576, 
-            "lng": 33.9749193
+            "lat": 31.7963186, 
+            "lng": 35.175359
         }, 
         "place": "Second Temple Judea", 
         "semantic_place": "Jerusalem", 
@@ -281,8 +281,8 @@
     }, 
     {
         "lat_lng": {
-            "lat": 28.5392576, 
-            "lng": 33.9749193
+            "lat": 31.7963186, 
+            "lng": 35.175359
         }, 
         "place": "Second Temple Judea", 
         "semantic_place": "Jerusalem", 
@@ -301,8 +301,8 @@
     }, 
     {
         "lat_lng": {
-            "lat": 28.5392576, 
-            "lng": 33.9749193
+            "lat": 31.7963186, 
+            "lng": 35.175359
         }, 
         "place": "Second Temple Judea", 
         "semantic_place": "Jerusalem", 
@@ -311,8 +311,8 @@
     }, 
     {
         "lat_lng": {
-            "lat": 28.5392576, 
-            "lng": 33.9749193
+            "lat": 31.7963186, 
+            "lng": 35.175359
         }, 
         "place": "Second Temple Judea", 
         "semantic_place": "Jerusalem", 
@@ -321,8 +321,8 @@
     }, 
     {
         "lat_lng": {
-            "lat": 28.5392576, 
-            "lng": 33.9749193
+            "lat": 31.7963186, 
+            "lng": 35.175359
         }, 
         "place": "Second Temple Judea", 
         "semantic_place": "Jerusalem", 
@@ -331,8 +331,8 @@
     }, 
     {
         "lat_lng": {
-            "lat": 28.5392576, 
-            "lng": 33.9749193
+            "lat": 31.7963186, 
+            "lng": 35.175359
         }, 
         "place": "Second Temple Judea", 
         "semantic_place": "Jerusalem", 
@@ -371,8 +371,8 @@
     }, 
     {
         "lat_lng": {
-            "lat": 28.5392576, 
-            "lng": 33.9749193
+            "lat": 31.224110850000002, 
+            "lng": 29.9548859
         }, 
         "place": "Hellenistic Egypt", 
         "semantic_place": "Alexandria,Egypt", 
@@ -381,8 +381,8 @@
     }, 
     {
         "lat_lng": {
-            "lat": 28.5392576, 
-            "lng": 33.9749193
+            "lat": 31.7963186, 
+            "lng": 35.175359
         }, 
         "place": "Second Temple Judea", 
         "semantic_place": "Jerusalem", 
@@ -391,8 +391,8 @@
     }, 
     {
         "lat_lng": {
-            "lat": 28.5392576, 
-            "lng": 33.9749193
+            "lat": 32.78269795, 
+            "lng": 35.52904995
         }, 
         "place": "Talmudic Israel", 
         "semantic_place": "Tiberius, Israel", 
@@ -401,8 +401,8 @@
     }, 
     {
         "lat_lng": {
-            "lat": 28.5392576, 
-            "lng": 33.9749193
+            "lat": 32.78269795, 
+            "lng": 35.52904995
         }, 
         "place": "Talmudic Israel", 
         "semantic_place": "Tiberius, Israel", 
@@ -411,8 +411,8 @@
     }, 
     {
         "lat_lng": {
-            "lat": 28.5392576, 
-            "lng": 33.9749193
+            "lat": 32.78269795, 
+            "lng": 35.52904995
         }, 
         "place": "Talmudic Israel", 
         "semantic_place": "Tiberius, Israel", 
@@ -421,8 +421,8 @@
     }, 
     {
         "lat_lng": {
-            "lat": 28.5392576, 
-            "lng": 33.9749193
+            "lat": 32.78269795, 
+            "lng": 35.52904995
         }, 
         "place": "Talmudic Israel", 
         "semantic_place": "Tiberius, Israel", 
@@ -431,8 +431,8 @@
     }, 
     {
         "lat_lng": {
-            "lat": 28.5392576, 
-            "lng": 33.9749193
+            "lat": 32.78269795, 
+            "lng": 35.52904995
         }, 
         "place": "Talmudic Israel", 
         "semantic_place": "Tiberius, Israel", 
@@ -441,8 +441,8 @@
     }, 
     {
         "lat_lng": {
-            "lat": 28.5392576, 
-            "lng": 33.9749193
+            "lat": 32.78269795, 
+            "lng": 35.52904995
         }, 
         "place": "Talmudic Israel/Babylon", 
         "semantic_place": "Tiberius, Israel", 
@@ -451,8 +451,8 @@
     }, 
     {
         "lat_lng": {
-            "lat": 28.5392576, 
-            "lng": 33.9749193
+            "lat": 32.78269795, 
+            "lng": 35.52904995
         }, 
         "place": "Talmudic Israel/Babylon", 
         "semantic_place": "Tiberius, Israel", 
@@ -461,8 +461,8 @@
     }, 
     {
         "lat_lng": {
-            "lat": 28.5392576, 
-            "lng": 33.9749193
+            "lat": 32.78269795, 
+            "lng": 35.52904995
         }, 
         "place": "Talmudic Israel/Babylon", 
         "semantic_place": "Tiberius, Israel", 
@@ -471,8 +471,8 @@
     }, 
     {
         "lat_lng": {
-            "lat": 28.5392576, 
-            "lng": 33.9749193
+            "lat": 32.78269795, 
+            "lng": 35.52904995
         }, 
         "place": "Talmudic Israel/Babylon", 
         "semantic_place": "Tiberius, Israel", 
@@ -481,8 +481,8 @@
     }, 
     {
         "lat_lng": {
-            "lat": 28.5392576, 
-            "lng": 33.9749193
+            "lat": 32.78269795, 
+            "lng": 35.52904995
         }, 
         "place": "Talmudic Israel/Babylon", 
         "semantic_place": "Tiberius, Israel", 
@@ -491,8 +491,8 @@
     }, 
     {
         "lat_lng": {
-            "lat": 28.5392576, 
-            "lng": 33.9749193
+            "lat": 32.78269795, 
+            "lng": 35.52904995
         }, 
         "place": "Talmudic Israel/Babylon", 
         "semantic_place": "Tiberius, Israel", 
@@ -501,8 +501,8 @@
     }, 
     {
         "lat_lng": {
-            "lat": 28.5392576, 
-            "lng": 33.9749193
+            "lat": 32.78269795, 
+            "lng": 35.52904995
         }, 
         "place": "Talmudic Israel/Babylon", 
         "semantic_place": "Tiberius, Israel", 
@@ -511,8 +511,8 @@
     }, 
     {
         "lat_lng": {
-            "lat": 28.5392576, 
-            "lng": 33.9749193
+            "lat": 32.78269795, 
+            "lng": 35.52904995
         }, 
         "place": "Talmudic Israel", 
         "semantic_place": "Tiberius, Israel", 
@@ -521,8 +521,8 @@
     }, 
     {
         "lat_lng": {
-            "lat": 28.5392576, 
-            "lng": 33.9749193
+            "lat": 32.78269795, 
+            "lng": 35.52904995
         }, 
         "place": "Talmudic Israel/Babylon", 
         "semantic_place": "Tiberius, Israel", 
@@ -531,8 +531,8 @@
     }, 
     {
         "lat_lng": {
-            "lat": 28.5392576, 
-            "lng": 33.9749193
+            "lat": 32.78269795, 
+            "lng": 35.52904995
         }, 
         "place": "Talmudic Israel", 
         "semantic_place": "Tiberius, Israel", 
@@ -541,8 +541,8 @@
     }, 
     {
         "lat_lng": {
-            "lat": 28.5392576, 
-            "lng": 33.9749193
+            "lat": 32.78269795, 
+            "lng": 35.52904995
         }, 
         "place": "Talmudic Israel", 
         "semantic_place": "Tiberius, Israel", 
@@ -551,8 +551,8 @@
     }, 
     {
         "lat_lng": {
-            "lat": 28.5392576, 
-            "lng": 33.9749193
+            "lat": 32.78269795, 
+            "lng": 35.52904995
         }, 
         "place": "Talmudic Israel", 
         "semantic_place": "Tiberius, Israel", 
@@ -561,8 +561,8 @@
     }, 
     {
         "lat_lng": {
-            "lat": 28.5392576, 
-            "lng": 33.9749193
+            "lat": 32.78269795, 
+            "lng": 35.52904995
         }, 
         "place": "Talmudic Israel", 
         "semantic_place": "Tiberius, Israel", 
@@ -571,8 +571,8 @@
     }, 
     {
         "lat_lng": {
-            "lat": 28.5392576, 
-            "lng": 33.9749193
+            "lat": 32.78269795, 
+            "lng": 35.52904995
         }, 
         "place": "Talmudic Israel", 
         "semantic_place": "Tiberius, Israel", 
@@ -581,8 +581,8 @@
     }, 
     {
         "lat_lng": {
-            "lat": 28.5392576, 
-            "lng": 33.9749193
+            "lat": 32.78269795, 
+            "lng": 35.52904995
         }, 
         "place": "Talmudic Israel", 
         "semantic_place": "Tiberius, Israel", 
@@ -591,8 +591,8 @@
     }, 
     {
         "lat_lng": {
-            "lat": 28.5392576, 
-            "lng": 33.9749193
+            "lat": 32.78269795, 
+            "lng": 35.52904995
         }, 
         "place": "Talmudic Israel", 
         "semantic_place": "Tiberius, Israel", 
@@ -601,8 +601,8 @@
     }, 
     {
         "lat_lng": {
-            "lat": 28.5392576, 
-            "lng": 33.9749193
+            "lat": 32.78269795, 
+            "lng": 35.52904995
         }, 
         "place": "Talmudic Israel", 
         "semantic_place": "Tiberius, Israel", 
@@ -611,8 +611,8 @@
     }, 
     {
         "lat_lng": {
-            "lat": 28.5392576, 
-            "lng": 33.9749193
+            "lat": 32.78269795, 
+            "lng": 35.52904995
         }, 
         "place": "Talmudic Israel", 
         "semantic_place": "Tiberius, Israel", 
@@ -621,8 +621,8 @@
     }, 
     {
         "lat_lng": {
-            "lat": 28.5392576, 
-            "lng": 33.9749193
+            "lat": 32.78269795, 
+            "lng": 35.52904995
         }, 
         "place": "Talmudic Israel", 
         "semantic_place": "Tiberius, Israel", 
@@ -631,8 +631,8 @@
     }, 
     {
         "lat_lng": {
-            "lat": 28.5392576, 
-            "lng": 33.9749193
+            "lat": 32.78269795, 
+            "lng": 35.52904995
         }, 
         "place": "Talmudic Israel", 
         "semantic_place": "Tiberius, Israel", 
@@ -641,8 +641,8 @@
     }, 
     {
         "lat_lng": {
-            "lat": 28.5392576, 
-            "lng": 33.9749193
+            "lat": 32.78269795, 
+            "lng": 35.52904995
         }, 
         "place": "Talmudic Israel", 
         "semantic_place": "Tiberius, Israel", 
@@ -651,8 +651,8 @@
     }, 
     {
         "lat_lng": {
-            "lat": 28.5392576, 
-            "lng": 33.9749193
+            "lat": 32.78269795, 
+            "lng": 35.52904995
         }, 
         "place": "Talmudic Israel", 
         "semantic_place": "Tiberius, Israel", 
@@ -661,8 +661,8 @@
     }, 
     {
         "lat_lng": {
-            "lat": 28.5392576, 
-            "lng": 33.9749193
+            "lat": 32.78269795, 
+            "lng": 35.52904995
         }, 
         "place": "Talmudic Israel", 
         "semantic_place": "Tiberius, Israel", 
@@ -671,8 +671,8 @@
     }, 
     {
         "lat_lng": {
-            "lat": 28.5392576, 
-            "lng": 33.9749193
+            "lat": 32.78269795, 
+            "lng": 35.52904995
         }, 
         "place": "Talmudic Israel", 
         "semantic_place": "Tiberius, Israel", 
@@ -681,8 +681,8 @@
     }, 
     {
         "lat_lng": {
-            "lat": 28.5392576, 
-            "lng": 33.9749193
+            "lat": 32.78269795, 
+            "lng": 35.52904995
         }, 
         "place": "Talmudic Israel", 
         "semantic_place": "Tiberius, Israel", 
@@ -691,8 +691,8 @@
     }, 
     {
         "lat_lng": {
-            "lat": 28.5392576, 
-            "lng": 33.9749193
+            "lat": 32.78269795, 
+            "lng": 35.52904995
         }, 
         "place": "Talmudic Israel", 
         "semantic_place": "Tiberius, Israel", 
@@ -701,8 +701,8 @@
     }, 
     {
         "lat_lng": {
-            "lat": 28.5392576, 
-            "lng": 33.9749193
+            "lat": 32.78269795, 
+            "lng": 35.52904995
         }, 
         "place": "Talmudic Israel", 
         "semantic_place": "Tiberius, Israel", 
@@ -711,8 +711,8 @@
     }, 
     {
         "lat_lng": {
-            "lat": 28.5392576, 
-            "lng": 33.9749193
+            "lat": 32.78269795, 
+            "lng": 35.52904995
         }, 
         "place": "Talmudic Israel", 
         "semantic_place": "Tiberius, Israel", 
@@ -721,8 +721,8 @@
     }, 
     {
         "lat_lng": {
-            "lat": 28.5392576, 
-            "lng": 33.9749193
+            "lat": 32.78269795, 
+            "lng": 35.52904995
         }, 
         "place": "Talmudic Israel", 
         "semantic_place": "Tiberius, Israel", 
@@ -731,8 +731,8 @@
     }, 
     {
         "lat_lng": {
-            "lat": 28.5392576, 
-            "lng": 33.9749193
+            "lat": 32.78269795, 
+            "lng": 35.52904995
         }, 
         "place": "Talmudic Israel", 
         "semantic_place": "Tiberius, Israel", 
@@ -741,8 +741,8 @@
     }, 
     {
         "lat_lng": {
-            "lat": 28.5392576, 
-            "lng": 33.9749193
+            "lat": 32.78269795, 
+            "lng": 35.52904995
         }, 
         "place": "Talmudic Israel", 
         "semantic_place": "Tiberius, Israel", 
@@ -751,8 +751,8 @@
     }, 
     {
         "lat_lng": {
-            "lat": 28.5392576, 
-            "lng": 33.9749193
+            "lat": 32.78269795, 
+            "lng": 35.52904995
         }, 
         "place": "Talmudic Israel", 
         "semantic_place": "Tiberius, Israel", 
@@ -761,8 +761,8 @@
     }, 
     {
         "lat_lng": {
-            "lat": 28.5392576, 
-            "lng": 33.9749193
+            "lat": 32.78269795, 
+            "lng": 35.52904995
         }, 
         "place": "Talmudic Israel", 
         "semantic_place": "Tiberius, Israel", 
@@ -771,8 +771,8 @@
     }, 
     {
         "lat_lng": {
-            "lat": 28.5392576, 
-            "lng": 33.9749193
+            "lat": 32.78269795, 
+            "lng": 35.52904995
         }, 
         "place": "Talmudic Israel", 
         "semantic_place": "Tiberius, Israel", 
@@ -781,8 +781,8 @@
     }, 
     {
         "lat_lng": {
-            "lat": 28.5392576, 
-            "lng": 33.9749193
+            "lat": 32.78269795, 
+            "lng": 35.52904995
         }, 
         "place": "Talmudic Israel", 
         "semantic_place": "Tiberius, Israel", 
@@ -791,8 +791,8 @@
     }, 
     {
         "lat_lng": {
-            "lat": 28.5392576, 
-            "lng": 33.9749193
+            "lat": 32.78269795, 
+            "lng": 35.52904995
         }, 
         "place": "Talmudic Israel", 
         "semantic_place": "Tiberius, Israel", 
@@ -801,8 +801,8 @@
     }, 
     {
         "lat_lng": {
-            "lat": 28.5392576, 
-            "lng": 33.9749193
+            "lat": 32.78269795, 
+            "lng": 35.52904995
         }, 
         "place": "Talmudic Israel", 
         "semantic_place": "Tiberius, Israel", 
@@ -811,8 +811,8 @@
     }, 
     {
         "lat_lng": {
-            "lat": 28.5392576, 
-            "lng": 33.9749193
+            "lat": 32.78269795, 
+            "lng": 35.52904995
         }, 
         "place": "Talmudic Israel", 
         "semantic_place": "Tiberius, Israel", 
@@ -821,8 +821,8 @@
     }, 
     {
         "lat_lng": {
-            "lat": 28.5392576, 
-            "lng": 33.9749193
+            "lat": 32.78269795, 
+            "lng": 35.52904995
         }, 
         "place": "Talmudic Israel", 
         "semantic_place": "Tiberius, Israel", 
@@ -831,8 +831,8 @@
     }, 
     {
         "lat_lng": {
-            "lat": 28.5392576, 
-            "lng": 33.9749193
+            "lat": 32.78269795, 
+            "lng": 35.52904995
         }, 
         "place": "Talmudic Israel", 
         "semantic_place": "Tiberius, Israel", 
@@ -841,8 +841,8 @@
     }, 
     {
         "lat_lng": {
-            "lat": 28.5392576, 
-            "lng": 33.9749193
+            "lat": 32.78269795, 
+            "lng": 35.52904995
         }, 
         "place": "Talmudic Israel", 
         "semantic_place": "Tiberius, Israel", 
@@ -851,8 +851,8 @@
     }, 
     {
         "lat_lng": {
-            "lat": 28.5392576, 
-            "lng": 33.9749193
+            "lat": 32.78269795, 
+            "lng": 35.52904995
         }, 
         "place": "Talmudic Israel", 
         "semantic_place": "Tiberius, Israel", 
@@ -861,8 +861,8 @@
     }, 
     {
         "lat_lng": {
-            "lat": 28.5392576, 
-            "lng": 33.9749193
+            "lat": 32.78269795, 
+            "lng": 35.52904995
         }, 
         "place": "Talmudic Israel", 
         "semantic_place": "Tiberius, Israel", 
@@ -871,8 +871,8 @@
     }, 
     {
         "lat_lng": {
-            "lat": 28.5392576, 
-            "lng": 33.9749193
+            "lat": 32.78269795, 
+            "lng": 35.52904995
         }, 
         "place": "Talmudic Israel", 
         "semantic_place": "Tiberius, Israel", 
@@ -881,8 +881,8 @@
     }, 
     {
         "lat_lng": {
-            "lat": 28.5392576, 
-            "lng": 33.9749193
+            "lat": 32.78269795, 
+            "lng": 35.52904995
         }, 
         "place": "Talmudic Israel", 
         "semantic_place": "Tiberius, Israel", 
@@ -891,8 +891,8 @@
     }, 
     {
         "lat_lng": {
-            "lat": 28.5392576, 
-            "lng": 33.9749193
+            "lat": 32.78269795, 
+            "lng": 35.52904995
         }, 
         "place": "Talmudic Israel", 
         "semantic_place": "Tiberius, Israel", 
@@ -901,8 +901,8 @@
     }, 
     {
         "lat_lng": {
-            "lat": 28.5392576, 
-            "lng": 33.9749193
+            "lat": 32.78269795, 
+            "lng": 35.52904995
         }, 
         "place": "Talmudic Israel", 
         "semantic_place": "Tiberius, Israel", 
@@ -911,8 +911,8 @@
     }, 
     {
         "lat_lng": {
-            "lat": 28.5392576, 
-            "lng": 33.9749193
+            "lat": 32.78269795, 
+            "lng": 35.52904995
         }, 
         "place": "Talmudic Israel", 
         "semantic_place": "Tiberius, Israel", 
@@ -921,8 +921,8 @@
     }, 
     {
         "lat_lng": {
-            "lat": 28.5392576, 
-            "lng": 33.9749193
+            "lat": 32.78269795, 
+            "lng": 35.52904995
         }, 
         "place": "Talmudic Israel", 
         "semantic_place": "Tiberius, Israel", 
@@ -931,8 +931,8 @@
     }, 
     {
         "lat_lng": {
-            "lat": 28.5392576, 
-            "lng": 33.9749193
+            "lat": 32.78269795, 
+            "lng": 35.52904995
         }, 
         "place": "Talmudic Israel", 
         "semantic_place": "Tiberius, Israel", 
@@ -941,8 +941,8 @@
     }, 
     {
         "lat_lng": {
-            "lat": 28.5392576, 
-            "lng": 33.9749193
+            "lat": 32.78269795, 
+            "lng": 35.52904995
         }, 
         "place": "Talmudic Israel", 
         "semantic_place": "Tiberius, Israel", 
@@ -951,8 +951,8 @@
     }, 
     {
         "lat_lng": {
-            "lat": 28.5392576, 
-            "lng": 33.9749193
+            "lat": 32.78269795, 
+            "lng": 35.52904995
         }, 
         "place": "Talmudic Israel", 
         "semantic_place": "Tiberius, Israel", 
@@ -961,8 +961,8 @@
     }, 
     {
         "lat_lng": {
-            "lat": 28.5392576, 
-            "lng": 33.9749193
+            "lat": 32.78269795, 
+            "lng": 35.52904995
         }, 
         "place": "Talmudic Israel", 
         "semantic_place": "Tiberius, Israel", 
@@ -971,8 +971,8 @@
     }, 
     {
         "lat_lng": {
-            "lat": 28.5392576, 
-            "lng": 33.9749193
+            "lat": 32.78269795, 
+            "lng": 35.52904995
         }, 
         "place": "Talmudic Israel", 
         "semantic_place": "Tiberius, Israel", 
@@ -981,8 +981,8 @@
     }, 
     {
         "lat_lng": {
-            "lat": 28.5392576, 
-            "lng": 33.9749193
+            "lat": 32.78269795, 
+            "lng": 35.52904995
         }, 
         "place": "Talmudic Israel", 
         "semantic_place": "Tiberius, Israel", 
@@ -991,8 +991,8 @@
     }, 
     {
         "lat_lng": {
-            "lat": 28.5392576, 
-            "lng": 33.9749193
+            "lat": 32.78269795, 
+            "lng": 35.52904995
         }, 
         "place": "Talmudic Israel", 
         "semantic_place": "Tiberius, Israel", 
@@ -1001,8 +1001,8 @@
     }, 
     {
         "lat_lng": {
-            "lat": 28.5392576, 
-            "lng": 33.9749193
+            "lat": 32.78269795, 
+            "lng": 35.52904995
         }, 
         "place": "Talmudic Israel", 
         "semantic_place": "Tiberius, Israel", 
@@ -1011,8 +1011,8 @@
     }, 
     {
         "lat_lng": {
-            "lat": 28.5392576, 
-            "lng": 33.9749193
+            "lat": 32.78269795, 
+            "lng": 35.52904995
         }, 
         "place": "Talmudic Israel", 
         "semantic_place": "Tiberius, Israel", 
@@ -1021,8 +1021,8 @@
     }, 
     {
         "lat_lng": {
-            "lat": 28.5392576, 
-            "lng": 33.9749193
+            "lat": 32.78269795, 
+            "lng": 35.52904995
         }, 
         "place": "Talmudic Israel", 
         "semantic_place": "Tiberius, Israel", 
@@ -1031,8 +1031,8 @@
     }, 
     {
         "lat_lng": {
-            "lat": 28.5392576, 
-            "lng": 33.9749193
+            "lat": 32.78269795, 
+            "lng": 35.52904995
         }, 
         "place": "Talmudic Israel", 
         "semantic_place": "Tiberius, Israel", 
@@ -1041,8 +1041,8 @@
     }, 
     {
         "lat_lng": {
-            "lat": 28.5392576, 
-            "lng": 33.9749193
+            "lat": 32.78269795, 
+            "lng": 35.52904995
         }, 
         "place": "Talmudic Israel", 
         "semantic_place": "Tiberius, Israel", 
@@ -1051,8 +1051,8 @@
     }, 
     {
         "lat_lng": {
-            "lat": 28.5392576, 
-            "lng": 33.9749193
+            "lat": 32.78269795, 
+            "lng": 35.52904995
         }, 
         "place": "Talmudic Israel", 
         "semantic_place": "Tiberius, Israel", 
@@ -1061,8 +1061,8 @@
     }, 
     {
         "lat_lng": {
-            "lat": 28.5392576, 
-            "lng": 33.9749193
+            "lat": 32.78269795, 
+            "lng": 35.52904995
         }, 
         "place": "Talmudic Israel", 
         "semantic_place": "Tiberius, Israel", 
@@ -1071,8 +1071,8 @@
     }, 
     {
         "lat_lng": {
-            "lat": 28.5392576, 
-            "lng": 33.9749193
+            "lat": 32.78269795, 
+            "lng": 35.52904995
         }, 
         "place": "Talmudic Israel", 
         "semantic_place": "Tiberius, Israel", 
@@ -1081,8 +1081,8 @@
     }, 
     {
         "lat_lng": {
-            "lat": 28.5392576, 
-            "lng": 33.9749193
+            "lat": 32.78269795, 
+            "lng": 35.52904995
         }, 
         "place": "Talmudic Israel", 
         "semantic_place": "Tiberius, Israel", 
@@ -1091,8 +1091,8 @@
     }, 
     {
         "lat_lng": {
-            "lat": 28.5392576, 
-            "lng": 33.9749193
+            "lat": 32.78269795, 
+            "lng": 35.52904995
         }, 
         "place": "Talmudic Israel", 
         "semantic_place": "Tiberius, Israel", 
@@ -1101,8 +1101,8 @@
     }, 
     {
         "lat_lng": {
-            "lat": 28.5392576, 
-            "lng": 33.9749193
+            "lat": 32.78269795, 
+            "lng": 35.52904995
         }, 
         "place": "Talmudic Israel", 
         "semantic_place": "Tiberius, Israel", 
@@ -1111,8 +1111,8 @@
     }, 
     {
         "lat_lng": {
-            "lat": 28.5392576, 
-            "lng": 33.9749193
+            "lat": 32.78269795, 
+            "lng": 35.52904995
         }, 
         "place": "Talmudic Israel", 
         "semantic_place": "Tiberius, Israel", 
@@ -1121,8 +1121,8 @@
     }, 
     {
         "lat_lng": {
-            "lat": 28.5392576, 
-            "lng": 33.9749193
+            "lat": 32.78269795, 
+            "lng": 35.52904995
         }, 
         "place": "Talmudic Israel", 
         "semantic_place": "Tiberius, Israel", 
@@ -1131,8 +1131,8 @@
     }, 
     {
         "lat_lng": {
-            "lat": 28.5392576, 
-            "lng": 33.9749193
+            "lat": 32.78269795, 
+            "lng": 35.52904995
         }, 
         "place": "Talmudic Israel", 
         "semantic_place": "Tiberius, Israel", 
@@ -1141,8 +1141,8 @@
     }, 
     {
         "lat_lng": {
-            "lat": 28.5392576, 
-            "lng": 33.9749193
+            "lat": 32.78269795, 
+            "lng": 35.52904995
         }, 
         "place": "Talmudic Israel", 
         "semantic_place": "Tiberius, Israel", 
@@ -1151,8 +1151,8 @@
     }, 
     {
         "lat_lng": {
-            "lat": 28.5392576, 
-            "lng": 33.9749193
+            "lat": 32.78269795, 
+            "lng": 35.52904995
         }, 
         "place": "Talmudic Israel", 
         "semantic_place": "Tiberius, Israel", 
@@ -1161,8 +1161,8 @@
     }, 
     {
         "lat_lng": {
-            "lat": 28.5392576, 
-            "lng": 33.9749193
+            "lat": 32.78269795, 
+            "lng": 35.52904995
         }, 
         "place": "Talmudic Israel", 
         "semantic_place": "Tiberius, Israel", 
@@ -1171,8 +1171,8 @@
     }, 
     {
         "lat_lng": {
-            "lat": 28.5392576, 
-            "lng": 33.9749193
+            "lat": 32.78269795, 
+            "lng": 35.52904995
         }, 
         "place": "Talmudic Israel", 
         "semantic_place": "Tiberius, Israel", 
@@ -1181,8 +1181,8 @@
     }, 
     {
         "lat_lng": {
-            "lat": 28.5392576, 
-            "lng": 33.9749193
+            "lat": 32.78269795, 
+            "lng": 35.52904995
         }, 
         "place": "Talmudic Israel", 
         "semantic_place": "Tiberius, Israel", 
@@ -1191,8 +1191,8 @@
     }, 
     {
         "lat_lng": {
-            "lat": 28.5392576, 
-            "lng": 33.9749193
+            "lat": 32.78269795, 
+            "lng": 35.52904995
         }, 
         "place": "Talmudic Israel", 
         "semantic_place": "Tiberius, Israel", 
@@ -1201,8 +1201,8 @@
     }, 
     {
         "lat_lng": {
-            "lat": 28.5392576, 
-            "lng": 33.9749193
+            "lat": 32.78269795, 
+            "lng": 35.52904995
         }, 
         "place": "Talmudic Israel", 
         "semantic_place": "Tiberius, Israel", 
@@ -1211,8 +1211,8 @@
     }, 
     {
         "lat_lng": {
-            "lat": 28.5392576, 
-            "lng": 33.9749193
+            "lat": 32.78269795, 
+            "lng": 35.52904995
         }, 
         "place": "Talmudic Israel", 
         "semantic_place": "Tiberius, Israel", 
@@ -1221,8 +1221,8 @@
     }, 
     {
         "lat_lng": {
-            "lat": 28.5392576, 
-            "lng": 33.9749193
+            "lat": 32.78269795, 
+            "lng": 35.52904995
         }, 
         "place": "Talmudic Israel", 
         "semantic_place": "Tiberius, Israel", 
@@ -1231,8 +1231,8 @@
     }, 
     {
         "lat_lng": {
-            "lat": 28.5392576, 
-            "lng": 33.9749193
+            "lat": 32.78269795, 
+            "lng": 35.52904995
         }, 
         "place": "Talmudic Israel", 
         "semantic_place": "Tiberius, Israel", 
@@ -1241,8 +1241,8 @@
     }, 
     {
         "lat_lng": {
-            "lat": 28.5392576, 
-            "lng": 33.9749193
+            "lat": 32.78269795, 
+            "lng": 35.52904995
         }, 
         "place": "Talmudic Israel", 
         "semantic_place": "Tiberius, Israel", 
@@ -1251,8 +1251,8 @@
     }, 
     {
         "lat_lng": {
-            "lat": 28.5392576, 
-            "lng": 33.9749193
+            "lat": 32.78269795, 
+            "lng": 35.52904995
         }, 
         "place": "Talmudic Israel", 
         "semantic_place": "Tiberius, Israel", 
@@ -1261,8 +1261,8 @@
     }, 
     {
         "lat_lng": {
-            "lat": 28.5392576, 
-            "lng": 33.9749193
+            "lat": 32.78269795, 
+            "lng": 35.52904995
         }, 
         "place": "Talmudic Israel", 
         "semantic_place": "Tiberius, Israel", 
@@ -1271,8 +1271,8 @@
     }, 
     {
         "lat_lng": {
-            "lat": 28.5392576, 
-            "lng": 33.9749193
+            "lat": 32.78269795, 
+            "lng": 35.52904995
         }, 
         "place": "Talmudic Israel", 
         "semantic_place": "Tiberius, Israel", 
@@ -1281,8 +1281,8 @@
     }, 
     {
         "lat_lng": {
-            "lat": 28.5392576, 
-            "lng": 33.9749193
+            "lat": 32.78269795, 
+            "lng": 35.52904995
         }, 
         "place": "Talmudic Israel", 
         "semantic_place": "Tiberius, Israel", 
@@ -1291,8 +1291,8 @@
     }, 
     {
         "lat_lng": {
-            "lat": 28.5392576, 
-            "lng": 33.9749193
+            "lat": 32.78269795, 
+            "lng": 35.52904995
         }, 
         "place": "Talmudic Israel", 
         "semantic_place": "Tiberius, Israel", 
@@ -1301,8 +1301,8 @@
     }, 
     {
         "lat_lng": {
-            "lat": 28.5392576, 
-            "lng": 33.9749193
+            "lat": 32.78269795, 
+            "lng": 35.52904995
         }, 
         "place": "Talmudic Israel", 
         "semantic_place": "Tiberius, Israel", 
@@ -1311,8 +1311,8 @@
     }, 
     {
         "lat_lng": {
-            "lat": 28.5392576, 
-            "lng": 33.9749193
+            "lat": 32.78269795, 
+            "lng": 35.52904995
         }, 
         "place": "Talmudic Israel", 
         "semantic_place": "Tiberius, Israel", 
@@ -1321,8 +1321,8 @@
     }, 
     {
         "lat_lng": {
-            "lat": 28.5392576, 
-            "lng": 33.9749193
+            "lat": 32.78269795, 
+            "lng": 35.52904995
         }, 
         "place": "Talmudic Israel", 
         "semantic_place": "Tiberius, Israel", 
@@ -1331,8 +1331,8 @@
     }, 
     {
         "lat_lng": {
-            "lat": 28.5392576, 
-            "lng": 33.9749193
+            "lat": 32.78269795, 
+            "lng": 35.52904995
         }, 
         "place": "Talmudic Israel", 
         "semantic_place": "Tiberius, Israel", 
@@ -1341,8 +1341,8 @@
     }, 
     {
         "lat_lng": {
-            "lat": 28.5392576, 
-            "lng": 33.9749193
+            "lat": 32.78269795, 
+            "lng": 35.52904995
         }, 
         "place": "Talmudic Israel", 
         "semantic_place": "Tiberius, Israel", 
@@ -1351,8 +1351,8 @@
     }, 
     {
         "lat_lng": {
-            "lat": 28.5392576, 
-            "lng": 33.9749193
+            "lat": 32.78269795, 
+            "lng": 35.52904995
         }, 
         "place": "Talmudic Israel", 
         "semantic_place": "Tiberius, Israel", 
@@ -1361,8 +1361,8 @@
     }, 
     {
         "lat_lng": {
-            "lat": 28.5392576, 
-            "lng": 33.9749193
+            "lat": 32.78269795, 
+            "lng": 35.52904995
         }, 
         "place": "Talmudic Israel", 
         "semantic_place": "Tiberius, Israel", 
@@ -1371,8 +1371,8 @@
     }, 
     {
         "lat_lng": {
-            "lat": 28.5392576, 
-            "lng": 33.9749193
+            "lat": 32.78269795, 
+            "lng": 35.52904995
         }, 
         "place": "Talmudic Israel", 
         "semantic_place": "Tiberius, Israel", 
@@ -1381,8 +1381,8 @@
     }, 
     {
         "lat_lng": {
-            "lat": 28.5392576, 
-            "lng": 33.9749193
+            "lat": 32.78269795, 
+            "lng": 35.52904995
         }, 
         "place": "Talmudic Israel", 
         "semantic_place": "Tiberius, Israel", 
@@ -1391,8 +1391,8 @@
     }, 
     {
         "lat_lng": {
-            "lat": 28.5392576, 
-            "lng": 33.9749193
+            "lat": 32.78269795, 
+            "lng": 35.52904995
         }, 
         "place": "Talmudic Israel", 
         "semantic_place": "Tiberius, Israel", 
@@ -1401,8 +1401,8 @@
     }, 
     {
         "lat_lng": {
-            "lat": 28.5392576, 
-            "lng": 33.9749193
+            "lat": 32.78269795, 
+            "lng": 35.52904995
         }, 
         "place": "Talmudic Israel", 
         "semantic_place": "Tiberius, Israel", 
@@ -1411,8 +1411,8 @@
     }, 
     {
         "lat_lng": {
-            "lat": 28.5392576, 
-            "lng": 33.9749193
+            "lat": 32.78269795, 
+            "lng": 35.52904995
         }, 
         "place": "Talmudic Israel", 
         "semantic_place": "Tiberius, Israel", 
@@ -1421,8 +1421,8 @@
     }, 
     {
         "lat_lng": {
-            "lat": 28.5392576, 
-            "lng": 33.9749193
+            "lat": 32.78269795, 
+            "lng": 35.52904995
         }, 
         "place": "Talmudic Israel", 
         "semantic_place": "Tiberius, Israel", 
@@ -1431,8 +1431,8 @@
     }, 
     {
         "lat_lng": {
-            "lat": 28.5392576, 
-            "lng": 33.9749193
+            "lat": 32.78269795, 
+            "lng": 35.52904995
         }, 
         "place": "Talmudic Israel", 
         "semantic_place": "Tiberius, Israel", 
@@ -1441,8 +1441,8 @@
     }, 
     {
         "lat_lng": {
-            "lat": 28.5392576, 
-            "lng": 33.9749193
+            "lat": 32.78269795, 
+            "lng": 35.52904995
         }, 
         "place": "Talmudic Israel", 
         "semantic_place": "Tiberius, Israel", 
@@ -1451,8 +1451,8 @@
     }, 
     {
         "lat_lng": {
-            "lat": 28.5392576, 
-            "lng": 33.9749193
+            "lat": 32.78269795, 
+            "lng": 35.52904995
         }, 
         "place": "Talmudic Israel", 
         "semantic_place": "Tiberius, Israel", 
@@ -1461,8 +1461,8 @@
     }, 
     {
         "lat_lng": {
-            "lat": 28.5392576, 
-            "lng": 33.9749193
+            "lat": 32.78269795, 
+            "lng": 35.52904995
         }, 
         "place": "Talmudic Israel", 
         "semantic_place": "Tiberius, Israel", 
@@ -1471,8 +1471,8 @@
     }, 
     {
         "lat_lng": {
-            "lat": 28.5392576, 
-            "lng": 33.9749193
+            "lat": 32.78269795, 
+            "lng": 35.52904995
         }, 
         "place": "Talmudic Israel", 
         "semantic_place": "Tiberius, Israel", 
@@ -1481,8 +1481,8 @@
     }, 
     {
         "lat_lng": {
-            "lat": 28.5392576, 
-            "lng": 33.9749193
+            "lat": 32.78269795, 
+            "lng": 35.52904995
         }, 
         "place": "Talmudic Israel", 
         "semantic_place": "Tiberius, Israel", 
@@ -1491,8 +1491,8 @@
     }, 
     {
         "lat_lng": {
-            "lat": 28.5392576, 
-            "lng": 33.9749193
+            "lat": 32.78269795, 
+            "lng": 35.52904995
         }, 
         "place": "Talmudic Israel", 
         "semantic_place": "Tiberius, Israel", 
@@ -1501,8 +1501,8 @@
     }, 
     {
         "lat_lng": {
-            "lat": 28.5392576, 
-            "lng": 33.9749193
+            "lat": 32.78269795, 
+            "lng": 35.52904995
         }, 
         "place": "Talmudic Israel", 
         "semantic_place": "Tiberius, Israel", 
@@ -1511,8 +1511,8 @@
     }, 
     {
         "lat_lng": {
-            "lat": 28.5392576, 
-            "lng": 33.9749193
+            "lat": 32.78269795, 
+            "lng": 35.52904995
         }, 
         "place": "Talmudic Israel", 
         "semantic_place": "Tiberius, Israel", 
@@ -1521,8 +1521,8 @@
     }, 
     {
         "lat_lng": {
-            "lat": 28.5392576, 
-            "lng": 33.9749193
+            "lat": 32.78269795, 
+            "lng": 35.52904995
         }, 
         "place": "Talmudic Israel", 
         "semantic_place": "Tiberius, Israel", 
@@ -1531,8 +1531,8 @@
     }, 
     {
         "lat_lng": {
-            "lat": 28.5392576, 
-            "lng": 33.9749193
+            "lat": 32.78269795, 
+            "lng": 35.52904995
         }, 
         "place": "Talmudic Israel", 
         "semantic_place": "Tiberius, Israel", 
@@ -1541,8 +1541,8 @@
     }, 
     {
         "lat_lng": {
-            "lat": 28.5392576, 
-            "lng": 33.9749193
+            "lat": 32.78269795, 
+            "lng": 35.52904995
         }, 
         "place": "Talmudic Israel", 
         "semantic_place": "Tiberius, Israel", 
@@ -1551,8 +1551,8 @@
     }, 
     {
         "lat_lng": {
-            "lat": 28.5392576, 
-            "lng": 33.9749193
+            "lat": 32.78269795, 
+            "lng": 35.52904995
         }, 
         "place": "Talmudic Israel", 
         "semantic_place": "Tiberius, Israel", 
@@ -1561,8 +1561,8 @@
     }, 
     {
         "lat_lng": {
-            "lat": 28.5392576, 
-            "lng": 33.9749193
+            "lat": 32.78269795, 
+            "lng": 35.52904995
         }, 
         "place": "Talmudic Israel", 
         "semantic_place": "Tiberius, Israel", 
@@ -1571,8 +1571,8 @@
     }, 
     {
         "lat_lng": {
-            "lat": 28.5392576, 
-            "lng": 33.9749193
+            "lat": 32.78269795, 
+            "lng": 35.52904995
         }, 
         "place": "Talmudic Israel", 
         "semantic_place": "Tiberius, Israel", 
@@ -1581,8 +1581,8 @@
     }, 
     {
         "lat_lng": {
-            "lat": 28.5392576, 
-            "lng": 33.9749193
+            "lat": 32.78269795, 
+            "lng": 35.52904995
         }, 
         "place": "Talmudic Israel", 
         "semantic_place": "Tiberius, Israel", 
@@ -1591,8 +1591,8 @@
     }, 
     {
         "lat_lng": {
-            "lat": 28.5392576, 
-            "lng": 33.9749193
+            "lat": 32.78269795, 
+            "lng": 35.52904995
         }, 
         "place": "Talmudic Israel", 
         "semantic_place": "Tiberius, Israel", 
@@ -1601,8 +1601,8 @@
     }, 
     {
         "lat_lng": {
-            "lat": 28.5392576, 
-            "lng": 33.9749193
+            "lat": 32.78269795, 
+            "lng": 35.52904995
         }, 
         "place": "Talmudic Israel", 
         "semantic_place": "Tiberius, Israel", 
@@ -1611,8 +1611,8 @@
     }, 
     {
         "lat_lng": {
-            "lat": 28.5392576, 
-            "lng": 33.9749193
+            "lat": 32.78269795, 
+            "lng": 35.52904995
         }, 
         "place": "Talmudic Israel", 
         "semantic_place": "Tiberius, Israel", 
@@ -1621,8 +1621,8 @@
     }, 
     {
         "lat_lng": {
-            "lat": 28.5392576, 
-            "lng": 33.9749193
+            "lat": 32.78269795, 
+            "lng": 35.52904995
         }, 
         "place": "Talmudic Israel", 
         "semantic_place": "Tiberius, Israel", 
@@ -1631,8 +1631,8 @@
     }, 
     {
         "lat_lng": {
-            "lat": 28.5392576, 
-            "lng": 33.9749193
+            "lat": 32.78269795, 
+            "lng": 35.52904995
         }, 
         "place": "Talmudic Israel", 
         "semantic_place": "Tiberius, Israel", 
@@ -1641,8 +1641,8 @@
     }, 
     {
         "lat_lng": {
-            "lat": 28.5392576, 
-            "lng": 33.9749193
+            "lat": 32.78269795, 
+            "lng": 35.52904995
         }, 
         "place": "Talmudic Israel", 
         "semantic_place": "Tiberius, Israel", 
@@ -1651,8 +1651,8 @@
     }, 
     {
         "lat_lng": {
-            "lat": 28.5392576, 
-            "lng": 33.9749193
+            "lat": 32.78269795, 
+            "lng": 35.52904995
         }, 
         "place": "Talmudic Israel", 
         "semantic_place": "Tiberius, Israel", 
@@ -1661,8 +1661,8 @@
     }, 
     {
         "lat_lng": {
-            "lat": 28.5392576, 
-            "lng": 33.9749193
+            "lat": 32.78269795, 
+            "lng": 35.52904995
         }, 
         "place": "Talmudic Israel", 
         "semantic_place": "Tiberius, Israel", 
@@ -1671,8 +1671,8 @@
     }, 
     {
         "lat_lng": {
-            "lat": 28.5392576, 
-            "lng": 33.9749193
+            "lat": 32.78269795, 
+            "lng": 35.52904995
         }, 
         "place": "Talmudic Israel", 
         "semantic_place": "Tiberius, Israel", 
@@ -1681,8 +1681,8 @@
     }, 
     {
         "lat_lng": {
-            "lat": 28.5392576, 
-            "lng": 33.9749193
+            "lat": 32.78269795, 
+            "lng": 35.52904995
         }, 
         "place": "Talmudic Israel", 
         "semantic_place": "Tiberius, Israel", 
@@ -1691,8 +1691,8 @@
     }, 
     {
         "lat_lng": {
-            "lat": 28.5392576, 
-            "lng": 33.9749193
+            "lat": 32.78269795, 
+            "lng": 35.52904995
         }, 
         "place": "Talmudic Israel", 
         "semantic_place": "Tiberius, Israel", 
@@ -1701,8 +1701,8 @@
     }, 
     {
         "lat_lng": {
-            "lat": 28.5392576, 
-            "lng": 33.9749193
+            "lat": 32.78269795, 
+            "lng": 35.52904995
         }, 
         "place": "Talmudic Israel", 
         "semantic_place": "Tiberius, Israel", 
@@ -1711,8 +1711,8 @@
     }, 
     {
         "lat_lng": {
-            "lat": 28.5392576, 
-            "lng": 33.9749193
+            "lat": 32.78269795, 
+            "lng": 35.52904995
         }, 
         "place": "Talmudic Israel", 
         "semantic_place": "Tiberius, Israel", 
@@ -1721,8 +1721,8 @@
     }, 
     {
         "lat_lng": {
-            "lat": 28.5392576, 
-            "lng": 33.9749193
+            "lat": 32.78269795, 
+            "lng": 35.52904995
         }, 
         "place": "Talmudic Israel", 
         "semantic_place": "Tiberius, Israel", 
@@ -1731,8 +1731,8 @@
     }, 
     {
         "lat_lng": {
-            "lat": 28.5392576, 
-            "lng": 33.9749193
+            "lat": 32.78269795, 
+            "lng": 35.52904995
         }, 
         "place": "Talmudic Israel", 
         "semantic_place": "Tiberius, Israel", 
@@ -1741,8 +1741,8 @@
     }, 
     {
         "lat_lng": {
-            "lat": 28.5392576, 
-            "lng": 33.9749193
+            "lat": 32.78269795, 
+            "lng": 35.52904995
         }, 
         "place": "Talmudic Israel", 
         "semantic_place": "Tiberius, Israel", 
@@ -1751,8 +1751,8 @@
     }, 
     {
         "lat_lng": {
-            "lat": 28.5392576, 
-            "lng": 33.9749193
+            "lat": 32.78269795, 
+            "lng": 35.52904995
         }, 
         "place": "Talmudic Israel/Babylon", 
         "semantic_place": "Tiberius, Israel", 
@@ -1761,8 +1761,8 @@
     }, 
     {
         "lat_lng": {
-            "lat": 28.5392576, 
-            "lng": 33.9749193
+            "lat": 32.78269795, 
+            "lng": 35.52904995
         }, 
         "place": "Talmudic Israel/Babylon", 
         "semantic_place": "Tiberius, Israel", 
@@ -1771,8 +1771,8 @@
     }, 
     {
         "lat_lng": {
-            "lat": 28.5392576, 
-            "lng": 33.9749193
+            "lat": 32.78269795, 
+            "lng": 35.52904995
         }, 
         "place": "Talmudic Israel", 
         "semantic_place": "Tiberius, Israel", 
@@ -1781,8 +1781,8 @@
     }, 
     {
         "lat_lng": {
-            "lat": 28.5392576, 
-            "lng": 33.9749193
+            "lat": 32.78269795, 
+            "lng": 35.52904995
         }, 
         "place": "Talmudic Israel", 
         "semantic_place": "Tiberius, Israel", 
@@ -1791,8 +1791,8 @@
     }, 
     {
         "lat_lng": {
-            "lat": 28.5392576, 
-            "lng": 33.9749193
+            "lat": 32.78269795, 
+            "lng": 35.52904995
         }, 
         "place": "Talmudic Israel", 
         "semantic_place": "Tiberius, Israel", 
@@ -1801,8 +1801,8 @@
     }, 
     {
         "lat_lng": {
-            "lat": 28.5392576, 
-            "lng": 33.9749193
+            "lat": 32.78269795, 
+            "lng": 35.52904995
         }, 
         "place": "Talmudic Israel", 
         "semantic_place": "Tiberius, Israel", 
@@ -1811,8 +1811,8 @@
     }, 
     {
         "lat_lng": {
-            "lat": 28.5392576, 
-            "lng": 33.9749193
+            "lat": 32.78269795, 
+            "lng": 35.52904995
         }, 
         "place": "Talmudic Israel", 
         "semantic_place": "Tiberius, Israel", 
@@ -1821,8 +1821,8 @@
     }, 
     {
         "lat_lng": {
-            "lat": 28.5392576, 
-            "lng": 33.9749193
+            "lat": 32.78269795, 
+            "lng": 35.52904995
         }, 
         "place": "Talmudic Israel", 
         "semantic_place": "Tiberius, Israel", 
@@ -1831,8 +1831,8 @@
     }, 
     {
         "lat_lng": {
-            "lat": 28.5392576, 
-            "lng": 33.9749193
+            "lat": 32.78269795, 
+            "lng": 35.52904995
         }, 
         "place": "Talmudic Israel", 
         "semantic_place": "Tiberius, Israel", 
@@ -1841,8 +1841,8 @@
     }, 
     {
         "lat_lng": {
-            "lat": 28.5392576, 
-            "lng": 33.9749193
+            "lat": 32.78269795, 
+            "lng": 35.52904995
         }, 
         "place": "Talmudic Israel", 
         "semantic_place": "Tiberius, Israel", 
@@ -1851,8 +1851,8 @@
     }, 
     {
         "lat_lng": {
-            "lat": 28.5392576, 
-            "lng": 33.9749193
+            "lat": 32.78269795, 
+            "lng": 35.52904995
         }, 
         "place": "Talmudic Israel", 
         "semantic_place": "Tiberius, Israel", 
@@ -1861,8 +1861,8 @@
     }, 
     {
         "lat_lng": {
-            "lat": 28.5392576, 
-            "lng": 33.9749193
+            "lat": 32.78269795, 
+            "lng": 35.52904995
         }, 
         "place": "Talmudic Israel", 
         "semantic_place": "Tiberius, Israel", 
@@ -1871,8 +1871,8 @@
     }, 
     {
         "lat_lng": {
-            "lat": 28.5392576, 
-            "lng": 33.9749193
+            "lat": 32.78269795, 
+            "lng": 35.52904995
         }, 
         "place": "Talmudic Israel", 
         "semantic_place": "Tiberius, Israel", 
@@ -1881,8 +1881,8 @@
     }, 
     {
         "lat_lng": {
-            "lat": 28.5392576, 
-            "lng": 33.9749193
+            "lat": 32.78269795, 
+            "lng": 35.52904995
         }, 
         "place": "Talmudic Israel", 
         "semantic_place": "Tiberius, Israel", 
@@ -1891,8 +1891,8 @@
     }, 
     {
         "lat_lng": {
-            "lat": 28.5392576, 
-            "lng": 33.9749193
+            "lat": 32.78269795, 
+            "lng": 35.52904995
         }, 
         "place": "Talmudic Israel", 
         "semantic_place": "Tiberius, Israel", 
@@ -1901,8 +1901,8 @@
     }, 
     {
         "lat_lng": {
-            "lat": 28.5392576, 
-            "lng": 33.9749193
+            "lat": 32.78269795, 
+            "lng": 35.52904995
         }, 
         "place": "Talmudic Israel", 
         "semantic_place": "Tiberius, Israel", 
@@ -1911,8 +1911,8 @@
     }, 
     {
         "lat_lng": {
-            "lat": 28.5392576, 
-            "lng": 33.9749193
+            "lat": 32.78269795, 
+            "lng": 35.52904995
         }, 
         "place": "Talmudic Israel", 
         "semantic_place": "Tiberius, Israel", 
@@ -1921,8 +1921,8 @@
     }, 
     {
         "lat_lng": {
-            "lat": 28.5392576, 
-            "lng": 33.9749193
+            "lat": 32.78269795, 
+            "lng": 35.52904995
         }, 
         "place": "Talmudic Israel", 
         "semantic_place": "Tiberius, Israel", 
@@ -1931,8 +1931,8 @@
     }, 
     {
         "lat_lng": {
-            "lat": 28.5392576, 
-            "lng": 33.9749193
+            "lat": 32.78269795, 
+            "lng": 35.52904995
         }, 
         "place": "Talmudic Israel", 
         "semantic_place": "Tiberius, Israel", 
@@ -1941,8 +1941,8 @@
     }, 
     {
         "lat_lng": {
-            "lat": 28.5392576, 
-            "lng": 33.9749193
+            "lat": 32.78269795, 
+            "lng": 35.52904995
         }, 
         "place": "Talmudic Israel", 
         "semantic_place": "Tiberius, Israel", 
@@ -1951,8 +1951,8 @@
     }, 
     {
         "lat_lng": {
-            "lat": 28.5392576, 
-            "lng": 33.9749193
+            "lat": 32.78269795, 
+            "lng": 35.52904995
         }, 
         "place": "Talmudic Israel", 
         "semantic_place": "Tiberius, Israel", 
@@ -1961,8 +1961,8 @@
     }, 
     {
         "lat_lng": {
-            "lat": 28.5392576, 
-            "lng": 33.9749193
+            "lat": 32.78269795, 
+            "lng": 35.52904995
         }, 
         "place": "Talmudic Israel", 
         "semantic_place": "Tiberius, Israel", 
@@ -1971,8 +1971,8 @@
     }, 
     {
         "lat_lng": {
-            "lat": 28.5392576, 
-            "lng": 33.9749193
+            "lat": 32.78269795, 
+            "lng": 35.52904995
         }, 
         "place": "Talmudic Israel", 
         "semantic_place": "Tiberius, Israel", 
@@ -1981,8 +1981,8 @@
     }, 
     {
         "lat_lng": {
-            "lat": 28.5392576, 
-            "lng": 33.9749193
+            "lat": 32.78269795, 
+            "lng": 35.52904995
         }, 
         "place": "Talmudic Israel", 
         "semantic_place": "Tiberius, Israel", 
@@ -1991,8 +1991,8 @@
     }, 
     {
         "lat_lng": {
-            "lat": 28.5392576, 
-            "lng": 33.9749193
+            "lat": 32.78269795, 
+            "lng": 35.52904995
         }, 
         "place": "Talmudic Israel", 
         "semantic_place": "Tiberius, Israel", 
@@ -2001,8 +2001,8 @@
     }, 
     {
         "lat_lng": {
-            "lat": 28.5392576, 
-            "lng": 33.9749193
+            "lat": 32.78269795, 
+            "lng": 35.52904995
         }, 
         "place": "Talmudic Israel", 
         "semantic_place": "Tiberius, Israel", 
@@ -2011,8 +2011,8 @@
     }, 
     {
         "lat_lng": {
-            "lat": 28.5392576, 
-            "lng": 33.9749193
+            "lat": 32.78269795, 
+            "lng": 35.52904995
         }, 
         "place": "Talmudic Israel", 
         "semantic_place": "Tiberius, Israel", 
@@ -2021,8 +2021,8 @@
     }, 
     {
         "lat_lng": {
-            "lat": 28.5392576, 
-            "lng": 33.9749193
+            "lat": 32.78269795, 
+            "lng": 35.52904995
         }, 
         "place": "Talmudic Israel", 
         "semantic_place": "Tiberius, Israel", 
@@ -2031,8 +2031,8 @@
     }, 
     {
         "lat_lng": {
-            "lat": 28.5392576, 
-            "lng": 33.9749193
+            "lat": 32.78269795, 
+            "lng": 35.52904995
         }, 
         "place": "Talmudic Israel", 
         "semantic_place": "Tiberius, Israel", 
@@ -2041,8 +2041,8 @@
     }, 
     {
         "lat_lng": {
-            "lat": 28.5392576, 
-            "lng": 33.9749193
+            "lat": 32.78269795, 
+            "lng": 35.52904995
         }, 
         "place": "Talmudic Israel", 
         "semantic_place": "Tiberius, Israel", 
@@ -2051,8 +2051,8 @@
     }, 
     {
         "lat_lng": {
-            "lat": 28.5392576, 
-            "lng": 33.9749193
+            "lat": 32.78269795, 
+            "lng": 35.52904995
         }, 
         "place": "Talmudic Israel", 
         "semantic_place": "Tiberius, Israel", 
@@ -2061,8 +2061,8 @@
     }, 
     {
         "lat_lng": {
-            "lat": 28.5392576, 
-            "lng": 33.9749193
+            "lat": 32.78269795, 
+            "lng": 35.52904995
         }, 
         "place": "Talmudic Israel", 
         "semantic_place": "Tiberius, Israel", 
@@ -2071,8 +2071,8 @@
     }, 
     {
         "lat_lng": {
-            "lat": 28.5392576, 
-            "lng": 33.9749193
+            "lat": 32.78269795, 
+            "lng": 35.52904995
         }, 
         "place": "Talmudic Israel", 
         "semantic_place": "Tiberius, Israel", 
@@ -2081,8 +2081,8 @@
     }, 
     {
         "lat_lng": {
-            "lat": 28.5392576, 
-            "lng": 33.9749193
+            "lat": 32.78269795, 
+            "lng": 35.52904995
         }, 
         "place": "Talmudic Israel", 
         "semantic_place": "Tiberius, Israel", 
@@ -2091,8 +2091,8 @@
     }, 
     {
         "lat_lng": {
-            "lat": 28.5392576, 
-            "lng": 33.9749193
+            "lat": 32.78269795, 
+            "lng": 35.52904995
         }, 
         "place": "Talmudic Israel", 
         "semantic_place": "Tiberius, Israel", 
@@ -2101,8 +2101,8 @@
     }, 
     {
         "lat_lng": {
-            "lat": 28.5392576, 
-            "lng": 33.9749193
+            "lat": 32.78269795, 
+            "lng": 35.52904995
         }, 
         "place": "Talmudic Israel", 
         "semantic_place": "Tiberius, Israel", 
@@ -2111,8 +2111,8 @@
     }, 
     {
         "lat_lng": {
-            "lat": 28.5392576, 
-            "lng": 33.9749193
+            "lat": 32.78269795, 
+            "lng": 35.52904995
         }, 
         "place": "Talmudic Israel", 
         "semantic_place": "Tiberius, Israel", 
@@ -2121,8 +2121,8 @@
     }, 
     {
         "lat_lng": {
-            "lat": 28.5392576, 
-            "lng": 33.9749193
+            "lat": 32.78269795, 
+            "lng": 35.52904995
         }, 
         "place": "Talmudic Israel", 
         "semantic_place": "Tiberius, Israel", 
@@ -2131,8 +2131,8 @@
     }, 
     {
         "lat_lng": {
-            "lat": 28.5392576, 
-            "lng": 33.9749193
+            "lat": 32.78269795, 
+            "lng": 35.52904995
         }, 
         "place": "Talmudic Israel", 
         "semantic_place": "Tiberius, Israel", 
@@ -2141,8 +2141,8 @@
     }, 
     {
         "lat_lng": {
-            "lat": 28.5392576, 
-            "lng": 33.9749193
+            "lat": 32.78269795, 
+            "lng": 35.52904995
         }, 
         "place": "Talmudic Israel", 
         "semantic_place": "Tiberius, Israel", 
@@ -2151,8 +2151,8 @@
     }, 
     {
         "lat_lng": {
-            "lat": 28.5392576, 
-            "lng": 33.9749193
+            "lat": 33.31168605, 
+            "lng": 44.355905
         }, 
         "place": "Talmudic Babylon", 
         "semantic_place": "Baghdad, Iraq", 
@@ -2161,8 +2161,8 @@
     }, 
     {
         "lat_lng": {
-            "lat": 28.5392576, 
-            "lng": 33.9749193
+            "lat": 33.31168605, 
+            "lng": 44.355905
         }, 
         "place": "Talmudic Babylon", 
         "semantic_place": "Baghdad, Iraq", 
@@ -2171,8 +2171,8 @@
     }, 
     {
         "lat_lng": {
-            "lat": 28.5392576, 
-            "lng": 33.9749193
+            "lat": 33.31168605, 
+            "lng": 44.355905
         }, 
         "place": "Talmudic Babylon", 
         "semantic_place": "Baghdad, Iraq", 
@@ -2181,8 +2181,8 @@
     }, 
     {
         "lat_lng": {
-            "lat": 28.5392576, 
-            "lng": 33.9749193
+            "lat": 33.31168605, 
+            "lng": 44.355905
         }, 
         "place": "Talmudic Babylon", 
         "semantic_place": "Baghdad, Iraq", 
@@ -2191,8 +2191,8 @@
     }, 
     {
         "lat_lng": {
-            "lat": 28.5392576, 
-            "lng": 33.9749193
+            "lat": 33.31168605, 
+            "lng": 44.355905
         }, 
         "place": "Talmudic Babylon", 
         "semantic_place": "Baghdad, Iraq", 
@@ -2201,8 +2201,8 @@
     }, 
     {
         "lat_lng": {
-            "lat": 28.5392576, 
-            "lng": 33.9749193
+            "lat": 33.31168605, 
+            "lng": 44.355905
         }, 
         "place": "Talmudic Babylon", 
         "semantic_place": "Baghdad, Iraq", 
@@ -2211,8 +2211,8 @@
     }, 
     {
         "lat_lng": {
-            "lat": 28.5392576, 
-            "lng": 33.9749193
+            "lat": 33.31168605, 
+            "lng": 44.355905
         }, 
         "place": "Talmudic Babylon", 
         "semantic_place": "Baghdad, Iraq", 
@@ -2221,8 +2221,8 @@
     }, 
     {
         "lat_lng": {
-            "lat": 28.5392576, 
-            "lng": 33.9749193
+            "lat": 33.31168605, 
+            "lng": 44.355905
         }, 
         "place": "Talmudic Babylon", 
         "semantic_place": "Baghdad, Iraq", 
@@ -2231,8 +2231,8 @@
     }, 
     {
         "lat_lng": {
-            "lat": 28.5392576, 
-            "lng": 33.9749193
+            "lat": 33.31168605, 
+            "lng": 44.355905
         }, 
         "place": "Talmudic Babylon", 
         "semantic_place": "Baghdad, Iraq", 
@@ -2241,8 +2241,8 @@
     }, 
     {
         "lat_lng": {
-            "lat": 28.5392576, 
-            "lng": 33.9749193
+            "lat": 33.31168605, 
+            "lng": 44.355905
         }, 
         "place": "Talmudic Babylon", 
         "semantic_place": "Baghdad, Iraq", 
@@ -2251,8 +2251,8 @@
     }, 
     {
         "lat_lng": {
-            "lat": 28.5392576, 
-            "lng": 33.9749193
+            "lat": 33.31168605, 
+            "lng": 44.355905
         }, 
         "place": "Talmudic Babylon", 
         "semantic_place": "Baghdad, Iraq", 
@@ -2261,8 +2261,8 @@
     }, 
     {
         "lat_lng": {
-            "lat": 28.5392576, 
-            "lng": 33.9749193
+            "lat": 33.31168605, 
+            "lng": 44.355905
         }, 
         "place": "Talmudic Babylon", 
         "semantic_place": "Baghdad, Iraq", 
@@ -2271,8 +2271,8 @@
     }, 
     {
         "lat_lng": {
-            "lat": 28.5392576, 
-            "lng": 33.9749193
+            "lat": 33.31168605, 
+            "lng": 44.355905
         }, 
         "place": "Talmudic Babylon", 
         "semantic_place": "Baghdad, Iraq", 
@@ -2281,8 +2281,8 @@
     }, 
     {
         "lat_lng": {
-            "lat": 28.5392576, 
-            "lng": 33.9749193
+            "lat": 33.31168605, 
+            "lng": 44.355905
         }, 
         "place": "Talmudic Babylon", 
         "semantic_place": "Baghdad, Iraq", 
@@ -2291,8 +2291,8 @@
     }, 
     {
         "lat_lng": {
-            "lat": 28.5392576, 
-            "lng": 33.9749193
+            "lat": 33.31168605, 
+            "lng": 44.355905
         }, 
         "place": "Talmudic Babylon", 
         "semantic_place": "Baghdad, Iraq", 
@@ -2301,8 +2301,8 @@
     }, 
     {
         "lat_lng": {
-            "lat": 28.5392576, 
-            "lng": 33.9749193
+            "lat": 33.31168605, 
+            "lng": 44.355905
         }, 
         "place": "Talmudic Babylon", 
         "semantic_place": "Baghdad, Iraq", 
@@ -2311,8 +2311,8 @@
     }, 
     {
         "lat_lng": {
-            "lat": 28.5392576, 
-            "lng": 33.9749193
+            "lat": 33.31168605, 
+            "lng": 44.355905
         }, 
         "place": "Talmudic Babylon", 
         "semantic_place": "Baghdad, Iraq", 
@@ -2321,8 +2321,8 @@
     }, 
     {
         "lat_lng": {
-            "lat": 28.5392576, 
-            "lng": 33.9749193
+            "lat": 33.31168605, 
+            "lng": 44.355905
         }, 
         "place": "Talmudic Babylon", 
         "semantic_place": "Baghdad, Iraq", 
@@ -2331,8 +2331,8 @@
     }, 
     {
         "lat_lng": {
-            "lat": 28.5392576, 
-            "lng": 33.9749193
+            "lat": 33.31168605, 
+            "lng": 44.355905
         }, 
         "place": "Talmudic Babylon", 
         "semantic_place": "Baghdad, Iraq", 
@@ -2341,8 +2341,8 @@
     }, 
     {
         "lat_lng": {
-            "lat": 28.5392576, 
-            "lng": 33.9749193
+            "lat": 33.31168605, 
+            "lng": 44.355905
         }, 
         "place": "Talmudic Babylon", 
         "semantic_place": "Baghdad, Iraq", 
@@ -2351,8 +2351,8 @@
     }, 
     {
         "lat_lng": {
-            "lat": 28.5392576, 
-            "lng": 33.9749193
+            "lat": 33.31168605, 
+            "lng": 44.355905
         }, 
         "place": "Talmudic Babylon", 
         "semantic_place": "Baghdad, Iraq", 
@@ -2361,8 +2361,8 @@
     }, 
     {
         "lat_lng": {
-            "lat": 28.5392576, 
-            "lng": 33.9749193
+            "lat": 33.31168605, 
+            "lng": 44.355905
         }, 
         "place": "Talmudic Babylon", 
         "semantic_place": "Baghdad, Iraq", 
@@ -2371,8 +2371,8 @@
     }, 
     {
         "lat_lng": {
-            "lat": 28.5392576, 
-            "lng": 33.9749193
+            "lat": 33.31168605, 
+            "lng": 44.355905
         }, 
         "place": "Talmudic Babylon", 
         "semantic_place": "Baghdad, Iraq", 
@@ -2381,8 +2381,8 @@
     }, 
     {
         "lat_lng": {
-            "lat": 28.5392576, 
-            "lng": 33.9749193
+            "lat": 33.31168605, 
+            "lng": 44.355905
         }, 
         "place": "Talmudic Babylon", 
         "semantic_place": "Baghdad, Iraq", 
@@ -2391,8 +2391,8 @@
     }, 
     {
         "lat_lng": {
-            "lat": 28.5392576, 
-            "lng": 33.9749193
+            "lat": 33.31168605, 
+            "lng": 44.355905
         }, 
         "place": "Talmudic Babylon", 
         "semantic_place": "Baghdad, Iraq", 
@@ -2401,8 +2401,8 @@
     }, 
     {
         "lat_lng": {
-            "lat": 28.5392576, 
-            "lng": 33.9749193
+            "lat": 33.31168605, 
+            "lng": 44.355905
         }, 
         "place": "Talmudic Babylon", 
         "semantic_place": "Baghdad, Iraq", 
@@ -2411,8 +2411,8 @@
     }, 
     {
         "lat_lng": {
-            "lat": 28.5392576, 
-            "lng": 33.9749193
+            "lat": 33.31168605, 
+            "lng": 44.355905
         }, 
         "place": "Talmudic Babylon", 
         "semantic_place": "Baghdad, Iraq", 
@@ -2421,8 +2421,8 @@
     }, 
     {
         "lat_lng": {
-            "lat": 28.5392576, 
-            "lng": 33.9749193
+            "lat": 33.31168605, 
+            "lng": 44.355905
         }, 
         "place": "Talmudic Babylon", 
         "semantic_place": "Baghdad, Iraq", 
@@ -2431,8 +2431,8 @@
     }, 
     {
         "lat_lng": {
-            "lat": 28.5392576, 
-            "lng": 33.9749193
+            "lat": 33.31168605, 
+            "lng": 44.355905
         }, 
         "place": "Talmudic Babylon", 
         "semantic_place": "Baghdad, Iraq", 
@@ -2441,8 +2441,8 @@
     }, 
     {
         "lat_lng": {
-            "lat": 28.5392576, 
-            "lng": 33.9749193
+            "lat": 33.31168605, 
+            "lng": 44.355905
         }, 
         "place": "Talmudic Babylon", 
         "semantic_place": "Baghdad, Iraq", 
@@ -2451,8 +2451,8 @@
     }, 
     {
         "lat_lng": {
-            "lat": 28.5392576, 
-            "lng": 33.9749193
+            "lat": 33.31168605, 
+            "lng": 44.355905
         }, 
         "place": "Talmudic Babylon", 
         "semantic_place": "Baghdad, Iraq", 
@@ -2461,8 +2461,8 @@
     }, 
     {
         "lat_lng": {
-            "lat": 28.5392576, 
-            "lng": 33.9749193
+            "lat": 33.31168605, 
+            "lng": 44.355905
         }, 
         "place": "Talmudic Babylon", 
         "semantic_place": "Baghdad, Iraq", 
@@ -2471,8 +2471,8 @@
     }, 
     {
         "lat_lng": {
-            "lat": 28.5392576, 
-            "lng": 33.9749193
+            "lat": 33.31168605, 
+            "lng": 44.355905
         }, 
         "place": "Talmudic Babylon", 
         "semantic_place": "Baghdad, Iraq", 
@@ -2481,8 +2481,8 @@
     }, 
     {
         "lat_lng": {
-            "lat": 28.5392576, 
-            "lng": 33.9749193
+            "lat": 33.31168605, 
+            "lng": 44.355905
         }, 
         "place": "Talmudic Babylon", 
         "semantic_place": "Baghdad, Iraq", 
@@ -2491,8 +2491,8 @@
     }, 
     {
         "lat_lng": {
-            "lat": 28.5392576, 
-            "lng": 33.9749193
+            "lat": 33.31168605, 
+            "lng": 44.355905
         }, 
         "place": "Talmudic Babylon", 
         "semantic_place": "Baghdad, Iraq", 
@@ -2501,8 +2501,8 @@
     }, 
     {
         "lat_lng": {
-            "lat": 28.5392576, 
-            "lng": 33.9749193
+            "lat": 33.31168605, 
+            "lng": 44.355905
         }, 
         "place": "Talmudic Babylon", 
         "semantic_place": "Baghdad, Iraq", 
@@ -2511,8 +2511,8 @@
     }, 
     {
         "lat_lng": {
-            "lat": 28.5392576, 
-            "lng": 33.9749193
+            "lat": 33.31168605, 
+            "lng": 44.355905
         }, 
         "place": "Talmudic Babylon", 
         "semantic_place": "Baghdad, Iraq", 
@@ -2521,8 +2521,8 @@
     }, 
     {
         "lat_lng": {
-            "lat": 28.5392576, 
-            "lng": 33.9749193
+            "lat": 32.78269795, 
+            "lng": 35.52904995
         }, 
         "place": "Talmudic Israel/Babylon", 
         "semantic_place": "Tiberius, Israel", 
@@ -2531,8 +2531,8 @@
     }, 
     {
         "lat_lng": {
-            "lat": 28.5392576, 
-            "lng": 33.9749193
+            "lat": 32.78269795, 
+            "lng": 35.52904995
         }, 
         "place": "Talmudic Israel/Babylon", 
         "semantic_place": "Tiberius, Israel", 
@@ -2541,8 +2541,8 @@
     }, 
     {
         "lat_lng": {
-            "lat": 28.5392576, 
-            "lng": 33.9749193
+            "lat": 32.78269795, 
+            "lng": 35.52904995
         }, 
         "place": "Talmudic Israel", 
         "semantic_place": "Tiberius, Israel", 
@@ -2551,8 +2551,8 @@
     }, 
     {
         "lat_lng": {
-            "lat": 28.5392576, 
-            "lng": 33.9749193
+            "lat": 32.78269795, 
+            "lng": 35.52904995
         }, 
         "place": "Talmudic Israel/Babylon", 
         "semantic_place": "Tiberius, Israel", 
@@ -2561,8 +2561,8 @@
     }, 
     {
         "lat_lng": {
-            "lat": 28.5392576, 
-            "lng": 33.9749193
+            "lat": 33.31168605, 
+            "lng": 44.355905
         }, 
         "place": "Talmudic Babylon/Italy/Israel", 
         "semantic_place": "Baghdad, Iraq", 
@@ -2571,8 +2571,8 @@
     }, 
     {
         "lat_lng": {
-            "lat": 28.5392576, 
-            "lng": 33.9749193
+            "lat": 32.78269795, 
+            "lng": 35.52904995
         }, 
         "place": "Talmudic Israel", 
         "semantic_place": "Tiberius, Israel", 
@@ -2581,8 +2581,8 @@
     }, 
     {
         "lat_lng": {
-            "lat": 28.5392576, 
-            "lng": 33.9749193
+            "lat": 32.78269795, 
+            "lng": 35.52904995
         }, 
         "place": "Talmudic Israel", 
         "semantic_place": "Tiberius, Israel", 
@@ -2591,8 +2591,8 @@
     }, 
     {
         "lat_lng": {
-            "lat": 28.5392576, 
-            "lng": 33.9749193
+            "lat": 32.78269795, 
+            "lng": 35.52904995
         }, 
         "place": "Talmudic Israel/Babylon", 
         "semantic_place": "Tiberius, Israel", 
@@ -2601,8 +2601,8 @@
     }, 
     {
         "lat_lng": {
-            "lat": 28.5392576, 
-            "lng": 33.9749193
+            "lat": 32.78269795, 
+            "lng": 35.52904995
         }, 
         "place": "Talmudic Israel/Babylon", 
         "semantic_place": "Tiberius, Israel", 
@@ -2611,8 +2611,8 @@
     }, 
     {
         "lat_lng": {
-            "lat": 28.5392576, 
-            "lng": 33.9749193
+            "lat": 32.78269795, 
+            "lng": 35.52904995
         }, 
         "place": "Talmudic Israel/Babylon", 
         "semantic_place": "Tiberius, Israel", 
@@ -2621,8 +2621,8 @@
     }, 
     {
         "lat_lng": {
-            "lat": 28.5392576, 
-            "lng": 33.9749193
+            "lat": 32.78269795, 
+            "lng": 35.52904995
         }, 
         "place": "Talmudic Israel/Babylon", 
         "semantic_place": "Tiberius, Israel", 
@@ -2631,8 +2631,8 @@
     }, 
     {
         "lat_lng": {
-            "lat": 28.5392576, 
-            "lng": 33.9749193
+            "lat": 32.78269795, 
+            "lng": 35.52904995
         }, 
         "place": "Talmudic Israel/Babylon", 
         "semantic_place": "Tiberius, Israel", 
@@ -2641,8 +2641,8 @@
     }, 
     {
         "lat_lng": {
-            "lat": 28.5392576, 
-            "lng": 33.9749193
+            "lat": 32.78269795, 
+            "lng": 35.52904995
         }, 
         "place": "Talmudic Israel/Babylon", 
         "semantic_place": "Tiberius, Israel", 
@@ -2651,8 +2651,8 @@
     }, 
     {
         "lat_lng": {
-            "lat": 28.5392576, 
-            "lng": 33.9749193
+            "lat": 32.78269795, 
+            "lng": 35.52904995
         }, 
         "place": "Talmudic Israel/Babylon", 
         "semantic_place": "Tiberius, Israel", 
@@ -2661,8 +2661,8 @@
     }, 
     {
         "lat_lng": {
-            "lat": 28.5392576, 
-            "lng": 33.9749193
+            "lat": 32.78269795, 
+            "lng": 35.52904995
         }, 
         "place": "Talmudic Israel/Babylon", 
         "semantic_place": "Tiberius, Israel", 
@@ -2671,8 +2671,8 @@
     }, 
     {
         "lat_lng": {
-            "lat": 28.5392576, 
-            "lng": 33.9749193
+            "lat": 32.78269795, 
+            "lng": 35.52904995
         }, 
         "place": "Talmudic Israel/Babylon", 
         "semantic_place": "Tiberius, Israel", 
@@ -2701,8 +2701,8 @@
     }, 
     {
         "lat_lng": {
-            "lat": 28.5392576, 
-            "lng": 33.9749193
+            "lat": 33.31168605, 
+            "lng": 44.355905
         }, 
         "place": "Talmudic Babylon/Italy/Israel", 
         "semantic_place": "Baghdad, Iraq", 
@@ -2711,8 +2711,8 @@
     }, 
     {
         "lat_lng": {
-            "lat": 28.5392576, 
-            "lng": 33.9749193
+            "lat": 33.31168605, 
+            "lng": 44.355905
         }, 
         "place": "Talmudic Babylon/Italy/Israel", 
         "semantic_place": "Baghdad, Iraq", 
@@ -2721,8 +2721,8 @@
     }, 
     {
         "lat_lng": {
-            "lat": 28.5392576, 
-            "lng": 33.9749193
+            "lat": 32.78269795, 
+            "lng": 35.52904995
         }, 
         "place": "Talmudic Israel/Babylon", 
         "semantic_place": "Tiberius, Israel", 
@@ -2831,8 +2831,8 @@
     }, 
     {
         "lat_lng": {
-            "lat": 48.8504833, 
-            "lng": 2.3440808
+            "lat": 48.292406400000004, 
+            "lng": 4.0761205
         }, 
         "place": "Middle-Age France", 
         "semantic_place": "Troyes, France", 
@@ -2841,8 +2841,8 @@
     }, 
     {
         "lat_lng": {
-            "lat": 48.8504833, 
-            "lng": 2.3440808
+            "lat": 48.292406400000004, 
+            "lng": 4.0761205
         }, 
         "place": "Middle-Age France", 
         "semantic_place": "Troyes, France", 
@@ -2851,8 +2851,8 @@
     }, 
     {
         "lat_lng": {
-            "lat": 48.8504833, 
-            "lng": 2.3440808
+            "lat": 48.292406400000004, 
+            "lng": 4.0761205
         }, 
         "place": "Middle-Age France", 
         "semantic_place": "Troyes, France", 
@@ -2861,8 +2861,8 @@
     }, 
     {
         "lat_lng": {
-            "lat": 48.8504833, 
-            "lng": 2.3440808
+            "lat": 48.292406400000004, 
+            "lng": 4.0761205
         }, 
         "place": "Middle-Age France", 
         "semantic_place": "Troyes, France", 
@@ -2871,8 +2871,8 @@
     }, 
     {
         "lat_lng": {
-            "lat": 48.8504833, 
-            "lng": 2.3440808
+            "lat": 48.292406400000004, 
+            "lng": 4.0761205
         }, 
         "place": "Middle-Age France", 
         "semantic_place": "Troyes, France", 
@@ -2881,8 +2881,8 @@
     }, 
     {
         "lat_lng": {
-            "lat": 48.8504833, 
-            "lng": 2.3440808
+            "lat": 48.292406400000004, 
+            "lng": 4.0761205
         }, 
         "place": "Middle-Age France", 
         "semantic_place": "Troyes, France", 
@@ -2891,8 +2891,8 @@
     }, 
     {
         "lat_lng": {
-            "lat": 48.8504833, 
-            "lng": 2.3440808
+            "lat": 48.292406400000004, 
+            "lng": 4.0761205
         }, 
         "place": "Middle-Age France", 
         "semantic_place": "Troyes, France", 
@@ -2901,8 +2901,8 @@
     }, 
     {
         "lat_lng": {
-            "lat": 48.8504833, 
-            "lng": 2.3440808
+            "lat": 48.292406400000004, 
+            "lng": 4.0761205
         }, 
         "place": "Middle-Age France", 
         "semantic_place": "Troyes, France", 
@@ -2911,8 +2911,8 @@
     }, 
     {
         "lat_lng": {
-            "lat": 48.8504833, 
-            "lng": 2.3440808
+            "lat": 48.292406400000004, 
+            "lng": 4.0761205
         }, 
         "place": "Middle-Age France", 
         "semantic_place": "Troyes, France", 
@@ -2921,8 +2921,8 @@
     }, 
     {
         "lat_lng": {
-            "lat": 48.8504833, 
-            "lng": 2.3440808
+            "lat": 48.292406400000004, 
+            "lng": 4.0761205
         }, 
         "place": "Middle-Age France", 
         "semantic_place": "Troyes, France", 
@@ -2931,8 +2931,8 @@
     }, 
     {
         "lat_lng": {
-            "lat": 48.8504833, 
-            "lng": 2.3440808
+            "lat": 48.292406400000004, 
+            "lng": 4.0761205
         }, 
         "place": "Middle-Age France", 
         "semantic_place": "Troyes, France", 
@@ -2941,8 +2941,8 @@
     }, 
     {
         "lat_lng": {
-            "lat": 48.8504833, 
-            "lng": 2.3440808
+            "lat": 48.292406400000004, 
+            "lng": 4.0761205
         }, 
         "place": "Middle-Age France", 
         "semantic_place": "Troyes, France", 
@@ -2951,8 +2951,8 @@
     }, 
     {
         "lat_lng": {
-            "lat": 48.8504833, 
-            "lng": 2.3440808
+            "lat": 48.292406400000004, 
+            "lng": 4.0761205
         }, 
         "place": "Middle-Age France", 
         "semantic_place": "Troyes, France", 
@@ -2961,8 +2961,8 @@
     }, 
     {
         "lat_lng": {
-            "lat": 48.8504833, 
-            "lng": 2.3440808
+            "lat": 48.292406400000004, 
+            "lng": 4.0761205
         }, 
         "place": "Middle-Age France", 
         "semantic_place": "Troyes, France", 
@@ -2971,8 +2971,8 @@
     }, 
     {
         "lat_lng": {
-            "lat": 48.8504833, 
-            "lng": 2.3440808
+            "lat": 48.292406400000004, 
+            "lng": 4.0761205
         }, 
         "place": "Middle-Age France", 
         "semantic_place": "Troyes, France", 
@@ -2981,8 +2981,8 @@
     }, 
     {
         "lat_lng": {
-            "lat": 48.8504833, 
-            "lng": 2.3440808
+            "lat": 48.292406400000004, 
+            "lng": 4.0761205
         }, 
         "place": "Middle-Age France", 
         "semantic_place": "Troyes, France", 
@@ -2991,8 +2991,8 @@
     }, 
     {
         "lat_lng": {
-            "lat": 48.8504833, 
-            "lng": 2.3440808
+            "lat": 48.292406400000004, 
+            "lng": 4.0761205
         }, 
         "place": "Middle-Age France", 
         "semantic_place": "Troyes, France", 
@@ -3001,8 +3001,8 @@
     }, 
     {
         "lat_lng": {
-            "lat": 48.8504833, 
-            "lng": 2.3440808
+            "lat": 48.292406400000004, 
+            "lng": 4.0761205
         }, 
         "place": "Middle-Age France", 
         "semantic_place": "Troyes, France", 
@@ -3011,8 +3011,8 @@
     }, 
     {
         "lat_lng": {
-            "lat": 48.8504833, 
-            "lng": 2.3440808
+            "lat": 48.292406400000004, 
+            "lng": 4.0761205
         }, 
         "place": "Middle-Age France", 
         "semantic_place": "Troyes, France", 
@@ -3021,8 +3021,8 @@
     }, 
     {
         "lat_lng": {
-            "lat": 48.8504833, 
-            "lng": 2.3440808
+            "lat": 48.292406400000004, 
+            "lng": 4.0761205
         }, 
         "place": "Middle-Age France", 
         "semantic_place": "Troyes, France", 
@@ -3031,8 +3031,8 @@
     }, 
     {
         "lat_lng": {
-            "lat": 48.8504833, 
-            "lng": 2.3440808
+            "lat": 48.292406400000004, 
+            "lng": 4.0761205
         }, 
         "place": "Middle-Age France", 
         "semantic_place": "Troyes, France", 
@@ -3041,8 +3041,8 @@
     }, 
     {
         "lat_lng": {
-            "lat": 48.8504833, 
-            "lng": 2.3440808
+            "lat": 48.292406400000004, 
+            "lng": 4.0761205
         }, 
         "place": "Middle-Age France", 
         "semantic_place": "Troyes, France", 
@@ -3051,8 +3051,8 @@
     }, 
     {
         "lat_lng": {
-            "lat": 48.8504833, 
-            "lng": 2.3440808
+            "lat": 48.292406400000004, 
+            "lng": 4.0761205
         }, 
         "place": "Middle-Age France", 
         "semantic_place": "Troyes, France", 
@@ -3061,8 +3061,8 @@
     }, 
     {
         "lat_lng": {
-            "lat": 48.8504833, 
-            "lng": 2.3440808
+            "lat": 48.292406400000004, 
+            "lng": 4.0761205
         }, 
         "place": "Middle-Age France", 
         "semantic_place": "Troyes, France", 
@@ -3071,8 +3071,8 @@
     }, 
     {
         "lat_lng": {
-            "lat": 48.8504833, 
-            "lng": 2.3440808
+            "lat": 48.292406400000004, 
+            "lng": 4.0761205
         }, 
         "place": "Middle-Age France", 
         "semantic_place": "Troyes, France", 
@@ -3081,8 +3081,8 @@
     }, 
     {
         "lat_lng": {
-            "lat": 48.8504833, 
-            "lng": 2.3440808
+            "lat": 48.292406400000004, 
+            "lng": 4.0761205
         }, 
         "place": "Middle-Age France", 
         "semantic_place": "Troyes, France", 
@@ -3091,8 +3091,8 @@
     }, 
     {
         "lat_lng": {
-            "lat": 48.8504833, 
-            "lng": 2.3440808
+            "lat": 48.292406400000004, 
+            "lng": 4.0761205
         }, 
         "place": "Middle-Age France", 
         "semantic_place": "Troyes, France", 
@@ -3101,8 +3101,8 @@
     }, 
     {
         "lat_lng": {
-            "lat": 48.8504833, 
-            "lng": 2.3440808
+            "lat": 48.292406400000004, 
+            "lng": 4.0761205
         }, 
         "place": "Middle-Age France", 
         "semantic_place": "Troyes, France", 
@@ -3111,8 +3111,8 @@
     }, 
     {
         "lat_lng": {
-            "lat": 48.8504833, 
-            "lng": 2.3440808
+            "lat": 48.292406400000004, 
+            "lng": 4.0761205
         }, 
         "place": "Middle-Age France", 
         "semantic_place": "Troyes, France", 
@@ -3121,8 +3121,8 @@
     }, 
     {
         "lat_lng": {
-            "lat": 48.8504833, 
-            "lng": 2.3440808
+            "lat": 48.292406400000004, 
+            "lng": 4.0761205
         }, 
         "place": "Middle-Age France", 
         "semantic_place": "Troyes, France", 
@@ -3131,8 +3131,8 @@
     }, 
     {
         "lat_lng": {
-            "lat": 48.8504833, 
-            "lng": 2.3440808
+            "lat": 48.292406400000004, 
+            "lng": 4.0761205
         }, 
         "place": "Middle-Age France", 
         "semantic_place": "Troyes, France", 
@@ -3141,8 +3141,8 @@
     }, 
     {
         "lat_lng": {
-            "lat": 48.8504833, 
-            "lng": 2.3440808
+            "lat": 48.292406400000004, 
+            "lng": 4.0761205
         }, 
         "place": "Middle-Age France", 
         "semantic_place": "Troyes, France", 
@@ -3151,8 +3151,8 @@
     }, 
     {
         "lat_lng": {
-            "lat": 48.8504833, 
-            "lng": 2.3440808
+            "lat": 48.292406400000004, 
+            "lng": 4.0761205
         }, 
         "place": "Middle-Age France", 
         "semantic_place": "Troyes, France", 
@@ -3161,8 +3161,8 @@
     }, 
     {
         "lat_lng": {
-            "lat": 48.8504833, 
-            "lng": 2.3440808
+            "lat": 48.292406400000004, 
+            "lng": 4.0761205
         }, 
         "place": "Middle-Age France", 
         "semantic_place": "Troyes, France", 
@@ -3171,8 +3171,8 @@
     }, 
     {
         "lat_lng": {
-            "lat": 48.8504833, 
-            "lng": 2.3440808
+            "lat": 48.292406400000004, 
+            "lng": 4.0761205
         }, 
         "place": "Middle-Age France", 
         "semantic_place": "Troyes, France", 
@@ -3181,8 +3181,8 @@
     }, 
     {
         "lat_lng": {
-            "lat": 48.8504833, 
-            "lng": 2.3440808
+            "lat": 48.292406400000004, 
+            "lng": 4.0761205
         }, 
         "place": "Middle-Age France", 
         "semantic_place": "Troyes, France", 
@@ -3191,8 +3191,8 @@
     }, 
     {
         "lat_lng": {
-            "lat": 48.8504833, 
-            "lng": 2.3440808
+            "lat": 48.292406400000004, 
+            "lng": 4.0761205
         }, 
         "place": "Middle-Age France", 
         "semantic_place": "Troyes, France", 
@@ -3201,8 +3201,8 @@
     }, 
     {
         "lat_lng": {
-            "lat": 48.8504833, 
-            "lng": 2.3440808
+            "lat": 48.292406400000004, 
+            "lng": 4.0761205
         }, 
         "place": "Middle-Age France", 
         "semantic_place": "Troyes, France", 
@@ -3211,8 +3211,8 @@
     }, 
     {
         "lat_lng": {
-            "lat": 48.8504833, 
-            "lng": 2.3440808
+            "lat": 48.292406400000004, 
+            "lng": 4.0761205
         }, 
         "place": "Middle-Age France", 
         "semantic_place": "Troyes, France", 
@@ -3221,8 +3221,8 @@
     }, 
     {
         "lat_lng": {
-            "lat": 48.8504833, 
-            "lng": 2.3440808
+            "lat": 48.292406400000004, 
+            "lng": 4.0761205
         }, 
         "place": "Middle-Age France", 
         "semantic_place": "Troyes, France", 
@@ -3231,8 +3231,8 @@
     }, 
     {
         "lat_lng": {
-            "lat": 48.8504833, 
-            "lng": 2.3440808
+            "lat": 48.292406400000004, 
+            "lng": 4.0761205
         }, 
         "place": "Middle-Age France", 
         "semantic_place": "Troyes, France", 
@@ -3241,8 +3241,8 @@
     }, 
     {
         "lat_lng": {
-            "lat": 48.8504833, 
-            "lng": 2.3440808
+            "lat": 48.292406400000004, 
+            "lng": 4.0761205
         }, 
         "place": "Middle-Age France", 
         "semantic_place": "Troyes, France", 
@@ -3251,8 +3251,8 @@
     }, 
     {
         "lat_lng": {
-            "lat": 48.8504833, 
-            "lng": 2.3440808
+            "lat": 48.292406400000004, 
+            "lng": 4.0761205
         }, 
         "place": "Middle-Age France", 
         "semantic_place": "Troyes, France", 
@@ -3261,8 +3261,8 @@
     }, 
     {
         "lat_lng": {
-            "lat": 48.8504833, 
-            "lng": 2.3440808
+            "lat": 48.292406400000004, 
+            "lng": 4.0761205
         }, 
         "place": "Middle-Age France", 
         "semantic_place": "Troyes, France", 
@@ -3271,8 +3271,8 @@
     }, 
     {
         "lat_lng": {
-            "lat": 48.8504833, 
-            "lng": 2.3440808
+            "lat": 48.292406400000004, 
+            "lng": 4.0761205
         }, 
         "place": "Middle-Age France", 
         "semantic_place": "Troyes, France", 
@@ -3281,8 +3281,8 @@
     }, 
     {
         "lat_lng": {
-            "lat": 48.8504833, 
-            "lng": 2.3440808
+            "lat": 48.292406400000004, 
+            "lng": 4.0761205
         }, 
         "place": "Middle-Age France", 
         "semantic_place": "Troyes, France", 
@@ -3291,8 +3291,8 @@
     }, 
     {
         "lat_lng": {
-            "lat": 48.8504833, 
-            "lng": 2.3440808
+            "lat": 48.292406400000004, 
+            "lng": 4.0761205
         }, 
         "place": "Middle-Age France", 
         "semantic_place": "Troyes, France", 
@@ -3301,8 +3301,8 @@
     }, 
     {
         "lat_lng": {
-            "lat": 48.8504833, 
-            "lng": 2.3440808
+            "lat": 48.292406400000004, 
+            "lng": 4.0761205
         }, 
         "place": "Middle-Age France", 
         "semantic_place": "Troyes, France", 
@@ -3311,8 +3311,8 @@
     }, 
     {
         "lat_lng": {
-            "lat": 48.8504833, 
-            "lng": 2.3440808
+            "lat": 48.292406400000004, 
+            "lng": 4.0761205
         }, 
         "place": "Middle-Age France", 
         "semantic_place": "Troyes, France", 
@@ -3321,8 +3321,8 @@
     }, 
     {
         "lat_lng": {
-            "lat": 48.8504833, 
-            "lng": 2.3440808
+            "lat": 48.292406400000004, 
+            "lng": 4.0761205
         }, 
         "place": "Middle-Age France", 
         "semantic_place": "Troyes, France", 
@@ -3331,8 +3331,8 @@
     }, 
     {
         "lat_lng": {
-            "lat": 48.8504833, 
-            "lng": 2.3440808
+            "lat": 48.292406400000004, 
+            "lng": 4.0761205
         }, 
         "place": "Middle-Age France", 
         "semantic_place": "Troyes, France", 
@@ -3341,8 +3341,8 @@
     }, 
     {
         "lat_lng": {
-            "lat": 48.8504833, 
-            "lng": 2.3440808
+            "lat": 48.292406400000004, 
+            "lng": 4.0761205
         }, 
         "place": "Middle-Age France", 
         "semantic_place": "Troyes, France", 
@@ -3351,8 +3351,8 @@
     }, 
     {
         "lat_lng": {
-            "lat": 48.8504833, 
-            "lng": 2.3440808
+            "lat": 48.292406400000004, 
+            "lng": 4.0761205
         }, 
         "place": "Middle-Age France", 
         "semantic_place": "Troyes, France", 
@@ -3361,8 +3361,8 @@
     }, 
     {
         "lat_lng": {
-            "lat": 48.8504833, 
-            "lng": 2.3440808
+            "lat": 48.292406400000004, 
+            "lng": 4.0761205
         }, 
         "place": "Middle-Age France", 
         "semantic_place": "Troyes, France", 
@@ -3371,8 +3371,8 @@
     }, 
     {
         "lat_lng": {
-            "lat": 48.8504833, 
-            "lng": 2.3440808
+            "lat": 48.292406400000004, 
+            "lng": 4.0761205
         }, 
         "place": "Middle-Age France", 
         "semantic_place": "Troyes, France", 
@@ -3381,8 +3381,8 @@
     }, 
     {
         "lat_lng": {
-            "lat": 48.8504833, 
-            "lng": 2.3440808
+            "lat": 48.292406400000004, 
+            "lng": 4.0761205
         }, 
         "place": "Middle-Age France", 
         "semantic_place": "Troyes, France", 
@@ -3391,8 +3391,8 @@
     }, 
     {
         "lat_lng": {
-            "lat": 48.8504833, 
-            "lng": 2.3440808
+            "lat": 48.292406400000004, 
+            "lng": 4.0761205
         }, 
         "place": "Middle-Age France", 
         "semantic_place": "Troyes, France", 
@@ -3401,8 +3401,8 @@
     }, 
     {
         "lat_lng": {
-            "lat": 48.8504833, 
-            "lng": 2.3440808
+            "lat": 48.292406400000004, 
+            "lng": 4.0761205
         }, 
         "place": "Middle-Age France", 
         "semantic_place": "Troyes, France", 
@@ -3411,8 +3411,8 @@
     }, 
     {
         "lat_lng": {
-            "lat": 48.8504833, 
-            "lng": 2.3440808
+            "lat": 48.292406400000004, 
+            "lng": 4.0761205
         }, 
         "place": "Middle-Age France", 
         "semantic_place": "Troyes, France", 
@@ -3421,8 +3421,8 @@
     }, 
     {
         "lat_lng": {
-            "lat": 48.8504833, 
-            "lng": 2.3440808
+            "lat": 48.292406400000004, 
+            "lng": 4.0761205
         }, 
         "place": "Middle-Age France", 
         "semantic_place": "Troyes, France", 
@@ -3431,8 +3431,8 @@
     }, 
     {
         "lat_lng": {
-            "lat": 48.8504833, 
-            "lng": 2.3440808
+            "lat": 48.292406400000004, 
+            "lng": 4.0761205
         }, 
         "place": "Middle-Age France", 
         "semantic_place": "Troyes, France", 
@@ -3441,8 +3441,8 @@
     }, 
     {
         "lat_lng": {
-            "lat": 48.8504833, 
-            "lng": 2.3440808
+            "lat": 48.292406400000004, 
+            "lng": 4.0761205
         }, 
         "place": "Middle-Age France", 
         "semantic_place": "Troyes, France", 
@@ -3451,8 +3451,8 @@
     }, 
     {
         "lat_lng": {
-            "lat": 48.8504833, 
-            "lng": 2.3440808
+            "lat": 48.292406400000004, 
+            "lng": 4.0761205
         }, 
         "place": "Middle-Age France", 
         "semantic_place": "Troyes, France", 
@@ -3461,8 +3461,8 @@
     }, 
     {
         "lat_lng": {
-            "lat": 48.8504833, 
-            "lng": 2.3440808
+            "lat": 48.292406400000004, 
+            "lng": 4.0761205
         }, 
         "place": "Middle-Age France", 
         "semantic_place": "Troyes, France", 
@@ -3471,8 +3471,8 @@
     }, 
     {
         "lat_lng": {
-            "lat": 48.8504833, 
-            "lng": 2.3440808
+            "lat": 48.292406400000004, 
+            "lng": 4.0761205
         }, 
         "place": "Middle-Age France", 
         "semantic_place": "Troyes, France", 
@@ -3481,8 +3481,8 @@
     }, 
     {
         "lat_lng": {
-            "lat": 48.8504833, 
-            "lng": 2.3440808
+            "lat": 48.292406400000004, 
+            "lng": 4.0761205
         }, 
         "place": "Middle-Age France", 
         "semantic_place": "Troyes, France", 
@@ -3491,8 +3491,8 @@
     }, 
     {
         "lat_lng": {
-            "lat": 48.8504833, 
-            "lng": 2.3440808
+            "lat": 48.292406400000004, 
+            "lng": 4.0761205
         }, 
         "place": "Middle-Age France", 
         "semantic_place": "Troyes, France", 
@@ -3501,8 +3501,8 @@
     }, 
     {
         "lat_lng": {
-            "lat": 48.8504833, 
-            "lng": 2.3440808
+            "lat": 48.292406400000004, 
+            "lng": 4.0761205
         }, 
         "place": "Middle-Age France", 
         "semantic_place": "Troyes, France", 
@@ -3511,8 +3511,8 @@
     }, 
     {
         "lat_lng": {
-            "lat": 48.8504833, 
-            "lng": 2.3440808
+            "lat": 48.292406400000004, 
+            "lng": 4.0761205
         }, 
         "place": "Middle-Age France", 
         "semantic_place": "Troyes, France", 
@@ -3521,8 +3521,8 @@
     }, 
     {
         "lat_lng": {
-            "lat": 48.8504833, 
-            "lng": 2.3440808
+            "lat": 48.292406400000004, 
+            "lng": 4.0761205
         }, 
         "place": "Middle-Age France", 
         "semantic_place": "Troyes, France", 
@@ -3531,8 +3531,8 @@
     }, 
     {
         "lat_lng": {
-            "lat": 48.8504833, 
-            "lng": 2.3440808
+            "lat": 48.292406400000004, 
+            "lng": 4.0761205
         }, 
         "place": "Middle-Age France", 
         "semantic_place": "Troyes, France", 
@@ -3541,8 +3541,8 @@
     }, 
     {
         "lat_lng": {
-            "lat": 48.8504833, 
-            "lng": 2.3440808
+            "lat": 48.292406400000004, 
+            "lng": 4.0761205
         }, 
         "place": "Middle-Age France", 
         "semantic_place": "Troyes, France", 
@@ -3551,8 +3551,8 @@
     }, 
     {
         "lat_lng": {
-            "lat": 48.8504833, 
-            "lng": 2.3440808
+            "lat": 48.292406400000004, 
+            "lng": 4.0761205
         }, 
         "place": "Middle-Age France", 
         "semantic_place": "Troyes, France", 
@@ -3561,8 +3561,8 @@
     }, 
     {
         "lat_lng": {
-            "lat": 48.8504833, 
-            "lng": 2.3440808
+            "lat": 48.292406400000004, 
+            "lng": 4.0761205
         }, 
         "place": "Middle-Age France", 
         "semantic_place": "Troyes, France", 
@@ -3571,8 +3571,8 @@
     }, 
     {
         "lat_lng": {
-            "lat": 48.8504833, 
-            "lng": 2.3440808
+            "lat": 48.292406400000004, 
+            "lng": 4.0761205
         }, 
         "place": "Middle-Age France", 
         "semantic_place": "Troyes, France", 
@@ -3661,8 +3661,8 @@
     }, 
     {
         "lat_lng": {
-            "lat": 48.8504833, 
-            "lng": 2.3440808
+            "lat": 48.292406400000004, 
+            "lng": 4.0761205
         }, 
         "place": "Middle-Age France", 
         "semantic_place": "Troyes, France", 
@@ -3671,8 +3671,8 @@
     }, 
     {
         "lat_lng": {
-            "lat": 48.8504833, 
-            "lng": 2.3440808
+            "lat": 48.292406400000004, 
+            "lng": 4.0761205
         }, 
         "place": "Middle-Age France", 
         "semantic_place": "Troyes, France", 
@@ -3681,8 +3681,8 @@
     }, 
     {
         "lat_lng": {
-            "lat": 48.8504833, 
-            "lng": 2.3440808
+            "lat": 48.292406400000004, 
+            "lng": 4.0761205
         }, 
         "place": "Middle-Age France", 
         "semantic_place": "Troyes, France", 
@@ -3691,8 +3691,8 @@
     }, 
     {
         "lat_lng": {
-            "lat": 48.8504833, 
-            "lng": 2.3440808
+            "lat": 48.292406400000004, 
+            "lng": 4.0761205
         }, 
         "place": "Middle-Age France", 
         "semantic_place": "Troyes, France", 
@@ -3701,8 +3701,8 @@
     }, 
     {
         "lat_lng": {
-            "lat": 48.8504833, 
-            "lng": 2.3440808
+            "lat": 48.292406400000004, 
+            "lng": 4.0761205
         }, 
         "place": "Middle-Age France", 
         "semantic_place": "Troyes, France", 
@@ -3711,8 +3711,8 @@
     }, 
     {
         "lat_lng": {
-            "lat": 48.8504833, 
-            "lng": 2.3440808
+            "lat": 48.292406400000004, 
+            "lng": 4.0761205
         }, 
         "place": "Middle-Age France", 
         "semantic_place": "Troyes, France", 
@@ -3721,8 +3721,8 @@
     }, 
     {
         "lat_lng": {
-            "lat": 48.8504833, 
-            "lng": 2.3440808
+            "lat": 48.292406400000004, 
+            "lng": 4.0761205
         }, 
         "place": "Middle-Age France", 
         "semantic_place": "Troyes, France", 
@@ -3731,8 +3731,8 @@
     }, 
     {
         "lat_lng": {
-            "lat": 48.8504833, 
-            "lng": 2.3440808
+            "lat": 48.292406400000004, 
+            "lng": 4.0761205
         }, 
         "place": "Middle-Age France", 
         "semantic_place": "Troyes, France", 
@@ -3771,8 +3771,8 @@
     }, 
     {
         "lat_lng": {
-            "lat": 52.838200449999995, 
-            "lng": -2.32781495
+            "lat": 48.292406400000004, 
+            "lng": 4.0761205
         }, 
         "place": "Middle-Age France/Italy/England", 
         "semantic_place": "Troyes, France", 
@@ -3781,8 +3781,8 @@
     }, 
     {
         "lat_lng": {
-            "lat": 52.838200449999995, 
-            "lng": -2.32781495
+            "lat": 48.292406400000004, 
+            "lng": 4.0761205
         }, 
         "place": "Middle-Age France/Italy/England", 
         "semantic_place": "Troyes, France", 
@@ -3791,8 +3791,8 @@
     }, 
     {
         "lat_lng": {
-            "lat": 52.838200449999995, 
-            "lng": -2.32781495
+            "lat": 48.292406400000004, 
+            "lng": 4.0761205
         }, 
         "place": "Middle-Age France/Italy/England", 
         "semantic_place": "Troyes, France", 
@@ -3801,8 +3801,8 @@
     }, 
     {
         "lat_lng": {
-            "lat": 52.838200449999995, 
-            "lng": -2.32781495
+            "lat": 48.292406400000004, 
+            "lng": 4.0761205
         }, 
         "place": "Middle-Age France/Italy/England", 
         "semantic_place": "Troyes, France", 
@@ -3811,8 +3811,8 @@
     }, 
     {
         "lat_lng": {
-            "lat": 52.838200449999995, 
-            "lng": -2.32781495
+            "lat": 48.292406400000004, 
+            "lng": 4.0761205
         }, 
         "place": "Middle-Age France/Italy/England", 
         "semantic_place": "Troyes, France", 
@@ -3821,8 +3821,8 @@
     }, 
     {
         "lat_lng": {
-            "lat": 52.838200449999995, 
-            "lng": -2.32781495
+            "lat": 48.292406400000004, 
+            "lng": 4.0761205
         }, 
         "place": "Middle-Age France/Italy/England", 
         "semantic_place": "Troyes, France", 
@@ -3831,8 +3831,8 @@
     }, 
     {
         "lat_lng": {
-            "lat": 52.838200449999995, 
-            "lng": -2.32781495
+            "lat": 48.292406400000004, 
+            "lng": 4.0761205
         }, 
         "place": "Middle-Age France/Italy/England", 
         "semantic_place": "Troyes, France", 
@@ -3841,8 +3841,8 @@
     }, 
     {
         "lat_lng": {
-            "lat": 52.838200449999995, 
-            "lng": -2.32781495
+            "lat": 48.292406400000004, 
+            "lng": 4.0761205
         }, 
         "place": "Middle-Age France/Italy/England", 
         "semantic_place": "Troyes, France", 
@@ -3851,8 +3851,8 @@
     }, 
     {
         "lat_lng": {
-            "lat": 52.838200449999995, 
-            "lng": -2.32781495
+            "lat": 48.292406400000004, 
+            "lng": 4.0761205
         }, 
         "place": "Middle-Age France/Italy/England", 
         "semantic_place": "Troyes, France", 
@@ -3861,8 +3861,8 @@
     }, 
     {
         "lat_lng": {
-            "lat": 52.838200449999995, 
-            "lng": -2.32781495
+            "lat": 48.292406400000004, 
+            "lng": 4.0761205
         }, 
         "place": "Middle-Age France/Italy/England", 
         "semantic_place": "Troyes, France", 
@@ -3881,8 +3881,8 @@
     }, 
     {
         "lat_lng": {
-            "lat": 52.838200449999995, 
-            "lng": -2.32781495
+            "lat": 48.292406400000004, 
+            "lng": 4.0761205
         }, 
         "place": "Middle-Age France/Italy/England", 
         "semantic_place": "Troyes, France", 
@@ -3891,8 +3891,8 @@
     }, 
     {
         "lat_lng": {
-            "lat": 52.838200449999995, 
-            "lng": -2.32781495
+            "lat": 48.292406400000004, 
+            "lng": 4.0761205
         }, 
         "place": "Middle-Age France/Italy/England", 
         "semantic_place": "Troyes, France", 
@@ -3901,8 +3901,8 @@
     }, 
     {
         "lat_lng": {
-            "lat": 52.838200449999995, 
-            "lng": -2.32781495
+            "lat": 48.292406400000004, 
+            "lng": 4.0761205
         }, 
         "place": "Middle-Age France/Italy/England", 
         "semantic_place": "Troyes, France", 
@@ -3911,8 +3911,8 @@
     }, 
     {
         "lat_lng": {
-            "lat": 52.838200449999995, 
-            "lng": -2.32781495
+            "lat": 48.292406400000004, 
+            "lng": 4.0761205
         }, 
         "place": "Middle-Age France/Italy/England", 
         "semantic_place": "Troyes, France", 
@@ -3921,8 +3921,8 @@
     }, 
     {
         "lat_lng": {
-            "lat": 52.838200449999995, 
-            "lng": -2.32781495
+            "lat": 48.292406400000004, 
+            "lng": 4.0761205
         }, 
         "place": "Middle-Age France/Italy/England", 
         "semantic_place": "Troyes, France", 
@@ -3931,8 +3931,8 @@
     }, 
     {
         "lat_lng": {
-            "lat": 52.838200449999995, 
-            "lng": -2.32781495
+            "lat": 48.292406400000004, 
+            "lng": 4.0761205
         }, 
         "place": "Middle-Age France/Italy/England", 
         "semantic_place": "Troyes, France", 
@@ -3941,8 +3941,8 @@
     }, 
     {
         "lat_lng": {
-            "lat": 52.838200449999995, 
-            "lng": -2.32781495
+            "lat": 48.292406400000004, 
+            "lng": 4.0761205
         }, 
         "place": "Middle-Age France/Italy/England", 
         "semantic_place": "Troyes, France", 
@@ -3951,8 +3951,8 @@
     }, 
     {
         "lat_lng": {
-            "lat": 52.838200449999995, 
-            "lng": -2.32781495
+            "lat": 48.292406400000004, 
+            "lng": 4.0761205
         }, 
         "place": "Middle-Age France/Italy/England", 
         "semantic_place": "Troyes, France", 
@@ -3961,8 +3961,8 @@
     }, 
     {
         "lat_lng": {
-            "lat": 52.838200449999995, 
-            "lng": -2.32781495
+            "lat": 48.292406400000004, 
+            "lng": 4.0761205
         }, 
         "place": "Middle-Age France/Italy/England", 
         "semantic_place": "Troyes, France", 
@@ -3971,8 +3971,8 @@
     }, 
     {
         "lat_lng": {
-            "lat": 52.838200449999995, 
-            "lng": -2.32781495
+            "lat": 48.292406400000004, 
+            "lng": 4.0761205
         }, 
         "place": "Middle-Age France/Italy/England", 
         "semantic_place": "Troyes, France", 
@@ -3981,8 +3981,8 @@
     }, 
     {
         "lat_lng": {
-            "lat": 52.838200449999995, 
-            "lng": -2.32781495
+            "lat": 48.292406400000004, 
+            "lng": 4.0761205
         }, 
         "place": "Middle-Age France/Italy/England", 
         "semantic_place": "Troyes, France", 
@@ -3991,8 +3991,8 @@
     }, 
     {
         "lat_lng": {
-            "lat": 52.838200449999995, 
-            "lng": -2.32781495
+            "lat": 48.292406400000004, 
+            "lng": 4.0761205
         }, 
         "place": "Middle-Age France/Italy/England", 
         "semantic_place": "Troyes, France", 
@@ -4001,8 +4001,8 @@
     }, 
     {
         "lat_lng": {
-            "lat": 52.838200449999995, 
-            "lng": -2.32781495
+            "lat": 48.292406400000004, 
+            "lng": 4.0761205
         }, 
         "place": "Middle-Age France/Italy/England", 
         "semantic_place": "Troyes, France", 
@@ -4011,8 +4011,8 @@
     }, 
     {
         "lat_lng": {
-            "lat": 52.838200449999995, 
-            "lng": -2.32781495
+            "lat": 48.292406400000004, 
+            "lng": 4.0761205
         }, 
         "place": "Middle-Age France/Italy/England", 
         "semantic_place": "Troyes, France", 
@@ -4021,8 +4021,8 @@
     }, 
     {
         "lat_lng": {
-            "lat": 52.838200449999995, 
-            "lng": -2.32781495
+            "lat": 48.292406400000004, 
+            "lng": 4.0761205
         }, 
         "place": "Middle-Age France/Italy/England", 
         "semantic_place": "Troyes, France", 
@@ -4031,8 +4031,8 @@
     }, 
     {
         "lat_lng": {
-            "lat": 28.5392576, 
-            "lng": 33.9749193
+            "lat": 30.05948845, 
+            "lng": 31.258464349999997
         }, 
         "place": "Middle-Age Egypt", 
         "semantic_place": "Cairo, gypt", 
@@ -4041,8 +4041,8 @@
     }, 
     {
         "lat_lng": {
-            "lat": 30.0539374, 
-            "lng": 31.1987498
+            "lat": 40.4308314, 
+            "lng": -3.6839206
         }, 
         "place": "Spain / Egypt", 
         "semantic_place": "Spain / Egypt", 
@@ -4051,8 +4051,8 @@
     }, 
     {
         "lat_lng": {
-            "lat": 28.5392576, 
-            "lng": 33.9749193
+            "lat": 30.05948845, 
+            "lng": 31.258464349999997
         }, 
         "place": "Middle-Age Egypt", 
         "semantic_place": "Cairo, gypt", 
@@ -4061,8 +4061,8 @@
     }, 
     {
         "lat_lng": {
-            "lat": 28.5392576, 
-            "lng": 33.9749193
+            "lat": 30.05948845, 
+            "lng": 31.258464349999997
         }, 
         "place": "Middle-Age Egypt", 
         "semantic_place": "Cairo, gypt", 
@@ -4071,8 +4071,8 @@
     }, 
     {
         "lat_lng": {
-            "lat": 28.5392576, 
-            "lng": 33.9749193
+            "lat": 30.05948845, 
+            "lng": 31.258464349999997
         }, 
         "place": "Middle-Age Egypt", 
         "semantic_place": "Cairo, gypt", 
@@ -4081,8 +4081,8 @@
     }, 
     {
         "lat_lng": {
-            "lat": 28.5392576, 
-            "lng": 33.9749193
+            "lat": 30.05948845, 
+            "lng": 31.258464349999997
         }, 
         "place": "Middle-Age Egypt", 
         "semantic_place": "Cairo, gypt", 
@@ -4091,8 +4091,8 @@
     }, 
     {
         "lat_lng": {
-            "lat": 28.5392576, 
-            "lng": 33.9749193
+            "lat": 30.05948845, 
+            "lng": 31.258464349999997
         }, 
         "place": "Middle-Age Egypt", 
         "semantic_place": "Cairo, gypt", 
@@ -4101,8 +4101,8 @@
     }, 
     {
         "lat_lng": {
-            "lat": 28.5392576, 
-            "lng": 33.9749193
+            "lat": 30.05948845, 
+            "lng": 31.258464349999997
         }, 
         "place": "Middle-Age Egypt", 
         "semantic_place": "Cairo, gypt", 
@@ -4111,8 +4111,8 @@
     }, 
     {
         "lat_lng": {
-            "lat": 28.5392576, 
-            "lng": 33.9749193
+            "lat": 30.05948845, 
+            "lng": 31.258464349999997
         }, 
         "place": "Middle-Age Egypt", 
         "semantic_place": "Cairo, gypt", 
@@ -4121,8 +4121,8 @@
     }, 
     {
         "lat_lng": {
-            "lat": 28.5392576, 
-            "lng": 33.9749193
+            "lat": 30.05948845, 
+            "lng": 31.258464349999997
         }, 
         "place": "Middle-Age Egypt", 
         "semantic_place": "Cairo, gypt", 
@@ -4131,8 +4131,8 @@
     }, 
     {
         "lat_lng": {
-            "lat": 28.5392576, 
-            "lng": 33.9749193
+            "lat": 30.05948845, 
+            "lng": 31.258464349999997
         }, 
         "place": "Middle-Age Egypt", 
         "semantic_place": "Cairo, gypt", 
@@ -4141,8 +4141,8 @@
     }, 
     {
         "lat_lng": {
-            "lat": 28.5392576, 
-            "lng": 33.9749193
+            "lat": 30.05948845, 
+            "lng": 31.258464349999997
         }, 
         "place": "Middle-Age Egypt", 
         "semantic_place": "Cairo, gypt", 
@@ -4151,8 +4151,8 @@
     }, 
     {
         "lat_lng": {
-            "lat": 28.5392576, 
-            "lng": 33.9749193
+            "lat": 30.05948845, 
+            "lng": 31.258464349999997
         }, 
         "place": "Middle-Age Egypt", 
         "semantic_place": "Cairo, gypt", 
@@ -4161,8 +4161,8 @@
     }, 
     {
         "lat_lng": {
-            "lat": 28.5392576, 
-            "lng": 33.9749193
+            "lat": 30.05948845, 
+            "lng": 31.258464349999997
         }, 
         "place": "Middle-Age Egypt", 
         "semantic_place": "Cairo, gypt", 
@@ -4171,8 +4171,8 @@
     }, 
     {
         "lat_lng": {
-            "lat": 28.5392576, 
-            "lng": 33.9749193
+            "lat": 30.05948845, 
+            "lng": 31.258464349999997
         }, 
         "place": "Middle-Age Egypt", 
         "semantic_place": "Cairo, gypt", 
@@ -4181,8 +4181,8 @@
     }, 
     {
         "lat_lng": {
-            "lat": 28.5392576, 
-            "lng": 33.9749193
+            "lat": 30.05948845, 
+            "lng": 31.258464349999997
         }, 
         "place": "Middle-Age Egypt", 
         "semantic_place": "Cairo, gypt", 
@@ -4191,8 +4191,8 @@
     }, 
     {
         "lat_lng": {
-            "lat": 28.5392576, 
-            "lng": 33.9749193
+            "lat": 30.05948845, 
+            "lng": 31.258464349999997
         }, 
         "place": "Middle-Age Egypt", 
         "semantic_place": "Cairo, gypt", 
@@ -4201,8 +4201,8 @@
     }, 
     {
         "lat_lng": {
-            "lat": 28.5392576, 
-            "lng": 33.9749193
+            "lat": 30.05948845, 
+            "lng": 31.258464349999997
         }, 
         "place": "Middle-Age Egypt", 
         "semantic_place": "Cairo, gypt", 
@@ -4211,8 +4211,8 @@
     }, 
     {
         "lat_lng": {
-            "lat": 28.5392576, 
-            "lng": 33.9749193
+            "lat": 30.05948845, 
+            "lng": 31.258464349999997
         }, 
         "place": "Middle-Age Egypt", 
         "semantic_place": "Cairo, gypt", 
@@ -4221,8 +4221,8 @@
     }, 
     {
         "lat_lng": {
-            "lat": 28.5392576, 
-            "lng": 33.9749193
+            "lat": 30.05948845, 
+            "lng": 31.258464349999997
         }, 
         "place": "Middle-Age Egypt", 
         "semantic_place": "Cairo, gypt", 
@@ -4231,8 +4231,8 @@
     }, 
     {
         "lat_lng": {
-            "lat": 28.5392576, 
-            "lng": 33.9749193
+            "lat": 30.05948845, 
+            "lng": 31.258464349999997
         }, 
         "place": "Middle-Age Egypt", 
         "semantic_place": "Cairo, gypt", 
@@ -4241,8 +4241,8 @@
     }, 
     {
         "lat_lng": {
-            "lat": 28.5392576, 
-            "lng": 33.9749193
+            "lat": 30.05948845, 
+            "lng": 31.258464349999997
         }, 
         "place": "Middle-Age Egypt", 
         "semantic_place": "Cairo, gypt", 
@@ -4251,8 +4251,8 @@
     }, 
     {
         "lat_lng": {
-            "lat": 28.5392576, 
-            "lng": 33.9749193
+            "lat": 30.05948845, 
+            "lng": 31.258464349999997
         }, 
         "place": "Middle-Age Egypt", 
         "semantic_place": "Cairo, gypt", 
@@ -4261,8 +4261,8 @@
     }, 
     {
         "lat_lng": {
-            "lat": 28.5392576, 
-            "lng": 33.9749193
+            "lat": 30.05948845, 
+            "lng": 31.258464349999997
         }, 
         "place": "Middle-Age Egypt", 
         "semantic_place": "Cairo, gypt", 
@@ -4271,8 +4271,8 @@
     }, 
     {
         "lat_lng": {
-            "lat": 28.5392576, 
-            "lng": 33.9749193
+            "lat": 30.05948845, 
+            "lng": 31.258464349999997
         }, 
         "place": "Middle-Age Egypt", 
         "semantic_place": "Cairo, gypt", 
@@ -4281,8 +4281,8 @@
     }, 
     {
         "lat_lng": {
-            "lat": 28.5392576, 
-            "lng": 33.9749193
+            "lat": 30.05948845, 
+            "lng": 31.258464349999997
         }, 
         "place": "Middle-Age Egypt", 
         "semantic_place": "Cairo, gypt", 
@@ -4291,8 +4291,8 @@
     }, 
     {
         "lat_lng": {
-            "lat": 28.5392576, 
-            "lng": 33.9749193
+            "lat": 30.05948845, 
+            "lng": 31.258464349999997
         }, 
         "place": "Middle-Age Egypt", 
         "semantic_place": "Cairo, gypt", 
@@ -4301,8 +4301,8 @@
     }, 
     {
         "lat_lng": {
-            "lat": 28.5392576, 
-            "lng": 33.9749193
+            "lat": 30.05948845, 
+            "lng": 31.258464349999997
         }, 
         "place": "Middle-Age Egypt", 
         "semantic_place": "Cairo, gypt", 
@@ -4311,8 +4311,8 @@
     }, 
     {
         "lat_lng": {
-            "lat": 28.5392576, 
-            "lng": 33.9749193
+            "lat": 30.05948845, 
+            "lng": 31.258464349999997
         }, 
         "place": "Middle-Age Egypt", 
         "semantic_place": "Cairo, gypt", 
@@ -4321,8 +4321,8 @@
     }, 
     {
         "lat_lng": {
-            "lat": 28.5392576, 
-            "lng": 33.9749193
+            "lat": 30.05948845, 
+            "lng": 31.258464349999997
         }, 
         "place": "Middle-Age Egypt", 
         "semantic_place": "Cairo, gypt", 
@@ -4331,8 +4331,8 @@
     }, 
     {
         "lat_lng": {
-            "lat": 28.5392576, 
-            "lng": 33.9749193
+            "lat": 30.05948845, 
+            "lng": 31.258464349999997
         }, 
         "place": "Middle-Age Egypt", 
         "semantic_place": "Cairo, gypt", 
@@ -4341,8 +4341,8 @@
     }, 
     {
         "lat_lng": {
-            "lat": 28.5392576, 
-            "lng": 33.9749193
+            "lat": 30.05948845, 
+            "lng": 31.258464349999997
         }, 
         "place": "Middle-Age Egypt", 
         "semantic_place": "Cairo, gypt", 
@@ -4351,8 +4351,8 @@
     }, 
     {
         "lat_lng": {
-            "lat": 28.5392576, 
-            "lng": 33.9749193
+            "lat": 30.05948845, 
+            "lng": 31.258464349999997
         }, 
         "place": "Middle-Age Egypt", 
         "semantic_place": "Cairo, gypt", 
@@ -4361,8 +4361,8 @@
     }, 
     {
         "lat_lng": {
-            "lat": 28.5392576, 
-            "lng": 33.9749193
+            "lat": 30.05948845, 
+            "lng": 31.258464349999997
         }, 
         "place": "Middle-Age Egypt", 
         "semantic_place": "Cairo, gypt", 
@@ -4371,8 +4371,8 @@
     }, 
     {
         "lat_lng": {
-            "lat": 28.5392576, 
-            "lng": 33.9749193
+            "lat": 30.05948845, 
+            "lng": 31.258464349999997
         }, 
         "place": "Middle-Age Egypt", 
         "semantic_place": "Cairo, gypt", 
@@ -4381,8 +4381,8 @@
     }, 
     {
         "lat_lng": {
-            "lat": 28.5392576, 
-            "lng": 33.9749193
+            "lat": 30.05948845, 
+            "lng": 31.258464349999997
         }, 
         "place": "Middle-Age Egypt", 
         "semantic_place": "Cairo, gypt", 
@@ -4391,8 +4391,8 @@
     }, 
     {
         "lat_lng": {
-            "lat": 28.5392576, 
-            "lng": 33.9749193
+            "lat": 30.05948845, 
+            "lng": 31.258464349999997
         }, 
         "place": "Middle-Age Egypt", 
         "semantic_place": "Cairo, gypt", 
@@ -4401,8 +4401,8 @@
     }, 
     {
         "lat_lng": {
-            "lat": 28.5392576, 
-            "lng": 33.9749193
+            "lat": 30.05948845, 
+            "lng": 31.258464349999997
         }, 
         "place": "Middle-Age Egypt", 
         "semantic_place": "Cairo, gypt", 
@@ -4411,8 +4411,8 @@
     }, 
     {
         "lat_lng": {
-            "lat": 28.5392576, 
-            "lng": 33.9749193
+            "lat": 30.05948845, 
+            "lng": 31.258464349999997
         }, 
         "place": "Middle-Age Egypt", 
         "semantic_place": "Cairo, gypt", 
@@ -4421,8 +4421,8 @@
     }, 
     {
         "lat_lng": {
-            "lat": 28.5392576, 
-            "lng": 33.9749193
+            "lat": 30.05948845, 
+            "lng": 31.258464349999997
         }, 
         "place": "Middle-Age Egypt", 
         "semantic_place": "Cairo, gypt", 
@@ -4431,8 +4431,8 @@
     }, 
     {
         "lat_lng": {
-            "lat": 28.5392576, 
-            "lng": 33.9749193
+            "lat": 30.05948845, 
+            "lng": 31.258464349999997
         }, 
         "place": "Middle-Age Egypt", 
         "semantic_place": "Cairo, gypt", 
@@ -4441,8 +4441,8 @@
     }, 
     {
         "lat_lng": {
-            "lat": 28.5392576, 
-            "lng": 33.9749193
+            "lat": 30.05948845, 
+            "lng": 31.258464349999997
         }, 
         "place": "Middle-Age Egypt", 
         "semantic_place": "Cairo, gypt", 
@@ -4451,8 +4451,8 @@
     }, 
     {
         "lat_lng": {
-            "lat": 28.5392576, 
-            "lng": 33.9749193
+            "lat": 30.05948845, 
+            "lng": 31.258464349999997
         }, 
         "place": "Middle-Age Egypt", 
         "semantic_place": "Cairo, gypt", 
@@ -4461,8 +4461,8 @@
     }, 
     {
         "lat_lng": {
-            "lat": 28.5392576, 
-            "lng": 33.9749193
+            "lat": 30.05948845, 
+            "lng": 31.258464349999997
         }, 
         "place": "Middle-Age Egypt", 
         "semantic_place": "Cairo, gypt", 
@@ -4471,8 +4471,8 @@
     }, 
     {
         "lat_lng": {
-            "lat": 28.5392576, 
-            "lng": 33.9749193
+            "lat": 30.05948845, 
+            "lng": 31.258464349999997
         }, 
         "place": "Middle-Age Egypt", 
         "semantic_place": "Cairo, gypt", 
@@ -4481,8 +4481,8 @@
     }, 
     {
         "lat_lng": {
-            "lat": 28.5392576, 
-            "lng": 33.9749193
+            "lat": 30.05948845, 
+            "lng": 31.258464349999997
         }, 
         "place": "Middle-Age Egypt", 
         "semantic_place": "Cairo, gypt", 
@@ -4491,8 +4491,8 @@
     }, 
     {
         "lat_lng": {
-            "lat": 28.5392576, 
-            "lng": 33.9749193
+            "lat": 30.05948845, 
+            "lng": 31.258464349999997
         }, 
         "place": "Middle-Age Egypt", 
         "semantic_place": "Cairo, gypt", 
@@ -4501,8 +4501,8 @@
     }, 
     {
         "lat_lng": {
-            "lat": 28.5392576, 
-            "lng": 33.9749193
+            "lat": 30.05948845, 
+            "lng": 31.258464349999997
         }, 
         "place": "Middle-Age Egypt", 
         "semantic_place": "Cairo, gypt", 
@@ -4511,8 +4511,8 @@
     }, 
     {
         "lat_lng": {
-            "lat": 28.5392576, 
-            "lng": 33.9749193
+            "lat": 30.05948845, 
+            "lng": 31.258464349999997
         }, 
         "place": "Middle-Age Egypt", 
         "semantic_place": "Cairo, gypt", 
@@ -4521,8 +4521,8 @@
     }, 
     {
         "lat_lng": {
-            "lat": 28.5392576, 
-            "lng": 33.9749193
+            "lat": 30.05948845, 
+            "lng": 31.258464349999997
         }, 
         "place": "Middle-Age Egypt", 
         "semantic_place": "Cairo, gypt", 
@@ -4531,8 +4531,8 @@
     }, 
     {
         "lat_lng": {
-            "lat": 28.5392576, 
-            "lng": 33.9749193
+            "lat": 30.05948845, 
+            "lng": 31.258464349999997
         }, 
         "place": "Middle-Age Egypt", 
         "semantic_place": "Cairo, gypt", 
@@ -4541,8 +4541,8 @@
     }, 
     {
         "lat_lng": {
-            "lat": 28.5392576, 
-            "lng": 33.9749193
+            "lat": 30.05948845, 
+            "lng": 31.258464349999997
         }, 
         "place": "Middle-Age Egypt", 
         "semantic_place": "Cairo, gypt", 
@@ -4551,8 +4551,8 @@
     }, 
     {
         "lat_lng": {
-            "lat": 28.5392576, 
-            "lng": 33.9749193
+            "lat": 30.05948845, 
+            "lng": 31.258464349999997
         }, 
         "place": "Middle-Age Egypt", 
         "semantic_place": "Cairo, gypt", 
@@ -4561,8 +4561,8 @@
     }, 
     {
         "lat_lng": {
-            "lat": 28.5392576, 
-            "lng": 33.9749193
+            "lat": 30.05948845, 
+            "lng": 31.258464349999997
         }, 
         "place": "Middle-Age Egypt", 
         "semantic_place": "Cairo, gypt", 
@@ -4571,8 +4571,8 @@
     }, 
     {
         "lat_lng": {
-            "lat": 28.5392576, 
-            "lng": 33.9749193
+            "lat": 30.05948845, 
+            "lng": 31.258464349999997
         }, 
         "place": "Middle-Age Egypt", 
         "semantic_place": "Cairo, gypt", 
@@ -4581,8 +4581,8 @@
     }, 
     {
         "lat_lng": {
-            "lat": 28.5392576, 
-            "lng": 33.9749193
+            "lat": 30.05948845, 
+            "lng": 31.258464349999997
         }, 
         "place": "Middle-Age Egypt", 
         "semantic_place": "Cairo, gypt", 
@@ -4591,8 +4591,8 @@
     }, 
     {
         "lat_lng": {
-            "lat": 28.5392576, 
-            "lng": 33.9749193
+            "lat": 30.05948845, 
+            "lng": 31.258464349999997
         }, 
         "place": "Middle-Age Egypt", 
         "semantic_place": "Cairo, gypt", 
@@ -4601,8 +4601,8 @@
     }, 
     {
         "lat_lng": {
-            "lat": 28.5392576, 
-            "lng": 33.9749193
+            "lat": 30.05948845, 
+            "lng": 31.258464349999997
         }, 
         "place": "Middle-Age Egypt", 
         "semantic_place": "Cairo, gypt", 
@@ -4611,8 +4611,8 @@
     }, 
     {
         "lat_lng": {
-            "lat": 28.5392576, 
-            "lng": 33.9749193
+            "lat": 30.05948845, 
+            "lng": 31.258464349999997
         }, 
         "place": "Middle-Age Egypt", 
         "semantic_place": "Cairo, gypt", 
@@ -4621,8 +4621,8 @@
     }, 
     {
         "lat_lng": {
-            "lat": 28.5392576, 
-            "lng": 33.9749193
+            "lat": 30.05948845, 
+            "lng": 31.258464349999997
         }, 
         "place": "Middle-Age Egypt", 
         "semantic_place": "Cairo, gypt", 
@@ -4631,8 +4631,8 @@
     }, 
     {
         "lat_lng": {
-            "lat": 28.5392576, 
-            "lng": 33.9749193
+            "lat": 30.05948845, 
+            "lng": 31.258464349999997
         }, 
         "place": "Middle-Age Egypt", 
         "semantic_place": "Cairo, gypt", 
@@ -4641,8 +4641,8 @@
     }, 
     {
         "lat_lng": {
-            "lat": 28.5392576, 
-            "lng": 33.9749193
+            "lat": 30.05948845, 
+            "lng": 31.258464349999997
         }, 
         "place": "Middle-Age Egypt", 
         "semantic_place": "Cairo, gypt", 
@@ -4651,8 +4651,8 @@
     }, 
     {
         "lat_lng": {
-            "lat": 28.5392576, 
-            "lng": 33.9749193
+            "lat": 30.05948845, 
+            "lng": 31.258464349999997
         }, 
         "place": "Middle-Age Egypt", 
         "semantic_place": "Cairo, gypt", 
@@ -4661,8 +4661,8 @@
     }, 
     {
         "lat_lng": {
-            "lat": 28.5392576, 
-            "lng": 33.9749193
+            "lat": 30.05948845, 
+            "lng": 31.258464349999997
         }, 
         "place": "Middle-Age Egypt", 
         "semantic_place": "Cairo, gypt", 
@@ -4671,8 +4671,8 @@
     }, 
     {
         "lat_lng": {
-            "lat": 28.5392576, 
-            "lng": 33.9749193
+            "lat": 30.05948845, 
+            "lng": 31.258464349999997
         }, 
         "place": "Middle-Age Egypt", 
         "semantic_place": "Cairo, gypt", 
@@ -4681,8 +4681,8 @@
     }, 
     {
         "lat_lng": {
-            "lat": 28.5392576, 
-            "lng": 33.9749193
+            "lat": 30.05948845, 
+            "lng": 31.258464349999997
         }, 
         "place": "Middle-Age Egypt", 
         "semantic_place": "Cairo, gypt", 
@@ -4691,8 +4691,8 @@
     }, 
     {
         "lat_lng": {
-            "lat": 28.5392576, 
-            "lng": 33.9749193
+            "lat": 30.05948845, 
+            "lng": 31.258464349999997
         }, 
         "place": "Middle-Age Egypt", 
         "semantic_place": "Cairo, gypt", 
@@ -4701,8 +4701,8 @@
     }, 
     {
         "lat_lng": {
-            "lat": 28.5392576, 
-            "lng": 33.9749193
+            "lat": 30.05948845, 
+            "lng": 31.258464349999997
         }, 
         "place": "Middle-Age Egypt", 
         "semantic_place": "Cairo, gypt", 
@@ -4711,8 +4711,8 @@
     }, 
     {
         "lat_lng": {
-            "lat": 28.5392576, 
-            "lng": 33.9749193
+            "lat": 30.05948845, 
+            "lng": 31.258464349999997
         }, 
         "place": "Middle-Age Egypt", 
         "semantic_place": "Cairo, gypt", 
@@ -4721,8 +4721,8 @@
     }, 
     {
         "lat_lng": {
-            "lat": 28.5392576, 
-            "lng": 33.9749193
+            "lat": 30.05948845, 
+            "lng": 31.258464349999997
         }, 
         "place": "Middle-Age Egypt", 
         "semantic_place": "Cairo, gypt", 
@@ -4731,8 +4731,8 @@
     }, 
     {
         "lat_lng": {
-            "lat": 28.5392576, 
-            "lng": 33.9749193
+            "lat": 30.05948845, 
+            "lng": 31.258464349999997
         }, 
         "place": "Middle-Age Egypt", 
         "semantic_place": "Cairo, gypt", 
@@ -4741,8 +4741,8 @@
     }, 
     {
         "lat_lng": {
-            "lat": 28.5392576, 
-            "lng": 33.9749193
+            "lat": 30.05948845, 
+            "lng": 31.258464349999997
         }, 
         "place": "Middle-Age Egypt", 
         "semantic_place": "Cairo, gypt", 
@@ -4751,8 +4751,8 @@
     }, 
     {
         "lat_lng": {
-            "lat": 28.5392576, 
-            "lng": 33.9749193
+            "lat": 30.05948845, 
+            "lng": 31.258464349999997
         }, 
         "place": "Middle-Age Egypt", 
         "semantic_place": "Cairo, gypt", 
@@ -4761,8 +4761,8 @@
     }, 
     {
         "lat_lng": {
-            "lat": 28.5392576, 
-            "lng": 33.9749193
+            "lat": 30.05948845, 
+            "lng": 31.258464349999997
         }, 
         "place": "Middle-Age Egypt", 
         "semantic_place": "Cairo, gypt", 
@@ -4771,8 +4771,8 @@
     }, 
     {
         "lat_lng": {
-            "lat": 28.5392576, 
-            "lng": 33.9749193
+            "lat": 30.05948845, 
+            "lng": 31.258464349999997
         }, 
         "place": "Middle-Age Egypt", 
         "semantic_place": "Cairo, gypt", 
@@ -4781,8 +4781,8 @@
     }, 
     {
         "lat_lng": {
-            "lat": 28.5392576, 
-            "lng": 33.9749193
+            "lat": 30.05948845, 
+            "lng": 31.258464349999997
         }, 
         "place": "Middle-Age Egypt", 
         "semantic_place": "Cairo, gypt", 
@@ -4791,8 +4791,8 @@
     }, 
     {
         "lat_lng": {
-            "lat": 28.5392576, 
-            "lng": 33.9749193
+            "lat": 30.05948845, 
+            "lng": 31.258464349999997
         }, 
         "place": "Middle-Age Egypt", 
         "semantic_place": "Cairo, gypt", 
@@ -4801,8 +4801,8 @@
     }, 
     {
         "lat_lng": {
-            "lat": 28.5392576, 
-            "lng": 33.9749193
+            "lat": 30.05948845, 
+            "lng": 31.258464349999997
         }, 
         "place": "Middle-Age Egypt", 
         "semantic_place": "Cairo, gypt", 
@@ -4811,8 +4811,8 @@
     }, 
     {
         "lat_lng": {
-            "lat": 28.5392576, 
-            "lng": 33.9749193
+            "lat": 30.05948845, 
+            "lng": 31.258464349999997
         }, 
         "place": "Middle-Age Egypt", 
         "semantic_place": "Cairo, gypt", 
@@ -4821,8 +4821,8 @@
     }, 
     {
         "lat_lng": {
-            "lat": 28.5392576, 
-            "lng": 33.9749193
+            "lat": 30.05948845, 
+            "lng": 31.258464349999997
         }, 
         "place": "Middle-Age Egypt", 
         "semantic_place": "Cairo, gypt", 
@@ -4831,8 +4831,8 @@
     }, 
     {
         "lat_lng": {
-            "lat": 28.5392576, 
-            "lng": 33.9749193
+            "lat": 30.05948845, 
+            "lng": 31.258464349999997
         }, 
         "place": "Middle-Age Egypt", 
         "semantic_place": "Cairo, gypt", 
@@ -4841,8 +4841,8 @@
     }, 
     {
         "lat_lng": {
-            "lat": 28.5392576, 
-            "lng": 33.9749193
+            "lat": 30.05948845, 
+            "lng": 31.258464349999997
         }, 
         "place": "Middle-Age Egypt", 
         "semantic_place": "Cairo, gypt", 
@@ -4851,8 +4851,8 @@
     }, 
     {
         "lat_lng": {
-            "lat": 28.5392576, 
-            "lng": 33.9749193
+            "lat": 30.05948845, 
+            "lng": 31.258464349999997
         }, 
         "place": "Middle-Age Egypt", 
         "semantic_place": "Cairo, gypt", 
@@ -4861,8 +4861,8 @@
     }, 
     {
         "lat_lng": {
-            "lat": 28.5392576, 
-            "lng": 33.9749193
+            "lat": 30.05948845, 
+            "lng": 31.258464349999997
         }, 
         "place": "Middle-Age Egypt", 
         "semantic_place": "Cairo, gypt", 
@@ -4871,8 +4871,8 @@
     }, 
     {
         "lat_lng": {
-            "lat": 28.5392576, 
-            "lng": 33.9749193
+            "lat": 30.05948845, 
+            "lng": 31.258464349999997
         }, 
         "place": "Middle-Age Egypt", 
         "semantic_place": "Cairo, gypt", 
@@ -4881,8 +4881,8 @@
     }, 
     {
         "lat_lng": {
-            "lat": 28.5392576, 
-            "lng": 33.9749193
+            "lat": 30.05948845, 
+            "lng": 31.258464349999997
         }, 
         "place": "Middle-Age Egypt", 
         "semantic_place": "Cairo, gypt", 
@@ -4891,8 +4891,8 @@
     }, 
     {
         "lat_lng": {
-            "lat": 28.5392576, 
-            "lng": 33.9749193
+            "lat": 30.05948845, 
+            "lng": 31.258464349999997
         }, 
         "place": "Middle-Age Egypt", 
         "semantic_place": "Cairo, gypt", 
@@ -4901,8 +4901,8 @@
     }, 
     {
         "lat_lng": {
-            "lat": 28.5392576, 
-            "lng": 33.9749193
+            "lat": 30.05948845, 
+            "lng": 31.258464349999997
         }, 
         "place": "Middle-Age Egypt", 
         "semantic_place": "Cairo, gypt", 
@@ -4911,8 +4911,8 @@
     }, 
     {
         "lat_lng": {
-            "lat": 28.5392576, 
-            "lng": 33.9749193
+            "lat": 30.05948845, 
+            "lng": 31.258464349999997
         }, 
         "place": "Middle-Age Egypt", 
         "semantic_place": "Cairo, gypt", 
@@ -5681,8 +5681,8 @@
     }, 
     {
         "lat_lng": {
-            "lat": 28.5392576, 
-            "lng": 33.9749193
+            "lat": 32.78269795, 
+            "lng": 35.52904995
         }, 
         "place": "Talmudic Israel/Babylon", 
         "semantic_place": "Tiberius, Israel", 
@@ -5691,8 +5691,8 @@
     }, 
     {
         "lat_lng": {
-            "lat": 28.5392576, 
-            "lng": 33.9749193
+            "lat": 32.78269795, 
+            "lng": 35.52904995
         }, 
         "place": "Talmudic Israel/Babylon", 
         "semantic_place": "Tiberius, Israel", 
@@ -5711,8 +5711,8 @@
     }, 
     {
         "lat_lng": {
-            "lat": 52.838200449999995, 
-            "lng": -2.32781495
+            "lat": 48.292406400000004, 
+            "lng": 4.0761205
         }, 
         "place": "Middle-Age France / Germany / Italy / England", 
         "semantic_place": "Troyes, France", 
@@ -5721,8 +5721,8 @@
     }, 
     {
         "lat_lng": {
-            "lat": 52.838200449999995, 
-            "lng": -2.32781495
+            "lat": 48.292406400000004, 
+            "lng": 4.0761205
         }, 
         "place": "Middle-Age France / Germany / Italy / England", 
         "semantic_place": "Troyes, France", 
@@ -5731,8 +5731,8 @@
     }, 
     {
         "lat_lng": {
-            "lat": 52.838200449999995, 
-            "lng": -2.32781495
+            "lat": 48.292406400000004, 
+            "lng": 4.0761205
         }, 
         "place": "Middle-Age France / Germany / Italy / England", 
         "semantic_place": "Troyes, France", 
@@ -5741,8 +5741,8 @@
     }, 
     {
         "lat_lng": {
-            "lat": 52.838200449999995, 
-            "lng": -2.32781495
+            "lat": 48.292406400000004, 
+            "lng": 4.0761205
         }, 
         "place": "Middle-Age France / Germany / Italy / England", 
         "semantic_place": "Troyes, France", 
@@ -5751,8 +5751,8 @@
     }, 
     {
         "lat_lng": {
-            "lat": 52.838200449999995, 
-            "lng": -2.32781495
+            "lat": 48.292406400000004, 
+            "lng": 4.0761205
         }, 
         "place": "Middle-Age France / Germany / Italy / England", 
         "semantic_place": "Troyes, France", 
@@ -5761,8 +5761,8 @@
     }, 
     {
         "lat_lng": {
-            "lat": 52.838200449999995, 
-            "lng": -2.32781495
+            "lat": 48.292406400000004, 
+            "lng": 4.0761205
         }, 
         "place": "Middle-Age France / Germany / Italy / England", 
         "semantic_place": "Troyes, France", 
@@ -5771,8 +5771,8 @@
     }, 
     {
         "lat_lng": {
-            "lat": 52.838200449999995, 
-            "lng": -2.32781495
+            "lat": 48.292406400000004, 
+            "lng": 4.0761205
         }, 
         "place": "Middle-Age France / Germany / Italy / England", 
         "semantic_place": "Troyes, France", 
@@ -5781,8 +5781,8 @@
     }, 
     {
         "lat_lng": {
-            "lat": 52.838200449999995, 
-            "lng": -2.32781495
+            "lat": 48.292406400000004, 
+            "lng": 4.0761205
         }, 
         "place": "Middle-Age France / Germany / Italy / England", 
         "semantic_place": "Troyes, France", 
@@ -5791,8 +5791,8 @@
     }, 
     {
         "lat_lng": {
-            "lat": 52.838200449999995, 
-            "lng": -2.32781495
+            "lat": 48.292406400000004, 
+            "lng": 4.0761205
         }, 
         "place": "Middle-Age France / Germany / Italy / England", 
         "semantic_place": "Troyes, France", 
@@ -5801,8 +5801,8 @@
     }, 
     {
         "lat_lng": {
-            "lat": 52.838200449999995, 
-            "lng": -2.32781495
+            "lat": 48.292406400000004, 
+            "lng": 4.0761205
         }, 
         "place": "Middle-Age France / Germany / Italy / England", 
         "semantic_place": "Troyes, France", 
@@ -5811,8 +5811,8 @@
     }, 
     {
         "lat_lng": {
-            "lat": 52.838200449999995, 
-            "lng": -2.32781495
+            "lat": 48.292406400000004, 
+            "lng": 4.0761205
         }, 
         "place": "Middle-Age France / Germany / Italy / England", 
         "semantic_place": "Troyes, France", 
@@ -5821,8 +5821,8 @@
     }, 
     {
         "lat_lng": {
-            "lat": 52.838200449999995, 
-            "lng": -2.32781495
+            "lat": 48.292406400000004, 
+            "lng": 4.0761205
         }, 
         "place": "Middle-Age France / Germany / Italy / England", 
         "semantic_place": "Troyes, France", 
@@ -5831,8 +5831,8 @@
     }, 
     {
         "lat_lng": {
-            "lat": 52.838200449999995, 
-            "lng": -2.32781495
+            "lat": 48.292406400000004, 
+            "lng": 4.0761205
         }, 
         "place": "Middle-Age France / Germany / Italy / England", 
         "semantic_place": "Troyes, France", 
@@ -5841,8 +5841,8 @@
     }, 
     {
         "lat_lng": {
-            "lat": 52.838200449999995, 
-            "lng": -2.32781495
+            "lat": 48.292406400000004, 
+            "lng": 4.0761205
         }, 
         "place": "Middle-Age France / Germany / Italy / England", 
         "semantic_place": "Troyes, France", 
@@ -5851,8 +5851,8 @@
     }, 
     {
         "lat_lng": {
-            "lat": 52.838200449999995, 
-            "lng": -2.32781495
+            "lat": 48.292406400000004, 
+            "lng": 4.0761205
         }, 
         "place": "Middle-Age France / Germany / Italy / England", 
         "semantic_place": "Troyes, France", 
@@ -5861,8 +5861,8 @@
     }, 
     {
         "lat_lng": {
-            "lat": 52.838200449999995, 
-            "lng": -2.32781495
+            "lat": 48.292406400000004, 
+            "lng": 4.0761205
         }, 
         "place": "Middle-Age France / Germany / Italy / England", 
         "semantic_place": "Troyes, France", 
@@ -5871,8 +5871,8 @@
     }, 
     {
         "lat_lng": {
-            "lat": 52.838200449999995, 
-            "lng": -2.32781495
+            "lat": 48.292406400000004, 
+            "lng": 4.0761205
         }, 
         "place": "Middle-Age France / Germany / Italy / England", 
         "semantic_place": "Troyes, France", 
@@ -5881,8 +5881,8 @@
     }, 
     {
         "lat_lng": {
-            "lat": 52.838200449999995, 
-            "lng": -2.32781495
+            "lat": 48.292406400000004, 
+            "lng": 4.0761205
         }, 
         "place": "Middle-Age France / Germany / Italy / England", 
         "semantic_place": "Troyes, France", 
@@ -5891,8 +5891,8 @@
     }, 
     {
         "lat_lng": {
-            "lat": 52.838200449999995, 
-            "lng": -2.32781495
+            "lat": 48.292406400000004, 
+            "lng": 4.0761205
         }, 
         "place": "Middle-Age France / Germany / Italy / England", 
         "semantic_place": "Troyes, France", 
@@ -5901,8 +5901,8 @@
     }, 
     {
         "lat_lng": {
-            "lat": 28.5392576, 
-            "lng": 33.9749193
+            "lat": 48.292406400000004, 
+            "lng": 4.0761205
         }, 
         "place": "Middle-Age France / Germany", 
         "semantic_place": "Troyes, France", 
@@ -5911,8 +5911,8 @@
     }, 
     {
         "lat_lng": {
-            "lat": 52.838200449999995, 
-            "lng": -2.32781495
+            "lat": 48.292406400000004, 
+            "lng": 4.0761205
         }, 
         "place": "Middle-Age France / Germany / Italy / England", 
         "semantic_place": "Troyes, France", 
@@ -5921,8 +5921,8 @@
     }, 
     {
         "lat_lng": {
-            "lat": 52.838200449999995, 
-            "lng": -2.32781495
+            "lat": 48.292406400000004, 
+            "lng": 4.0761205
         }, 
         "place": "Middle-Age France / Germany / Italy / England", 
         "semantic_place": "Troyes, France", 
@@ -5931,8 +5931,8 @@
     }, 
     {
         "lat_lng": {
-            "lat": 52.838200449999995, 
-            "lng": -2.32781495
+            "lat": 48.292406400000004, 
+            "lng": 4.0761205
         }, 
         "place": "Middle-Age France / Germany / Italy / England", 
         "semantic_place": "Troyes, France", 
@@ -5941,8 +5941,8 @@
     }, 
     {
         "lat_lng": {
-            "lat": 52.838200449999995, 
-            "lng": -2.32781495
+            "lat": 48.292406400000004, 
+            "lng": 4.0761205
         }, 
         "place": "Middle-Age France / Germany / Italy / England", 
         "semantic_place": "Troyes, France", 
@@ -5951,8 +5951,8 @@
     }, 
     {
         "lat_lng": {
-            "lat": 52.838200449999995, 
-            "lng": -2.32781495
+            "lat": 48.292406400000004, 
+            "lng": 4.0761205
         }, 
         "place": "Middle-Age France / Germany / Italy / England", 
         "semantic_place": "Troyes, France", 
@@ -5961,8 +5961,8 @@
     }, 
     {
         "lat_lng": {
-            "lat": 52.838200449999995, 
-            "lng": -2.32781495
+            "lat": 48.292406400000004, 
+            "lng": 4.0761205
         }, 
         "place": "Middle-Age France / Germany / Italy / England", 
         "semantic_place": "Troyes, France", 
@@ -5971,8 +5971,8 @@
     }, 
     {
         "lat_lng": {
-            "lat": 52.838200449999995, 
-            "lng": -2.32781495
+            "lat": 48.292406400000004, 
+            "lng": 4.0761205
         }, 
         "place": "Middle-Age France / Germany / Italy / England", 
         "semantic_place": "Troyes, France", 
@@ -5981,8 +5981,8 @@
     }, 
     {
         "lat_lng": {
-            "lat": 52.838200449999995, 
-            "lng": -2.32781495
+            "lat": 48.292406400000004, 
+            "lng": 4.0761205
         }, 
         "place": "Middle-Age France / Germany / Italy / England", 
         "semantic_place": "Troyes, France", 
@@ -5991,8 +5991,8 @@
     }, 
     {
         "lat_lng": {
-            "lat": 52.838200449999995, 
-            "lng": -2.32781495
+            "lat": 48.292406400000004, 
+            "lng": 4.0761205
         }, 
         "place": "Middle-Age France / Germany / Italy / England", 
         "semantic_place": "Troyes, France", 
@@ -6001,8 +6001,8 @@
     }, 
     {
         "lat_lng": {
-            "lat": 52.838200449999995, 
-            "lng": -2.32781495
+            "lat": 48.292406400000004, 
+            "lng": 4.0761205
         }, 
         "place": "Middle-Age France / Germany / Italy / England", 
         "semantic_place": "Troyes, France", 
@@ -6011,8 +6011,8 @@
     }, 
     {
         "lat_lng": {
-            "lat": 52.838200449999995, 
-            "lng": -2.32781495
+            "lat": 48.292406400000004, 
+            "lng": 4.0761205
         }, 
         "place": "Middle-Age France / Germany / Italy / England", 
         "semantic_place": "Troyes, France", 
@@ -6021,8 +6021,8 @@
     }, 
     {
         "lat_lng": {
-            "lat": 52.838200449999995, 
-            "lng": -2.32781495
+            "lat": 48.292406400000004, 
+            "lng": 4.0761205
         }, 
         "place": "Middle-Age France / Germany / Italy / England", 
         "semantic_place": "Troyes, France", 
@@ -6031,8 +6031,8 @@
     }, 
     {
         "lat_lng": {
-            "lat": 52.838200449999995, 
-            "lng": -2.32781495
+            "lat": 48.292406400000004, 
+            "lng": 4.0761205
         }, 
         "place": "Middle-Age France / Germany / Italy / England", 
         "semantic_place": "Troyes, France", 
@@ -6041,8 +6041,8 @@
     }, 
     {
         "lat_lng": {
-            "lat": 52.838200449999995, 
-            "lng": -2.32781495
+            "lat": 48.292406400000004, 
+            "lng": 4.0761205
         }, 
         "place": "Middle-Age France / Germany / Italy / England", 
         "semantic_place": "Troyes, France", 
@@ -6051,8 +6051,8 @@
     }, 
     {
         "lat_lng": {
-            "lat": 52.838200449999995, 
-            "lng": -2.32781495
+            "lat": 48.292406400000004, 
+            "lng": 4.0761205
         }, 
         "place": "Middle-Age France / Germany / Italy / England", 
         "semantic_place": "Troyes, France", 
@@ -6061,8 +6061,8 @@
     }, 
     {
         "lat_lng": {
-            "lat": 52.838200449999995, 
-            "lng": -2.32781495
+            "lat": 48.292406400000004, 
+            "lng": 4.0761205
         }, 
         "place": "Middle-Age France / Germany / Italy / England", 
         "semantic_place": "Troyes, France", 
@@ -6071,8 +6071,8 @@
     }, 
     {
         "lat_lng": {
-            "lat": 52.838200449999995, 
-            "lng": -2.32781495
+            "lat": 48.292406400000004, 
+            "lng": 4.0761205
         }, 
         "place": "Middle-Age France / Germany / Italy / England", 
         "semantic_place": "Troyes, France", 
@@ -6081,8 +6081,8 @@
     }, 
     {
         "lat_lng": {
-            "lat": 52.838200449999995, 
-            "lng": -2.32781495
+            "lat": 48.292406400000004, 
+            "lng": 4.0761205
         }, 
         "place": "Middle-Age France / Germany / Italy / England", 
         "semantic_place": "Troyes, France", 
@@ -6091,8 +6091,8 @@
     }, 
     {
         "lat_lng": {
-            "lat": 52.838200449999995, 
-            "lng": -2.32781495
+            "lat": 48.292406400000004, 
+            "lng": 4.0761205
         }, 
         "place": "Middle-Age France / Germany / Italy / England", 
         "semantic_place": "Troyes, France", 
@@ -6101,8 +6101,8 @@
     }, 
     {
         "lat_lng": {
-            "lat": 52.838200449999995, 
-            "lng": -2.32781495
+            "lat": 48.292406400000004, 
+            "lng": 4.0761205
         }, 
         "place": "Middle-Age France / Germany / Italy / England", 
         "semantic_place": "Troyes, France", 
@@ -6111,8 +6111,8 @@
     }, 
     {
         "lat_lng": {
-            "lat": 52.838200449999995, 
-            "lng": -2.32781495
+            "lat": 48.292406400000004, 
+            "lng": 4.0761205
         }, 
         "place": "Middle-Age France / Germany / Italy / England", 
         "semantic_place": "Troyes, France", 
@@ -6611,8 +6611,8 @@
     }, 
     {
         "lat_lng": {
-            "lat": 48.8504833, 
-            "lng": 2.3440808
+            "lat": 48.292406400000004, 
+            "lng": 4.0761205
         }, 
         "place": "Middle-Age France", 
         "semantic_place": "Troyes, France", 
@@ -7961,8 +7961,8 @@
     }, 
     {
         "lat_lng": {
-            "lat": 28.5392576, 
-            "lng": 33.9749193
+            "lat": 47.7030885, 
+            "lng": 10.05849905
         }, 
         "place": "Middle-Age Germany", 
         "semantic_place": "Isny, Germany", 
@@ -15131,8 +15131,8 @@
     }, 
     {
         "lat_lng": {
-            "lat": 53.58438945, 
-            "lng": 9.85451445
+            "lat": 44.88879395, 
+            "lng": -73.6599664
         }, 
         "place": "Altona", 
         "semantic_place": "Altona", 
