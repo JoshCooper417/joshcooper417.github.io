@@ -108,7 +108,7 @@
         "semantic_place": "Shiloh Israel", 
         "title": "Samuel", 
         "year": -750
-    },
+    }, 
     {
         "lat_lng": {
             "lat": 31.94735095, 
@@ -208,14 +208,14 @@
         "semantic_place": "Jerusalem", 
         "title": "Kings", 
         "year": -500
-    },
+    }, 
     {
         "lat_lng": {
             "lat": 28.5392576, 
             "lng": 33.9749193
         }, 
         "place": "Ancient Babylonian Empire", 
-        "semantic_place": "Ancient Babylonian Empire", 
+        "semantic_place": "Al Khabour River", 
         "title": "Ezekiel", 
         "year": -500
     }, 
@@ -228,7 +228,7 @@
         "semantic_place": "Jerusalem", 
         "title": "Psalms", 
         "year": -500
-    },
+    }, 
     {
         "lat_lng": {
             "lat": 31.7963186, 
@@ -265,7 +265,7 @@
             "lng": 33.9749193
         }, 
         "place": "Second Temple Judea", 
-        "semantic_place": "Second Temple Judea", 
+        "semantic_place": "Jerusalem", 
         "title": "Haggai", 
         "year": -450
     }, 
@@ -275,7 +275,7 @@
             "lng": 33.9749193
         }, 
         "place": "Second Temple Judea", 
-        "semantic_place": "Second Temple Judea", 
+        "semantic_place": "Jerusalem", 
         "title": "Zechariah", 
         "year": -450
     }, 
@@ -285,7 +285,7 @@
             "lng": 33.9749193
         }, 
         "place": "Second Temple Judea", 
-        "semantic_place": "Second Temple Judea", 
+        "semantic_place": "Jerusalem", 
         "title": "Malachi", 
         "year": -450
     }, 
@@ -305,7 +305,7 @@
             "lng": 33.9749193
         }, 
         "place": "Second Temple Judea", 
-        "semantic_place": "Second Temple Judea", 
+        "semantic_place": "Jerusalem", 
         "title": "Ezra", 
         "year": -400
     }, 
@@ -315,7 +315,7 @@
             "lng": 33.9749193
         }, 
         "place": "Second Temple Judea", 
-        "semantic_place": "Second Temple Judea", 
+        "semantic_place": "Jerusalem", 
         "title": "Nehemiah", 
         "year": -400
     }, 
@@ -325,7 +325,7 @@
             "lng": 33.9749193
         }, 
         "place": "Second Temple Judea", 
-        "semantic_place": "Second Temple Judea", 
+        "semantic_place": "Jerusalem", 
         "title": "I Chronicles", 
         "year": -400
     }, 
@@ -335,7 +335,7 @@
             "lng": 33.9749193
         }, 
         "place": "Second Temple Judea", 
-        "semantic_place": "Second Temple Judea", 
+        "semantic_place": "Jerusalem", 
         "title": "II Chronicles", 
         "year": -400
     }, 
@@ -375,7 +375,7 @@
             "lng": 33.9749193
         }, 
         "place": "Hellenistic Egypt", 
-        "semantic_place": "Hellenistic Egypt", 
+        "semantic_place": "Alexandria,Egypt", 
         "title": "The Book of Maccabees II", 
         "year": -143
     }, 
@@ -385,7 +385,7 @@
             "lng": 33.9749193
         }, 
         "place": "Second Temple Judea", 
-        "semantic_place": "Second Temple Judea", 
+        "semantic_place": "Jerusalem", 
         "title": "The Book of Maccabees I", 
         "year": -135
     }, 
@@ -395,7 +395,7 @@
             "lng": 33.9749193
         }, 
         "place": "Talmudic Israel", 
-        "semantic_place": "Talmudic Israel", 
+        "semantic_place": "Tiberius, Israel", 
         "title": "Targum Jonathan on Exodus", 
         "year": 50
     }, 
@@ -405,7 +405,7 @@
             "lng": 33.9749193
         }, 
         "place": "Talmudic Israel", 
-        "semantic_place": "Talmudic Israel", 
+        "semantic_place": "Tiberius, Israel", 
         "title": "Targum Jonathan on Leviticus", 
         "year": 50
     }, 
@@ -415,7 +415,7 @@
             "lng": 33.9749193
         }, 
         "place": "Talmudic Israel", 
-        "semantic_place": "Talmudic Israel", 
+        "semantic_place": "Tiberius, Israel", 
         "title": "Targum Jonathan on Numbers", 
         "year": 50
     }, 
@@ -425,7 +425,7 @@
             "lng": 33.9749193
         }, 
         "place": "Talmudic Israel", 
-        "semantic_place": "Talmudic Israel", 
+        "semantic_place": "Tiberius, Israel", 
         "title": "Targum Jonathan on Deuteronomy", 
         "year": 50
     }, 
@@ -435,7 +435,7 @@
             "lng": 33.9749193
         }, 
         "place": "Talmudic Israel", 
-        "semantic_place": "Talmudic Israel", 
+        "semantic_place": "Tiberius, Israel", 
         "title": "Targum Neofiti", 
         "year": 50
     }, 
@@ -445,7 +445,7 @@
             "lng": 33.9749193
         }, 
         "place": "Talmudic Israel/Babylon", 
-        "semantic_place": "Talmudic Israel/Babylon", 
+        "semantic_place": "Tiberius, Israel", 
         "title": "Megillat Taanit", 
         "year": 55
     }, 
@@ -455,7 +455,7 @@
             "lng": 33.9749193
         }, 
         "place": "Talmudic Israel/Babylon", 
-        "semantic_place": "Talmudic Israel/Babylon", 
+        "semantic_place": "Tiberius, Israel", 
         "title": "Onkelos Deuteronomy", 
         "year": 100
     }, 
@@ -465,7 +465,7 @@
             "lng": 33.9749193
         }, 
         "place": "Talmudic Israel/Babylon", 
-        "semantic_place": "Talmudic Israel/Babylon", 
+        "semantic_place": "Tiberius, Israel", 
         "title": "Onkelos Leviticus", 
         "year": 100
     }, 
@@ -475,7 +475,7 @@
             "lng": 33.9749193
         }, 
         "place": "Talmudic Israel/Babylon", 
-        "semantic_place": "Talmudic Israel/Babylon", 
+        "semantic_place": "Tiberius, Israel", 
         "title": "Onkelos Exodus", 
         "year": 100
     }, 
@@ -485,7 +485,7 @@
             "lng": 33.9749193
         }, 
         "place": "Talmudic Israel/Babylon", 
-        "semantic_place": "Talmudic Israel/Babylon", 
+        "semantic_place": "Tiberius, Israel", 
         "title": "Onkelos Genesis", 
         "year": 100
     }, 
@@ -495,7 +495,7 @@
             "lng": 33.9749193
         }, 
         "place": "Talmudic Israel/Babylon", 
-        "semantic_place": "Talmudic Israel/Babylon", 
+        "semantic_place": "Tiberius, Israel", 
         "title": "Onkelos Numbers", 
         "year": 100
     }, 
@@ -505,7 +505,7 @@
             "lng": 33.9749193
         }, 
         "place": "Talmudic Israel/Babylon", 
-        "semantic_place": "Talmudic Israel/Babylon", 
+        "semantic_place": "Tiberius, Israel", 
         "title": "Mekhilta d'Rabbi Yishmael", 
         "year": 135
     }, 
@@ -515,7 +515,7 @@
             "lng": 33.9749193
         }, 
         "place": "Talmudic Israel", 
-        "semantic_place": "Talmudic Israel", 
+        "semantic_place": "Tiberius, Israel", 
         "title": "Targum Jonathan on Genesis", 
         "year": 200
     }, 
@@ -525,7 +525,7 @@
             "lng": 33.9749193
         }, 
         "place": "Talmudic Israel/Babylon", 
-        "semantic_place": "Talmudic Israel/Babylon", 
+        "semantic_place": "Tiberius, Israel", 
         "title": "Sifrei Bamidbar", 
         "year": 200
     }, 
@@ -535,7 +535,7 @@
             "lng": 33.9749193
         }, 
         "place": "Talmudic Israel", 
-        "semantic_place": "Talmudic Israel", 
+        "semantic_place": "Tiberius, Israel", 
         "title": "Mishnah Berakhot", 
         "year": 210
     }, 
@@ -545,7 +545,7 @@
             "lng": 33.9749193
         }, 
         "place": "Talmudic Israel", 
-        "semantic_place": "Talmudic Israel", 
+        "semantic_place": "Tiberius, Israel", 
         "title": "Mishnah Peah", 
         "year": 210
     }, 
@@ -555,7 +555,7 @@
             "lng": 33.9749193
         }, 
         "place": "Talmudic Israel", 
-        "semantic_place": "Talmudic Israel", 
+        "semantic_place": "Tiberius, Israel", 
         "title": "Mishnah Demai", 
         "year": 210
     }, 
@@ -565,7 +565,7 @@
             "lng": 33.9749193
         }, 
         "place": "Talmudic Israel", 
-        "semantic_place": "Talmudic Israel", 
+        "semantic_place": "Tiberius, Israel", 
         "title": "Mishnah Kilayim", 
         "year": 210
     }, 
@@ -575,7 +575,7 @@
             "lng": 33.9749193
         }, 
         "place": "Talmudic Israel", 
-        "semantic_place": "Talmudic Israel", 
+        "semantic_place": "Tiberius, Israel", 
         "title": "Mishnah Sheviit", 
         "year": 210
     }, 
@@ -585,7 +585,7 @@
             "lng": 33.9749193
         }, 
         "place": "Talmudic Israel", 
-        "semantic_place": "Talmudic Israel", 
+        "semantic_place": "Tiberius, Israel", 
         "title": "Mishnah Terumot", 
         "year": 210
     }, 
@@ -595,7 +595,7 @@
             "lng": 33.9749193
         }, 
         "place": "Talmudic Israel", 
-        "semantic_place": "Talmudic Israel", 
+        "semantic_place": "Tiberius, Israel", 
         "title": "Mishnah Maasrot", 
         "year": 210
     }, 
@@ -605,7 +605,7 @@
             "lng": 33.9749193
         }, 
         "place": "Talmudic Israel", 
-        "semantic_place": "Talmudic Israel", 
+        "semantic_place": "Tiberius, Israel", 
         "title": "Mishnah Maaser Sheni", 
         "year": 210
     }, 
@@ -615,7 +615,7 @@
             "lng": 33.9749193
         }, 
         "place": "Talmudic Israel", 
-        "semantic_place": "Talmudic Israel", 
+        "semantic_place": "Tiberius, Israel", 
         "title": "Mishnah Challah", 
         "year": 210
     }, 
@@ -625,7 +625,7 @@
             "lng": 33.9749193
         }, 
         "place": "Talmudic Israel", 
-        "semantic_place": "Talmudic Israel", 
+        "semantic_place": "Tiberius, Israel", 
         "title": "Mishnah Orlah", 
         "year": 210
     }, 
@@ -635,7 +635,7 @@
             "lng": 33.9749193
         }, 
         "place": "Talmudic Israel", 
-        "semantic_place": "Talmudic Israel", 
+        "semantic_place": "Tiberius, Israel", 
         "title": "Mishnah Bikkurim", 
         "year": 210
     }, 
@@ -645,7 +645,7 @@
             "lng": 33.9749193
         }, 
         "place": "Talmudic Israel", 
-        "semantic_place": "Talmudic Israel", 
+        "semantic_place": "Tiberius, Israel", 
         "title": "Mishnah Shabbat", 
         "year": 210
     }, 
@@ -655,7 +655,7 @@
             "lng": 33.9749193
         }, 
         "place": "Talmudic Israel", 
-        "semantic_place": "Talmudic Israel", 
+        "semantic_place": "Tiberius, Israel", 
         "title": "Mishnah Eruvin", 
         "year": 210
     }, 
@@ -665,7 +665,7 @@
             "lng": 33.9749193
         }, 
         "place": "Talmudic Israel", 
-        "semantic_place": "Talmudic Israel", 
+        "semantic_place": "Tiberius, Israel", 
         "title": "Mishnah Pesachim", 
         "year": 210
     }, 
@@ -675,7 +675,7 @@
             "lng": 33.9749193
         }, 
         "place": "Talmudic Israel", 
-        "semantic_place": "Talmudic Israel", 
+        "semantic_place": "Tiberius, Israel", 
         "title": "Mishnah Shekalim", 
         "year": 210
     }, 
@@ -685,7 +685,7 @@
             "lng": 33.9749193
         }, 
         "place": "Talmudic Israel", 
-        "semantic_place": "Talmudic Israel", 
+        "semantic_place": "Tiberius, Israel", 
         "title": "Mishnah Yoma", 
         "year": 210
     }, 
@@ -695,7 +695,7 @@
             "lng": 33.9749193
         }, 
         "place": "Talmudic Israel", 
-        "semantic_place": "Talmudic Israel", 
+        "semantic_place": "Tiberius, Israel", 
         "title": "Mishnah Sukkah", 
         "year": 210
     }, 
@@ -705,7 +705,7 @@
             "lng": 33.9749193
         }, 
         "place": "Talmudic Israel", 
-        "semantic_place": "Talmudic Israel", 
+        "semantic_place": "Tiberius, Israel", 
         "title": "Mishnah Beitzah", 
         "year": 210
     }, 
@@ -715,7 +715,7 @@
             "lng": 33.9749193
         }, 
         "place": "Talmudic Israel", 
-        "semantic_place": "Talmudic Israel", 
+        "semantic_place": "Tiberius, Israel", 
         "title": "Mishnah Rosh Hashanah", 
         "year": 210
     }, 
@@ -725,7 +725,7 @@
             "lng": 33.9749193
         }, 
         "place": "Talmudic Israel", 
-        "semantic_place": "Talmudic Israel", 
+        "semantic_place": "Tiberius, Israel", 
         "title": "Mishnah Taanit", 
         "year": 210
     }, 
@@ -735,7 +735,7 @@
             "lng": 33.9749193
         }, 
         "place": "Talmudic Israel", 
-        "semantic_place": "Talmudic Israel", 
+        "semantic_place": "Tiberius, Israel", 
         "title": "Mishnah Megillah", 
         "year": 210
     }, 
@@ -745,7 +745,7 @@
             "lng": 33.9749193
         }, 
         "place": "Talmudic Israel", 
-        "semantic_place": "Talmudic Israel", 
+        "semantic_place": "Tiberius, Israel", 
         "title": "Mishnah Moed Katan", 
         "year": 210
     }, 
@@ -755,7 +755,7 @@
             "lng": 33.9749193
         }, 
         "place": "Talmudic Israel", 
-        "semantic_place": "Talmudic Israel", 
+        "semantic_place": "Tiberius, Israel", 
         "title": "Mishnah Chagigah", 
         "year": 210
     }, 
@@ -765,7 +765,7 @@
             "lng": 33.9749193
         }, 
         "place": "Talmudic Israel", 
-        "semantic_place": "Talmudic Israel", 
+        "semantic_place": "Tiberius, Israel", 
         "title": "Mishnah Yevamot", 
         "year": 210
     }, 
@@ -775,7 +775,7 @@
             "lng": 33.9749193
         }, 
         "place": "Talmudic Israel", 
-        "semantic_place": "Talmudic Israel", 
+        "semantic_place": "Tiberius, Israel", 
         "title": "Mishnah Ketubot", 
         "year": 210
     }, 
@@ -785,7 +785,7 @@
             "lng": 33.9749193
         }, 
         "place": "Talmudic Israel", 
-        "semantic_place": "Talmudic Israel", 
+        "semantic_place": "Tiberius, Israel", 
         "title": "Mishnah Nedarim", 
         "year": 210
     }, 
@@ -795,7 +795,7 @@
             "lng": 33.9749193
         }, 
         "place": "Talmudic Israel", 
-        "semantic_place": "Talmudic Israel", 
+        "semantic_place": "Tiberius, Israel", 
         "title": "Mishnah Nazir", 
         "year": 210
     }, 
@@ -805,7 +805,7 @@
             "lng": 33.9749193
         }, 
         "place": "Talmudic Israel", 
-        "semantic_place": "Talmudic Israel", 
+        "semantic_place": "Tiberius, Israel", 
         "title": "Mishnah Sotah", 
         "year": 210
     }, 
@@ -815,7 +815,7 @@
             "lng": 33.9749193
         }, 
         "place": "Talmudic Israel", 
-        "semantic_place": "Talmudic Israel", 
+        "semantic_place": "Tiberius, Israel", 
         "title": "Mishnah Gittin", 
         "year": 210
     }, 
@@ -825,7 +825,7 @@
             "lng": 33.9749193
         }, 
         "place": "Talmudic Israel", 
-        "semantic_place": "Talmudic Israel", 
+        "semantic_place": "Tiberius, Israel", 
         "title": "Mishnah Kiddushin", 
         "year": 210
     }, 
@@ -835,7 +835,7 @@
             "lng": 33.9749193
         }, 
         "place": "Talmudic Israel", 
-        "semantic_place": "Talmudic Israel", 
+        "semantic_place": "Tiberius, Israel", 
         "title": "Mishnah Bava Kamma", 
         "year": 210
     }, 
@@ -845,7 +845,7 @@
             "lng": 33.9749193
         }, 
         "place": "Talmudic Israel", 
-        "semantic_place": "Talmudic Israel", 
+        "semantic_place": "Tiberius, Israel", 
         "title": "Mishnah Bava Metzia", 
         "year": 210
     }, 
@@ -855,7 +855,7 @@
             "lng": 33.9749193
         }, 
         "place": "Talmudic Israel", 
-        "semantic_place": "Talmudic Israel", 
+        "semantic_place": "Tiberius, Israel", 
         "title": "Mishnah Bava Batra", 
         "year": 210
     }, 
@@ -865,7 +865,7 @@
             "lng": 33.9749193
         }, 
         "place": "Talmudic Israel", 
-        "semantic_place": "Talmudic Israel", 
+        "semantic_place": "Tiberius, Israel", 
         "title": "Mishnah Sanhedrin", 
         "year": 210
     }, 
@@ -875,7 +875,7 @@
             "lng": 33.9749193
         }, 
         "place": "Talmudic Israel", 
-        "semantic_place": "Talmudic Israel", 
+        "semantic_place": "Tiberius, Israel", 
         "title": "Mishnah Makkot", 
         "year": 210
     }, 
@@ -885,7 +885,7 @@
             "lng": 33.9749193
         }, 
         "place": "Talmudic Israel", 
-        "semantic_place": "Talmudic Israel", 
+        "semantic_place": "Tiberius, Israel", 
         "title": "Mishnah Shevuot", 
         "year": 210
     }, 
@@ -895,7 +895,7 @@
             "lng": 33.9749193
         }, 
         "place": "Talmudic Israel", 
-        "semantic_place": "Talmudic Israel", 
+        "semantic_place": "Tiberius, Israel", 
         "title": "Mishnah Eduyot", 
         "year": 210
     }, 
@@ -905,7 +905,7 @@
             "lng": 33.9749193
         }, 
         "place": "Talmudic Israel", 
-        "semantic_place": "Talmudic Israel", 
+        "semantic_place": "Tiberius, Israel", 
         "title": "Mishnah Avodah Zarah", 
         "year": 210
     }, 
@@ -915,7 +915,7 @@
             "lng": 33.9749193
         }, 
         "place": "Talmudic Israel", 
-        "semantic_place": "Talmudic Israel", 
+        "semantic_place": "Tiberius, Israel", 
         "title": "Pirkei Avot", 
         "year": 210
     }, 
@@ -925,7 +925,7 @@
             "lng": 33.9749193
         }, 
         "place": "Talmudic Israel", 
-        "semantic_place": "Talmudic Israel", 
+        "semantic_place": "Tiberius, Israel", 
         "title": "Mishnah Horayot", 
         "year": 210
     }, 
@@ -935,7 +935,7 @@
             "lng": 33.9749193
         }, 
         "place": "Talmudic Israel", 
-        "semantic_place": "Talmudic Israel", 
+        "semantic_place": "Tiberius, Israel", 
         "title": "Mishnah Zevachim", 
         "year": 210
     }, 
@@ -945,7 +945,7 @@
             "lng": 33.9749193
         }, 
         "place": "Talmudic Israel", 
-        "semantic_place": "Talmudic Israel", 
+        "semantic_place": "Tiberius, Israel", 
         "title": "Mishnah Menachot", 
         "year": 210
     }, 
@@ -955,7 +955,7 @@
             "lng": 33.9749193
         }, 
         "place": "Talmudic Israel", 
-        "semantic_place": "Talmudic Israel", 
+        "semantic_place": "Tiberius, Israel", 
         "title": "Mishnah Chullin", 
         "year": 210
     }, 
@@ -965,7 +965,7 @@
             "lng": 33.9749193
         }, 
         "place": "Talmudic Israel", 
-        "semantic_place": "Talmudic Israel", 
+        "semantic_place": "Tiberius, Israel", 
         "title": "Mishnah Bekhorot", 
         "year": 210
     }, 
@@ -975,7 +975,7 @@
             "lng": 33.9749193
         }, 
         "place": "Talmudic Israel", 
-        "semantic_place": "Talmudic Israel", 
+        "semantic_place": "Tiberius, Israel", 
         "title": "Mishnah Arakhin", 
         "year": 210
     }, 
@@ -985,7 +985,7 @@
             "lng": 33.9749193
         }, 
         "place": "Talmudic Israel", 
-        "semantic_place": "Talmudic Israel", 
+        "semantic_place": "Tiberius, Israel", 
         "title": "Mishnah Temurah", 
         "year": 210
     }, 
@@ -995,7 +995,7 @@
             "lng": 33.9749193
         }, 
         "place": "Talmudic Israel", 
-        "semantic_place": "Talmudic Israel", 
+        "semantic_place": "Tiberius, Israel", 
         "title": "Mishnah Keritot", 
         "year": 210
     }, 
@@ -1005,7 +1005,7 @@
             "lng": 33.9749193
         }, 
         "place": "Talmudic Israel", 
-        "semantic_place": "Talmudic Israel", 
+        "semantic_place": "Tiberius, Israel", 
         "title": "Mishnah Meilah", 
         "year": 210
     }, 
@@ -1015,7 +1015,7 @@
             "lng": 33.9749193
         }, 
         "place": "Talmudic Israel", 
-        "semantic_place": "Talmudic Israel", 
+        "semantic_place": "Tiberius, Israel", 
         "title": "Mishnah Tamid", 
         "year": 210
     }, 
@@ -1025,7 +1025,7 @@
             "lng": 33.9749193
         }, 
         "place": "Talmudic Israel", 
-        "semantic_place": "Talmudic Israel", 
+        "semantic_place": "Tiberius, Israel", 
         "title": "Mishnah Middot", 
         "year": 210
     }, 
@@ -1035,7 +1035,7 @@
             "lng": 33.9749193
         }, 
         "place": "Talmudic Israel", 
-        "semantic_place": "Talmudic Israel", 
+        "semantic_place": "Tiberius, Israel", 
         "title": "Mishnah Kinnim", 
         "year": 210
     }, 
@@ -1045,7 +1045,7 @@
             "lng": 33.9749193
         }, 
         "place": "Talmudic Israel", 
-        "semantic_place": "Talmudic Israel", 
+        "semantic_place": "Tiberius, Israel", 
         "title": "Mishnah Kelim", 
         "year": 210
     }, 
@@ -1055,7 +1055,7 @@
             "lng": 33.9749193
         }, 
         "place": "Talmudic Israel", 
-        "semantic_place": "Talmudic Israel", 
+        "semantic_place": "Tiberius, Israel", 
         "title": "Mishnah Oholot", 
         "year": 210
     }, 
@@ -1065,7 +1065,7 @@
             "lng": 33.9749193
         }, 
         "place": "Talmudic Israel", 
-        "semantic_place": "Talmudic Israel", 
+        "semantic_place": "Tiberius, Israel", 
         "title": "Mishnah Negaim", 
         "year": 210
     }, 
@@ -1075,7 +1075,7 @@
             "lng": 33.9749193
         }, 
         "place": "Talmudic Israel", 
-        "semantic_place": "Talmudic Israel", 
+        "semantic_place": "Tiberius, Israel", 
         "title": "Mishnah Parah", 
         "year": 210
     }, 
@@ -1085,7 +1085,7 @@
             "lng": 33.9749193
         }, 
         "place": "Talmudic Israel", 
-        "semantic_place": "Talmudic Israel", 
+        "semantic_place": "Tiberius, Israel", 
         "title": "Mishnah Tahorot", 
         "year": 210
     }, 
@@ -1095,7 +1095,7 @@
             "lng": 33.9749193
         }, 
         "place": "Talmudic Israel", 
-        "semantic_place": "Talmudic Israel", 
+        "semantic_place": "Tiberius, Israel", 
         "title": "Mishnah Mikvaot", 
         "year": 210
     }, 
@@ -1105,7 +1105,7 @@
             "lng": 33.9749193
         }, 
         "place": "Talmudic Israel", 
-        "semantic_place": "Talmudic Israel", 
+        "semantic_place": "Tiberius, Israel", 
         "title": "Mishnah Niddah", 
         "year": 210
     }, 
@@ -1115,7 +1115,7 @@
             "lng": 33.9749193
         }, 
         "place": "Talmudic Israel", 
-        "semantic_place": "Talmudic Israel", 
+        "semantic_place": "Tiberius, Israel", 
         "title": "Mishnah Makhshirin", 
         "year": 210
     }, 
@@ -1125,7 +1125,7 @@
             "lng": 33.9749193
         }, 
         "place": "Talmudic Israel", 
-        "semantic_place": "Talmudic Israel", 
+        "semantic_place": "Tiberius, Israel", 
         "title": "Mishnah Zavim", 
         "year": 210
     }, 
@@ -1135,7 +1135,7 @@
             "lng": 33.9749193
         }, 
         "place": "Talmudic Israel", 
-        "semantic_place": "Talmudic Israel", 
+        "semantic_place": "Tiberius, Israel", 
         "title": "Mishnah Tevul Yom", 
         "year": 210
     }, 
@@ -1145,7 +1145,7 @@
             "lng": 33.9749193
         }, 
         "place": "Talmudic Israel", 
-        "semantic_place": "Talmudic Israel", 
+        "semantic_place": "Tiberius, Israel", 
         "title": "Mishnah Yadayim", 
         "year": 210
     }, 
@@ -1155,7 +1155,7 @@
             "lng": 33.9749193
         }, 
         "place": "Talmudic Israel", 
-        "semantic_place": "Talmudic Israel", 
+        "semantic_place": "Tiberius, Israel", 
         "title": "Mishnah Oktzin", 
         "year": 210
     }, 
@@ -1165,7 +1165,7 @@
             "lng": 33.9749193
         }, 
         "place": "Talmudic Israel", 
-        "semantic_place": "Talmudic Israel", 
+        "semantic_place": "Tiberius, Israel", 
         "title": "Tosefta Berakhot", 
         "year": 210
     }, 
@@ -1175,7 +1175,7 @@
             "lng": 33.9749193
         }, 
         "place": "Talmudic Israel", 
-        "semantic_place": "Talmudic Israel", 
+        "semantic_place": "Tiberius, Israel", 
         "title": "Tosefta Peah", 
         "year": 210
     }, 
@@ -1185,7 +1185,7 @@
             "lng": 33.9749193
         }, 
         "place": "Talmudic Israel", 
-        "semantic_place": "Talmudic Israel", 
+        "semantic_place": "Tiberius, Israel", 
         "title": "Tosefta Demai", 
         "year": 210
     }, 
@@ -1195,7 +1195,7 @@
             "lng": 33.9749193
         }, 
         "place": "Talmudic Israel", 
-        "semantic_place": "Talmudic Israel", 
+        "semantic_place": "Tiberius, Israel", 
         "title": "Tosefta Shevi'it", 
         "year": 210
     }, 
@@ -1205,7 +1205,7 @@
             "lng": 33.9749193
         }, 
         "place": "Talmudic Israel", 
-        "semantic_place": "Talmudic Israel", 
+        "semantic_place": "Tiberius, Israel", 
         "title": "Tosefta Terumot", 
         "year": 210
     }, 
@@ -1215,7 +1215,7 @@
             "lng": 33.9749193
         }, 
         "place": "Talmudic Israel", 
-        "semantic_place": "Talmudic Israel", 
+        "semantic_place": "Tiberius, Israel", 
         "title": "Tosefta Ma'asrot", 
         "year": 210
     }, 
@@ -1225,7 +1225,7 @@
             "lng": 33.9749193
         }, 
         "place": "Talmudic Israel", 
-        "semantic_place": "Talmudic Israel", 
+        "semantic_place": "Tiberius, Israel", 
         "title": "Tosefta Ma'aser Sheni", 
         "year": 210
     }, 
@@ -1235,7 +1235,7 @@
             "lng": 33.9749193
         }, 
         "place": "Talmudic Israel", 
-        "semantic_place": "Talmudic Israel", 
+        "semantic_place": "Tiberius, Israel", 
         "title": "Tosefta Challah", 
         "year": 210
     }, 
@@ -1245,7 +1245,7 @@
             "lng": 33.9749193
         }, 
         "place": "Talmudic Israel", 
-        "semantic_place": "Talmudic Israel", 
+        "semantic_place": "Tiberius, Israel", 
         "title": "Tosefta Orlah", 
         "year": 210
     }, 
@@ -1255,7 +1255,7 @@
             "lng": 33.9749193
         }, 
         "place": "Talmudic Israel", 
-        "semantic_place": "Talmudic Israel", 
+        "semantic_place": "Tiberius, Israel", 
         "title": "Tosefta Kilaim", 
         "year": 210
     }, 
@@ -1265,7 +1265,7 @@
             "lng": 33.9749193
         }, 
         "place": "Talmudic Israel", 
-        "semantic_place": "Talmudic Israel", 
+        "semantic_place": "Tiberius, Israel", 
         "title": "Tosefta Bikkurim", 
         "year": 210
     }, 
@@ -1275,7 +1275,7 @@
             "lng": 33.9749193
         }, 
         "place": "Talmudic Israel", 
-        "semantic_place": "Talmudic Israel", 
+        "semantic_place": "Tiberius, Israel", 
         "title": "Tosefta Shabbat", 
         "year": 210
     }, 
@@ -1285,7 +1285,7 @@
             "lng": 33.9749193
         }, 
         "place": "Talmudic Israel", 
-        "semantic_place": "Talmudic Israel", 
+        "semantic_place": "Tiberius, Israel", 
         "title": "Tosefta Eiruvin", 
         "year": 210
     }, 
@@ -1295,7 +1295,7 @@
             "lng": 33.9749193
         }, 
         "place": "Talmudic Israel", 
-        "semantic_place": "Talmudic Israel", 
+        "semantic_place": "Tiberius, Israel", 
         "title": "Tosefta Pesachim", 
         "year": 210
     }, 
@@ -1305,7 +1305,7 @@
             "lng": 33.9749193
         }, 
         "place": "Talmudic Israel", 
-        "semantic_place": "Talmudic Israel", 
+        "semantic_place": "Tiberius, Israel", 
         "title": "Tosefta Shekalim", 
         "year": 210
     }, 
@@ -1315,7 +1315,7 @@
             "lng": 33.9749193
         }, 
         "place": "Talmudic Israel", 
-        "semantic_place": "Talmudic Israel", 
+        "semantic_place": "Tiberius, Israel", 
         "title": "Tosefta Yoma", 
         "year": 210
     }, 
@@ -1325,7 +1325,7 @@
             "lng": 33.9749193
         }, 
         "place": "Talmudic Israel", 
-        "semantic_place": "Talmudic Israel", 
+        "semantic_place": "Tiberius, Israel", 
         "title": "Tosefta Sukkah", 
         "year": 210
     }, 
@@ -1335,7 +1335,7 @@
             "lng": 33.9749193
         }, 
         "place": "Talmudic Israel", 
-        "semantic_place": "Talmudic Israel", 
+        "semantic_place": "Tiberius, Israel", 
         "title": "Tosefta Bava Metzia", 
         "year": 210
     }, 
@@ -1345,7 +1345,7 @@
             "lng": 33.9749193
         }, 
         "place": "Talmudic Israel", 
-        "semantic_place": "Talmudic Israel", 
+        "semantic_place": "Tiberius, Israel", 
         "title": "Tosefta Avodah Zarah", 
         "year": 210
     }, 
@@ -1355,7 +1355,7 @@
             "lng": 33.9749193
         }, 
         "place": "Talmudic Israel", 
-        "semantic_place": "Talmudic Israel", 
+        "semantic_place": "Tiberius, Israel", 
         "title": "Tosefta Megillah", 
         "year": 210
     }, 
@@ -1365,7 +1365,7 @@
             "lng": 33.9749193
         }, 
         "place": "Talmudic Israel", 
-        "semantic_place": "Talmudic Israel", 
+        "semantic_place": "Tiberius, Israel", 
         "title": "Tosefta Beitsah", 
         "year": 210
     }, 
@@ -1375,7 +1375,7 @@
             "lng": 33.9749193
         }, 
         "place": "Talmudic Israel", 
-        "semantic_place": "Talmudic Israel", 
+        "semantic_place": "Tiberius, Israel", 
         "title": "Tosefta Rosh HaShanah", 
         "year": 210
     }, 
@@ -1385,7 +1385,7 @@
             "lng": 33.9749193
         }, 
         "place": "Talmudic Israel", 
-        "semantic_place": "Talmudic Israel", 
+        "semantic_place": "Tiberius, Israel", 
         "title": "Tosefta Ta'anit", 
         "year": 210
     }, 
@@ -1395,7 +1395,7 @@
             "lng": 33.9749193
         }, 
         "place": "Talmudic Israel", 
-        "semantic_place": "Talmudic Israel", 
+        "semantic_place": "Tiberius, Israel", 
         "title": "Tosefta Moed Kattan", 
         "year": 210
     }, 
@@ -1405,7 +1405,7 @@
             "lng": 33.9749193
         }, 
         "place": "Talmudic Israel", 
-        "semantic_place": "Talmudic Israel", 
+        "semantic_place": "Tiberius, Israel", 
         "title": "Tosefta Chagigah", 
         "year": 210
     }, 
@@ -1415,7 +1415,7 @@
             "lng": 33.9749193
         }, 
         "place": "Talmudic Israel", 
-        "semantic_place": "Talmudic Israel", 
+        "semantic_place": "Tiberius, Israel", 
         "title": "Tosefta Yevamot", 
         "year": 210
     }, 
@@ -1425,7 +1425,7 @@
             "lng": 33.9749193
         }, 
         "place": "Talmudic Israel", 
-        "semantic_place": "Talmudic Israel", 
+        "semantic_place": "Tiberius, Israel", 
         "title": "Tosefta Ketubot", 
         "year": 210
     }, 
@@ -1435,7 +1435,7 @@
             "lng": 33.9749193
         }, 
         "place": "Talmudic Israel", 
-        "semantic_place": "Talmudic Israel", 
+        "semantic_place": "Tiberius, Israel", 
         "title": "Tosefta Nedarim", 
         "year": 210
     }, 
@@ -1445,7 +1445,7 @@
             "lng": 33.9749193
         }, 
         "place": "Talmudic Israel", 
-        "semantic_place": "Talmudic Israel", 
+        "semantic_place": "Tiberius, Israel", 
         "title": "Tosefta Nazir", 
         "year": 210
     }, 
@@ -1455,7 +1455,7 @@
             "lng": 33.9749193
         }, 
         "place": "Talmudic Israel", 
-        "semantic_place": "Talmudic Israel", 
+        "semantic_place": "Tiberius, Israel", 
         "title": "Tosefta Sotah", 
         "year": 210
     }, 
@@ -1465,7 +1465,7 @@
             "lng": 33.9749193
         }, 
         "place": "Talmudic Israel", 
-        "semantic_place": "Talmudic Israel", 
+        "semantic_place": "Tiberius, Israel", 
         "title": "Tosefta Gittin", 
         "year": 210
     }, 
@@ -1475,7 +1475,7 @@
             "lng": 33.9749193
         }, 
         "place": "Talmudic Israel", 
-        "semantic_place": "Talmudic Israel", 
+        "semantic_place": "Tiberius, Israel", 
         "title": "Tosefta Kiddushin", 
         "year": 210
     }, 
@@ -1485,7 +1485,7 @@
             "lng": 33.9749193
         }, 
         "place": "Talmudic Israel", 
-        "semantic_place": "Talmudic Israel", 
+        "semantic_place": "Tiberius, Israel", 
         "title": "Tosefta Bava Kamma", 
         "year": 210
     }, 
@@ -1495,7 +1495,7 @@
             "lng": 33.9749193
         }, 
         "place": "Talmudic Israel", 
-        "semantic_place": "Talmudic Israel", 
+        "semantic_place": "Tiberius, Israel", 
         "title": "Tosefta Bava Batra", 
         "year": 210
     }, 
@@ -1505,7 +1505,7 @@
             "lng": 33.9749193
         }, 
         "place": "Talmudic Israel", 
-        "semantic_place": "Talmudic Israel", 
+        "semantic_place": "Tiberius, Israel", 
         "title": "Tosefta Sanhedrin", 
         "year": 210
     }, 
@@ -1515,7 +1515,7 @@
             "lng": 33.9749193
         }, 
         "place": "Talmudic Israel", 
-        "semantic_place": "Talmudic Israel", 
+        "semantic_place": "Tiberius, Israel", 
         "title": "Tosefta Makkot", 
         "year": 210
     }, 
@@ -1525,7 +1525,7 @@
             "lng": 33.9749193
         }, 
         "place": "Talmudic Israel", 
-        "semantic_place": "Talmudic Israel", 
+        "semantic_place": "Tiberius, Israel", 
         "title": "Tosefta Shevuot", 
         "year": 210
     }, 
@@ -1535,7 +1535,7 @@
             "lng": 33.9749193
         }, 
         "place": "Talmudic Israel", 
-        "semantic_place": "Talmudic Israel", 
+        "semantic_place": "Tiberius, Israel", 
         "title": "Tosefta Eduyot", 
         "year": 210
     }, 
@@ -1545,7 +1545,7 @@
             "lng": 33.9749193
         }, 
         "place": "Talmudic Israel", 
-        "semantic_place": "Talmudic Israel", 
+        "semantic_place": "Tiberius, Israel", 
         "title": "Tosefta Horayot", 
         "year": 210
     }, 
@@ -1555,7 +1555,7 @@
             "lng": 33.9749193
         }, 
         "place": "Talmudic Israel", 
-        "semantic_place": "Talmudic Israel", 
+        "semantic_place": "Tiberius, Israel", 
         "title": "Tosefta Zevahim", 
         "year": 210
     }, 
@@ -1565,7 +1565,7 @@
             "lng": 33.9749193
         }, 
         "place": "Talmudic Israel", 
-        "semantic_place": "Talmudic Israel", 
+        "semantic_place": "Tiberius, Israel", 
         "title": "Tosefta Menahot", 
         "year": 210
     }, 
@@ -1575,7 +1575,7 @@
             "lng": 33.9749193
         }, 
         "place": "Talmudic Israel", 
-        "semantic_place": "Talmudic Israel", 
+        "semantic_place": "Tiberius, Israel", 
         "title": "Tosefta Chullin", 
         "year": 210
     }, 
@@ -1585,7 +1585,7 @@
             "lng": 33.9749193
         }, 
         "place": "Talmudic Israel", 
-        "semantic_place": "Talmudic Israel", 
+        "semantic_place": "Tiberius, Israel", 
         "title": "Tosefta Bekhorot", 
         "year": 210
     }, 
@@ -1595,7 +1595,7 @@
             "lng": 33.9749193
         }, 
         "place": "Talmudic Israel", 
-        "semantic_place": "Talmudic Israel", 
+        "semantic_place": "Tiberius, Israel", 
         "title": "Tosefta Arakhin", 
         "year": 210
     }, 
@@ -1605,7 +1605,7 @@
             "lng": 33.9749193
         }, 
         "place": "Talmudic Israel", 
-        "semantic_place": "Talmudic Israel", 
+        "semantic_place": "Tiberius, Israel", 
         "title": "Tosefta Temurah", 
         "year": 210
     }, 
@@ -1615,7 +1615,7 @@
             "lng": 33.9749193
         }, 
         "place": "Talmudic Israel", 
-        "semantic_place": "Talmudic Israel", 
+        "semantic_place": "Tiberius, Israel", 
         "title": "Tosefta Keritot", 
         "year": 210
     }, 
@@ -1625,7 +1625,7 @@
             "lng": 33.9749193
         }, 
         "place": "Talmudic Israel", 
-        "semantic_place": "Talmudic Israel", 
+        "semantic_place": "Tiberius, Israel", 
         "title": "Tosefta Meilah", 
         "year": 210
     }, 
@@ -1635,7 +1635,7 @@
             "lng": 33.9749193
         }, 
         "place": "Talmudic Israel", 
-        "semantic_place": "Talmudic Israel", 
+        "semantic_place": "Tiberius, Israel", 
         "title": "Tosefta Keilim Metsia", 
         "year": 210
     }, 
@@ -1645,7 +1645,7 @@
             "lng": 33.9749193
         }, 
         "place": "Talmudic Israel", 
-        "semantic_place": "Talmudic Israel", 
+        "semantic_place": "Tiberius, Israel", 
         "title": "Tosefta Keilim Batra", 
         "year": 210
     }, 
@@ -1655,7 +1655,7 @@
             "lng": 33.9749193
         }, 
         "place": "Talmudic Israel", 
-        "semantic_place": "Talmudic Israel", 
+        "semantic_place": "Tiberius, Israel", 
         "title": "Tosefta Ohalot", 
         "year": 210
     }, 
@@ -1665,7 +1665,7 @@
             "lng": 33.9749193
         }, 
         "place": "Talmudic Israel", 
-        "semantic_place": "Talmudic Israel", 
+        "semantic_place": "Tiberius, Israel", 
         "title": "Tosefta Negaim", 
         "year": 210
     }, 
@@ -1675,7 +1675,7 @@
             "lng": 33.9749193
         }, 
         "place": "Talmudic Israel", 
-        "semantic_place": "Talmudic Israel", 
+        "semantic_place": "Tiberius, Israel", 
         "title": "Tosefta Parah", 
         "year": 210
     }, 
@@ -1685,7 +1685,7 @@
             "lng": 33.9749193
         }, 
         "place": "Talmudic Israel", 
-        "semantic_place": "Talmudic Israel", 
+        "semantic_place": "Tiberius, Israel", 
         "title": "Tosefta Mikvaot", 
         "year": 210
     }, 
@@ -1695,7 +1695,7 @@
             "lng": 33.9749193
         }, 
         "place": "Talmudic Israel", 
-        "semantic_place": "Talmudic Israel", 
+        "semantic_place": "Tiberius, Israel", 
         "title": "Tosefta Niddah", 
         "year": 210
     }, 
@@ -1705,7 +1705,7 @@
             "lng": 33.9749193
         }, 
         "place": "Talmudic Israel", 
-        "semantic_place": "Talmudic Israel", 
+        "semantic_place": "Tiberius, Israel", 
         "title": "Tosefta Makhshirin", 
         "year": 210
     }, 
@@ -1715,7 +1715,7 @@
             "lng": 33.9749193
         }, 
         "place": "Talmudic Israel", 
-        "semantic_place": "Talmudic Israel", 
+        "semantic_place": "Tiberius, Israel", 
         "title": "Tosefta Zavim", 
         "year": 210
     }, 
@@ -1725,7 +1725,7 @@
             "lng": 33.9749193
         }, 
         "place": "Talmudic Israel", 
-        "semantic_place": "Talmudic Israel", 
+        "semantic_place": "Tiberius, Israel", 
         "title": "Tosefta Tevul Yom", 
         "year": 210
     }, 
@@ -1735,7 +1735,7 @@
             "lng": 33.9749193
         }, 
         "place": "Talmudic Israel", 
-        "semantic_place": "Talmudic Israel", 
+        "semantic_place": "Tiberius, Israel", 
         "title": "Tosefta Yadayim", 
         "year": 210
     }, 
@@ -1745,7 +1745,7 @@
             "lng": 33.9749193
         }, 
         "place": "Talmudic Israel", 
-        "semantic_place": "Talmudic Israel", 
+        "semantic_place": "Tiberius, Israel", 
         "title": "Tosefta Uktsin", 
         "year": 210
     }, 
@@ -1755,7 +1755,7 @@
             "lng": 33.9749193
         }, 
         "place": "Talmudic Israel/Babylon", 
-        "semantic_place": "Talmudic Israel/Babylon", 
+        "semantic_place": "Tiberius, Israel", 
         "title": "Sifra", 
         "year": 300
     }, 
@@ -1765,7 +1765,7 @@
             "lng": 33.9749193
         }, 
         "place": "Talmudic Israel/Babylon", 
-        "semantic_place": "Talmudic Israel/Babylon", 
+        "semantic_place": "Tiberius, Israel", 
         "title": "Seder Olam Rabbah", 
         "year": 350
     }, 
@@ -1775,7 +1775,7 @@
             "lng": 33.9749193
         }, 
         "place": "Talmudic Israel", 
-        "semantic_place": "Talmudic Israel", 
+        "semantic_place": "Tiberius, Israel", 
         "title": "Jerusalem Talmud Ma'aser Sheni", 
         "year": 400
     }, 
@@ -1785,7 +1785,7 @@
             "lng": 33.9749193
         }, 
         "place": "Talmudic Israel", 
-        "semantic_place": "Talmudic Israel", 
+        "semantic_place": "Tiberius, Israel", 
         "title": "Jerusalem Talmud Shevi'it", 
         "year": 400
     }, 
@@ -1795,7 +1795,7 @@
             "lng": 33.9749193
         }, 
         "place": "Talmudic Israel", 
-        "semantic_place": "Talmudic Israel", 
+        "semantic_place": "Tiberius, Israel", 
         "title": "Jerusalem Talmud Berakhot", 
         "year": 400
     }, 
@@ -1805,7 +1805,7 @@
             "lng": 33.9749193
         }, 
         "place": "Talmudic Israel", 
-        "semantic_place": "Talmudic Israel", 
+        "semantic_place": "Tiberius, Israel", 
         "title": "Jerusalem Talmud Bikkurim", 
         "year": 400
     }, 
@@ -1815,7 +1815,7 @@
             "lng": 33.9749193
         }, 
         "place": "Talmudic Israel", 
-        "semantic_place": "Talmudic Israel", 
+        "semantic_place": "Tiberius, Israel", 
         "title": "Jerusalem Talmud Demai", 
         "year": 400
     }, 
@@ -1825,7 +1825,7 @@
             "lng": 33.9749193
         }, 
         "place": "Talmudic Israel", 
-        "semantic_place": "Talmudic Israel", 
+        "semantic_place": "Tiberius, Israel", 
         "title": "Jerusalem Talmud Hallah", 
         "year": 400
     }, 
@@ -1835,7 +1835,7 @@
             "lng": 33.9749193
         }, 
         "place": "Talmudic Israel", 
-        "semantic_place": "Talmudic Israel", 
+        "semantic_place": "Tiberius, Israel", 
         "title": "Jerusalem Talmud Kilayim", 
         "year": 400
     }, 
@@ -1845,7 +1845,7 @@
             "lng": 33.9749193
         }, 
         "place": "Talmudic Israel", 
-        "semantic_place": "Talmudic Israel", 
+        "semantic_place": "Tiberius, Israel", 
         "title": "Jerusalem Talmud Ma'asrot", 
         "year": 400
     }, 
@@ -1855,7 +1855,7 @@
             "lng": 33.9749193
         }, 
         "place": "Talmudic Israel", 
-        "semantic_place": "Talmudic Israel", 
+        "semantic_place": "Tiberius, Israel", 
         "title": "Jerusalem Talmud Orlah", 
         "year": 400
     }, 
@@ -1865,7 +1865,7 @@
             "lng": 33.9749193
         }, 
         "place": "Talmudic Israel", 
-        "semantic_place": "Talmudic Israel", 
+        "semantic_place": "Tiberius, Israel", 
         "title": "Jerusalem Talmud Peah", 
         "year": 400
     }, 
@@ -1875,7 +1875,7 @@
             "lng": 33.9749193
         }, 
         "place": "Talmudic Israel", 
-        "semantic_place": "Talmudic Israel", 
+        "semantic_place": "Tiberius, Israel", 
         "title": "Jerusalem Talmud Terumot", 
         "year": 400
     }, 
@@ -1885,7 +1885,7 @@
             "lng": 33.9749193
         }, 
         "place": "Talmudic Israel", 
-        "semantic_place": "Talmudic Israel", 
+        "semantic_place": "Tiberius, Israel", 
         "title": "Jerusalem Talmud Beitzah", 
         "year": 400
     }, 
@@ -1895,7 +1895,7 @@
             "lng": 33.9749193
         }, 
         "place": "Talmudic Israel", 
-        "semantic_place": "Talmudic Israel", 
+        "semantic_place": "Tiberius, Israel", 
         "title": "Jerusalem Talmud Chagigah", 
         "year": 400
     }, 
@@ -1905,7 +1905,7 @@
             "lng": 33.9749193
         }, 
         "place": "Talmudic Israel", 
-        "semantic_place": "Talmudic Israel", 
+        "semantic_place": "Tiberius, Israel", 
         "title": "Jerusalem Talmud Megillah", 
         "year": 400
     }, 
@@ -1915,7 +1915,7 @@
             "lng": 33.9749193
         }, 
         "place": "Talmudic Israel", 
-        "semantic_place": "Talmudic Israel", 
+        "semantic_place": "Tiberius, Israel", 
         "title": "Jerusalem Talmud Moed Kattan", 
         "year": 400
     }, 
@@ -1925,7 +1925,7 @@
             "lng": 33.9749193
         }, 
         "place": "Talmudic Israel", 
-        "semantic_place": "Talmudic Israel", 
+        "semantic_place": "Tiberius, Israel", 
         "title": "Jerusalem Talmud Pesachim", 
         "year": 400
     }, 
@@ -1935,7 +1935,7 @@
             "lng": 33.9749193
         }, 
         "place": "Talmudic Israel", 
-        "semantic_place": "Talmudic Israel", 
+        "semantic_place": "Tiberius, Israel", 
         "title": "Jerusalem Talmud Rosh Hashanah", 
         "year": 400
     }, 
@@ -1945,7 +1945,7 @@
             "lng": 33.9749193
         }, 
         "place": "Talmudic Israel", 
-        "semantic_place": "Talmudic Israel", 
+        "semantic_place": "Tiberius, Israel", 
         "title": "Jerusalem Talmud Shabbat", 
         "year": 400
     }, 
@@ -1955,7 +1955,7 @@
             "lng": 33.9749193
         }, 
         "place": "Talmudic Israel", 
-        "semantic_place": "Talmudic Israel", 
+        "semantic_place": "Tiberius, Israel", 
         "title": "Jerusalem Talmud Shekalim", 
         "year": 400
     }, 
@@ -1965,7 +1965,7 @@
             "lng": 33.9749193
         }, 
         "place": "Talmudic Israel", 
-        "semantic_place": "Talmudic Israel", 
+        "semantic_place": "Tiberius, Israel", 
         "title": "Jerusalem Talmud Sukkah", 
         "year": 400
     }, 
@@ -1975,7 +1975,7 @@
             "lng": 33.9749193
         }, 
         "place": "Talmudic Israel", 
-        "semantic_place": "Talmudic Israel", 
+        "semantic_place": "Tiberius, Israel", 
         "title": "Jerusalem Talmud Ta'anit", 
         "year": 400
     }, 
@@ -1985,7 +1985,7 @@
             "lng": 33.9749193
         }, 
         "place": "Talmudic Israel", 
-        "semantic_place": "Talmudic Israel", 
+        "semantic_place": "Tiberius, Israel", 
         "title": "Jerusalem Talmud Yoma", 
         "year": 400
     }, 
@@ -1995,7 +1995,7 @@
             "lng": 33.9749193
         }, 
         "place": "Talmudic Israel", 
-        "semantic_place": "Talmudic Israel", 
+        "semantic_place": "Tiberius, Israel", 
         "title": "Jerusalem Talmud Gittin", 
         "year": 400
     }, 
@@ -2005,7 +2005,7 @@
             "lng": 33.9749193
         }, 
         "place": "Talmudic Israel", 
-        "semantic_place": "Talmudic Israel", 
+        "semantic_place": "Tiberius, Israel", 
         "title": "Jerusalem Talmud Ketubot", 
         "year": 400
     }, 
@@ -2015,7 +2015,7 @@
             "lng": 33.9749193
         }, 
         "place": "Talmudic Israel", 
-        "semantic_place": "Talmudic Israel", 
+        "semantic_place": "Tiberius, Israel", 
         "title": "Jerusalem Talmud Kiddushin", 
         "year": 400
     }, 
@@ -2025,7 +2025,7 @@
             "lng": 33.9749193
         }, 
         "place": "Talmudic Israel", 
-        "semantic_place": "Talmudic Israel", 
+        "semantic_place": "Tiberius, Israel", 
         "title": "Jerusalem Talmud Nazir", 
         "year": 400
     }, 
@@ -2035,7 +2035,7 @@
             "lng": 33.9749193
         }, 
         "place": "Talmudic Israel", 
-        "semantic_place": "Talmudic Israel", 
+        "semantic_place": "Tiberius, Israel", 
         "title": "Jerusalem Talmud Nedarim", 
         "year": 400
     }, 
@@ -2045,7 +2045,7 @@
             "lng": 33.9749193
         }, 
         "place": "Talmudic Israel", 
-        "semantic_place": "Talmudic Israel", 
+        "semantic_place": "Tiberius, Israel", 
         "title": "Jerusalem Talmud Sotah", 
         "year": 400
     }, 
@@ -2055,7 +2055,7 @@
             "lng": 33.9749193
         }, 
         "place": "Talmudic Israel", 
-        "semantic_place": "Talmudic Israel", 
+        "semantic_place": "Tiberius, Israel", 
         "title": "Jerusalem Talmud Yevamot", 
         "year": 400
     }, 
@@ -2065,7 +2065,7 @@
             "lng": 33.9749193
         }, 
         "place": "Talmudic Israel", 
-        "semantic_place": "Talmudic Israel", 
+        "semantic_place": "Tiberius, Israel", 
         "title": "Jerusalem Talmud Bava Batra", 
         "year": 400
     }, 
@@ -2075,7 +2075,7 @@
             "lng": 33.9749193
         }, 
         "place": "Talmudic Israel", 
-        "semantic_place": "Talmudic Israel", 
+        "semantic_place": "Tiberius, Israel", 
         "title": "Jerusalem Talmud Sanhedrin", 
         "year": 400
     }, 
@@ -2085,7 +2085,7 @@
             "lng": 33.9749193
         }, 
         "place": "Talmudic Israel", 
-        "semantic_place": "Talmudic Israel", 
+        "semantic_place": "Tiberius, Israel", 
         "title": "Jerusalem Talmud Avodah Zarah", 
         "year": 400
     }, 
@@ -2095,7 +2095,7 @@
             "lng": 33.9749193
         }, 
         "place": "Talmudic Israel", 
-        "semantic_place": "Talmudic Israel", 
+        "semantic_place": "Tiberius, Israel", 
         "title": "Jerusalem Talmud Bava Kamma", 
         "year": 400
     }, 
@@ -2105,7 +2105,7 @@
             "lng": 33.9749193
         }, 
         "place": "Talmudic Israel", 
-        "semantic_place": "Talmudic Israel", 
+        "semantic_place": "Tiberius, Israel", 
         "title": "Jerusalem Talmud Bava Metsia", 
         "year": 400
     }, 
@@ -2115,7 +2115,7 @@
             "lng": 33.9749193
         }, 
         "place": "Talmudic Israel", 
-        "semantic_place": "Talmudic Israel", 
+        "semantic_place": "Tiberius, Israel", 
         "title": "Jerusalem Talmud Horayot", 
         "year": 400
     }, 
@@ -2125,7 +2125,7 @@
             "lng": 33.9749193
         }, 
         "place": "Talmudic Israel", 
-        "semantic_place": "Talmudic Israel", 
+        "semantic_place": "Tiberius, Israel", 
         "title": "Jerusalem Talmud Makkot", 
         "year": 400
     }, 
@@ -2135,7 +2135,7 @@
             "lng": 33.9749193
         }, 
         "place": "Talmudic Israel", 
-        "semantic_place": "Talmudic Israel", 
+        "semantic_place": "Tiberius, Israel", 
         "title": "Jerusalem Talmud Shevuot", 
         "year": 400
     }, 
@@ -2145,7 +2145,7 @@
             "lng": 33.9749193
         }, 
         "place": "Talmudic Israel", 
-        "semantic_place": "Talmudic Israel", 
+        "semantic_place": "Tiberius, Israel", 
         "title": "Jerusalem Talmud Niddah", 
         "year": 400
     }, 
@@ -2155,7 +2155,7 @@
             "lng": 33.9749193
         }, 
         "place": "Talmudic Babylon", 
-        "semantic_place": "Talmudic Babylon", 
+        "semantic_place": "Baghdad, Iraq", 
         "title": "Berakhot", 
         "year": 500
     }, 
@@ -2165,7 +2165,7 @@
             "lng": 33.9749193
         }, 
         "place": "Talmudic Babylon", 
-        "semantic_place": "Talmudic Babylon", 
+        "semantic_place": "Baghdad, Iraq", 
         "title": "Shabbat", 
         "year": 500
     }, 
@@ -2175,7 +2175,7 @@
             "lng": 33.9749193
         }, 
         "place": "Talmudic Babylon", 
-        "semantic_place": "Talmudic Babylon", 
+        "semantic_place": "Baghdad, Iraq", 
         "title": "Eruvin", 
         "year": 500
     }, 
@@ -2185,7 +2185,7 @@
             "lng": 33.9749193
         }, 
         "place": "Talmudic Babylon", 
-        "semantic_place": "Talmudic Babylon", 
+        "semantic_place": "Baghdad, Iraq", 
         "title": "Pesachim", 
         "year": 500
     }, 
@@ -2195,7 +2195,7 @@
             "lng": 33.9749193
         }, 
         "place": "Talmudic Babylon", 
-        "semantic_place": "Talmudic Babylon", 
+        "semantic_place": "Baghdad, Iraq", 
         "title": "Rosh Hashanah", 
         "year": 500
     }, 
@@ -2205,7 +2205,7 @@
             "lng": 33.9749193
         }, 
         "place": "Talmudic Babylon", 
-        "semantic_place": "Talmudic Babylon", 
+        "semantic_place": "Baghdad, Iraq", 
         "title": "Yoma", 
         "year": 500
     }, 
@@ -2215,7 +2215,7 @@
             "lng": 33.9749193
         }, 
         "place": "Talmudic Babylon", 
-        "semantic_place": "Talmudic Babylon", 
+        "semantic_place": "Baghdad, Iraq", 
         "title": "Sukkah", 
         "year": 500
     }, 
@@ -2225,7 +2225,7 @@
             "lng": 33.9749193
         }, 
         "place": "Talmudic Babylon", 
-        "semantic_place": "Talmudic Babylon", 
+        "semantic_place": "Baghdad, Iraq", 
         "title": "Beitzah", 
         "year": 500
     }, 
@@ -2235,7 +2235,7 @@
             "lng": 33.9749193
         }, 
         "place": "Talmudic Babylon", 
-        "semantic_place": "Talmudic Babylon", 
+        "semantic_place": "Baghdad, Iraq", 
         "title": "Taanit", 
         "year": 500
     }, 
@@ -2245,7 +2245,7 @@
             "lng": 33.9749193
         }, 
         "place": "Talmudic Babylon", 
-        "semantic_place": "Talmudic Babylon", 
+        "semantic_place": "Baghdad, Iraq", 
         "title": "Megillah", 
         "year": 500
     }, 
@@ -2255,7 +2255,7 @@
             "lng": 33.9749193
         }, 
         "place": "Talmudic Babylon", 
-        "semantic_place": "Talmudic Babylon", 
+        "semantic_place": "Baghdad, Iraq", 
         "title": "Moed Katan", 
         "year": 500
     }, 
@@ -2265,7 +2265,7 @@
             "lng": 33.9749193
         }, 
         "place": "Talmudic Babylon", 
-        "semantic_place": "Talmudic Babylon", 
+        "semantic_place": "Baghdad, Iraq", 
         "title": "Chagigah", 
         "year": 500
     }, 
@@ -2275,7 +2275,7 @@
             "lng": 33.9749193
         }, 
         "place": "Talmudic Babylon", 
-        "semantic_place": "Talmudic Babylon", 
+        "semantic_place": "Baghdad, Iraq", 
         "title": "Yevamot", 
         "year": 500
     }, 
@@ -2285,7 +2285,7 @@
             "lng": 33.9749193
         }, 
         "place": "Talmudic Babylon", 
-        "semantic_place": "Talmudic Babylon", 
+        "semantic_place": "Baghdad, Iraq", 
         "title": "Ketubot", 
         "year": 500
     }, 
@@ -2295,7 +2295,7 @@
             "lng": 33.9749193
         }, 
         "place": "Talmudic Babylon", 
-        "semantic_place": "Talmudic Babylon", 
+        "semantic_place": "Baghdad, Iraq", 
         "title": "Nedarim", 
         "year": 500
     }, 
@@ -2305,7 +2305,7 @@
             "lng": 33.9749193
         }, 
         "place": "Talmudic Babylon", 
-        "semantic_place": "Talmudic Babylon", 
+        "semantic_place": "Baghdad, Iraq", 
         "title": "Nazir", 
         "year": 500
     }, 
@@ -2315,7 +2315,7 @@
             "lng": 33.9749193
         }, 
         "place": "Talmudic Babylon", 
-        "semantic_place": "Talmudic Babylon", 
+        "semantic_place": "Baghdad, Iraq", 
         "title": "Sotah", 
         "year": 500
     }, 
@@ -2325,7 +2325,7 @@
             "lng": 33.9749193
         }, 
         "place": "Talmudic Babylon", 
-        "semantic_place": "Talmudic Babylon", 
+        "semantic_place": "Baghdad, Iraq", 
         "title": "Gittin", 
         "year": 500
     }, 
@@ -2335,7 +2335,7 @@
             "lng": 33.9749193
         }, 
         "place": "Talmudic Babylon", 
-        "semantic_place": "Talmudic Babylon", 
+        "semantic_place": "Baghdad, Iraq", 
         "title": "Kiddushin", 
         "year": 500
     }, 
@@ -2345,7 +2345,7 @@
             "lng": 33.9749193
         }, 
         "place": "Talmudic Babylon", 
-        "semantic_place": "Talmudic Babylon", 
+        "semantic_place": "Baghdad, Iraq", 
         "title": "Bava Kamma", 
         "year": 500
     }, 
@@ -2355,7 +2355,7 @@
             "lng": 33.9749193
         }, 
         "place": "Talmudic Babylon", 
-        "semantic_place": "Talmudic Babylon", 
+        "semantic_place": "Baghdad, Iraq", 
         "title": "Bava Metzia", 
         "year": 500
     }, 
@@ -2365,7 +2365,7 @@
             "lng": 33.9749193
         }, 
         "place": "Talmudic Babylon", 
-        "semantic_place": "Talmudic Babylon", 
+        "semantic_place": "Baghdad, Iraq", 
         "title": "Bava Batra", 
         "year": 500
     }, 
@@ -2375,7 +2375,7 @@
             "lng": 33.9749193
         }, 
         "place": "Talmudic Babylon", 
-        "semantic_place": "Talmudic Babylon", 
+        "semantic_place": "Baghdad, Iraq", 
         "title": "Sanhedrin", 
         "year": 500
     }, 
@@ -2385,7 +2385,7 @@
             "lng": 33.9749193
         }, 
         "place": "Talmudic Babylon", 
-        "semantic_place": "Talmudic Babylon", 
+        "semantic_place": "Baghdad, Iraq", 
         "title": "Makkot", 
         "year": 500
     }, 
@@ -2395,7 +2395,7 @@
             "lng": 33.9749193
         }, 
         "place": "Talmudic Babylon", 
-        "semantic_place": "Talmudic Babylon", 
+        "semantic_place": "Baghdad, Iraq", 
         "title": "Shevuot", 
         "year": 500
     }, 
@@ -2405,7 +2405,7 @@
             "lng": 33.9749193
         }, 
         "place": "Talmudic Babylon", 
-        "semantic_place": "Talmudic Babylon", 
+        "semantic_place": "Baghdad, Iraq", 
         "title": "Avodah Zarah", 
         "year": 500
     }, 
@@ -2415,7 +2415,7 @@
             "lng": 33.9749193
         }, 
         "place": "Talmudic Babylon", 
-        "semantic_place": "Talmudic Babylon", 
+        "semantic_place": "Baghdad, Iraq", 
         "title": "Horayot", 
         "year": 500
     }, 
@@ -2425,7 +2425,7 @@
             "lng": 33.9749193
         }, 
         "place": "Talmudic Babylon", 
-        "semantic_place": "Talmudic Babylon", 
+        "semantic_place": "Baghdad, Iraq", 
         "title": "Zevachim", 
         "year": 500
     }, 
@@ -2435,7 +2435,7 @@
             "lng": 33.9749193
         }, 
         "place": "Talmudic Babylon", 
-        "semantic_place": "Talmudic Babylon", 
+        "semantic_place": "Baghdad, Iraq", 
         "title": "Menachot", 
         "year": 500
     }, 
@@ -2445,7 +2445,7 @@
             "lng": 33.9749193
         }, 
         "place": "Talmudic Babylon", 
-        "semantic_place": "Talmudic Babylon", 
+        "semantic_place": "Baghdad, Iraq", 
         "title": "Chullin", 
         "year": 500
     }, 
@@ -2455,7 +2455,7 @@
             "lng": 33.9749193
         }, 
         "place": "Talmudic Babylon", 
-        "semantic_place": "Talmudic Babylon", 
+        "semantic_place": "Baghdad, Iraq", 
         "title": "Bekhorot", 
         "year": 500
     }, 
@@ -2465,7 +2465,7 @@
             "lng": 33.9749193
         }, 
         "place": "Talmudic Babylon", 
-        "semantic_place": "Talmudic Babylon", 
+        "semantic_place": "Baghdad, Iraq", 
         "title": "Arakhin", 
         "year": 500
     }, 
@@ -2475,7 +2475,7 @@
             "lng": 33.9749193
         }, 
         "place": "Talmudic Babylon", 
-        "semantic_place": "Talmudic Babylon", 
+        "semantic_place": "Baghdad, Iraq", 
         "title": "Temurah", 
         "year": 500
     }, 
@@ -2485,7 +2485,7 @@
             "lng": 33.9749193
         }, 
         "place": "Talmudic Babylon", 
-        "semantic_place": "Talmudic Babylon", 
+        "semantic_place": "Baghdad, Iraq", 
         "title": "Keritot", 
         "year": 500
     }, 
@@ -2495,7 +2495,7 @@
             "lng": 33.9749193
         }, 
         "place": "Talmudic Babylon", 
-        "semantic_place": "Talmudic Babylon", 
+        "semantic_place": "Baghdad, Iraq", 
         "title": "Meilah", 
         "year": 500
     }, 
@@ -2505,7 +2505,7 @@
             "lng": 33.9749193
         }, 
         "place": "Talmudic Babylon", 
-        "semantic_place": "Talmudic Babylon", 
+        "semantic_place": "Baghdad, Iraq", 
         "title": "Tamid", 
         "year": 500
     }, 
@@ -2515,7 +2515,7 @@
             "lng": 33.9749193
         }, 
         "place": "Talmudic Babylon", 
-        "semantic_place": "Talmudic Babylon", 
+        "semantic_place": "Baghdad, Iraq", 
         "title": "Niddah", 
         "year": 500
     }, 
@@ -2525,7 +2525,7 @@
             "lng": 33.9749193
         }, 
         "place": "Talmudic Israel/Babylon", 
-        "semantic_place": "Talmudic Israel/Babylon", 
+        "semantic_place": "Tiberius, Israel", 
         "title": "Bereishit Rabbah", 
         "year": 500
     }, 
@@ -2535,7 +2535,7 @@
             "lng": 33.9749193
         }, 
         "place": "Talmudic Israel/Babylon", 
-        "semantic_place": "Talmudic Israel/Babylon", 
+        "semantic_place": "Tiberius, Israel", 
         "title": "Vayikra Rabbah", 
         "year": 500
     }, 
@@ -2545,7 +2545,7 @@
             "lng": 33.9749193
         }, 
         "place": "Talmudic Israel", 
-        "semantic_place": "Talmudic Israel", 
+        "semantic_place": "Tiberius, Israel", 
         "title": "Pesikta D'Rav Kahanna", 
         "year": 550
     }, 
@@ -2555,7 +2555,7 @@
             "lng": 33.9749193
         }, 
         "place": "Talmudic Israel/Babylon", 
-        "semantic_place": "Talmudic Israel/Babylon", 
+        "semantic_place": "Tiberius, Israel", 
         "title": "Aramaic Targum to Song of Songs", 
         "year": 600
     }, 
@@ -2565,7 +2565,7 @@
             "lng": 33.9749193
         }, 
         "place": "Talmudic Babylon/Italy/Israel", 
-        "semantic_place": "Talmudic Babylon/Italy/Israel", 
+        "semantic_place": "Baghdad, Iraq", 
         "title": "Midrash Tanchuma", 
         "year": 650
     }, 
@@ -2575,7 +2575,7 @@
             "lng": 33.9749193
         }, 
         "place": "Talmudic Israel", 
-        "semantic_place": "Talmudic Israel", 
+        "semantic_place": "Tiberius, Israel", 
         "title": "Sheiltot d'Rav Achai Gaon", 
         "year": 725
     }, 
@@ -2585,7 +2585,7 @@
             "lng": 33.9749193
         }, 
         "place": "Talmudic Israel", 
-        "semantic_place": "Talmudic Israel", 
+        "semantic_place": "Tiberius, Israel", 
         "title": "Pesikta Rabbati", 
         "year": 750
     }, 
@@ -2595,7 +2595,7 @@
             "lng": 33.9749193
         }, 
         "place": "Talmudic Israel/Babylon", 
-        "semantic_place": "Talmudic Israel/Babylon", 
+        "semantic_place": "Tiberius, Israel", 
         "title": "Tractate Soferim", 
         "year": 750
     }, 
@@ -2605,7 +2605,7 @@
             "lng": 33.9749193
         }, 
         "place": "Talmudic Israel/Babylon", 
-        "semantic_place": "Talmudic Israel/Babylon", 
+        "semantic_place": "Tiberius, Israel", 
         "title": "Tractate Semachot", 
         "year": 750
     }, 
@@ -2615,7 +2615,7 @@
             "lng": 33.9749193
         }, 
         "place": "Talmudic Israel/Babylon", 
-        "semantic_place": "Talmudic Israel/Babylon", 
+        "semantic_place": "Tiberius, Israel", 
         "title": "Tractate Kutim", 
         "year": 750
     }, 
@@ -2625,7 +2625,7 @@
             "lng": 33.9749193
         }, 
         "place": "Talmudic Israel/Babylon", 
-        "semantic_place": "Talmudic Israel/Babylon", 
+        "semantic_place": "Tiberius, Israel", 
         "title": "Midrash Mishlei", 
         "year": 800
     }, 
@@ -2635,7 +2635,7 @@
             "lng": 33.9749193
         }, 
         "place": "Talmudic Israel/Babylon", 
-        "semantic_place": "Talmudic Israel/Babylon", 
+        "semantic_place": "Tiberius, Israel", 
         "title": "Avot D'Rabbi Natan", 
         "year": 800
     }, 
@@ -2645,7 +2645,7 @@
             "lng": 33.9749193
         }, 
         "place": "Talmudic Israel/Babylon", 
-        "semantic_place": "Talmudic Israel/Babylon", 
+        "semantic_place": "Tiberius, Israel", 
         "title": "Kohelet Rabbah", 
         "year": 825
     }, 
@@ -2655,7 +2655,7 @@
             "lng": 33.9749193
         }, 
         "place": "Talmudic Israel/Babylon", 
-        "semantic_place": "Talmudic Israel/Babylon", 
+        "semantic_place": "Tiberius, Israel", 
         "title": "Pirkei DeRabbi Eliezer", 
         "year": 830
     }, 
@@ -2665,7 +2665,7 @@
             "lng": 33.9749193
         }, 
         "place": "Talmudic Israel/Babylon", 
-        "semantic_place": "Talmudic Israel/Babylon", 
+        "semantic_place": "Tiberius, Israel", 
         "title": "Shir HaShirim Rabbah", 
         "year": 890
     }, 
@@ -2675,7 +2675,7 @@
             "lng": 33.9749193
         }, 
         "place": "Talmudic Israel/Babylon", 
-        "semantic_place": "Talmudic Israel/Babylon", 
+        "semantic_place": "Tiberius, Israel", 
         "title": "Devarim Rabbah", 
         "year": 900
     }, 
@@ -2705,7 +2705,7 @@
             "lng": 33.9749193
         }, 
         "place": "Talmudic Babylon/Italy/Israel", 
-        "semantic_place": "Talmudic Babylon/Italy/Israel", 
+        "semantic_place": "Baghdad, Iraq", 
         "title": "Tanna Debei Eliyahu Rabbah", 
         "year": 976
     }, 
@@ -2715,7 +2715,7 @@
             "lng": 33.9749193
         }, 
         "place": "Talmudic Babylon/Italy/Israel", 
-        "semantic_place": "Talmudic Babylon/Italy/Israel", 
+        "semantic_place": "Baghdad, Iraq", 
         "title": "Tanna debei Eliyahu Zuta", 
         "year": 976
     }, 
@@ -2725,7 +2725,7 @@
             "lng": 33.9749193
         }, 
         "place": "Talmudic Israel/Babylon", 
-        "semantic_place": "Talmudic Israel/Babylon", 
+        "semantic_place": "Tiberius, Israel", 
         "title": "Mekhilta DeRabbi Shimon Bar Yochai", 
         "year": 1000
     }, 
@@ -2835,7 +2835,7 @@
             "lng": 2.3440808
         }, 
         "place": "Middle-Age France", 
-        "semantic_place": "Middle-Age France", 
+        "semantic_place": "Troyes, France", 
         "title": "Rashi on Amos", 
         "year": 1090
     }, 
@@ -2845,7 +2845,7 @@
             "lng": 2.3440808
         }, 
         "place": "Middle-Age France", 
-        "semantic_place": "Middle-Age France", 
+        "semantic_place": "Troyes, France", 
         "title": "Rashi on Arakhin", 
         "year": 1090
     }, 
@@ -2855,7 +2855,7 @@
             "lng": 2.3440808
         }, 
         "place": "Middle-Age France", 
-        "semantic_place": "Middle-Age France", 
+        "semantic_place": "Troyes, France", 
         "title": "Rashi on Avodah Zarah", 
         "year": 1090
     }, 
@@ -2865,7 +2865,7 @@
             "lng": 2.3440808
         }, 
         "place": "Middle-Age France", 
-        "semantic_place": "Middle-Age France", 
+        "semantic_place": "Troyes, France", 
         "title": "Rashi on Bava Batra", 
         "year": 1090
     }, 
@@ -2875,7 +2875,7 @@
             "lng": 2.3440808
         }, 
         "place": "Middle-Age France", 
-        "semantic_place": "Middle-Age France", 
+        "semantic_place": "Troyes, France", 
         "title": "Rashi on Bava Kamma", 
         "year": 1090
     }, 
@@ -2885,7 +2885,7 @@
             "lng": 2.3440808
         }, 
         "place": "Middle-Age France", 
-        "semantic_place": "Middle-Age France", 
+        "semantic_place": "Troyes, France", 
         "title": "Rashi on Bava Metzia", 
         "year": 1090
     }, 
@@ -2895,7 +2895,7 @@
             "lng": 2.3440808
         }, 
         "place": "Middle-Age France", 
-        "semantic_place": "Middle-Age France", 
+        "semantic_place": "Troyes, France", 
         "title": "Rashi on Beitzah", 
         "year": 1090
     }, 
@@ -2905,7 +2905,7 @@
             "lng": 2.3440808
         }, 
         "place": "Middle-Age France", 
-        "semantic_place": "Middle-Age France", 
+        "semantic_place": "Troyes, France", 
         "title": "Rashi on Bekhorot", 
         "year": 1090
     }, 
@@ -2915,7 +2915,7 @@
             "lng": 2.3440808
         }, 
         "place": "Middle-Age France", 
-        "semantic_place": "Middle-Age France", 
+        "semantic_place": "Troyes, France", 
         "title": "Rashi on Berakhot", 
         "year": 1090
     }, 
@@ -2925,7 +2925,7 @@
             "lng": 2.3440808
         }, 
         "place": "Middle-Age France", 
-        "semantic_place": "Middle-Age France", 
+        "semantic_place": "Troyes, France", 
         "title": "Rashi on Chagigah", 
         "year": 1090
     }, 
@@ -2935,7 +2935,7 @@
             "lng": 2.3440808
         }, 
         "place": "Middle-Age France", 
-        "semantic_place": "Middle-Age France", 
+        "semantic_place": "Troyes, France", 
         "title": "Rashi on Chullin", 
         "year": 1090
     }, 
@@ -2945,7 +2945,7 @@
             "lng": 2.3440808
         }, 
         "place": "Middle-Age France", 
-        "semantic_place": "Middle-Age France", 
+        "semantic_place": "Troyes, France", 
         "title": "Rashi on Daniel", 
         "year": 1090
     }, 
@@ -2955,7 +2955,7 @@
             "lng": 2.3440808
         }, 
         "place": "Middle-Age France", 
-        "semantic_place": "Middle-Age France", 
+        "semantic_place": "Troyes, France", 
         "title": "Rashi on Deuteronomy", 
         "year": 1090
     }, 
@@ -2965,7 +2965,7 @@
             "lng": 2.3440808
         }, 
         "place": "Middle-Age France", 
-        "semantic_place": "Middle-Age France", 
+        "semantic_place": "Troyes, France", 
         "title": "Rashi on Ecclesiastes", 
         "year": 1090
     }, 
@@ -2975,7 +2975,7 @@
             "lng": 2.3440808
         }, 
         "place": "Middle-Age France", 
-        "semantic_place": "Middle-Age France", 
+        "semantic_place": "Troyes, France", 
         "title": "Rashi on Eruvin", 
         "year": 1090
     }, 
@@ -2985,7 +2985,7 @@
             "lng": 2.3440808
         }, 
         "place": "Middle-Age France", 
-        "semantic_place": "Middle-Age France", 
+        "semantic_place": "Troyes, France", 
         "title": "Rashi on Esther", 
         "year": 1090
     }, 
@@ -2995,7 +2995,7 @@
             "lng": 2.3440808
         }, 
         "place": "Middle-Age France", 
-        "semantic_place": "Middle-Age France", 
+        "semantic_place": "Troyes, France", 
         "title": "Rashi on Exodus", 
         "year": 1090
     }, 
@@ -3005,7 +3005,7 @@
             "lng": 2.3440808
         }, 
         "place": "Middle-Age France", 
-        "semantic_place": "Middle-Age France", 
+        "semantic_place": "Troyes, France", 
         "title": "Rashi on Ezekiel", 
         "year": 1090
     }, 
@@ -3015,7 +3015,7 @@
             "lng": 2.3440808
         }, 
         "place": "Middle-Age France", 
-        "semantic_place": "Middle-Age France", 
+        "semantic_place": "Troyes, France", 
         "title": "Rashi on Ezra", 
         "year": 1090
     }, 
@@ -3025,7 +3025,7 @@
             "lng": 2.3440808
         }, 
         "place": "Middle-Age France", 
-        "semantic_place": "Middle-Age France", 
+        "semantic_place": "Troyes, France", 
         "title": "Rashi on Genesis", 
         "year": 1090
     }, 
@@ -3035,7 +3035,7 @@
             "lng": 2.3440808
         }, 
         "place": "Middle-Age France", 
-        "semantic_place": "Middle-Age France", 
+        "semantic_place": "Troyes, France", 
         "title": "Rashi on Gittin", 
         "year": 1090
     }, 
@@ -3045,7 +3045,7 @@
             "lng": 2.3440808
         }, 
         "place": "Middle-Age France", 
-        "semantic_place": "Middle-Age France", 
+        "semantic_place": "Troyes, France", 
         "title": "Rashi on Habakkuk", 
         "year": 1090
     }, 
@@ -3055,7 +3055,7 @@
             "lng": 2.3440808
         }, 
         "place": "Middle-Age France", 
-        "semantic_place": "Middle-Age France", 
+        "semantic_place": "Troyes, France", 
         "title": "Rashi on Haggai", 
         "year": 1090
     }, 
@@ -3065,7 +3065,7 @@
             "lng": 2.3440808
         }, 
         "place": "Middle-Age France", 
-        "semantic_place": "Middle-Age France", 
+        "semantic_place": "Troyes, France", 
         "title": "Rashi on Horayot", 
         "year": 1090
     }, 
@@ -3075,7 +3075,7 @@
             "lng": 2.3440808
         }, 
         "place": "Middle-Age France", 
-        "semantic_place": "Middle-Age France", 
+        "semantic_place": "Troyes, France", 
         "title": "Rashi on Hosea", 
         "year": 1090
     }, 
@@ -3085,7 +3085,7 @@
             "lng": 2.3440808
         }, 
         "place": "Middle-Age France", 
-        "semantic_place": "Middle-Age France", 
+        "semantic_place": "Troyes, France", 
         "title": "Rashi on I Chronicles", 
         "year": 1090
     }, 
@@ -3095,7 +3095,7 @@
             "lng": 2.3440808
         }, 
         "place": "Middle-Age France", 
-        "semantic_place": "Middle-Age France", 
+        "semantic_place": "Troyes, France", 
         "title": "Rashi on I Kings", 
         "year": 1090
     }, 
@@ -3105,7 +3105,7 @@
             "lng": 2.3440808
         }, 
         "place": "Middle-Age France", 
-        "semantic_place": "Middle-Age France", 
+        "semantic_place": "Troyes, France", 
         "title": "Rashi on I Samuel", 
         "year": 1090
     }, 
@@ -3115,7 +3115,7 @@
             "lng": 2.3440808
         }, 
         "place": "Middle-Age France", 
-        "semantic_place": "Middle-Age France", 
+        "semantic_place": "Troyes, France", 
         "title": "Rashi on II Chronicles", 
         "year": 1090
     }, 
@@ -3125,7 +3125,7 @@
             "lng": 2.3440808
         }, 
         "place": "Middle-Age France", 
-        "semantic_place": "Middle-Age France", 
+        "semantic_place": "Troyes, France", 
         "title": "Rashi on II Kings", 
         "year": 1090
     }, 
@@ -3135,7 +3135,7 @@
             "lng": 2.3440808
         }, 
         "place": "Middle-Age France", 
-        "semantic_place": "Middle-Age France", 
+        "semantic_place": "Troyes, France", 
         "title": "Rashi on II Samuel", 
         "year": 1090
     }, 
@@ -3145,7 +3145,7 @@
             "lng": 2.3440808
         }, 
         "place": "Middle-Age France", 
-        "semantic_place": "Middle-Age France", 
+        "semantic_place": "Troyes, France", 
         "title": "Rashi on Isaiah", 
         "year": 1090
     }, 
@@ -3155,7 +3155,7 @@
             "lng": 2.3440808
         }, 
         "place": "Middle-Age France", 
-        "semantic_place": "Middle-Age France", 
+        "semantic_place": "Troyes, France", 
         "title": "Rashi on Jeremiah", 
         "year": 1090
     }, 
@@ -3165,7 +3165,7 @@
             "lng": 2.3440808
         }, 
         "place": "Middle-Age France", 
-        "semantic_place": "Middle-Age France", 
+        "semantic_place": "Troyes, France", 
         "title": "Rashi on Job", 
         "year": 1090
     }, 
@@ -3175,7 +3175,7 @@
             "lng": 2.3440808
         }, 
         "place": "Middle-Age France", 
-        "semantic_place": "Middle-Age France", 
+        "semantic_place": "Troyes, France", 
         "title": "Rashi on Joel", 
         "year": 1090
     }, 
@@ -3185,7 +3185,7 @@
             "lng": 2.3440808
         }, 
         "place": "Middle-Age France", 
-        "semantic_place": "Middle-Age France", 
+        "semantic_place": "Troyes, France", 
         "title": "Rashi on Jonah", 
         "year": 1090
     }, 
@@ -3195,7 +3195,7 @@
             "lng": 2.3440808
         }, 
         "place": "Middle-Age France", 
-        "semantic_place": "Middle-Age France", 
+        "semantic_place": "Troyes, France", 
         "title": "Rashi on Joshua", 
         "year": 1090
     }, 
@@ -3205,7 +3205,7 @@
             "lng": 2.3440808
         }, 
         "place": "Middle-Age France", 
-        "semantic_place": "Middle-Age France", 
+        "semantic_place": "Troyes, France", 
         "title": "Rashi on Judges", 
         "year": 1090
     }, 
@@ -3215,7 +3215,7 @@
             "lng": 2.3440808
         }, 
         "place": "Middle-Age France", 
-        "semantic_place": "Middle-Age France", 
+        "semantic_place": "Troyes, France", 
         "title": "Rashi on Keritot", 
         "year": 1090
     }, 
@@ -3225,7 +3225,7 @@
             "lng": 2.3440808
         }, 
         "place": "Middle-Age France", 
-        "semantic_place": "Middle-Age France", 
+        "semantic_place": "Troyes, France", 
         "title": "Rashi on Ketubot", 
         "year": 1090
     }, 
@@ -3235,7 +3235,7 @@
             "lng": 2.3440808
         }, 
         "place": "Middle-Age France", 
-        "semantic_place": "Middle-Age France", 
+        "semantic_place": "Troyes, France", 
         "title": "Rashi on Kiddushin", 
         "year": 1090
     }, 
@@ -3245,7 +3245,7 @@
             "lng": 2.3440808
         }, 
         "place": "Middle-Age France", 
-        "semantic_place": "Middle-Age France", 
+        "semantic_place": "Troyes, France", 
         "title": "Rashi on Lamentations", 
         "year": 1090
     }, 
@@ -3255,7 +3255,7 @@
             "lng": 2.3440808
         }, 
         "place": "Middle-Age France", 
-        "semantic_place": "Middle-Age France", 
+        "semantic_place": "Troyes, France", 
         "title": "Rashi on Leviticus", 
         "year": 1090
     }, 
@@ -3265,7 +3265,7 @@
             "lng": 2.3440808
         }, 
         "place": "Middle-Age France", 
-        "semantic_place": "Middle-Age France", 
+        "semantic_place": "Troyes, France", 
         "title": "Rashi on Makkot", 
         "year": 1090
     }, 
@@ -3275,7 +3275,7 @@
             "lng": 2.3440808
         }, 
         "place": "Middle-Age France", 
-        "semantic_place": "Middle-Age France", 
+        "semantic_place": "Troyes, France", 
         "title": "Rashi on Malachi", 
         "year": 1090
     }, 
@@ -3285,7 +3285,7 @@
             "lng": 2.3440808
         }, 
         "place": "Middle-Age France", 
-        "semantic_place": "Middle-Age France", 
+        "semantic_place": "Troyes, France", 
         "title": "Rashi on Megillah", 
         "year": 1090
     }, 
@@ -3295,7 +3295,7 @@
             "lng": 2.3440808
         }, 
         "place": "Middle-Age France", 
-        "semantic_place": "Middle-Age France", 
+        "semantic_place": "Troyes, France", 
         "title": "Rashi on Meilah", 
         "year": 1090
     }, 
@@ -3305,7 +3305,7 @@
             "lng": 2.3440808
         }, 
         "place": "Middle-Age France", 
-        "semantic_place": "Middle-Age France", 
+        "semantic_place": "Troyes, France", 
         "title": "Rashi on Menachot", 
         "year": 1090
     }, 
@@ -3315,7 +3315,7 @@
             "lng": 2.3440808
         }, 
         "place": "Middle-Age France", 
-        "semantic_place": "Middle-Age France", 
+        "semantic_place": "Troyes, France", 
         "title": "Rashi on Micah", 
         "year": 1090
     }, 
@@ -3325,7 +3325,7 @@
             "lng": 2.3440808
         }, 
         "place": "Middle-Age France", 
-        "semantic_place": "Middle-Age France", 
+        "semantic_place": "Troyes, France", 
         "title": "Rashi on Moed Katan", 
         "year": 1090
     }, 
@@ -3335,7 +3335,7 @@
             "lng": 2.3440808
         }, 
         "place": "Middle-Age France", 
-        "semantic_place": "Middle-Age France", 
+        "semantic_place": "Troyes, France", 
         "title": "Rashi on Nahum", 
         "year": 1090
     }, 
@@ -3345,7 +3345,7 @@
             "lng": 2.3440808
         }, 
         "place": "Middle-Age France", 
-        "semantic_place": "Middle-Age France", 
+        "semantic_place": "Troyes, France", 
         "title": "Rashi on Nazir", 
         "year": 1090
     }, 
@@ -3355,7 +3355,7 @@
             "lng": 2.3440808
         }, 
         "place": "Middle-Age France", 
-        "semantic_place": "Middle-Age France", 
+        "semantic_place": "Troyes, France", 
         "title": "Rashi on Nedarim", 
         "year": 1090
     }, 
@@ -3365,7 +3365,7 @@
             "lng": 2.3440808
         }, 
         "place": "Middle-Age France", 
-        "semantic_place": "Middle-Age France", 
+        "semantic_place": "Troyes, France", 
         "title": "Rashi on Nehemiah", 
         "year": 1090
     }, 
@@ -3375,7 +3375,7 @@
             "lng": 2.3440808
         }, 
         "place": "Middle-Age France", 
-        "semantic_place": "Middle-Age France", 
+        "semantic_place": "Troyes, France", 
         "title": "Rashi on Niddah", 
         "year": 1090
     }, 
@@ -3385,7 +3385,7 @@
             "lng": 2.3440808
         }, 
         "place": "Middle-Age France", 
-        "semantic_place": "Middle-Age France", 
+        "semantic_place": "Troyes, France", 
         "title": "Rashi on Numbers", 
         "year": 1090
     }, 
@@ -3395,7 +3395,7 @@
             "lng": 2.3440808
         }, 
         "place": "Middle-Age France", 
-        "semantic_place": "Middle-Age France", 
+        "semantic_place": "Troyes, France", 
         "title": "Rashi on Obadiah", 
         "year": 1090
     }, 
@@ -3405,7 +3405,7 @@
             "lng": 2.3440808
         }, 
         "place": "Middle-Age France", 
-        "semantic_place": "Middle-Age France", 
+        "semantic_place": "Troyes, France", 
         "title": "Rashi on Pesachim", 
         "year": 1090
     }, 
@@ -3415,7 +3415,7 @@
             "lng": 2.3440808
         }, 
         "place": "Middle-Age France", 
-        "semantic_place": "Middle-Age France", 
+        "semantic_place": "Troyes, France", 
         "title": "Rashi on Proverbs", 
         "year": 1090
     }, 
@@ -3425,7 +3425,7 @@
             "lng": 2.3440808
         }, 
         "place": "Middle-Age France", 
-        "semantic_place": "Middle-Age France", 
+        "semantic_place": "Troyes, France", 
         "title": "Rashi on Psalms", 
         "year": 1090
     }, 
@@ -3435,7 +3435,7 @@
             "lng": 2.3440808
         }, 
         "place": "Middle-Age France", 
-        "semantic_place": "Middle-Age France", 
+        "semantic_place": "Troyes, France", 
         "title": "Rashi on Rosh Hashanah", 
         "year": 1090
     }, 
@@ -3445,7 +3445,7 @@
             "lng": 2.3440808
         }, 
         "place": "Middle-Age France", 
-        "semantic_place": "Middle-Age France", 
+        "semantic_place": "Troyes, France", 
         "title": "Rashi on Ruth", 
         "year": 1090
     }, 
@@ -3455,7 +3455,7 @@
             "lng": 2.3440808
         }, 
         "place": "Middle-Age France", 
-        "semantic_place": "Middle-Age France", 
+        "semantic_place": "Troyes, France", 
         "title": "Rashi on Sanhedrin", 
         "year": 1090
     }, 
@@ -3465,7 +3465,7 @@
             "lng": 2.3440808
         }, 
         "place": "Middle-Age France", 
-        "semantic_place": "Middle-Age France", 
+        "semantic_place": "Troyes, France", 
         "title": "Rashi on Shabbat", 
         "year": 1090
     }, 
@@ -3475,7 +3475,7 @@
             "lng": 2.3440808
         }, 
         "place": "Middle-Age France", 
-        "semantic_place": "Middle-Age France", 
+        "semantic_place": "Troyes, France", 
         "title": "Rashi on Shevuot", 
         "year": 1090
     }, 
@@ -3485,7 +3485,7 @@
             "lng": 2.3440808
         }, 
         "place": "Middle-Age France", 
-        "semantic_place": "Middle-Age France", 
+        "semantic_place": "Troyes, France", 
         "title": "Rashi on Song of Songs", 
         "year": 1090
     }, 
@@ -3495,7 +3495,7 @@
             "lng": 2.3440808
         }, 
         "place": "Middle-Age France", 
-        "semantic_place": "Middle-Age France", 
+        "semantic_place": "Troyes, France", 
         "title": "Rashi on Sotah", 
         "year": 1090
     }, 
@@ -3505,7 +3505,7 @@
             "lng": 2.3440808
         }, 
         "place": "Middle-Age France", 
-        "semantic_place": "Middle-Age France", 
+        "semantic_place": "Troyes, France", 
         "title": "Rashi on Sukkah", 
         "year": 1090
     }, 
@@ -3515,7 +3515,7 @@
             "lng": 2.3440808
         }, 
         "place": "Middle-Age France", 
-        "semantic_place": "Middle-Age France", 
+        "semantic_place": "Troyes, France", 
         "title": "Rashi on Taanit", 
         "year": 1090
     }, 
@@ -3525,7 +3525,7 @@
             "lng": 2.3440808
         }, 
         "place": "Middle-Age France", 
-        "semantic_place": "Middle-Age France", 
+        "semantic_place": "Troyes, France", 
         "title": "Rashi on Temurah", 
         "year": 1090
     }, 
@@ -3535,7 +3535,7 @@
             "lng": 2.3440808
         }, 
         "place": "Middle-Age France", 
-        "semantic_place": "Middle-Age France", 
+        "semantic_place": "Troyes, France", 
         "title": "Rashi on Yevamot", 
         "year": 1090
     }, 
@@ -3545,7 +3545,7 @@
             "lng": 2.3440808
         }, 
         "place": "Middle-Age France", 
-        "semantic_place": "Middle-Age France", 
+        "semantic_place": "Troyes, France", 
         "title": "Rashi on Yoma", 
         "year": 1090
     }, 
@@ -3555,7 +3555,7 @@
             "lng": 2.3440808
         }, 
         "place": "Middle-Age France", 
-        "semantic_place": "Middle-Age France", 
+        "semantic_place": "Troyes, France", 
         "title": "Rashi on Zechariah", 
         "year": 1090
     }, 
@@ -3565,7 +3565,7 @@
             "lng": 2.3440808
         }, 
         "place": "Middle-Age France", 
-        "semantic_place": "Middle-Age France", 
+        "semantic_place": "Troyes, France", 
         "title": "Rashi on Zephaniah", 
         "year": 1090
     }, 
@@ -3575,7 +3575,7 @@
             "lng": 2.3440808
         }, 
         "place": "Middle-Age France", 
-        "semantic_place": "Middle-Age France", 
+        "semantic_place": "Troyes, France", 
         "title": "Rashi on Zevachim", 
         "year": 1090
     }, 
@@ -3665,7 +3665,7 @@
             "lng": 2.3440808
         }, 
         "place": "Middle-Age France", 
-        "semantic_place": "Middle-Age France", 
+        "semantic_place": "Troyes, France", 
         "title": "Rashbam on Menachot", 
         "year": 1140
     }, 
@@ -3675,7 +3675,7 @@
             "lng": 2.3440808
         }, 
         "place": "Middle-Age France", 
-        "semantic_place": "Middle-Age France", 
+        "semantic_place": "Troyes, France", 
         "title": "Rashbam on Bava Batra", 
         "year": 1140
     }, 
@@ -3685,7 +3685,7 @@
             "lng": 2.3440808
         }, 
         "place": "Middle-Age France", 
-        "semantic_place": "Middle-Age France", 
+        "semantic_place": "Troyes, France", 
         "title": "Rashbam on Deuteronomy", 
         "year": 1140
     }, 
@@ -3695,7 +3695,7 @@
             "lng": 2.3440808
         }, 
         "place": "Middle-Age France", 
-        "semantic_place": "Middle-Age France", 
+        "semantic_place": "Troyes, France", 
         "title": "Rashbam on Exodus", 
         "year": 1140
     }, 
@@ -3705,7 +3705,7 @@
             "lng": 2.3440808
         }, 
         "place": "Middle-Age France", 
-        "semantic_place": "Middle-Age France", 
+        "semantic_place": "Troyes, France", 
         "title": "Rashbam on Genesis", 
         "year": 1140
     }, 
@@ -3715,7 +3715,7 @@
             "lng": 2.3440808
         }, 
         "place": "Middle-Age France", 
-        "semantic_place": "Middle-Age France", 
+        "semantic_place": "Troyes, France", 
         "title": "Rashbam on Leviticus", 
         "year": 1140
     }, 
@@ -3725,7 +3725,7 @@
             "lng": 2.3440808
         }, 
         "place": "Middle-Age France", 
-        "semantic_place": "Middle-Age France", 
+        "semantic_place": "Troyes, France", 
         "title": "Rashbam on Numbers", 
         "year": 1140
     }, 
@@ -3735,7 +3735,7 @@
             "lng": 2.3440808
         }, 
         "place": "Middle-Age France", 
-        "semantic_place": "Middle-Age France", 
+        "semantic_place": "Troyes, France", 
         "title": "Rashbam on Pesachim", 
         "year": 1140
     }, 
@@ -3775,7 +3775,7 @@
             "lng": -2.32781495
         }, 
         "place": "Middle-Age France/Italy/England", 
-        "semantic_place": "Middle-Age France/Italy/England", 
+        "semantic_place": "Troyes, France", 
         "title": "Ibn Ezra on Daniel", 
         "year": 1155
     }, 
@@ -3785,7 +3785,7 @@
             "lng": -2.32781495
         }, 
         "place": "Middle-Age France/Italy/England", 
-        "semantic_place": "Middle-Age France/Italy/England", 
+        "semantic_place": "Troyes, France", 
         "title": "Ibn Ezra on Joel", 
         "year": 1156
     }, 
@@ -3795,7 +3795,7 @@
             "lng": -2.32781495
         }, 
         "place": "Middle-Age France/Italy/England", 
-        "semantic_place": "Middle-Age France/Italy/England", 
+        "semantic_place": "Troyes, France", 
         "title": "Ibn Ezra on Jonah", 
         "year": 1156
     }, 
@@ -3805,7 +3805,7 @@
             "lng": -2.32781495
         }, 
         "place": "Middle-Age France/Italy/England", 
-        "semantic_place": "Middle-Age France/Italy/England", 
+        "semantic_place": "Troyes, France", 
         "title": "Ibn Ezra on Malachi", 
         "year": 1156
     }, 
@@ -3815,7 +3815,7 @@
             "lng": -2.32781495
         }, 
         "place": "Middle-Age France/Italy/England", 
-        "semantic_place": "Middle-Age France/Italy/England", 
+        "semantic_place": "Troyes, France", 
         "title": "Ibn Ezra on Micah", 
         "year": 1156
     }, 
@@ -3825,7 +3825,7 @@
             "lng": -2.32781495
         }, 
         "place": "Middle-Age France/Italy/England", 
-        "semantic_place": "Middle-Age France/Italy/England", 
+        "semantic_place": "Troyes, France", 
         "title": "Ibn Ezra on Nahum", 
         "year": 1156
     }, 
@@ -3835,7 +3835,7 @@
             "lng": -2.32781495
         }, 
         "place": "Middle-Age France/Italy/England", 
-        "semantic_place": "Middle-Age France/Italy/England", 
+        "semantic_place": "Troyes, France", 
         "title": "Ibn Ezra on Nehemiah", 
         "year": 1156
     }, 
@@ -3845,7 +3845,7 @@
             "lng": -2.32781495
         }, 
         "place": "Middle-Age France/Italy/England", 
-        "semantic_place": "Middle-Age France/Italy/England", 
+        "semantic_place": "Troyes, France", 
         "title": "Ibn Ezra on Obadiah", 
         "year": 1156
     }, 
@@ -3855,7 +3855,7 @@
             "lng": -2.32781495
         }, 
         "place": "Middle-Age France/Italy/England", 
-        "semantic_place": "Middle-Age France/Italy/England", 
+        "semantic_place": "Troyes, France", 
         "title": "Ibn Ezra on Psalms", 
         "year": 1156
     }, 
@@ -3865,7 +3865,7 @@
             "lng": -2.32781495
         }, 
         "place": "Middle-Age France/Italy/England", 
-        "semantic_place": "Middle-Age France/Italy/England", 
+        "semantic_place": "Troyes, France", 
         "title": "Ibn Ezra on Amos", 
         "year": 1158
     }, 
@@ -3885,7 +3885,7 @@
             "lng": -2.32781495
         }, 
         "place": "Middle-Age France/Italy/England", 
-        "semantic_place": "Middle-Age France/Italy/England", 
+        "semantic_place": "Troyes, France", 
         "title": "Ibn Ezra on Deuteronomy", 
         "year": 1160
     }, 
@@ -3895,7 +3895,7 @@
             "lng": -2.32781495
         }, 
         "place": "Middle-Age France/Italy/England", 
-        "semantic_place": "Middle-Age France/Italy/England", 
+        "semantic_place": "Troyes, France", 
         "title": "Ibn Ezra on Exodus", 
         "year": 1160
     }, 
@@ -3905,7 +3905,7 @@
             "lng": -2.32781495
         }, 
         "place": "Middle-Age France/Italy/England", 
-        "semantic_place": "Middle-Age France/Italy/England", 
+        "semantic_place": "Troyes, France", 
         "title": "Ibn Ezra on Ezra", 
         "year": 1160
     }, 
@@ -3915,7 +3915,7 @@
             "lng": -2.32781495
         }, 
         "place": "Middle-Age France/Italy/England", 
-        "semantic_place": "Middle-Age France/Italy/England", 
+        "semantic_place": "Troyes, France", 
         "title": "Ibn Ezra on Genesis", 
         "year": 1160
     }, 
@@ -3925,7 +3925,7 @@
             "lng": -2.32781495
         }, 
         "place": "Middle-Age France/Italy/England", 
-        "semantic_place": "Middle-Age France/Italy/England", 
+        "semantic_place": "Troyes, France", 
         "title": "Ibn Ezra on Habakkuk", 
         "year": 1160
     }, 
@@ -3935,7 +3935,7 @@
             "lng": -2.32781495
         }, 
         "place": "Middle-Age France/Italy/England", 
-        "semantic_place": "Middle-Age France/Italy/England", 
+        "semantic_place": "Troyes, France", 
         "title": "Ibn Ezra on Haggai", 
         "year": 1160
     }, 
@@ -3945,7 +3945,7 @@
             "lng": -2.32781495
         }, 
         "place": "Middle-Age France/Italy/England", 
-        "semantic_place": "Middle-Age France/Italy/England", 
+        "semantic_place": "Troyes, France", 
         "title": "Ibn Ezra on Hosea", 
         "year": 1160
     }, 
@@ -3955,7 +3955,7 @@
             "lng": -2.32781495
         }, 
         "place": "Middle-Age France/Italy/England", 
-        "semantic_place": "Middle-Age France/Italy/England", 
+        "semantic_place": "Troyes, France", 
         "title": "Ibn Ezra on Job", 
         "year": 1160
     }, 
@@ -3965,7 +3965,7 @@
             "lng": -2.32781495
         }, 
         "place": "Middle-Age France/Italy/England", 
-        "semantic_place": "Middle-Age France/Italy/England", 
+        "semantic_place": "Troyes, France", 
         "title": "Ibn Ezra on Leviticus", 
         "year": 1160
     }, 
@@ -3975,7 +3975,7 @@
             "lng": -2.32781495
         }, 
         "place": "Middle-Age France/Italy/England", 
-        "semantic_place": "Middle-Age France/Italy/England", 
+        "semantic_place": "Troyes, France", 
         "title": "Ibn Ezra on Numbers", 
         "year": 1160
     }, 
@@ -3985,7 +3985,7 @@
             "lng": -2.32781495
         }, 
         "place": "Middle-Age France/Italy/England", 
-        "semantic_place": "Middle-Age France/Italy/England", 
+        "semantic_place": "Troyes, France", 
         "title": "Ibn Ezra on Proverbs", 
         "year": 1160
     }, 
@@ -3995,7 +3995,7 @@
             "lng": -2.32781495
         }, 
         "place": "Middle-Age France/Italy/England", 
-        "semantic_place": "Middle-Age France/Italy/England", 
+        "semantic_place": "Troyes, France", 
         "title": "Ibn Ezra on Ruth", 
         "year": 1160
     }, 
@@ -4005,7 +4005,7 @@
             "lng": -2.32781495
         }, 
         "place": "Middle-Age France/Italy/England", 
-        "semantic_place": "Middle-Age France/Italy/England", 
+        "semantic_place": "Troyes, France", 
         "title": "Ibn Ezra on Zechariah", 
         "year": 1160
     }, 
@@ -4015,7 +4015,7 @@
             "lng": -2.32781495
         }, 
         "place": "Middle-Age France/Italy/England", 
-        "semantic_place": "Middle-Age France/Italy/England", 
+        "semantic_place": "Troyes, France", 
         "title": "Ibn Ezra on Zephaniah", 
         "year": 1160
     }, 
@@ -4025,7 +4025,7 @@
             "lng": -2.32781495
         }, 
         "place": "Middle-Age France/Italy/England", 
-        "semantic_place": "Middle-Age France/Italy/England", 
+        "semantic_place": "Troyes, France", 
         "title": "Ibn Ezra on Isaiah", 
         "year": 1160
     }, 
@@ -4035,7 +4035,7 @@
             "lng": 33.9749193
         }, 
         "place": "Middle-Age Egypt", 
-        "semantic_place": "Middle-Age Egypt", 
+        "semantic_place": "Cairo, gypt", 
         "title": "Eight Chapters", 
         "year": 1161
     }, 
@@ -4055,7 +4055,7 @@
             "lng": 33.9749193
         }, 
         "place": "Middle-Age Egypt", 
-        "semantic_place": "Middle-Age Egypt", 
+        "semantic_place": "Cairo, gypt", 
         "title": "Mishneh Torah; Transmission of the Oral Law", 
         "year": 1177
     }, 
@@ -4065,7 +4065,7 @@
             "lng": 33.9749193
         }, 
         "place": "Middle-Age Egypt", 
-        "semantic_place": "Middle-Age Egypt", 
+        "semantic_place": "Cairo, gypt", 
         "title": "Mishneh Torah; Positive Mitzvot", 
         "year": 1177
     }, 
@@ -4075,7 +4075,7 @@
             "lng": 33.9749193
         }, 
         "place": "Middle-Age Egypt", 
-        "semantic_place": "Middle-Age Egypt", 
+        "semantic_place": "Cairo, gypt", 
         "title": "Mishneh Torah; Negative Mitzvot", 
         "year": 1177
     }, 
@@ -4085,7 +4085,7 @@
             "lng": 33.9749193
         }, 
         "place": "Middle-Age Egypt", 
-        "semantic_place": "Middle-Age Egypt", 
+        "semantic_place": "Cairo, gypt", 
         "title": "Mishneh Torah; Overview of Mishneh Torah Contents", 
         "year": 1177
     }, 
@@ -4095,7 +4095,7 @@
             "lng": 33.9749193
         }, 
         "place": "Middle-Age Egypt", 
-        "semantic_place": "Middle-Age Egypt", 
+        "semantic_place": "Cairo, gypt", 
         "title": "Mishneh Torah; Foundations of the Torah", 
         "year": 1177
     }, 
@@ -4105,7 +4105,7 @@
             "lng": 33.9749193
         }, 
         "place": "Middle-Age Egypt", 
-        "semantic_place": "Middle-Age Egypt", 
+        "semantic_place": "Cairo, gypt", 
         "title": "Mishneh Torah; Human Dispositions", 
         "year": 1177
     }, 
@@ -4115,7 +4115,7 @@
             "lng": 33.9749193
         }, 
         "place": "Middle-Age Egypt", 
-        "semantic_place": "Middle-Age Egypt", 
+        "semantic_place": "Cairo, gypt", 
         "title": "Mishneh Torah; Torah Study", 
         "year": 1177
     }, 
@@ -4125,7 +4125,7 @@
             "lng": 33.9749193
         }, 
         "place": "Middle-Age Egypt", 
-        "semantic_place": "Middle-Age Egypt", 
+        "semantic_place": "Cairo, gypt", 
         "title": "Mishneh Torah; Foreign Worship and Customs of the Nations", 
         "year": 1177
     }, 
@@ -4135,7 +4135,7 @@
             "lng": 33.9749193
         }, 
         "place": "Middle-Age Egypt", 
-        "semantic_place": "Middle-Age Egypt", 
+        "semantic_place": "Cairo, gypt", 
         "title": "Mishneh Torah; Repentance", 
         "year": 1177
     }, 
@@ -4145,7 +4145,7 @@
             "lng": 33.9749193
         }, 
         "place": "Middle-Age Egypt", 
-        "semantic_place": "Middle-Age Egypt", 
+        "semantic_place": "Cairo, gypt", 
         "title": "Mishneh Torah; Reading the Shema", 
         "year": 1177
     }, 
@@ -4155,7 +4155,7 @@
             "lng": 33.9749193
         }, 
         "place": "Middle-Age Egypt", 
-        "semantic_place": "Middle-Age Egypt", 
+        "semantic_place": "Cairo, gypt", 
         "title": "Mishneh Torah; Prayer and the Priestly Blessing", 
         "year": 1177
     }, 
@@ -4165,7 +4165,7 @@
             "lng": 33.9749193
         }, 
         "place": "Middle-Age Egypt", 
-        "semantic_place": "Middle-Age Egypt", 
+        "semantic_place": "Cairo, gypt", 
         "title": "Mishneh Torah; Tefillin; Mezuzah and the Torah Scroll", 
         "year": 1177
     }, 
@@ -4175,7 +4175,7 @@
             "lng": 33.9749193
         }, 
         "place": "Middle-Age Egypt", 
-        "semantic_place": "Middle-Age Egypt", 
+        "semantic_place": "Cairo, gypt", 
         "title": "Mishneh Torah; Fringes", 
         "year": 1177
     }, 
@@ -4185,7 +4185,7 @@
             "lng": 33.9749193
         }, 
         "place": "Middle-Age Egypt", 
-        "semantic_place": "Middle-Age Egypt", 
+        "semantic_place": "Cairo, gypt", 
         "title": "Mishneh Torah; Blessings", 
         "year": 1177
     }, 
@@ -4195,7 +4195,7 @@
             "lng": 33.9749193
         }, 
         "place": "Middle-Age Egypt", 
-        "semantic_place": "Middle-Age Egypt", 
+        "semantic_place": "Cairo, gypt", 
         "title": "Mishneh Torah; Circumcision", 
         "year": 1177
     }, 
@@ -4205,7 +4205,7 @@
             "lng": 33.9749193
         }, 
         "place": "Middle-Age Egypt", 
-        "semantic_place": "Middle-Age Egypt", 
+        "semantic_place": "Cairo, gypt", 
         "title": "Mishneh Torah; The Order of Prayer", 
         "year": 1177
     }, 
@@ -4215,7 +4215,7 @@
             "lng": 33.9749193
         }, 
         "place": "Middle-Age Egypt", 
-        "semantic_place": "Middle-Age Egypt", 
+        "semantic_place": "Cairo, gypt", 
         "title": "Mishneh Torah; Sabbath", 
         "year": 1177
     }, 
@@ -4225,7 +4225,7 @@
             "lng": 33.9749193
         }, 
         "place": "Middle-Age Egypt", 
-        "semantic_place": "Middle-Age Egypt", 
+        "semantic_place": "Cairo, gypt", 
         "title": "Mishneh Torah; Eruvin", 
         "year": 1177
     }, 
@@ -4235,7 +4235,7 @@
             "lng": 33.9749193
         }, 
         "place": "Middle-Age Egypt", 
-        "semantic_place": "Middle-Age Egypt", 
+        "semantic_place": "Cairo, gypt", 
         "title": "Mishneh Torah; Rest on the Tenth of Tishrei", 
         "year": 1177
     }, 
@@ -4245,7 +4245,7 @@
             "lng": 33.9749193
         }, 
         "place": "Middle-Age Egypt", 
-        "semantic_place": "Middle-Age Egypt", 
+        "semantic_place": "Cairo, gypt", 
         "title": "Mishneh Torah; Rest on a Holiday", 
         "year": 1177
     }, 
@@ -4255,7 +4255,7 @@
             "lng": 33.9749193
         }, 
         "place": "Middle-Age Egypt", 
-        "semantic_place": "Middle-Age Egypt", 
+        "semantic_place": "Cairo, gypt", 
         "title": "Mishneh Torah; Leavened and Unleavened Bread", 
         "year": 1177
     }, 
@@ -4265,7 +4265,7 @@
             "lng": 33.9749193
         }, 
         "place": "Middle-Age Egypt", 
-        "semantic_place": "Middle-Age Egypt", 
+        "semantic_place": "Cairo, gypt", 
         "title": "Mishneh Torah; Shofar; Sukkah and Lulav", 
         "year": 1177
     }, 
@@ -4275,7 +4275,7 @@
             "lng": 33.9749193
         }, 
         "place": "Middle-Age Egypt", 
-        "semantic_place": "Middle-Age Egypt", 
+        "semantic_place": "Cairo, gypt", 
         "title": "Mishneh Torah; Sheqel Dues", 
         "year": 1177
     }, 
@@ -4285,7 +4285,7 @@
             "lng": 33.9749193
         }, 
         "place": "Middle-Age Egypt", 
-        "semantic_place": "Middle-Age Egypt", 
+        "semantic_place": "Cairo, gypt", 
         "title": "Mishneh Torah; Sanctification of the New Month", 
         "year": 1177
     }, 
@@ -4295,7 +4295,7 @@
             "lng": 33.9749193
         }, 
         "place": "Middle-Age Egypt", 
-        "semantic_place": "Middle-Age Egypt", 
+        "semantic_place": "Cairo, gypt", 
         "title": "Mishneh Torah; Fasts", 
         "year": 1177
     }, 
@@ -4305,7 +4305,7 @@
             "lng": 33.9749193
         }, 
         "place": "Middle-Age Egypt", 
-        "semantic_place": "Middle-Age Egypt", 
+        "semantic_place": "Cairo, gypt", 
         "title": "Mishneh Torah; Scroll of Esther and Hanukkah", 
         "year": 1177
     }, 
@@ -4315,7 +4315,7 @@
             "lng": 33.9749193
         }, 
         "place": "Middle-Age Egypt", 
-        "semantic_place": "Middle-Age Egypt", 
+        "semantic_place": "Cairo, gypt", 
         "title": "Mishneh Torah; Marriage", 
         "year": 1177
     }, 
@@ -4325,7 +4325,7 @@
             "lng": 33.9749193
         }, 
         "place": "Middle-Age Egypt", 
-        "semantic_place": "Middle-Age Egypt", 
+        "semantic_place": "Cairo, gypt", 
         "title": "Mishneh Torah; Divorce", 
         "year": 1177
     }, 
@@ -4335,7 +4335,7 @@
             "lng": 33.9749193
         }, 
         "place": "Middle-Age Egypt", 
-        "semantic_place": "Middle-Age Egypt", 
+        "semantic_place": "Cairo, gypt", 
         "title": "Mishneh Torah; Levirate Marriage and Release", 
         "year": 1177
     }, 
@@ -4345,7 +4345,7 @@
             "lng": 33.9749193
         }, 
         "place": "Middle-Age Egypt", 
-        "semantic_place": "Middle-Age Egypt", 
+        "semantic_place": "Cairo, gypt", 
         "title": "Mishneh Torah; Virgin Maiden", 
         "year": 1177
     }, 
@@ -4355,7 +4355,7 @@
             "lng": 33.9749193
         }, 
         "place": "Middle-Age Egypt", 
-        "semantic_place": "Middle-Age Egypt", 
+        "semantic_place": "Cairo, gypt", 
         "title": "Mishneh Torah; Woman Suspected of Infidelity", 
         "year": 1177
     }, 
@@ -4365,7 +4365,7 @@
             "lng": 33.9749193
         }, 
         "place": "Middle-Age Egypt", 
-        "semantic_place": "Middle-Age Egypt", 
+        "semantic_place": "Cairo, gypt", 
         "title": "Mishneh Torah; Forbidden Intercourse", 
         "year": 1177
     }, 
@@ -4375,7 +4375,7 @@
             "lng": 33.9749193
         }, 
         "place": "Middle-Age Egypt", 
-        "semantic_place": "Middle-Age Egypt", 
+        "semantic_place": "Cairo, gypt", 
         "title": "Mishneh Torah; Forbidden Foods", 
         "year": 1177
     }, 
@@ -4385,7 +4385,7 @@
             "lng": 33.9749193
         }, 
         "place": "Middle-Age Egypt", 
-        "semantic_place": "Middle-Age Egypt", 
+        "semantic_place": "Cairo, gypt", 
         "title": "Mishneh Torah; Ritual Slaughter", 
         "year": 1177
     }, 
@@ -4395,7 +4395,7 @@
             "lng": 33.9749193
         }, 
         "place": "Middle-Age Egypt", 
-        "semantic_place": "Middle-Age Egypt", 
+        "semantic_place": "Cairo, gypt", 
         "title": "Mishneh Torah; Oaths", 
         "year": 1177
     }, 
@@ -4405,7 +4405,7 @@
             "lng": 33.9749193
         }, 
         "place": "Middle-Age Egypt", 
-        "semantic_place": "Middle-Age Egypt", 
+        "semantic_place": "Cairo, gypt", 
         "title": "Mishneh Torah; Vows", 
         "year": 1177
     }, 
@@ -4415,7 +4415,7 @@
             "lng": 33.9749193
         }, 
         "place": "Middle-Age Egypt", 
-        "semantic_place": "Middle-Age Egypt", 
+        "semantic_place": "Cairo, gypt", 
         "title": "Mishneh Torah; Nazariteship", 
         "year": 1177
     }, 
@@ -4425,7 +4425,7 @@
             "lng": 33.9749193
         }, 
         "place": "Middle-Age Egypt", 
-        "semantic_place": "Middle-Age Egypt", 
+        "semantic_place": "Cairo, gypt", 
         "title": "Mishneh Torah; Appraisals and Devoted Property", 
         "year": 1177
     }, 
@@ -4435,7 +4435,7 @@
             "lng": 33.9749193
         }, 
         "place": "Middle-Age Egypt", 
-        "semantic_place": "Middle-Age Egypt", 
+        "semantic_place": "Cairo, gypt", 
         "title": "Mishneh Torah; Diverse Species", 
         "year": 1177
     }, 
@@ -4445,7 +4445,7 @@
             "lng": 33.9749193
         }, 
         "place": "Middle-Age Egypt", 
-        "semantic_place": "Middle-Age Egypt", 
+        "semantic_place": "Cairo, gypt", 
         "title": "Mishneh Torah; Gifts to the Poor", 
         "year": 1177
     }, 
@@ -4455,7 +4455,7 @@
             "lng": 33.9749193
         }, 
         "place": "Middle-Age Egypt", 
-        "semantic_place": "Middle-Age Egypt", 
+        "semantic_place": "Cairo, gypt", 
         "title": "Mishneh Torah; Heave Offerings", 
         "year": 1177
     }, 
@@ -4465,7 +4465,7 @@
             "lng": 33.9749193
         }, 
         "place": "Middle-Age Egypt", 
-        "semantic_place": "Middle-Age Egypt", 
+        "semantic_place": "Cairo, gypt", 
         "title": "Mishneh Torah; Tithes", 
         "year": 1177
     }, 
@@ -4475,7 +4475,7 @@
             "lng": 33.9749193
         }, 
         "place": "Middle-Age Egypt", 
-        "semantic_place": "Middle-Age Egypt", 
+        "semantic_place": "Cairo, gypt", 
         "title": "Mishneh Torah; Second Tithes and Fourth Year's Fruit", 
         "year": 1177
     }, 
@@ -4485,7 +4485,7 @@
             "lng": 33.9749193
         }, 
         "place": "Middle-Age Egypt", 
-        "semantic_place": "Middle-Age Egypt", 
+        "semantic_place": "Cairo, gypt", 
         "title": "Mishneh Torah; First Fruits and other Gifts to Priests Outside the Sanctuary", 
         "year": 1177
     }, 
@@ -4495,7 +4495,7 @@
             "lng": 33.9749193
         }, 
         "place": "Middle-Age Egypt", 
-        "semantic_place": "Middle-Age Egypt", 
+        "semantic_place": "Cairo, gypt", 
         "title": "Mishneh Torah; Sabbatical Year and the Jubilee", 
         "year": 1177
     }, 
@@ -4505,7 +4505,7 @@
             "lng": 33.9749193
         }, 
         "place": "Middle-Age Egypt", 
-        "semantic_place": "Middle-Age Egypt", 
+        "semantic_place": "Cairo, gypt", 
         "title": "Mishneh Torah; The Chosen Temple", 
         "year": 1177
     }, 
@@ -4515,7 +4515,7 @@
             "lng": 33.9749193
         }, 
         "place": "Middle-Age Egypt", 
-        "semantic_place": "Middle-Age Egypt", 
+        "semantic_place": "Cairo, gypt", 
         "title": "Mishneh Torah; Vessels of the Sanctuary and Those who Serve Therein", 
         "year": 1177
     }, 
@@ -4525,7 +4525,7 @@
             "lng": 33.9749193
         }, 
         "place": "Middle-Age Egypt", 
-        "semantic_place": "Middle-Age Egypt", 
+        "semantic_place": "Cairo, gypt", 
         "title": "Mishneh Torah; Admission into the Sanctuary", 
         "year": 1177
     }, 
@@ -4535,7 +4535,7 @@
             "lng": 33.9749193
         }, 
         "place": "Middle-Age Egypt", 
-        "semantic_place": "Middle-Age Egypt", 
+        "semantic_place": "Cairo, gypt", 
         "title": "Mishneh Torah; Sacrificial Procedure", 
         "year": 1177
     }, 
@@ -4545,7 +4545,7 @@
             "lng": 33.9749193
         }, 
         "place": "Middle-Age Egypt", 
-        "semantic_place": "Middle-Age Egypt", 
+        "semantic_place": "Cairo, gypt", 
         "title": "Mishneh Torah; Daily Offerings and Additional Offerings", 
         "year": 1177
     }, 
@@ -4555,7 +4555,7 @@
             "lng": 33.9749193
         }, 
         "place": "Middle-Age Egypt", 
-        "semantic_place": "Middle-Age Egypt", 
+        "semantic_place": "Cairo, gypt", 
         "title": "Mishneh Torah; Sacrifices Rendered Unfit", 
         "year": 1177
     }, 
@@ -4565,7 +4565,7 @@
             "lng": 33.9749193
         }, 
         "place": "Middle-Age Egypt", 
-        "semantic_place": "Middle-Age Egypt", 
+        "semantic_place": "Cairo, gypt", 
         "title": "Mishneh Torah; Service on the Day of Atonement", 
         "year": 1177
     }, 
@@ -4575,7 +4575,7 @@
             "lng": 33.9749193
         }, 
         "place": "Middle-Age Egypt", 
-        "semantic_place": "Middle-Age Egypt", 
+        "semantic_place": "Cairo, gypt", 
         "title": "Mishneh Torah; Trespass", 
         "year": 1177
     }, 
@@ -4585,7 +4585,7 @@
             "lng": 33.9749193
         }, 
         "place": "Middle-Age Egypt", 
-        "semantic_place": "Middle-Age Egypt", 
+        "semantic_place": "Cairo, gypt", 
         "title": "Mishneh Torah; Paschal Offering", 
         "year": 1177
     }, 
@@ -4595,7 +4595,7 @@
             "lng": 33.9749193
         }, 
         "place": "Middle-Age Egypt", 
-        "semantic_place": "Middle-Age Egypt", 
+        "semantic_place": "Cairo, gypt", 
         "title": "Mishneh Torah; Festival Offering", 
         "year": 1177
     }, 
@@ -4605,7 +4605,7 @@
             "lng": 33.9749193
         }, 
         "place": "Middle-Age Egypt", 
-        "semantic_place": "Middle-Age Egypt", 
+        "semantic_place": "Cairo, gypt", 
         "title": "Mishneh Torah; Firstlings", 
         "year": 1177
     }, 
@@ -4615,7 +4615,7 @@
             "lng": 33.9749193
         }, 
         "place": "Middle-Age Egypt", 
-        "semantic_place": "Middle-Age Egypt", 
+        "semantic_place": "Cairo, gypt", 
         "title": "Mishneh Torah; Offerings for Unintentional Transgressions", 
         "year": 1177
     }, 
@@ -4625,7 +4625,7 @@
             "lng": 33.9749193
         }, 
         "place": "Middle-Age Egypt", 
-        "semantic_place": "Middle-Age Egypt", 
+        "semantic_place": "Cairo, gypt", 
         "title": "Mishneh Torah; Offerings for Those with Incomplete Atonement", 
         "year": 1177
     }, 
@@ -4635,7 +4635,7 @@
             "lng": 33.9749193
         }, 
         "place": "Middle-Age Egypt", 
-        "semantic_place": "Middle-Age Egypt", 
+        "semantic_place": "Cairo, gypt", 
         "title": "Mishneh Torah; Substitution", 
         "year": 1177
     }, 
@@ -4645,7 +4645,7 @@
             "lng": 33.9749193
         }, 
         "place": "Middle-Age Egypt", 
-        "semantic_place": "Middle-Age Egypt", 
+        "semantic_place": "Cairo, gypt", 
         "title": "Mishneh Torah; Defilement by a Corpse", 
         "year": 1177
     }, 
@@ -4655,7 +4655,7 @@
             "lng": 33.9749193
         }, 
         "place": "Middle-Age Egypt", 
-        "semantic_place": "Middle-Age Egypt", 
+        "semantic_place": "Cairo, gypt", 
         "title": "Mishneh Torah; Red Heifer", 
         "year": 1177
     }, 
@@ -4665,7 +4665,7 @@
             "lng": 33.9749193
         }, 
         "place": "Middle-Age Egypt", 
-        "semantic_place": "Middle-Age Egypt", 
+        "semantic_place": "Cairo, gypt", 
         "title": "Mishneh Torah; Defilement by Leprosy", 
         "year": 1177
     }, 
@@ -4675,7 +4675,7 @@
             "lng": 33.9749193
         }, 
         "place": "Middle-Age Egypt", 
-        "semantic_place": "Middle-Age Egypt", 
+        "semantic_place": "Cairo, gypt", 
         "title": "Mishneh Torah; Those Who Defile Bed or Seat", 
         "year": 1177
     }, 
@@ -4685,7 +4685,7 @@
             "lng": 33.9749193
         }, 
         "place": "Middle-Age Egypt", 
-        "semantic_place": "Middle-Age Egypt", 
+        "semantic_place": "Cairo, gypt", 
         "title": "Mishneh Torah; Other Sources of Defilement", 
         "year": 1177
     }, 
@@ -4695,7 +4695,7 @@
             "lng": 33.9749193
         }, 
         "place": "Middle-Age Egypt", 
-        "semantic_place": "Middle-Age Egypt", 
+        "semantic_place": "Cairo, gypt", 
         "title": "Mishneh Torah; Defilement of Foods", 
         "year": 1177
     }, 
@@ -4705,7 +4705,7 @@
             "lng": 33.9749193
         }, 
         "place": "Middle-Age Egypt", 
-        "semantic_place": "Middle-Age Egypt", 
+        "semantic_place": "Cairo, gypt", 
         "title": "Mishneh Torah; Vessels", 
         "year": 1177
     }, 
@@ -4715,7 +4715,7 @@
             "lng": 33.9749193
         }, 
         "place": "Middle-Age Egypt", 
-        "semantic_place": "Middle-Age Egypt", 
+        "semantic_place": "Cairo, gypt", 
         "title": "Mishneh Torah; Immersion Pools", 
         "year": 1177
     }, 
@@ -4725,7 +4725,7 @@
             "lng": 33.9749193
         }, 
         "place": "Middle-Age Egypt", 
-        "semantic_place": "Middle-Age Egypt", 
+        "semantic_place": "Cairo, gypt", 
         "title": "Mishneh Torah; Damages to Property", 
         "year": 1177
     }, 
@@ -4735,7 +4735,7 @@
             "lng": 33.9749193
         }, 
         "place": "Middle-Age Egypt", 
-        "semantic_place": "Middle-Age Egypt", 
+        "semantic_place": "Cairo, gypt", 
         "title": "Mishneh Torah; Theft", 
         "year": 1177
     }, 
@@ -4745,7 +4745,7 @@
             "lng": 33.9749193
         }, 
         "place": "Middle-Age Egypt", 
-        "semantic_place": "Middle-Age Egypt", 
+        "semantic_place": "Cairo, gypt", 
         "title": "Mishneh Torah; Robbery and Lost Property", 
         "year": 1177
     }, 
@@ -4755,7 +4755,7 @@
             "lng": 33.9749193
         }, 
         "place": "Middle-Age Egypt", 
-        "semantic_place": "Middle-Age Egypt", 
+        "semantic_place": "Cairo, gypt", 
         "title": "Mishneh Torah; One Who Injures a Person or Property", 
         "year": 1177
     }, 
@@ -4765,7 +4765,7 @@
             "lng": 33.9749193
         }, 
         "place": "Middle-Age Egypt", 
-        "semantic_place": "Middle-Age Egypt", 
+        "semantic_place": "Cairo, gypt", 
         "title": "Mishneh Torah; Murderer and the Preservation of Life", 
         "year": 1177
     }, 
@@ -4775,7 +4775,7 @@
             "lng": 33.9749193
         }, 
         "place": "Middle-Age Egypt", 
-        "semantic_place": "Middle-Age Egypt", 
+        "semantic_place": "Cairo, gypt", 
         "title": "Mishneh Torah; Sales", 
         "year": 1177
     }, 
@@ -4785,7 +4785,7 @@
             "lng": 33.9749193
         }, 
         "place": "Middle-Age Egypt", 
-        "semantic_place": "Middle-Age Egypt", 
+        "semantic_place": "Cairo, gypt", 
         "title": "Mishneh Torah; Ownerless Property and Gifts", 
         "year": 1177
     }, 
@@ -4795,7 +4795,7 @@
             "lng": 33.9749193
         }, 
         "place": "Middle-Age Egypt", 
-        "semantic_place": "Middle-Age Egypt", 
+        "semantic_place": "Cairo, gypt", 
         "title": "Mishneh Torah; Neighbors", 
         "year": 1177
     }, 
@@ -4805,7 +4805,7 @@
             "lng": 33.9749193
         }, 
         "place": "Middle-Age Egypt", 
-        "semantic_place": "Middle-Age Egypt", 
+        "semantic_place": "Cairo, gypt", 
         "title": "Mishneh Torah; Agents and Partners", 
         "year": 1177
     }, 
@@ -4815,7 +4815,7 @@
             "lng": 33.9749193
         }, 
         "place": "Middle-Age Egypt", 
-        "semantic_place": "Middle-Age Egypt", 
+        "semantic_place": "Cairo, gypt", 
         "title": "Mishneh Torah; Slaves", 
         "year": 1177
     }, 
@@ -4825,7 +4825,7 @@
             "lng": 33.9749193
         }, 
         "place": "Middle-Age Egypt", 
-        "semantic_place": "Middle-Age Egypt", 
+        "semantic_place": "Cairo, gypt", 
         "title": "Mishneh Torah; Hiring", 
         "year": 1177
     }, 
@@ -4835,7 +4835,7 @@
             "lng": 33.9749193
         }, 
         "place": "Middle-Age Egypt", 
-        "semantic_place": "Middle-Age Egypt", 
+        "semantic_place": "Cairo, gypt", 
         "title": "Mishneh Torah; Borrowing and Deposit", 
         "year": 1177
     }, 
@@ -4845,7 +4845,7 @@
             "lng": 33.9749193
         }, 
         "place": "Middle-Age Egypt", 
-        "semantic_place": "Middle-Age Egypt", 
+        "semantic_place": "Cairo, gypt", 
         "title": "Mishneh Torah; Creditor and Debtor", 
         "year": 1177
     }, 
@@ -4855,7 +4855,7 @@
             "lng": 33.9749193
         }, 
         "place": "Middle-Age Egypt", 
-        "semantic_place": "Middle-Age Egypt", 
+        "semantic_place": "Cairo, gypt", 
         "title": "Mishneh Torah; Plaintiff and Defendant", 
         "year": 1177
     }, 
@@ -4865,7 +4865,7 @@
             "lng": 33.9749193
         }, 
         "place": "Middle-Age Egypt", 
-        "semantic_place": "Middle-Age Egypt", 
+        "semantic_place": "Cairo, gypt", 
         "title": "Mishneh Torah; Inheritances", 
         "year": 1177
     }, 
@@ -4875,7 +4875,7 @@
             "lng": 33.9749193
         }, 
         "place": "Middle-Age Egypt", 
-        "semantic_place": "Middle-Age Egypt", 
+        "semantic_place": "Cairo, gypt", 
         "title": "Mishneh Torah; The Sanhedrin and the Penalties within their Jurisdiction", 
         "year": 1177
     }, 
@@ -4885,7 +4885,7 @@
             "lng": 33.9749193
         }, 
         "place": "Middle-Age Egypt", 
-        "semantic_place": "Middle-Age Egypt", 
+        "semantic_place": "Cairo, gypt", 
         "title": "Mishneh Torah; Testimony", 
         "year": 1177
     }, 
@@ -4895,7 +4895,7 @@
             "lng": 33.9749193
         }, 
         "place": "Middle-Age Egypt", 
-        "semantic_place": "Middle-Age Egypt", 
+        "semantic_place": "Cairo, gypt", 
         "title": "Mishneh Torah; Rebels", 
         "year": 1177
     }, 
@@ -4905,7 +4905,7 @@
             "lng": 33.9749193
         }, 
         "place": "Middle-Age Egypt", 
-        "semantic_place": "Middle-Age Egypt", 
+        "semantic_place": "Cairo, gypt", 
         "title": "Mishneh Torah; Mourning", 
         "year": 1177
     }, 
@@ -4915,7 +4915,7 @@
             "lng": 33.9749193
         }, 
         "place": "Middle-Age Egypt", 
-        "semantic_place": "Middle-Age Egypt", 
+        "semantic_place": "Cairo, gypt", 
         "title": "Mishneh Torah; Kings and Wars", 
         "year": 1177
     }, 
@@ -5685,7 +5685,7 @@
             "lng": 33.9749193
         }, 
         "place": "Talmudic Israel/Babylon", 
-        "semantic_place": "Talmudic Israel/Babylon", 
+        "semantic_place": "Tiberius, Israel", 
         "title": "Shemot Rabbah", 
         "year": 1200
     }, 
@@ -5695,7 +5695,7 @@
             "lng": 33.9749193
         }, 
         "place": "Talmudic Israel/Babylon", 
-        "semantic_place": "Talmudic Israel/Babylon", 
+        "semantic_place": "Tiberius, Israel", 
         "title": "Esther Rabbah", 
         "year": 1200
     }, 
@@ -5715,7 +5715,7 @@
             "lng": -2.32781495
         }, 
         "place": "Middle-Age France / Germany / Italy / England", 
-        "semantic_place": "Middle-Age France / Germany / Italy / England", 
+        "semantic_place": "Troyes, France", 
         "title": "Daat Zkenim on Deuteronomy", 
         "year": 1200
     }, 
@@ -5725,7 +5725,7 @@
             "lng": -2.32781495
         }, 
         "place": "Middle-Age France / Germany / Italy / England", 
-        "semantic_place": "Middle-Age France / Germany / Italy / England", 
+        "semantic_place": "Troyes, France", 
         "title": "Daat Zkenim on Exodus", 
         "year": 1200
     }, 
@@ -5735,7 +5735,7 @@
             "lng": -2.32781495
         }, 
         "place": "Middle-Age France / Germany / Italy / England", 
-        "semantic_place": "Middle-Age France / Germany / Italy / England", 
+        "semantic_place": "Troyes, France", 
         "title": "Daat Zkenim on Genesis", 
         "year": 1200
     }, 
@@ -5745,7 +5745,7 @@
             "lng": -2.32781495
         }, 
         "place": "Middle-Age France / Germany / Italy / England", 
-        "semantic_place": "Middle-Age France / Germany / Italy / England", 
+        "semantic_place": "Troyes, France", 
         "title": "Daat Zkenim on Leviticus", 
         "year": 1200
     }, 
@@ -5755,7 +5755,7 @@
             "lng": -2.32781495
         }, 
         "place": "Middle-Age France / Germany / Italy / England", 
-        "semantic_place": "Middle-Age France / Germany / Italy / England", 
+        "semantic_place": "Troyes, France", 
         "title": "Daat Zkenim on Numbers", 
         "year": 1200
     }, 
@@ -5765,7 +5765,7 @@
             "lng": -2.32781495
         }, 
         "place": "Middle-Age France / Germany / Italy / England", 
-        "semantic_place": "Middle-Age France / Germany / Italy / England", 
+        "semantic_place": "Troyes, France", 
         "title": "Tosafot on Arakhin", 
         "year": 1200
     }, 
@@ -5775,7 +5775,7 @@
             "lng": -2.32781495
         }, 
         "place": "Middle-Age France / Germany / Italy / England", 
-        "semantic_place": "Middle-Age France / Germany / Italy / England", 
+        "semantic_place": "Troyes, France", 
         "title": "Tosafot on Avodah Zarah", 
         "year": 1200
     }, 
@@ -5785,7 +5785,7 @@
             "lng": -2.32781495
         }, 
         "place": "Middle-Age France / Germany / Italy / England", 
-        "semantic_place": "Middle-Age France / Germany / Italy / England", 
+        "semantic_place": "Troyes, France", 
         "title": "Tosafot on Bava Batra", 
         "year": 1200
     }, 
@@ -5795,7 +5795,7 @@
             "lng": -2.32781495
         }, 
         "place": "Middle-Age France / Germany / Italy / England", 
-        "semantic_place": "Middle-Age France / Germany / Italy / England", 
+        "semantic_place": "Troyes, France", 
         "title": "Tosafot on Bava Kamma", 
         "year": 1200
     }, 
@@ -5805,7 +5805,7 @@
             "lng": -2.32781495
         }, 
         "place": "Middle-Age France / Germany / Italy / England", 
-        "semantic_place": "Middle-Age France / Germany / Italy / England", 
+        "semantic_place": "Troyes, France", 
         "title": "Tosafot on Bava Metzia", 
         "year": 1200
     }, 
@@ -5815,7 +5815,7 @@
             "lng": -2.32781495
         }, 
         "place": "Middle-Age France / Germany / Italy / England", 
-        "semantic_place": "Middle-Age France / Germany / Italy / England", 
+        "semantic_place": "Troyes, France", 
         "title": "Tosafot on Beitzah", 
         "year": 1200
     }, 
@@ -5825,7 +5825,7 @@
             "lng": -2.32781495
         }, 
         "place": "Middle-Age France / Germany / Italy / England", 
-        "semantic_place": "Middle-Age France / Germany / Italy / England", 
+        "semantic_place": "Troyes, France", 
         "title": "Tosafot on Bekhorot", 
         "year": 1200
     }, 
@@ -5835,7 +5835,7 @@
             "lng": -2.32781495
         }, 
         "place": "Middle-Age France / Germany / Italy / England", 
-        "semantic_place": "Middle-Age France / Germany / Italy / England", 
+        "semantic_place": "Troyes, France", 
         "title": "Tosafot on Berakhot", 
         "year": 1200
     }, 
@@ -5845,7 +5845,7 @@
             "lng": -2.32781495
         }, 
         "place": "Middle-Age France / Germany / Italy / England", 
-        "semantic_place": "Middle-Age France / Germany / Italy / England", 
+        "semantic_place": "Troyes, France", 
         "title": "Tosafot on Chagigah", 
         "year": 1200
     }, 
@@ -5855,7 +5855,7 @@
             "lng": -2.32781495
         }, 
         "place": "Middle-Age France / Germany / Italy / England", 
-        "semantic_place": "Middle-Age France / Germany / Italy / England", 
+        "semantic_place": "Troyes, France", 
         "title": "Tosafot on Chullin", 
         "year": 1200
     }, 
@@ -5865,7 +5865,7 @@
             "lng": -2.32781495
         }, 
         "place": "Middle-Age France / Germany / Italy / England", 
-        "semantic_place": "Middle-Age France / Germany / Italy / England", 
+        "semantic_place": "Troyes, France", 
         "title": "Tosafot on Eruvin", 
         "year": 1200
     }, 
@@ -5875,7 +5875,7 @@
             "lng": -2.32781495
         }, 
         "place": "Middle-Age France / Germany / Italy / England", 
-        "semantic_place": "Middle-Age France / Germany / Italy / England", 
+        "semantic_place": "Troyes, France", 
         "title": "Tosafot on Gittin", 
         "year": 1200
     }, 
@@ -5885,7 +5885,7 @@
             "lng": -2.32781495
         }, 
         "place": "Middle-Age France / Germany / Italy / England", 
-        "semantic_place": "Middle-Age France / Germany / Italy / England", 
+        "semantic_place": "Troyes, France", 
         "title": "Tosafot on Horayot", 
         "year": 1200
     }, 
@@ -5895,7 +5895,7 @@
             "lng": -2.32781495
         }, 
         "place": "Middle-Age France / Germany / Italy / England", 
-        "semantic_place": "Middle-Age France / Germany / Italy / England", 
+        "semantic_place": "Troyes, France", 
         "title": "Tosafot on Keritot", 
         "year": 1200
     }, 
@@ -5905,7 +5905,7 @@
             "lng": 33.9749193
         }, 
         "place": "Middle-Age France / Germany", 
-        "semantic_place": "Middle-Age France / Germany", 
+        "semantic_place": "Troyes, France", 
         "title": "Tosafot on Ketubot", 
         "year": 1200
     }, 
@@ -5915,7 +5915,7 @@
             "lng": -2.32781495
         }, 
         "place": "Middle-Age France / Germany / Italy / England", 
-        "semantic_place": "Middle-Age France / Germany / Italy / England", 
+        "semantic_place": "Troyes, France", 
         "title": "Tosafot on Kiddushin", 
         "year": 1200
     }, 
@@ -5925,7 +5925,7 @@
             "lng": -2.32781495
         }, 
         "place": "Middle-Age France / Germany / Italy / England", 
-        "semantic_place": "Middle-Age France / Germany / Italy / England", 
+        "semantic_place": "Troyes, France", 
         "title": "Tosafot on Makkot", 
         "year": 1200
     }, 
@@ -5935,7 +5935,7 @@
             "lng": -2.32781495
         }, 
         "place": "Middle-Age France / Germany / Italy / England", 
-        "semantic_place": "Middle-Age France / Germany / Italy / England", 
+        "semantic_place": "Troyes, France", 
         "title": "Tosafot on Megillah", 
         "year": 1200
     }, 
@@ -5945,7 +5945,7 @@
             "lng": -2.32781495
         }, 
         "place": "Middle-Age France / Germany / Italy / England", 
-        "semantic_place": "Middle-Age France / Germany / Italy / England", 
+        "semantic_place": "Troyes, France", 
         "title": "Tosafot on Meilah", 
         "year": 1200
     }, 
@@ -5955,7 +5955,7 @@
             "lng": -2.32781495
         }, 
         "place": "Middle-Age France / Germany / Italy / England", 
-        "semantic_place": "Middle-Age France / Germany / Italy / England", 
+        "semantic_place": "Troyes, France", 
         "title": "Tosafot on Menachot", 
         "year": 1200
     }, 
@@ -5965,7 +5965,7 @@
             "lng": -2.32781495
         }, 
         "place": "Middle-Age France / Germany / Italy / England", 
-        "semantic_place": "Middle-Age France / Germany / Italy / England", 
+        "semantic_place": "Troyes, France", 
         "title": "Tosafot on Moed Katan", 
         "year": 1200
     }, 
@@ -5975,7 +5975,7 @@
             "lng": -2.32781495
         }, 
         "place": "Middle-Age France / Germany / Italy / England", 
-        "semantic_place": "Middle-Age France / Germany / Italy / England", 
+        "semantic_place": "Troyes, France", 
         "title": "Tosafot on Nazir", 
         "year": 1200
     }, 
@@ -5985,7 +5985,7 @@
             "lng": -2.32781495
         }, 
         "place": "Middle-Age France / Germany / Italy / England", 
-        "semantic_place": "Middle-Age France / Germany / Italy / England", 
+        "semantic_place": "Troyes, France", 
         "title": "Tosafot on Nedarim", 
         "year": 1200
     }, 
@@ -5995,7 +5995,7 @@
             "lng": -2.32781495
         }, 
         "place": "Middle-Age France / Germany / Italy / England", 
-        "semantic_place": "Middle-Age France / Germany / Italy / England", 
+        "semantic_place": "Troyes, France", 
         "title": "Tosafot on Niddah", 
         "year": 1200
     }, 
@@ -6005,7 +6005,7 @@
             "lng": -2.32781495
         }, 
         "place": "Middle-Age France / Germany / Italy / England", 
-        "semantic_place": "Middle-Age France / Germany / Italy / England", 
+        "semantic_place": "Troyes, France", 
         "title": "Tosafot on Pesachim", 
         "year": 1200
     }, 
@@ -6015,7 +6015,7 @@
             "lng": -2.32781495
         }, 
         "place": "Middle-Age France / Germany / Italy / England", 
-        "semantic_place": "Middle-Age France / Germany / Italy / England", 
+        "semantic_place": "Troyes, France", 
         "title": "Tosafot on Rosh Hashanah", 
         "year": 1200
     }, 
@@ -6025,7 +6025,7 @@
             "lng": -2.32781495
         }, 
         "place": "Middle-Age France / Germany / Italy / England", 
-        "semantic_place": "Middle-Age France / Germany / Italy / England", 
+        "semantic_place": "Troyes, France", 
         "title": "Tosafot on Sanhedrin", 
         "year": 1200
     }, 
@@ -6035,7 +6035,7 @@
             "lng": -2.32781495
         }, 
         "place": "Middle-Age France / Germany / Italy / England", 
-        "semantic_place": "Middle-Age France / Germany / Italy / England", 
+        "semantic_place": "Troyes, France", 
         "title": "Tosafot on Shabbat", 
         "year": 1200
     }, 
@@ -6045,7 +6045,7 @@
             "lng": -2.32781495
         }, 
         "place": "Middle-Age France / Germany / Italy / England", 
-        "semantic_place": "Middle-Age France / Germany / Italy / England", 
+        "semantic_place": "Troyes, France", 
         "title": "Tosafot on Shevuot", 
         "year": 1200
     }, 
@@ -6055,7 +6055,7 @@
             "lng": -2.32781495
         }, 
         "place": "Middle-Age France / Germany / Italy / England", 
-        "semantic_place": "Middle-Age France / Germany / Italy / England", 
+        "semantic_place": "Troyes, France", 
         "title": "Tosafot on Sotah", 
         "year": 1200
     }, 
@@ -6065,7 +6065,7 @@
             "lng": -2.32781495
         }, 
         "place": "Middle-Age France / Germany / Italy / England", 
-        "semantic_place": "Middle-Age France / Germany / Italy / England", 
+        "semantic_place": "Troyes, France", 
         "title": "Tosafot on Sukkah", 
         "year": 1200
     }, 
@@ -6075,7 +6075,7 @@
             "lng": -2.32781495
         }, 
         "place": "Middle-Age France / Germany / Italy / England", 
-        "semantic_place": "Middle-Age France / Germany / Italy / England", 
+        "semantic_place": "Troyes, France", 
         "title": "Tosafot on Taanit", 
         "year": 1200
     }, 
@@ -6085,7 +6085,7 @@
             "lng": -2.32781495
         }, 
         "place": "Middle-Age France / Germany / Italy / England", 
-        "semantic_place": "Middle-Age France / Germany / Italy / England", 
+        "semantic_place": "Troyes, France", 
         "title": "Tosafot on Temurah", 
         "year": 1200
     }, 
@@ -6095,7 +6095,7 @@
             "lng": -2.32781495
         }, 
         "place": "Middle-Age France / Germany / Italy / England", 
-        "semantic_place": "Middle-Age France / Germany / Italy / England", 
+        "semantic_place": "Troyes, France", 
         "title": "Tosafot on Yevamot", 
         "year": 1200
     }, 
@@ -6105,7 +6105,7 @@
             "lng": -2.32781495
         }, 
         "place": "Middle-Age France / Germany / Italy / England", 
-        "semantic_place": "Middle-Age France / Germany / Italy / England", 
+        "semantic_place": "Troyes, France", 
         "title": "Tosafot on Yoma", 
         "year": 1200
     }, 
@@ -6115,7 +6115,7 @@
             "lng": -2.32781495
         }, 
         "place": "Middle-Age France / Germany / Italy / England", 
-        "semantic_place": "Middle-Age France / Germany / Italy / England", 
+        "semantic_place": "Troyes, France", 
         "title": "Tosafot on Zevachim", 
         "year": 1200
     }, 
@@ -6615,7 +6615,7 @@
             "lng": 2.3440808
         }, 
         "place": "Middle-Age France", 
-        "semantic_place": "Middle-Age France", 
+        "semantic_place": "Troyes, France", 
         "title": "Chizkuni", 
         "year": 1240
     }, 
@@ -7965,7 +7965,7 @@
             "lng": 33.9749193
         }, 
         "place": "Middle-Age Germany", 
-        "semantic_place": "Middle-Age Germany", 
+        "semantic_place": "Isny, Germany", 
         "title": "Orchot Tzadikim", 
         "year": 1450
     }, 
