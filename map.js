@@ -60,12 +60,7 @@ function showData(item) {
   bounds.extend(googleLatLng);
   map.fitBounds(bounds);
 
-  const image = {
-    url: 'book.png',
-    scaledSize: new google.maps.Size(10, 10)
-  };
   var marker = new google.maps.Marker({
-    icon: image,
     position: place,
     map: map,
     animation: google.maps.Animation.DROP,
