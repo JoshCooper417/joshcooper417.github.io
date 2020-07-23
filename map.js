@@ -5,11 +5,10 @@ let map;
 setYear(year);
 let jsonLoaded = false;
 let mapLoaded = false;
-const yearInterval = 20;
 let itemsProcessed = 0;
 let totalNumberOfItems;
-let interval;
 let bounds = null;
+const latLngRandomFactor = .1;
 
 
 $.getJSON("data.json", function(json) {
@@ -25,27 +24,35 @@ $.getJSON("data.json", function(json) {
   maybeStartRunning();
 });
 
-function maybeStartRunning() {
+async function maybeStartRunning() {
   if (!(jsonLoaded && mapLoaded)) {
     return;
   }
-  interval = window.setInterval(incrementYear, yearInterval);
-  incrementYear();
+  await incrementYear();
 }
 
-function incrementYear() {
+async function incrementYear() {
   if (itemsProcessed >= totalNumberOfItems) {
-    clearInterval(interval);
-  }
-  setYear(++year);
-  if (!data.has(year)) {
     return;
   }
-  data.get(year).forEach(showData);
+  setYear(++year);
+  if (data.has(year)) {
+    var dataForYear = data.get(year);
+    for (var i = 0; i < dataForYear.length; i++) {
+      showData(dataForYear[i]);
+      await timeout(5);
+    }
+  }
+  await timeout(getInterval(year));
+  incrementYear();
 };
 
+function timeout(ms) {
+  return new Promise(resolve => setTimeout(resolve, ms));
+}
+
 function randomize(latOrLng) {
-  return latOrLng + (.02 - (Math.random() * .04));
+  return latOrLng + (latLngRandomFactor - (Math.random() * latLngRandomFactor * 2));
 }
 
 function addRandomFactor(latLng) {
@@ -86,6 +93,11 @@ function showData(item) {
 
 function setYear(year) {
   document.getElementById('year').innerText = year;
+}
+
+function getInterval(year) {
+  // TODO: Make this logic smarter.
+  return year < 850 ? 20 : 60;
 }
 
 // Initialize and add the map
