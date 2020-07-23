@@ -9,7 +9,7 @@ let itemsProcessed = 0;
 let totalNumberOfItems;
 let bounds = null;
 const latLngRandomFactor = .1;
-
+let pause = false;
 
 $.getJSON("data.json", function(json) {
   totalNumberOfItems = json.length;
@@ -28,14 +28,26 @@ async function maybeStartRunning() {
   if (!(jsonLoaded && mapLoaded)) {
     return;
   }
-  await incrementYear();
+  incrementYear();
+}
+
+function togglePause() {
+  pause = !pause;
+  document.getElementById('pause').innerText = pause ? 'Unpause' : 'Pause';
+  if (!pause) {
+    incrementYear();
+  }
 }
 
 async function incrementYear() {
+  if (pause) {
+    return;
+  }
   if (itemsProcessed >= totalNumberOfItems) {
     return;
   }
   setYear(++year);
+  window.setTimeout(incrementYear, getInterval(year));
   if (data.has(year)) {
     var dataForYear = data.get(year);
     for (var i = 0; i < dataForYear.length; i++) {
@@ -43,8 +55,6 @@ async function incrementYear() {
       await timeout(3);
     }
   }
-  await timeout(getInterval(year));
-  incrementYear();
 };
 
 function timeout(ms) {
