@@ -40,7 +40,7 @@ async function incrementYear() {
     var dataForYear = data.get(year);
     for (var i = 0; i < dataForYear.length; i++) {
       showData(dataForYear[i]);
-      await timeout(5);
+      await timeout(3);
     }
   }
   await timeout(getInterval(year));
