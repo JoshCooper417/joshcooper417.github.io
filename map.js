@@ -1,8 +1,8 @@
 // python -m SimpleHTTPServer
-let year = -1200;
+const firstYear = -1200;
+let year = firstYear;
 let data = new Map();
 let map;
-setYear(year);
 let jsonLoaded = false;
 let mapLoaded = false;
 let itemsProcessed = 0;
@@ -10,14 +10,21 @@ let totalNumberOfItems;
 let bounds = null;
 const latLngRandomFactor = .1;
 let pause = false;
+let lastYear = year;
+const markerElement = document.getElementById('marker');
+const mapElement = document.getElementById('map');
+const pauseElement = document.getElementById('pause');
+const timelineElement = document.getElementById('timeline');
 
-$.getJSON("data.json", function(json) {
+$.getJSON('data.json', function(json) {
   totalNumberOfItems = json.length;
   const addItem = function(item) {
-    if (!data.has(item.year)) {
-      data.set(item.year, []);
+    const itemYear = item.year;
+    if (!data.has(itemYear)) {
+      data.set(itemYear, []);
     }
-    data.get(item.year).push(item);
+    data.get(itemYear).push(item);
+    lastYear = Math.max(lastYear, itemYear);
   };
   json.forEach(addItem);
   jsonLoaded = true;
@@ -28,12 +35,27 @@ async function maybeStartRunning() {
   if (!(jsonLoaded && mapLoaded)) {
     return;
   }
+  for (var i = Math.floor(firstYear / 100) + 1; i < Math.floor(lastYear / 100); i+=4) {
+    addEvent(i * 100);
+  }
   incrementYear();
+}
+
+function addEvent(year, optText) {
+  const eventElement = document.createElement('div');
+  eventElement.classList.add('event');
+  positionOnTimeline(eventElement, year);
+  timelineElement.appendChild(eventElement);
+  const text = optText || year;
+  const eventTextElement = document.createElement('div');
+  eventTextElement.classList.add('event-text');
+  eventTextElement.innerText = text;
+  eventElement.appendChild(eventTextElement);
 }
 
 function togglePause() {
   pause = !pause;
-  document.getElementById('pause').innerText = pause ? 'Unpause' : 'Pause';
+  pauseElement.innerText = pause ? 'Unpause' : 'Pause';
   if (!pause) {
     incrementYear();
   }
@@ -102,7 +124,13 @@ function showData(item) {
 }
 
 function setYear(year) {
-  document.getElementById('year').innerText = year;
+  positionOnTimeline(markerElement, year);
+}
+
+function positionOnTimeline(element, year) {
+  const yearRange = lastYear - firstYear;
+  const percentage = 100 * ((lastYear - year) / yearRange) + '%';
+  element.style.right = percentage;
 }
 
 function getInterval(year) {
@@ -117,7 +145,7 @@ function initMap() {
     // Weird hard-coding, can do better.
     center: {lat: 30.51961046277556, lng: 34.75605005407532}
   };
-  map = new google.maps.Map(document.getElementById('map'), mapOptions);
+  map = new google.maps.Map(mapElement, mapOptions);
   map.addListener('tilesloaded', function() {
     if (mapLoaded) {
       return;
