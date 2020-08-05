@@ -15,6 +15,7 @@ const markerElement = document.getElementById('marker');
 const mapElement = document.getElementById('map');
 const pauseElement = document.getElementById('pause');
 const timelineElement = document.getElementById('timeline');
+const yearElement = document.getElementById('year');
 
 $.getJSON('data.json', function(json) {
   totalNumberOfItems = json.length;
@@ -93,18 +94,22 @@ function addRandomFactor(latLng) {
 
 function showData(item) {
   itemsProcessed++;
+
   const place = addRandomFactor(item['lat_lng']);
+  const year = item['year'];
   const googleLatLng =  new google.maps.LatLng(place.lat, place.lng);
   bounds = bounds || new google.maps.LatLngBounds();
   bounds.extend(googleLatLng);
-  map.fitBounds(bounds);
+  if (year > -850) {
+    // TODO: Replace this hack.
+    map.fitBounds(bounds);
+  }
 
   var marker = new google.maps.Marker({
     position: place,
     map: map,
     animation: google.maps.Animation.DROP,
   });
-  const year = item['year'];
   const yearToDisplay = year >= 0 ? year : (-1 * year) + 'BCE';
   var infowindow = new google.maps.InfoWindow({
     content: [item['title'], item['place'], yearToDisplay].join(', ')
@@ -125,6 +130,7 @@ function showData(item) {
 
 function setYear(year) {
   positionOnTimeline(markerElement, year);
+  yearElement.innerText = year;
 }
 
 function positionOnTimeline(element, year) {
