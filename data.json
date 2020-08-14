@@ -201,6 +201,16 @@
     }, 
     {
         "lat_lng": {
+            "lat": 36.35282625, 
+            "lng": 43.140373
+        }, 
+        "place": "Babylon (City)", 
+        "semantic_place": "Mosul, Iraq", 
+        "title": "Daniel", 
+        "year": -540
+    }, 
+    {
+        "lat_lng": {
             "lat": 31.7963186, 
             "lng": 35.175359
         }, 
@@ -358,16 +368,6 @@
         "semantic_place": "Shush, Iran", 
         "title": "Esther", 
         "year": -300
-    }, 
-    {
-        "lat_lng": {
-            "lat": 36.35282625, 
-            "lng": 43.140373
-        }, 
-        "place": "Babylon (City)", 
-        "semantic_place": "Mosul, Iraq", 
-        "title": "Daniel", 
-        "year": -540
     }, 
     {
         "lat_lng": {
@@ -15521,6 +15521,46 @@
     }, 
     {
         "lat_lng": {
+            "lat": 52.23293795, 
+            "lng": 21.0611941
+        }, 
+        "place": "Warsaw Poland", 
+        "semantic_place": "Warsaw Poland", 
+        "title": "The Ringleblum Archive, Emmanuel Ringleblum", 
+        "year": 1942
+    }, 
+    {
+        "lat_lng": {
+            "lat": 48.85885895, 
+            "lng": 2.3470599
+        }, 
+        "place": "Paris", 
+        "semantic_place": "Paris", 
+        "title": "Night, Ellie Wiesel", 
+        "year": 1955
+    }, 
+    {
+        "lat_lng": {
+            "lat": 31.7963186, 
+            "lng": 35.175359
+        }, 
+        "place": "Jerusalem", 
+        "semantic_place": "Jerusalem", 
+        "title": "\u05d4\u05db\u05e0\u05e1\u05ea \u05db\u05dc\u05d4, \u05e9\u05d9 \u05e2\u05d2\u05e0\u05d5\u05df", 
+        "year": 1966
+    }, 
+    {
+        "lat_lng": {
+            "lat": 40.6974881, 
+            "lng": -73.979681
+        }, 
+        "place": "NYC", 
+        "semantic_place": "NYC", 
+        "title": "The Chosen, Chaim Potok", 
+        "year": 1967
+    }, 
+    {
+        "lat_lng": {
             "lat": 40.6974881, 
             "lng": -73.979681
         }, 
@@ -15528,6 +15568,16 @@
         "semantic_place": "New York", 
         "title": "Contemporary Halakhic Problems; Vol I", 
         "year": 1974
+    }, 
+    {
+        "lat_lng": {
+            "lat": 32.087931499999996, 
+            "lng": 34.797246
+        }, 
+        "place": "Tel Aviv", 
+        "semantic_place": "Tel Aviv", 
+        "title": "\u05d4\u05de\u05d0\u05d4\u05d1, \u05d0.\u05d1 \u05d9\u05d4\u05d5\u05e9\u05d5\u05e2", 
+        "year": 1977
     }, 
     {
         "lat_lng": {
@@ -15561,6 +15611,26 @@
     }, 
     {
         "lat_lng": {
+            "lat": 32.087931499999996, 
+            "lng": 34.797246
+        }, 
+        "place": "Tel Aviv", 
+        "semantic_place": "Tel Aviv", 
+        "title": "\u05e7\u05d5\u05e4\u05e1\u05d4 \u05e9\u05d7\u05d5\u05e8\u05d4, \u05e2\u05de\u05d5\u05e1 \u05e2\u05d5\u05d6", 
+        "year": 1986
+    }, 
+    {
+        "lat_lng": {
+            "lat": 40.6974881, 
+            "lng": -73.979681
+        }, 
+        "place": "NYC", 
+        "semantic_place": "NYC", 
+        "title": "Fear No Evil, Natan Sharansky", 
+        "year": 1988
+    }, 
+    {
+        "lat_lng": {
             "lat": 31.7963186, 
             "lng": 35.175359
         }, 
@@ -15588,6 +15658,26 @@
         "semantic_place": "Jerusalem; Israel", 
         "title": "Shuvah Yisrael", 
         "year": 1993
+    }, 
+    {
+        "lat_lng": {
+            "lat": 40.6974881, 
+            "lng": -73.979681
+        }, 
+        "place": "NYC", 
+        "semantic_place": "NYC", 
+        "title": "Operation Shylock, Philip Roth", 
+        "year": 1993
+    }, 
+    {
+        "lat_lng": {
+            "lat": 32.087931499999996, 
+            "lng": 34.797246
+        }, 
+        "place": "Tel Aviv", 
+        "semantic_place": "Tel Aviv", 
+        "title": "\u05d2\u05e2\u05d2\u05d5\u05e2\u05d9\u05d9 \u05dc\u05e7\u05d9\u05e1\u05d9\u05e0\u05d2'\u05e8, \u05d0\u05ea\u05d2\u05e8 \u05e7\u05e8\u05ea\u200e", 
+        "year": 1994
     }, 
     {
         "lat_lng": {
@@ -15628,5 +15718,55 @@
         "semantic_place": "Jerusalem", 
         "title": "Torah Temimah on Psalms", 
         "year": 2011
+    }, 
+    {
+        "lat_lng": {
+            "lat": 32.087931499999996, 
+            "lng": 34.797246
+        }, 
+        "place": "Tel Aviv", 
+        "semantic_place": "Tel Aviv", 
+        "title": "\u05e2\u05dd \u05d4\u05e0\u05e6\u05d7 \u05dc\u05d0 \u05de\u05e4\u05d7\u05d3, \u05e9\u05e0\u05d9 \u05d1\u05d5\u05d9\u05e0\u05d2'\u05d5", 
+        "year": 2013
+    }, 
+    {
+        "lat_lng": {
+            "lat": 32.087931499999996, 
+            "lng": 34.797246
+        }, 
+        "place": "Tel Aviv", 
+        "semantic_place": "Tel Aviv", 
+        "title": "\u05e1\u05d5\u05e1 \u05d0\u05d7\u05d3 \u05e0\u05db\u05e0\u05e1 \u05dc\u05d1\u05e8, \u05d3\u05d5\u05d3  \u05d2\u05e8\u05d5\u05e1\u05de\u05df", 
+        "year": 2014
+    }, 
+    {
+        "lat_lng": {
+            "lat": 31.7963186, 
+            "lng": 35.175359
+        }, 
+        "place": "Jerusalem", 
+        "semantic_place": "Jerusalem", 
+        "title": "The Hilltop: A Novel, Asaf Gavron", 
+        "year": 2014
+    }, 
+    {
+        "lat_lng": {
+            "lat": 40.6974881, 
+            "lng": -73.979681
+        }, 
+        "place": "NYC", 
+        "semantic_place": "NYC", 
+        "title": "Here I Am, Jonathan Safran Foer", 
+        "year": 2016
+    }, 
+    {
+        "lat_lng": {
+            "lat": 40.6974881, 
+            "lng": -73.979681
+        }, 
+        "place": "NYC", 
+        "semantic_place": "NYC", 
+        "title": "The Heart of Torah, Rabbi Shai Held", 
+        "year": 2017
     }
 ]
