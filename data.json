@@ -15711,6 +15711,16 @@
     }, 
     {
         "lat_lng": {
+            "lat": 37.810751550000006, 
+            "lng": -122.26388320000001
+        }, 
+        "place": "University of California Press", 
+        "semantic_place": "155 Grand Ave, Oakland, CA 94612, United States", 
+        "title": "Halakhah in the Making: The Development of Jewish Law from Qumran to the Rabbis", 
+        "year": 2009
+    }, 
+    {
+        "lat_lng": {
             "lat": 31.7963186, 
             "lng": 35.175359
         }, 
