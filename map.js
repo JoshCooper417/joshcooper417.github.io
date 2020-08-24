@@ -9,6 +9,8 @@ let mapLoaded = false;
 let totalNumberOfItems;
 let boundsBuilder = null;
 const latLngRandomFactor = .1;
+const initialZoom = 7;
+const firstYearToZoom = -850;
 let pause = false;
 const mapElement = document.getElementById('map');
 const pauseElement = document.getElementById('pause');
@@ -99,7 +101,7 @@ function createMarker(item) {
   const googleLatLng =  new google.maps.LatLng(place.lat, place.lng);
   boundsBuilder = boundsBuilder || new google.maps.LatLngBounds();
   boundsBuilder.extend(googleLatLng);
-  if (year > -850) {
+  if (year > firstYearToZoom) {
     const newBounds = new google.maps.LatLngBounds();
     yearToBounds.set(year, newBounds.union(boundsBuilder));
   }
@@ -138,6 +140,10 @@ timelineElement.onchange = function() {
   showYearText(year);
   data.forEach((_, yearKey) => showYearData(yearKey, yearKey <= year, false));
   showYearText(year);
+  if (year <= firstYearToZoom) {
+    map.setCenter(initialLatLng);
+    map.setZoom(initialZoom);
+  }
 }
 
 function showYearText(year) {
@@ -152,7 +158,7 @@ function getInterval(year) {
 // Initialize and add the map
 function initMap() {
   var mapOptions = {
-    zoom: 7,
+    zoom: initialZoom,
     // Weird hard-coding, can do better.
     center: initialLatLng
   };
@@ -225,6 +231,7 @@ function initMap() {
   makePopup = function(text, latLng) {
     return new Popup(latLng, text);
   }
+
   map.addListener('tilesloaded', function() {
     if (mapLoaded) {
       return;
