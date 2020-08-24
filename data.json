@@ -7,7 +7,8 @@
         "place": "Sinai/Canaan", 
         "semantic_place": "Jabal Mousa Egypt", 
         "title": "Genesis", 
-        "year": -900
+        "year": -1000,
+        "event": "Torah"
     }, 
     {
         "lat_lng": {
@@ -17,7 +18,7 @@
         "place": "Sinai/Canaan", 
         "semantic_place": "Jabal Mousa Egypt", 
         "title": "Exodus", 
-        "year": -900
+        "year": -1000
     }, 
     {
         "lat_lng": {
@@ -27,7 +28,7 @@
         "place": "Sinai/Canaan", 
         "semantic_place": "Jabal Mousa Egypt", 
         "title": "Leviticus", 
-        "year": -900
+        "year": -1000
     }, 
     {
         "lat_lng": {
@@ -37,7 +38,7 @@
         "place": "Sinai/Canaan", 
         "semantic_place": "Jabal Mousa Egypt", 
         "title": "Numbers", 
-        "year": -900
+        "year": -1000
     }, 
     {
         "lat_lng": {
@@ -47,7 +48,7 @@
         "place": "Sinai/Canaan", 
         "semantic_place": "Jabal Mousa Egypt", 
         "title": "Deuteronomy", 
-        "year": -900
+        "year": -1000
     }, 
     {
         "lat_lng": {
@@ -67,7 +68,8 @@
         "place": "Canaan", 
         "semantic_place": "Tel Tzora, Israel", 
         "title": "Judges", 
-        "year": -900
+        "year": -900,
+        "event": "Biblical Israel"
     }, 
     {
         "lat_lng": {
@@ -207,7 +209,8 @@
         "place": "Babylon (City)", 
         "semantic_place": "Mosul, Iraq", 
         "title": "Daniel", 
-        "year": -540
+        "year": -540,
+        "event": "Babylonian Exile"
     }, 
     {
         "lat_lng": {
@@ -367,7 +370,8 @@
         "place": "Shushan", 
         "semantic_place": "Shush, Iran", 
         "title": "Esther", 
-        "year": -300
+        "year": -300,
+        "event": "Purim"
     }, 
     {
         "lat_lng": {
@@ -537,7 +541,8 @@
         "place": "Talmudic Israel", 
         "semantic_place": "Tiberius, Israel", 
         "title": "Mishnah Berakhot", 
-        "year": 210
+        "year": 210,
+        "event": "Mishnah"
     }, 
     {
         "lat_lng": {
@@ -1777,7 +1782,8 @@
         "place": "Talmudic Israel", 
         "semantic_place": "Tiberius, Israel", 
         "title": "Jerusalem Talmud Ma'aser Sheni", 
-        "year": 400
+        "year": 400,
+        "event": "Talmud Yerushalmi"
     }, 
     {
         "lat_lng": {
@@ -2157,7 +2163,8 @@
         "place": "Talmudic Babylon", 
         "semantic_place": "Baghdad, Iraq", 
         "title": "Berakhot", 
-        "year": 500
+        "year": 500,
+        "event": "Talmud Bavli"
     }, 
     {
         "lat_lng": {
@@ -2837,7 +2844,8 @@
         "place": "Middle-Age France", 
         "semantic_place": "Troyes, France", 
         "title": "Rashi on Amos", 
-        "year": 1090
+        "year": 1090,
+        "event": "Rashi"
     }, 
     {
         "lat_lng": {
@@ -3757,7 +3765,8 @@
         "place": "Fayyum", 
         "semantic_place": "Fayyum", 
         "title": "Rambam Introduction to Seder Kodashim", 
-        "year": 1153
+        "year": 1153,
+        "event": "Rambam"
     }, 
     {
         "lat_lng": {
@@ -5767,7 +5776,8 @@
         "place": "Middle-Age France / Germany / Italy / England", 
         "semantic_place": "Troyes, France", 
         "title": "Tosafot on Arakhin", 
-        "year": 1200
+        "year": 1200,
+        "event": "Tosafot"
     }, 
     {
         "lat_lng": {
@@ -8917,7 +8927,8 @@
         "place": "Safed", 
         "semantic_place": "Safed", 
         "title": "Shulchan Arukh; Choshen Mishpat", 
-        "year": 1563
+        "year": 1563,
+        "event": "Writings in Tzfat"
     }, 
     {
         "lat_lng": {
@@ -15507,7 +15518,8 @@
         "place": "State of Israel", 
         "semantic_place": "Tel Aviv", 
         "title": "Orot HaKodesh", 
-        "year": 1930
+        "year": 1930,
+        "event": "Rav Kook"
     }, 
     {
         "lat_lng": {

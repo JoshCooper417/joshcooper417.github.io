@@ -1,7 +1,8 @@
 // python -m SimpleHTTPServer
-const firstYear = -1200;
 let data = new Map();
 const yearToBounds = new Map();
+const yearToEvents = new Map();
+const initialLatLng = {lat: 30.51961046277556, lng: 34.75605005407532};
 let map;
 let jsonLoaded = false;
 let mapLoaded = false;
@@ -9,11 +10,13 @@ let totalNumberOfItems;
 let boundsBuilder = null;
 const latLngRandomFactor = .1;
 let pause = false;
-let lastYear = firstYear;
 const mapElement = document.getElementById('map');
 const pauseElement = document.getElementById('pause');
 const timelineElement = document.getElementById('timelineRange');
 const yearElement = document.getElementById('year');
+const firstYear = timelineElement.min * 1;
+let lastYear = firstYear;
+let makePopup;
 
 $.getJSON('data.json', function(json) {
   totalNumberOfItems = json.length;
@@ -59,11 +62,14 @@ async function incrementYear() {
 };
 
 async function showYearData(year, shouldShow, shouldAnimate) {
-  if (!data.has(year)) {
-    return;
+  if (yearToEvents.has(year) && shouldShow) {
+    yearToEvents.get(year).forEach(popup => popup.showAndThenHide());
   }
   if (yearToBounds.has(year) && shouldShow) {
     map.fitBounds(yearToBounds.get(year));
+  }
+  if (!data.has(year)) {
+    return;
   }
   const dataForYear = data.get(year);
   for (var i = 0; i < dataForYear.length; i++) {
@@ -97,7 +103,6 @@ function createMarker(item) {
     const newBounds = new google.maps.LatLngBounds();
     yearToBounds.set(year, newBounds.union(boundsBuilder));
   }
-
   const marker = new google.maps.Marker({
     position: place,
   });
@@ -117,6 +122,13 @@ function createMarker(item) {
   marker.addListener('mouseout', function() {
     infowindow.close();
   });
+
+  if (item['event']) {
+    if (!yearToEvents.has(year)) {
+      yearToEvents.set(year, []);
+    }
+    yearToEvents.get(year).push(makePopup(item['event'], googleLatLng));
+  }
   return marker;
 }
 
@@ -142,9 +154,77 @@ function initMap() {
   var mapOptions = {
     zoom: 7,
     // Weird hard-coding, can do better.
-    center: {lat: 30.51961046277556, lng: 34.75605005407532}
+    center: initialLatLng
   };
   map = new google.maps.Map(mapElement, mapOptions);
+
+  /**
+   * A customized popup on the map.
+   */
+  class Popup extends google.maps.OverlayView {
+    constructor(position, text, year) {
+      super();
+      this.position = position;
+      const content = document.createElement('div');
+      content.innerText = text;
+      content.classList.add("popup-bubble");
+      // This zero-height div is positioned at the bottom of the bubble.
+      const bubbleAnchor = document.createElement("div");
+      bubbleAnchor.classList.add("popup-bubble-anchor");
+      bubbleAnchor.appendChild(content);
+      // This zero-height div is positioned at the bottom of the tip.
+      this.containerDiv = document.createElement("div");
+      this.containerDiv.classList.add("popup-container");
+      this.containerDiv.appendChild(bubbleAnchor);
+      // Optionally stop clicks, etc., from bubbling up to the map.
+      Popup.preventMapHitsAndGesturesFrom(this.containerDiv);
+    }
+    /** Called when the popup is added to the map. */
+    onAdd() {
+      this.getPanes().floatPane.appendChild(this.containerDiv);
+    }
+    /** Called when the popup is removed from the map. */
+    onRemove() {
+      if (this.containerDiv.parentElement) {
+        this.containerDiv.parentElement.removeChild(this.containerDiv);
+      }
+    }
+    /** Called each frame when the popup needs to draw itself. */
+    draw() {
+      const divPosition = this.getProjection().fromLatLngToDivPixel(
+        this.position
+      );
+      // Hide the popup when it is far out of view.
+      const display =
+        Math.abs(divPosition.x) < 4000 && Math.abs(divPosition.y) < 4000
+          ? "block"
+          : "none";
+
+      if (display === "block") {
+        this.containerDiv.style.left = divPosition.x + "px";
+        this.containerDiv.style.top = divPosition.y + "px";
+      }
+
+      if (this.containerDiv.style.display !== display) {
+        this.containerDiv.style.display = display;
+      }
+    }
+
+    showAndThenHide() {
+      this.setMap(map);
+      const that  = this;
+      const hide = function() {
+        that.containerDiv.classList.add('hide-popup-container');
+        // TODO: Clean this up.
+        window.setTimeout(function() {that.setMap(null);}, 2500);
+      };
+      window.setTimeout(hide, 500);
+    }
+  }
+  
+  makePopup = function(text, latLng) {
+    return new Popup(latLng, text);
+  }
   map.addListener('tilesloaded', function() {
     if (mapLoaded) {
       return;
