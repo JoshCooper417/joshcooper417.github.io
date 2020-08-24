@@ -2,6 +2,10 @@
   height: 85vh;
 }
 
+.year-text {
+  font-size: 40px;
+}
+
 .timeline-range {
   width: 100%;
 }
