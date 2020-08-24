@@ -8,10 +8,7 @@
   <div id="map" class="map"></div>
   <button type="button" id="pause" onclick="togglePause()">Pause</button>
   <div>Year:  <span id="year"></span></div>
-  <div id="timeline" class="timeline">
-  	<div id="marker" class="marker"></div>
-    <div class="line"></div>
-  </div>
+  <input type="range" min="-1100" max="2020" value="-1100" id="timelineRange" class="timeline-range">
   <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
   <script src="map.js"></script>
   <script async defer

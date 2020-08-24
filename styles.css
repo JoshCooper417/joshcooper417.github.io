@@ -1,42 +1,7 @@
-/* Always set the map height explicitly to define the size of the div
-       * element that contains the map. */
 .map {
   height: 85vh;
 }
 
-.timeline {
-  position: relative;
-  height: 40px;
-}
-
-.marker {
-  position: absolute;
-  top: 5px;
-  border-radius: 50%;
-  height: 8px;
-  width: 8px;
-  background: blue;
-}
-
-.line {
-  position: absolute;
-  top: 50%;
-  height: 1px;
-  margin-top: -1px;
-  background: black;
+.timeline-range {
   width: 100%;
-}
-
-.event {
-  width: 1px;
-  position: absolute;
-  top: 50%;
-  height: 50%;
-  background: black;
-}
-
-.event-text {
-  position: absolute;
-  bottom: -12px;
-  font-size: 12px;
 }

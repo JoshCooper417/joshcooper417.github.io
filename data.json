@@ -15131,11 +15131,11 @@
     }, 
     {
         "lat_lng": {
-            "lat": 44.88879395, 
-            "lng": -73.6599664
+            "lat": 53.576612,
+            "lng": 9.809856
         }, 
         "place": "Altona", 
-        "semantic_place": "Altona", 
+        "semantic_place": "Altona, Hamburg", 
         "title": "Binyan Tziyon", 
         "year": 1850
     }, 
