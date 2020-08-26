@@ -45,9 +45,23 @@ async function maybeStartRunning() {
 
 function togglePause(forcePause) {
   pause = forcePause || !pause;
-  pauseElement.innerText = pause ? 'Unpause' : 'Pause';
+  pauseElement.innerText = pause ? 'Play' : 'Pause';
   if (!pause) {
     incrementYear();
+  }
+}
+
+
+timelineElement.onchange = function() {
+  togglePause(true);
+  const year = timelineElement.valueAsNumber;
+  showYearText(year);
+  data.forEach((_, yearKey) => showYearData(yearKey, yearKey <= year, false));
+  data.forEach((dataForYear, yearKey) => updateOpacity(dataForYear, year - yearKey));
+  showYearText(year);
+  if (year <= firstYearToZoom) {
+    map.setCenter(initialLatLng);
+    map.setZoom(initialZoom);
   }
 }
 
@@ -58,6 +72,7 @@ async function incrementYear() {
   showYearData(++timelineElement.valueAsNumber, true, true);
   const year = timelineElement.valueAsNumber;
   showYearText(year);
+  data.forEach((dataForYear, yearKey) => updateOpacity(dataForYear, year - yearKey));
   if (year < timelineElement.max * 1) {
     window.setTimeout(incrementYear, getInterval(year));
   }
@@ -75,12 +90,22 @@ async function showYearData(year, shouldShow, shouldAnimate) {
   }
   const dataForYear = data.get(year);
   for (var i = 0; i < dataForYear.length; i++) {
-    dataForYear[i].setAnimation(shouldAnimate ? google.maps.Animation.DROP : null);
-    dataForYear[i].setMap(shouldShow ? map : null);
+    const pin = dataForYear[i];
+    pin.setAnimation(shouldAnimate ? google.maps.Animation.DROP : null);
+    pin.setMap(shouldShow ? map : null);
     if (shouldShow && shouldAnimate) {
       await timeout(3);
     }
   }
+}
+
+function updateOpacity(dataForYear, delta) {
+    const opacity = delta < 100 ? 1 : delta > 240 ? 0.3 : (0.3 + ((~~((240 - delta) / 20)) / 10));
+    dataForYear.forEach(pin => {
+        if (opacity != pin.getOpacity()) {
+            pin.setOpacity(opacity);
+        }
+    });
 }
 
 function timeout(ms) {
@@ -132,18 +157,6 @@ function createMarker(item) {
     yearToEvents.get(year).push(makePopup(item['event'], googleLatLng));
   }
   return marker;
-}
-
-timelineElement.onchange = function() {
-  togglePause(true);
-  const year = timelineElement.valueAsNumber;
-  showYearText(year);
-  data.forEach((_, yearKey) => showYearData(yearKey, yearKey <= year, false));
-  showYearText(year);
-  if (year <= firstYearToZoom) {
-    map.setCenter(initialLatLng);
-    map.setZoom(initialZoom);
-  }
 }
 
 function showYearText(year) {
