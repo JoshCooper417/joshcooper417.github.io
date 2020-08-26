@@ -18,6 +18,7 @@ const timelineElement = document.getElementById('timelineRange');
 const yearElement = document.getElementById('year');
 const firstYear = timelineElement.min * 1;
 let lastYear = firstYear;
+const shouldFade = false;
 let makePopup;
 
 $.getJSON('data.json', function(json) {
@@ -57,7 +58,9 @@ timelineElement.onchange = function() {
   const year = timelineElement.valueAsNumber;
   showYearText(year);
   data.forEach((_, yearKey) => showYearData(yearKey, yearKey <= year, false));
-  data.forEach((dataForYear, yearKey) => updateOpacity(dataForYear, year - yearKey));
+  if (shouldFade) {
+    data.forEach((dataForYear, yearKey) => updateOpacity(dataForYear, year - yearKey));    
+  }
   showYearText(year);
   if (year <= firstYearToZoom) {
     map.setCenter(initialLatLng);
@@ -72,7 +75,9 @@ async function incrementYear() {
   showYearData(++timelineElement.valueAsNumber, true, true);
   const year = timelineElement.valueAsNumber;
   showYearText(year);
-  data.forEach((dataForYear, yearKey) => updateOpacity(dataForYear, year - yearKey));
+  if (shouldFade) {
+    data.forEach((dataForYear, yearKey) => updateOpacity(dataForYear, year - yearKey));
+  }
   if (year < timelineElement.max * 1) {
     window.setTimeout(incrementYear, getInterval(year));
   }
