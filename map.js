@@ -24,6 +24,9 @@ let makePopup;
 $.getJSON('data.json', function(json) {
   totalNumberOfItems = json.length;
   const addItem = function(item) {
+    if (!item['lat_lng'] || !item['year']) {
+      return;
+    }
     const itemYear = item.year;
     if (!data.has(itemYear)) {
       data.set(itemYear, []);
@@ -87,7 +90,7 @@ async function showYearData(year, shouldShow, shouldAnimate) {
   if (yearToEvents.has(year) && shouldShow) {
     yearToEvents.get(year).forEach(popup => popup.showAndThenHide());
   }
-  if (yearToBounds.has(year) && shouldShow) {
+  if (yearToBounds.has(year) && (year % 30 == 0) && shouldShow) {
     map.fitBounds(yearToBounds.get(year));
   }
   if (!data.has(year)) {
@@ -98,14 +101,14 @@ async function showYearData(year, shouldShow, shouldAnimate) {
     const pin = dataForYear[i];
     pin.setAnimation(shouldAnimate ? google.maps.Animation.DROP : null);
     pin.setMap(shouldShow ? map : null);
-    if (shouldShow && shouldAnimate) {
+    if (shouldShow && shouldAnimate && (year < 1900 )) {
       await timeout(3);
     }
   }
 }
 
 function updateOpacity(dataForYear, delta) {
-    const opacity = delta < 100 ? 1 : delta > 240 ? 0.3 : (0.3 + ((~~((240 - delta) / 20)) / 10));
+    const opacity = delta < 100 ? 1 : delta > 280 ? 0.1 : (0.1 + ((~~((280 - delta) / 20)) / 10));
     dataForYear.forEach(pin => {
         if (opacity != pin.getOpacity()) {
             pin.setOpacity(opacity);
