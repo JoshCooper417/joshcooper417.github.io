@@ -20,9 +20,12 @@ const firstYear = timelineElement.min * 1;
 let lastYear = firstYear;
 const shouldFade = false;
 let makePopup;
+let markerClusterer;
 
 $.getJSON('data.json', function(json) {
-  totalNumberOfItems = json.length;
+ markerClusterer = new MarkerClusterer(map, [],
+  {imagePath: 'https://developers.google.com/maps/documentation/javascript/examples/markerclusterer/m'});
+ totalNumberOfItems = json.length;
   const addItem = function(item) {
     if (!item['lat_lng'] || !item['year']) {
       return;
@@ -35,7 +38,6 @@ $.getJSON('data.json', function(json) {
     lastYear = Math.max(lastYear, itemYear);
   };
   json.forEach(addItem);
-  timelineElement.max = lastYear;
   jsonLoaded = true;
   maybeStartRunning();
 });
@@ -99,6 +101,9 @@ async function showYearData(year, shouldShow, shouldAnimate) {
   if (!data.has(year)) {
     return;
   }
+  if(!data.has(year)) {
+    return;
+  }
   const dataForYear = data.get(year);
   for (var i = 0; i < dataForYear.length; i++) {
     const pin = dataForYear[i];
@@ -108,6 +113,11 @@ async function showYearData(year, shouldShow, shouldAnimate) {
       await timeout(3);
     }
   }
+  let clustererFunction = items => shouldShow ? markerClusterer.addMarkers(items) : markerClusterer.removeMarkers(items);
+  if (year < 2015 && !pause) {
+    await timeout(5000);
+  }
+  clustererFunction(data.get(year));
 }
 
 function updateOpacity(dataForYear, delta) {
