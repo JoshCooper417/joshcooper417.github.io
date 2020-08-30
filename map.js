@@ -115,7 +115,7 @@ async function showYearData(year, shouldShow, shouldAnimate) {
   }
   let clustererFunction = items => shouldShow ? markerClusterer.addMarkers(items) : markerClusterer.removeMarkers(items);
   if (year < 2015 && !pause) {
-    await timeout(5000);
+    await timeout(year < 1990 ? 5000 : 1000);
   }
   clustererFunction(data.get(year));
 }
