@@ -101,8 +101,12 @@ async function showYearData(year, shouldShow, shouldAnimate) {
     const pin = dataForYear[i];
     pin.setAnimation(shouldAnimate ? google.maps.Animation.DROP : null);
     pin.setMap(shouldShow ? map : null);
-    if (shouldShow && shouldAnimate && (year < 1900 )) {
-      await timeout(3);
+    const totalTimeouted = 0;
+    if (shouldShow && shouldAnimate) {
+      totalTimeouted++;
+      if (totalTimeout < 20) {
+        await timeout(3);
+      }
     }
   }
 }
