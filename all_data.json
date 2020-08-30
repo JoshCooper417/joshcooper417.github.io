@@ -113,11 +113,11 @@
     }, 
     {
         "lat_lng": {
-            "lat": 36.73241805, 
-            "lng": 43.0968547
+            "lat": 31.94735095, 
+            "lng": 35.22716305
         }, 
         "place": "Judea/Israel", 
-        "semantic_place": "Alqosh, Iraq", 
+        "semantic_place": "Judea/Israel", 
         "title": "Nahum", 
         "year": -650
     }, 

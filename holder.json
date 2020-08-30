@@ -1,0 +1,109 @@
+
+    {
+        "lat_lng": {
+            "lat": -37.9725665, 
+            "lng": 145.0531353
+        }, 
+        "place": "\u05de\u05dc\u05d1\u05d5\u05e8\u05df", 
+        "semantic_place": "\u05de\u05dc\u05d1\u05d5\u05e8\u05df", 
+        "source": "hebrew_books", 
+        "title": "\u00a0\u05e7\u05d5\u05d1\u05e5 \u05d4\u05e2\u05e8\u05d5\u05ea \u05d4\u05ea\u05de\u05d9\u05de\u05d9\u05dd \u05d5\u05d0\u05e0\"\u05e9 - \u05ea\u05dc\u05de\u05d9\u05d3\u05d9\u05dd \u05d4\u05e9\u05dc\u05d7\u05d9\u05dd \u05d9\u05e9\u05d9\u05d1\u05d4 \u05d2\u05d3\u05d5\u05dc\u05d4 \u05de\u05dc\u05d1\u05d5\u05e8\u05df", 
+        "year": 2019
+    }, 
+    {
+        "lat_lng": {
+            "lat": 41.88713095, 
+            "lng": -87.789958
+        }, 
+        "place": "\u05d0\u05d5\u05e7 \u05e4\u05d0\u05e8\u05e7", 
+        "semantic_place": "\u05d0\u05d5\u05e7 \u05e4\u05d0\u05e8\u05e7", 
+        "source": "hebrew_books", 
+        "title": "\u00a0\u05d3\u05d5\u05d3\u05d0\u05d9 \u05e8\u05d0\u05d5\u05d1\u05df - \u05e2\u05dc \u05d4\u05ea\u05d5\u05e8\u05d4 - \u05e8\u05d9\u05d1\u05d9\u05d0\u05d8; \u05d0\u05d3\u05dd \u05d1\u05df \u05d9\u05e2\u05e7\u05d1", 
+        "year": 2010
+    }, 
+    {
+        "lat_lng": {
+            "lat": -23.6824124, 
+            "lng": -46.5952992
+        }, 
+        "place": "\u05e1\u05d0\u05df \u05e4\u05d0\u05d5\u05dc\u05d5", 
+        "semantic_place": "\u05e1\u05d0\u05df \u05e4\u05d0\u05d5\u05dc\u05d5", 
+        "source": "hebrew_books", 
+        "title": "\u00a0\u05e2\u05d8\u05e8\u05ea \u05e9\u05dc\u05d5\u05dd - \u05ea\u05e9\u05d5\u05d1\u05d4 - \u05e4\u05e8\u05d9\u05d3; \u05de\u05e9\u05d4 \u05d9\u05d4\u05d5\u05d3\u05d0", 
+        "year": 2010
+    }, 
+    {
+        "lat_lng": {
+            "lat": -23.6824124, 
+            "lng": -46.5952992
+        }, 
+        "place": "\u05e1\u05d0\u05df \u05e4\u05d0\u05d5\u05dc\u05d5", 
+        "semantic_place": "\u05e1\u05d0\u05df \u05e4\u05d0\u05d5\u05dc\u05d5", 
+        "source": "hebrew_books", 
+        "title": "\u00a0\u05d6\u05d9\u05d5 \u05d4\u05e9\u05de\u05d5\u05ea NOMES - \u05d5\u05d5\u05d9\u05dc\u05d4\u05e2\u05dc\u05dd; \u05d9\u05e9\u05e2\u05d9\u05d4 \u05d6\u05d5\u05e9\u05d0", 
+        "year": 2009
+    },  
+    {
+        "lat_lng": {
+            "lat": 27.698638000000003, 
+            "lng": -83.80460099999999
+        }, 
+        "place": "\u05e4\u05dc\u05d5\u05e8\u05d9\u05d3\u05d4", 
+        "semantic_place": "\u05e4\u05dc\u05d5\u05e8\u05d9\u05d3\u05d4", 
+        "source": "hebrew_books", 
+        "title": "\u00a0\u05d3\u05d5\u05dc\u05d4 \u05d5\u05de\u05e9\u05e7\u05d4 - \u05d4\u05d2\u05d3\u05d4 \u05e9\u05dc \u05e4\u05e1\u05d7 - \u00a0", 
+        "year": 2018
+    },  
+    {
+        "lat_lng": {
+            "lat": -38.45303415, 
+            "lng": -63.59892055
+        }, 
+        "place": "\u05d0\u05e8\u05d2\u05e0\u05d8\u05d9\u05e0\u05d4", 
+        "semantic_place": "\u05d0\u05e8\u05d2\u05e0\u05d8\u05d9\u05e0\u05d4", 
+        "title": "\u00a0\u05d5\u05d9\u05d0\u05de\u05e8 \u05d2\u05d1\u05e8\u05d9\u05d0\u05dc \u05d4\u05dc\u05db\u05d5\u05ea \u05d1\u05e9\u05e8 \u05d1\u05d7\u05dc\u05d1 \u05d7\u05dc\u05e7 \u05d0 - \u05d2\u05d1\u05e8\u05d9\u05d0\u05dc \u05e4\u05dc\u05d0\u05e1", 
+        "year": 2018
+    }, 
+    {
+        "lat_lng": {
+            "lat": -38.45303415, 
+            "lng": -63.59892055
+        }, 
+        "place": "\u05d0\u05e8\u05d2\u05e0\u05d8\u05d9\u05e0\u05d4", 
+        "semantic_place": "\u05d0\u05e8\u05d2\u05e0\u05d8\u05d9\u05e0\u05d4", 
+        "title": "\u00a0\u05d5\u05d9\u05d0\u05de\u05e8 \u05d2\u05d1\u05e8\u05d9\u05d0\u05dc \u05d4\u05dc\u05db\u05d5\u05ea \u05d1\u05e9\u05e8 \u05d1\u05d7\u05dc\u05d1 \u05d7\u05dc\u05e7 \u05d1 - \u05d2\u05d1\u05e8\u05d9\u05d0\u05dc \u05e4\u05dc\u05d0\u05e1", 
+        "year": 2018
+    }, 
+    {
+        "lat_lng": {
+            "lat": 23.5540767, 
+            "lng": -102.62050005
+        }, 
+        "place": "\u05de\u05e7\u05e1\u05d9\u05e7\u05d5", 
+        "semantic_place": "\u05de\u05e7\u05e1\u05d9\u05e7\u05d5", 
+        "source": "hebrew_books", 
+        "title": "\u00a0\u05d0\u05d9\u05e1\u05d5\u05e8 \u05d0\u05db\u05d9\u05dc\u05d4 \u05d5\u05e2\u05e9\u05d9\u05d9\u05ea \u05e6\u05e8\u05db\u05d9\u05d5 \u05dc\u05e4\u05e0\u05d9 \u05d4\u05ea\u05e4\u05d9\u05dc\u05d4 \u05de\u05d4\u05d3\u05d5\u05e8\u05d0 \u05e9\u05e0\u05d9\u05d4 - \u05de\u05e9\u05d4 \u05e9\u05d1\u05d5\u05ea", 
+        "year": 2020
+    }, 
+    {
+        "lat_lng": {
+            "lat": 51.52864165, 
+            "lng": -0.10159865000000001
+        }, 
+        "place": "\u05dc\u05d5\u05e0\u05d3\u05d5\u05df", 
+        "semantic_place": "\u05dc\u05d5\u05e0\u05d3\u05d5\u05df", 
+        "source": "hebrew_books", 
+        "title": "\u00a0\u05d4\u05dc\u05db\u05d5\u05ea \u05dc\u05e4\u05e1\u05d7 \u05ea\u05e9\"\u05e4 - \u05d9\u05d7\u05d9\u05d0\u05dc \u05e4\u05e8\u05d0\u05e0\u05d3", 
+        "year": 2020
+    }, 
+    {
+        "lat_lng": {
+            "lat": 41.28259745, 
+            "lng": 69.2793667
+        }, 
+        "place": "\u05d8\u05e9\u05e1\u05e0\u05d8 \u05e8\u05d9\u05d3\u05d6", 
+        "semantic_place": "\u05d8\u05e9\u05e1\u05e0\u05d8 \u05e8\u05d9\u05d3\u05d6", 
+        "source": "hebrew_books", 
+        "title": "\u00a0\u05ea\u05d9\u05e7\u05d5\u05df \u05e9\u05dc\u05de\u05d4 - \u05d2\u05d1\u05e8\u05d9\u05d0\u05dc \u05e9\u05d5\u05e1\u05d8\u05e2\u05e8", 
+        "year": 2020
+    }, 

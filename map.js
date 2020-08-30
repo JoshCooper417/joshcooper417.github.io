@@ -90,16 +90,17 @@ async function showYearData(year, shouldShow, shouldAnimate) {
   if (yearToEvents.has(year) && shouldShow) {
     yearToEvents.get(year).forEach(popup => popup.showAndThenHide());
   }
-  if (yearToBounds.has(year) && (year % 10 == 0) && shouldShow) {
+  if (yearToBounds.has(year) && shouldShow && year < 2000) {
     map.fitBounds(yearToBounds.get(year));
+  } else if (shouldShow && year >= 2000) {
+    map.setCenter(initialLatLng);
+    map.setZoom(2);
   }
   if (!data.has(year)) {
     return;
   }
   const dataForYear = data.get(year);
-  let totalAnimated = 0;
   for (var i = 0; i < dataForYear.length; i++) {
-    shouldAnimate = shouldAnimate && (++totalAnimated < 10 || year < 2000);
     const pin = dataForYear[i];
     pin.setAnimation(shouldAnimate ? google.maps.Animation.DROP : null);
     pin.setMap(shouldShow ? map : null);
@@ -175,7 +176,7 @@ function showYearText(year) {
 
 function getInterval(year) {
   // TODO: Make this logic smarter.
-  return year < 850 ? 20 : year < 1900 ? 60 : 80;
+  return year < 850 ? 20 : year < 1900 ? 60 : year > 2000 ? 80 : 200;
 }
 
 // Initialize and add the map
