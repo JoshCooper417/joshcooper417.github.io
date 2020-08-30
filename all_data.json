@@ -3786,7 +3786,8 @@
         "place": "Middle-Age France/Italy/England", 
         "semantic_place": "Troyes, France", 
         "title": "Ibn Ezra on Daniel", 
-        "year": 1155
+        "year": 1155,
+        "event": "Ibn Ezra"
     }, 
     {
         "lat_lng": {
@@ -6687,7 +6688,8 @@
         "place": "Middle-Age Spain", 
         "semantic_place": "Seville, Spain", 
         "title": "Ramban on Deuteronomy", 
-        "year": 1266
+        "year": 1266,
+        "event": "Ramban"
     }, 
     {
         "lat_lng": {
@@ -6757,7 +6759,8 @@
         "place": "Barcelona; Spain", 
         "semantic_place": "Barcelona; Spain", 
         "title": "Teshuvot haRashba part IV", 
-        "year": 1290
+        "year": 1290,
+        "event": "Rashba"
     }, 
     {
         "lat_lng": {
@@ -7027,7 +7030,8 @@
         "place": "Middle-Age Spain", 
         "semantic_place": "Seville, Spain", 
         "title": "Teshuvot HaRitva", 
-        "year": 1300
+        "year": 1300,
+        "event": "Ritva"
     }, 
     {
         "lat_lng": {
@@ -7657,7 +7661,8 @@
         "place": "Girona; Catalonia; Spain", 
         "semantic_place": "Girona; Catalonia; Spain", 
         "title": "Maggid Mishneh on Mishneh Torah; Ritual Slaughter", 
-        "year": 1335
+        "year": 1335,
+        "event": "Maggid Mishne"
     }, 
     {
         "lat_lng": {
@@ -8119,7 +8124,8 @@
         "place": "Nikopol", 
         "semantic_place": "Nikopol", 
         "title": "Kessef Mishneh on Mishneh Torah; Foundations of the Torah", 
-        "year": 1560
+        "year": 1560,
+        "event": "Kessef Mishneh"
     }, 
     {
         "lat_lng": {
@@ -9401,7 +9407,8 @@
         "place": "Safed", 
         "semantic_place": "Safed", 
         "title": "Kabbolos Shabbos", 
-        "year": 1600
+        "year": 1600,
+        "event": "Kabalat Shabbat"
     }, 
     {
         "lat_lng": {
@@ -9421,7 +9428,8 @@
         "place": "Poland", 
         "semantic_place": "Poland", 
         "title": "Maharam on Bava Batra", 
-        "year": 1600
+        "year": 1600,
+        "event": "Maharam"
     }, 
     {
         "lat_lng": {
@@ -10001,7 +10009,8 @@
         "place": "Hebron; Israel", 
         "semantic_place": "Hebron; Israel", 
         "title": "Melechet Shlomo on Mishnah Berakhot", 
-        "year": 1605
+        "year": 1605,
+        "event": "Melechet Shlomo"
     }, 
     {
         "lat_lng": {
@@ -13596,7 +13605,8 @@
         "place": "Bratslav; Ukraine", 
         "semantic_place": "Bratslav; Ukraine", 
         "title": "Likutei Moharan", 
-        "year": 1805
+        "year": 1805,
+        "event": "Nachman of Breslov"
     }, 
     {
         "lat_lng": {
@@ -14775,7 +14785,8 @@
         "place": "Minsk", 
         "semantic_place": "Minsk", 
         "title": "Nachal Eitan on Mishneh Torah; Divorce", 
-        "year": 1828
+        "year": 1828,
+        "event": "Nachal Eitan"
     }, 
     {
         "lat_lng": {
@@ -15988,7 +15999,8 @@
         "place": "Valozhyn", 
         "semantic_place": "Valozhyn", 
         "title": "Haamek Davar on Exodus", 
-        "year": 1860
+        "year": 1860,
+        "event": "Netziv"
     }, 
     {
         "lat_lng": {
@@ -16291,7 +16303,8 @@
         "place": "Radu\u0144", 
         "semantic_place": "Radun", 
         "title": "Chofetz Chaim", 
-        "year": 1873
+        "year": 1873,
+        "event": "Chofetz Chaim"
     }, 
     {
         "lat_lng": {
