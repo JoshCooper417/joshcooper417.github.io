@@ -258,7 +258,7 @@ function initMap() {
         // TODO: Clean this up.
         window.setTimeout(function() {that.setMap(null);}, 2500);
       };
-     // window.setTimeout(hide, 500);
+      window.setTimeout(hide, 500);
     }
   }
   
