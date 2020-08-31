@@ -1,16 +1,41 @@
 <!DOCTYPE html>
 <html>
 <head>
+  <title>The Jewish story throgh books</title>
+  <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css" integrity="sha384-MCw98/SFnGE8fJT3GXwEOngsV7Zt27NXFoaoApmYm81iuXoPkFOJwJ8ERdknLPMO" crossorigin="anonymous">
   <link rel="stylesheet" href="styles.css">
 </head>
 <body>
-  <div id="map" class="map"></div>
-  <input type="range" min="-1100" max="2020" value="-1100" id="timelineRange" class="timeline-range">
-  <div class="button" id="pause" onclick="togglePause()">Pause</div>
-  <div class="year-text">Year:  <span id="year"></span></div>
+  <div class="container-fluid">
+    <div class="container">
+      <div class="page-header">
+        <h1>The Jewish story through books</h1>      
+        <p>A time-lapse of where and when Jewish books were published. Each item that falls on the map is a book that was written in a certain place/time. Special thanks to <a href="https://www.sefaria.org/">Sefaria</a> and <a href="https://hebrewbooks.org/">HebrewBooks.org</a> for their extensive lists of published works.</p>
+      </div>
+    </div>
+    <div id="map" class="map"></div>
+    <footer class="container-fluid text-center">
+      <input type="range" min="-1100" max="2020" value="-1100" id="timelineRange" class="timeline-range">
+      <div class="container-fluid">
+        <div class="row">
+          <div class="col button-column">
+            <button type="button" class="h-100 btn btn-primary" id="pause" onclick="togglePause()">Pause</button>
+          </div>
+          <div class="col">
+            <div class="year-text">
+              Year:  <span id="year"></span>
+            </div>
+          </div>
+        </div>
+      </div>
+    </footer>
+  </div>
   <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
   <script src="map.js"></script>
   <script src="https://unpkg.com/@google/markerclustererplus@4.0.1/dist/markerclustererplus.min.js"></script>
   <script async defer
   src="https://maps.googleapis.com/maps/api/js?key=AIzaSyD_Dne13JoOyWasg86fPOBACDgq2wpG7zo&callback=initMap"></script>
+  <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.3/umd/popper.min.js" integrity="sha384-ZMP7rVo3mIykV+2+9J3UJ46jBk0WLaUAdn689aCwoqbBJiSnjAK/l8WvCWPIPm49" crossorigin="anonymous"></script>
+  <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/js/bootstrap.min.js" integrity="sha384-ChfqqxuZUCnJSK3+MXmPNIyE6ZbWh2IMqE241rYiqJxyMiZ6OW/JmZQ5stwEULTy" crossorigin="anonymous"></script>
 </html>
