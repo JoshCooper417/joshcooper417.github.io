@@ -1,5 +1,17 @@
+body {
+	height: 98vh;
+}
+
+.map-container {
+	position: relative;
+}
+
 .map {
-  height: calc(100vh - 280px);
+	left:0;
+	top:0;
+	height:100%;
+	width:100%;
+	position:absolute;
 }
 
 .button-column {
@@ -30,7 +42,7 @@
   overflow-y: auto;
   max-height: 260px;
   box-shadow: 0px 2px 10px 1px rgba(0, 0, 0, 0.5);
-  font-size: 30px;
+  font-size: 20px;
 }
 
 /* The parent of the bubble. A zero-height div at the top of the tip. */
