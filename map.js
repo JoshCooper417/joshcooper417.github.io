@@ -8,7 +8,7 @@ let jsonLoaded = false;
 let mapLoaded = false;
 let totalNumberOfItems;
 let boundsBuilder = null;
-const latLngRandomFactor = .1;
+const latLngRandomFactor = .05;
 const initialZoom = 7;
 const firstYearToZoom = -850;
 let pause = false;
